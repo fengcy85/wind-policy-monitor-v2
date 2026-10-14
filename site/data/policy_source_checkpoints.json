@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T06:57:22+00:00",
+  "updated_at": "2026-10-14T07:11:06+00:00",
   "bootstrap_days": 30,
   "daily_overlap_days": 2,
   "sources": {
@@ -11,9 +11,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
+      "last_attempt_at": "2026-10-14T06:57:23+00:00",
+      "last_status": "needs_adapter"
     },
     "intl_fc40306c8d18": {
       "source_id": "intl_fc40306c8d18",
@@ -22,20 +24,24 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
+      "last_attempt_at": "2026-10-14T06:57:23+00:00",
+      "last_status": "partial_coverage"
     },
     "intl_032ffd7444d8": {
       "source_id": "intl_032ffd7444d8",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": false,
-      "last_verified_date": null,
-      "last_verified_at": null,
+      "initialized": true,
+      "last_verified_date": "2026-10-14",
+      "last_verified_at": "2026-10-14T06:57:26+00:00",
       "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "total_attempts": 1,
+      "last_error": "",
+      "last_attempt_at": "2026-10-14T06:57:23+00:00",
+      "last_status": "ok_no_recent"
     },
     "intl_0033bc5d506a": {
       "source_id": "intl_0033bc5d506a",
@@ -44,9 +50,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
+      "last_attempt_at": "2026-10-14T06:57:23+00:00",
+      "last_status": "needs_adapter"
     },
     "intl_2dbdce92512c": {
       "source_id": "intl_2dbdce92512c",
@@ -55,9 +63,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "已读取部分目录，但未获取完整可靠的日期覆盖证据",
+      "last_attempt_at": "2026-10-14T06:57:23+00:00",
+      "last_status": "partial_coverage"
     },
     "intl_2dc77d6e8664": {
       "source_id": "intl_2dc77d6e8664",
@@ -66,9 +76,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
+      "last_attempt_at": "2026-10-14T06:57:24+00:00",
+      "last_status": "needs_adapter"
     },
     "intl_87a7aa70bf22": {
       "source_id": "intl_87a7aa70bf22",
@@ -77,9 +89,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "已读取部分目录，但未获取完整可靠的日期覆盖证据",
+      "last_attempt_at": "2026-10-14T06:57:25+00:00",
+      "last_status": "partial_coverage"
     },
     "intl_39999515ec1f": {
       "source_id": "intl_39999515ec1f",
@@ -88,9 +102,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T06:57:26+00:00",
+      "last_status": "partial_coverage"
     },
     "intl_0e079da25f30": {
       "source_id": "intl_0e079da25f30",
@@ -99,9 +115,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
+      "last_attempt_at": "2026-10-14T06:57:29+00:00",
+      "last_status": "partial_coverage"
     },
     "intl_845de2334f9c": {
       "source_id": "intl_845de2334f9c",
@@ -110,9 +128,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
+      "last_attempt_at": "2026-10-14T06:57:29+00:00",
+      "last_status": "partial_coverage"
     },
     "intl_fb3e8ad4274d": {
       "source_id": "intl_fb3e8ad4274d",
@@ -121,9 +141,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T06:57:30+00:00",
+      "last_status": "partial_coverage"
     },
     "intl_2d4b292b6df3": {
       "source_id": "intl_2d4b292b6df3",
@@ -132,9 +154,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
+      "last_attempt_at": "2026-10-14T06:57:31+00:00",
+      "last_status": "partial_coverage"
     },
     "intl_859650137482": {
       "source_id": "intl_859650137482",
@@ -143,9 +167,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T06:57:32+00:00",
+      "last_status": "partial_coverage"
     },
     "intl_d678f36c7a03": {
       "source_id": "intl_d678f36c7a03",
@@ -154,9 +180,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
+      "last_attempt_at": "2026-10-14T06:57:34+00:00",
+      "last_status": "partial_coverage"
     },
     "intl_53f753c6dd77": {
       "source_id": "intl_53f753c6dd77",
@@ -165,9 +193,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T06:57:37+00:00",
+      "last_status": "partial_coverage"
     },
     "intl_6f87a1487e95": {
       "source_id": "intl_6f87a1487e95",
@@ -176,9 +206,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
+      "last_attempt_at": "2026-10-14T06:57:37+00:00",
+      "last_status": "partial_coverage"
     },
     "intl_64e5307cf1d2": {
       "source_id": "intl_64e5307cf1d2",
@@ -187,9 +219,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
+      "last_attempt_at": "2026-10-14T06:57:48+00:00",
+      "last_status": "needs_adapter"
     },
     "cn_d4013c1b2a1e": {
       "source_id": "cn_d4013c1b2a1e",
@@ -198,9 +232,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T06:57:49+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_37cf03ee8fd2": {
       "source_id": "cn_37cf03ee8fd2",
@@ -209,9 +245,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "已读取部分目录，但未获取完整可靠的日期覆盖证据",
+      "last_attempt_at": "2026-10-14T06:57:52+00:00",
+      "last_status": "partial_coverage"
     },
     "intl_b1f77d6fbfeb": {
       "source_id": "intl_b1f77d6fbfeb",
@@ -220,9 +258,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方访问受限；保留失败证据，不能绕过权限",
+      "last_attempt_at": "2026-10-14T06:57:54+00:00",
+      "last_status": "blocked"
     },
     "cn_68fd9b24ba66": {
       "source_id": "cn_68fd9b24ba66",
@@ -231,9 +271,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T06:57:57+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_b7b7d481ef53": {
       "source_id": "cn_b7b7d481ef53",
@@ -242,9 +284,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T06:57:59+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_9abe6d2f93c7": {
       "source_id": "cn_9abe6d2f93c7",
@@ -253,9 +297,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T06:58:08+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_8101686d3883": {
       "source_id": "cn_8101686d3883",
@@ -264,9 +310,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "达到详情或目录翻页限额，不能判定完整覆盖",
+      "last_attempt_at": "2026-10-14T06:58:08+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_24e54ba38a1a": {
       "source_id": "cn_24e54ba38a1a",
@@ -275,20 +323,24 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T06:58:08+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_1003b870a030": {
       "source_id": "cn_1003b870a030",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": false,
-      "last_verified_date": null,
-      "last_verified_at": null,
+      "initialized": true,
+      "last_verified_date": "2026-10-14",
+      "last_verified_at": "2026-10-14T06:58:22+00:00",
       "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "total_attempts": 1,
+      "last_error": "",
+      "last_attempt_at": "2026-10-14T06:58:08+00:00",
+      "last_status": "ok_with_results"
     },
     "cn_ad5b4fd78be8": {
       "source_id": "cn_ad5b4fd78be8",
@@ -297,9 +349,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T06:58:16+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_bcae52a0ff64": {
       "source_id": "cn_bcae52a0ff64",
@@ -308,9 +362,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "已读取部分目录，但未获取完整可靠的日期覆盖证据",
+      "last_attempt_at": "2026-10-14T06:58:20+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_17bffa52408e": {
       "source_id": "cn_17bffa52408e",
@@ -319,9 +375,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方访问受限；保留失败证据，不能绕过权限",
+      "last_attempt_at": "2026-10-14T06:58:20+00:00",
+      "last_status": "blocked"
     },
     "cn_5dc355c1a7a8": {
       "source_id": "cn_5dc355c1a7a8",
@@ -330,9 +388,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方访问受限；保留失败证据，不能绕过权限",
+      "last_attempt_at": "2026-10-14T06:58:22+00:00",
+      "last_status": "blocked"
     },
     "cn_9218a245fb7e": {
       "source_id": "cn_9218a245fb7e",
@@ -341,9 +401,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T06:58:24+00:00",
+      "last_status": "connection_error"
     },
     "cn_bcbd7c678a4f": {
       "source_id": "cn_bcbd7c678a4f",
@@ -352,9 +414,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T06:58:26+00:00",
+      "last_status": "connection_error"
     },
     "cn_72b1e5bf6cc8": {
       "source_id": "cn_72b1e5bf6cc8",
@@ -363,9 +427,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T06:58:31+00:00",
+      "last_status": "connection_error"
     },
     "cn_0cedc4affbe8": {
       "source_id": "cn_0cedc4affbe8",
@@ -374,9 +440,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T06:58:36+00:00",
+      "last_status": "connection_error"
     },
     "cn_f967a158ac3f": {
       "source_id": "cn_f967a158ac3f",
@@ -385,9 +453,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T06:58:37+00:00",
+      "last_status": "connection_error"
     },
     "cn_05f1f10b143f": {
       "source_id": "cn_05f1f10b143f",
@@ -396,9 +466,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T06:58:55+00:00",
+      "last_status": "connection_error"
     },
     "cn_09b66c7ebd13": {
       "source_id": "cn_09b66c7ebd13",
@@ -407,9 +479,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方访问受限；保留失败证据，不能绕过权限",
+      "last_attempt_at": "2026-10-14T06:58:56+00:00",
+      "last_status": "blocked"
     },
     "cn_c6f9b3f56fe8": {
       "source_id": "cn_c6f9b3f56fe8",
@@ -418,9 +492,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方访问受限；保留失败证据，不能绕过权限",
+      "last_attempt_at": "2026-10-14T06:59:14+00:00",
+      "last_status": "blocked"
     },
     "cn_eb58eb83050f": {
       "source_id": "cn_eb58eb83050f",
@@ -429,9 +505,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "已读取部分目录，但未获取完整可靠的日期覆盖证据",
+      "last_attempt_at": "2026-10-14T06:59:19+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_687800e62fca": {
       "source_id": "cn_687800e62fca",
@@ -440,9 +518,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T06:59:19+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_c9be69562225": {
       "source_id": "cn_c9be69562225",
@@ -451,9 +531,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
+      "last_attempt_at": "2026-10-14T06:59:23+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_4b359756b91a": {
       "source_id": "cn_4b359756b91a",
@@ -462,9 +544,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T06:59:34+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_fcdd8a95a7df": {
       "source_id": "cn_fcdd8a95a7df",
@@ -473,9 +557,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T06:59:38+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_3c9957b26c3c": {
       "source_id": "cn_3c9957b26c3c",
@@ -484,9 +570,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T06:59:39+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_573ba3b6d161": {
       "source_id": "cn_573ba3b6d161",
@@ -495,9 +583,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T06:59:41+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_d9b99a25cf12": {
       "source_id": "cn_d9b99a25cf12",
@@ -506,9 +596,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "已读取部分目录，但未获取完整可靠的日期覆盖证据",
+      "last_attempt_at": "2026-10-14T06:59:46+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_be6b37d7a3a0": {
       "source_id": "cn_be6b37d7a3a0",
@@ -517,9 +609,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "已读取部分目录，但未获取完整可靠的日期覆盖证据",
+      "last_attempt_at": "2026-10-14T06:59:46+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_e3337f219cd6": {
       "source_id": "cn_e3337f219cd6",
@@ -528,20 +622,24 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "已读取部分目录，但未获取完整可靠的日期覆盖证据",
+      "last_attempt_at": "2026-10-14T06:59:46+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_27e871c7b989": {
       "source_id": "cn_27e871c7b989",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": false,
-      "last_verified_date": null,
-      "last_verified_at": null,
+      "initialized": true,
+      "last_verified_date": "2026-10-14",
+      "last_verified_at": "2026-10-14T06:59:49+00:00",
       "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "total_attempts": 1,
+      "last_error": "",
+      "last_attempt_at": "2026-10-14T06:59:46+00:00",
+      "last_status": "ok_no_recent"
     },
     "cn_a70a2ad659af": {
       "source_id": "cn_a70a2ad659af",
@@ -550,9 +648,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
+      "last_attempt_at": "2026-10-14T06:59:49+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_c3d9397ca287": {
       "source_id": "cn_c3d9397ca287",
@@ -561,9 +661,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
+      "last_attempt_at": "2026-10-14T06:59:49+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_96f475fd98fa": {
       "source_id": "cn_96f475fd98fa",
@@ -572,9 +674,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "已读取部分目录，但未获取完整可靠的日期覆盖证据",
+      "last_attempt_at": "2026-10-14T06:59:50+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_642f1102f38a": {
       "source_id": "cn_642f1102f38a",
@@ -583,9 +687,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
+      "last_attempt_at": "2026-10-14T06:59:50+00:00",
+      "last_status": "needs_adapter"
     },
     "cn_c37e9b9f7acf": {
       "source_id": "cn_c37e9b9f7acf",
@@ -594,9 +700,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "已读取部分目录，但未获取完整可靠的日期覆盖证据",
+      "last_attempt_at": "2026-10-14T06:59:54+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_826688a2babc": {
       "source_id": "cn_826688a2babc",
@@ -605,9 +713,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T06:59:54+00:00",
+      "last_status": "connection_error"
     },
     "cn_bc2b5fe1372b": {
       "source_id": "cn_bc2b5fe1372b",
@@ -616,9 +726,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方访问受限；保留失败证据，不能绕过权限",
+      "last_attempt_at": "2026-10-14T06:59:56+00:00",
+      "last_status": "blocked"
     },
     "cn_23a1b77623a0": {
       "source_id": "cn_23a1b77623a0",
@@ -627,9 +739,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方访问受限；保留失败证据，不能绕过权限",
+      "last_attempt_at": "2026-10-14T06:59:58+00:00",
+      "last_status": "blocked"
     },
     "cn_a5db7e800aa9": {
       "source_id": "cn_a5db7e800aa9",
@@ -638,9 +752,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方访问受限；保留失败证据，不能绕过权限",
+      "last_attempt_at": "2026-10-14T07:00:00+00:00",
+      "last_status": "blocked"
     },
     "cn_b2148d5e1247": {
       "source_id": "cn_b2148d5e1247",
@@ -649,9 +765,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "分页加载或日期区间不完整，不能推进已核验游标",
+      "last_attempt_at": "2026-10-14T07:00:02+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_b85a8fe9fba8": {
       "source_id": "cn_b85a8fe9fba8",
@@ -660,9 +778,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T07:00:04+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_18e109d08abf": {
       "source_id": "cn_18e109d08abf",
@@ -671,9 +791,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T07:00:05+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_8d7abc70b68b": {
       "source_id": "cn_8d7abc70b68b",
@@ -682,9 +804,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:00:10+00:00",
+      "last_status": "connection_error"
     },
     "cn_257f0497a96d": {
       "source_id": "cn_257f0497a96d",
@@ -693,9 +817,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:00:22+00:00",
+      "last_status": "connection_error"
     },
     "cn_d05bd105b38d": {
       "source_id": "cn_d05bd105b38d",
@@ -704,9 +830,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:00:24+00:00",
+      "last_status": "connection_error"
     },
     "cn_fdb9ab86c4a9": {
       "source_id": "cn_fdb9ab86c4a9",
@@ -715,9 +843,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
+      "last_attempt_at": "2026-10-14T07:00:26+00:00",
+      "last_status": "needs_adapter"
     },
     "cn_ec953fefe292": {
       "source_id": "cn_ec953fefe292",
@@ -726,9 +856,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:00:33+00:00",
+      "last_status": "connection_error"
     },
     "cn_64d94992d798": {
       "source_id": "cn_64d94992d798",
@@ -737,20 +869,24 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T07:00:41+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_124239bfeb82": {
       "source_id": "cn_124239bfeb82",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": false,
-      "last_verified_date": null,
-      "last_verified_at": null,
+      "initialized": true,
+      "last_verified_date": "2026-10-14",
+      "last_verified_at": "2026-10-14T07:00:44+00:00",
       "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "total_attempts": 1,
+      "last_error": "",
+      "last_attempt_at": "2026-10-14T07:00:42+00:00",
+      "last_status": "ok_with_results"
     },
     "cn_c38c37a7f95a": {
       "source_id": "cn_c38c37a7f95a",
@@ -759,9 +895,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方访问受限；保留失败证据，不能绕过权限",
+      "last_attempt_at": "2026-10-14T07:00:44+00:00",
+      "last_status": "blocked"
     },
     "cn_ca01ba1d0ac7": {
       "source_id": "cn_ca01ba1d0ac7",
@@ -770,9 +908,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方访问受限；保留失败证据，不能绕过权限",
+      "last_attempt_at": "2026-10-14T07:00:46+00:00",
+      "last_status": "blocked"
     },
     "cn_d503c07b0951": {
       "source_id": "cn_d503c07b0951",
@@ -781,9 +921,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方访问受限；保留失败证据，不能绕过权限",
+      "last_attempt_at": "2026-10-14T07:00:46+00:00",
+      "last_status": "blocked"
     },
     "cn_6677a056500c": {
       "source_id": "cn_6677a056500c",
@@ -792,9 +934,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源无法读取，后续仍重试",
+      "last_attempt_at": "2026-10-14T07:00:48+00:00",
+      "last_status": "error"
     },
     "cn_68fbb3ebe6ee": {
       "source_id": "cn_68fbb3ebe6ee",
@@ -803,9 +947,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源无法读取，后续仍重试",
+      "last_attempt_at": "2026-10-14T07:00:49+00:00",
+      "last_status": "error"
     },
     "cn_7953653226d0": {
       "source_id": "cn_7953653226d0",
@@ -814,9 +960,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
+      "last_attempt_at": "2026-10-14T07:00:51+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_3fb2a96af337": {
       "source_id": "cn_3fb2a96af337",
@@ -825,9 +973,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
+      "last_attempt_at": "2026-10-14T07:00:52+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_13b15007a2b0": {
       "source_id": "cn_13b15007a2b0",
@@ -836,9 +986,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "已读取部分目录，但未获取完整可靠的日期覆盖证据",
+      "last_attempt_at": "2026-10-14T07:00:52+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_64dc11b10278": {
       "source_id": "cn_64dc11b10278",
@@ -847,20 +999,24 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "已读取部分目录，但未获取完整可靠的日期覆盖证据",
+      "last_attempt_at": "2026-10-14T07:00:53+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_a05a053fbf35": {
       "source_id": "cn_a05a053fbf35",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": false,
-      "last_verified_date": null,
-      "last_verified_at": null,
+      "initialized": true,
+      "last_verified_date": "2026-10-14",
+      "last_verified_at": "2026-10-14T07:01:05+00:00",
       "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "total_attempts": 1,
+      "last_error": "",
+      "last_attempt_at": "2026-10-14T07:01:01+00:00",
+      "last_status": "ok_no_recent"
     },
     "cn_35210b5ce137": {
       "source_id": "cn_35210b5ce137",
@@ -869,9 +1025,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "分页加载或日期区间不完整，不能推进已核验游标",
+      "last_attempt_at": "2026-10-14T07:01:02+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_e290654fb72d": {
       "source_id": "cn_e290654fb72d",
@@ -880,9 +1038,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "分页加载或日期区间不完整，不能推进已核验游标",
+      "last_attempt_at": "2026-10-14T07:01:05+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_7239ba11c55b": {
       "source_id": "cn_7239ba11c55b",
@@ -891,9 +1051,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
+      "last_attempt_at": "2026-10-14T07:01:05+00:00",
+      "last_status": "needs_adapter"
     },
     "cn_79acd9237aeb": {
       "source_id": "cn_79acd9237aeb",
@@ -902,9 +1064,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:01:05+00:00",
+      "last_status": "connection_error"
     },
     "cn_55a439b16478": {
       "source_id": "cn_55a439b16478",
@@ -913,9 +1077,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:01:06+00:00",
+      "last_status": "connection_error"
     },
     "cn_d8311f7de6e6": {
       "source_id": "cn_d8311f7de6e6",
@@ -924,9 +1090,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:01:07+00:00",
+      "last_status": "connection_error"
     },
     "cn_9cee9310b605": {
       "source_id": "cn_9cee9310b605",
@@ -935,9 +1103,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:01:08+00:00",
+      "last_status": "connection_error"
     },
     "cn_ef2bc5e95df5": {
       "source_id": "cn_ef2bc5e95df5",
@@ -946,9 +1116,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:01:36+00:00",
+      "last_status": "connection_error"
     },
     "cn_cf5880769bc6": {
       "source_id": "cn_cf5880769bc6",
@@ -957,9 +1129,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:01:37+00:00",
+      "last_status": "connection_error"
     },
     "cn_67c4991ac3e9": {
       "source_id": "cn_67c4991ac3e9",
@@ -968,9 +1142,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:01:40+00:00",
+      "last_status": "connection_error"
     },
     "cn_dc94216cbc6d": {
       "source_id": "cn_dc94216cbc6d",
@@ -979,9 +1155,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:01:44+00:00",
+      "last_status": "connection_error"
     },
     "cn_43f3081a512a": {
       "source_id": "cn_43f3081a512a",
@@ -990,9 +1168,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:02:05+00:00",
+      "last_status": "connection_error"
     },
     "cn_1abbceed2047": {
       "source_id": "cn_1abbceed2047",
@@ -1001,9 +1181,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:02:06+00:00",
+      "last_status": "connection_error"
     },
     "cn_b922a2143a80": {
       "source_id": "cn_b922a2143a80",
@@ -1012,9 +1194,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:02:19+00:00",
+      "last_status": "connection_error"
     },
     "cn_3973d84e5084": {
       "source_id": "cn_3973d84e5084",
@@ -1023,9 +1207,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:02:24+00:00",
+      "last_status": "connection_error"
     },
     "cn_2f5ca615b97d": {
       "source_id": "cn_2f5ca615b97d",
@@ -1034,9 +1220,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:02:35+00:00",
+      "last_status": "connection_error"
     },
     "cn_8f9dbeeebd54": {
       "source_id": "cn_8f9dbeeebd54",
@@ -1045,9 +1233,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:02:44+00:00",
+      "last_status": "connection_error"
     },
     "cn_8a2870d6b4f1": {
       "source_id": "cn_8a2870d6b4f1",
@@ -1056,9 +1246,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:02:48+00:00",
+      "last_status": "connection_error"
     },
     "cn_61f329f622c8": {
       "source_id": "cn_61f329f622c8",
@@ -1067,9 +1259,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T07:02:53+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_ec89e3d97259": {
       "source_id": "cn_ec89e3d97259",
@@ -1078,9 +1272,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方访问受限；保留失败证据，不能绕过权限",
+      "last_attempt_at": "2026-10-14T07:03:04+00:00",
+      "last_status": "blocked"
     },
     "cn_44bc1881857e": {
       "source_id": "cn_44bc1881857e",
@@ -1089,9 +1285,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:03:09+00:00",
+      "last_status": "connection_error"
     },
     "cn_f4e44b3462eb": {
       "source_id": "cn_f4e44b3462eb",
@@ -1100,9 +1298,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:03:14+00:00",
+      "last_status": "connection_error"
     },
     "cn_7beeafa4d326": {
       "source_id": "cn_7beeafa4d326",
@@ -1111,9 +1311,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T07:03:17+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_17594557097c": {
       "source_id": "cn_17594557097c",
@@ -1122,9 +1324,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:03:33+00:00",
+      "last_status": "connection_error"
     },
     "cn_3a9624d397b1": {
       "source_id": "cn_3a9624d397b1",
@@ -1133,9 +1337,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
+      "last_attempt_at": "2026-10-14T07:03:38+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_969ad9ff831b": {
       "source_id": "cn_969ad9ff831b",
@@ -1144,9 +1350,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:03:40+00:00",
+      "last_status": "connection_error"
     },
     "cn_42ed5bf25d5d": {
       "source_id": "cn_42ed5bf25d5d",
@@ -1155,9 +1363,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:03:43+00:00",
+      "last_status": "connection_error"
     },
     "cn_878d16ddc7e6": {
       "source_id": "cn_878d16ddc7e6",
@@ -1166,9 +1376,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:04:12+00:00",
+      "last_status": "connection_error"
     },
     "cn_6088d4f495dd": {
       "source_id": "cn_6088d4f495dd",
@@ -1177,9 +1389,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源无法读取，后续仍重试",
+      "last_attempt_at": "2026-10-14T07:04:12+00:00",
+      "last_status": "error"
     },
     "cn_98fa85780368": {
       "source_id": "cn_98fa85780368",
@@ -1188,9 +1402,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源无法读取，后续仍重试",
+      "last_attempt_at": "2026-10-14T07:04:14+00:00",
+      "last_status": "error"
     },
     "cn_884a06211f11": {
       "source_id": "cn_884a06211f11",
@@ -1199,9 +1415,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:04:18+00:00",
+      "last_status": "connection_error"
     },
     "cn_5cc7c12757b9": {
       "source_id": "cn_5cc7c12757b9",
@@ -1210,9 +1428,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T07:04:25+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_2988b09ee88b": {
       "source_id": "cn_2988b09ee88b",
@@ -1221,9 +1441,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:04:30+00:00",
+      "last_status": "connection_error"
     },
     "cn_b8b647e382c3": {
       "source_id": "cn_b8b647e382c3",
@@ -1232,9 +1454,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:04:32+00:00",
+      "last_status": "connection_error"
     },
     "cn_7c77b32d80d0": {
       "source_id": "cn_7c77b32d80d0",
@@ -1243,9 +1467,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T07:04:48+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_354fb314969b": {
       "source_id": "cn_354fb314969b",
@@ -1254,9 +1480,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "已读取部分目录，但未获取完整可靠的日期覆盖证据",
+      "last_attempt_at": "2026-10-14T07:04:59+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_44abb54d7339": {
       "source_id": "cn_44abb54d7339",
@@ -1265,9 +1493,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "已读取部分目录，但未获取完整可靠的日期覆盖证据",
+      "last_attempt_at": "2026-10-14T07:05:01+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_cbab808cd2a0": {
       "source_id": "cn_cbab808cd2a0",
@@ -1276,9 +1506,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T07:05:03+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_f772ee3b1cc5": {
       "source_id": "cn_f772ee3b1cc5",
@@ -1287,9 +1519,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T07:05:03+00:00",
+      "last_status": "partial_coverage"
     },
     "cn_e4c52c960d02": {
       "source_id": "cn_e4c52c960d02",
@@ -1298,9 +1532,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T07:05:07+00:00",
+      "last_status": "partial_coverage"
     },
     "intl_851d40951467": {
       "source_id": "intl_851d40951467",
@@ -1309,9 +1545,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
+      "last_attempt_at": "2026-10-14T07:05:07+00:00",
+      "last_status": "partial_coverage"
     },
     "intl_f7bbe0b9bd8f": {
       "source_id": "intl_f7bbe0b9bd8f",
@@ -1320,9 +1558,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+      "last_attempt_at": "2026-10-14T07:05:07+00:00",
+      "last_status": "partial_coverage"
     },
     "intl_1b89a16f2050": {
       "source_id": "intl_1b89a16f2050",
@@ -1331,9 +1571,11 @@
       "initialized": false,
       "last_verified_date": null,
       "last_verified_at": null,
-      "consecutive_failures": 0,
-      "total_attempts": 0,
-      "last_error": ""
+      "consecutive_failures": 1,
+      "total_attempts": 1,
+      "last_error": "官方来源连接失败或超时，后续自动补查",
+      "last_attempt_at": "2026-10-14T07:05:09+00:00",
+      "last_status": "connection_error"
     }
   }
 }
