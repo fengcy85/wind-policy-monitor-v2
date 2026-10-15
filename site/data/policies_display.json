@@ -1,5 +1,62 @@
 [
   {
+    "id": "p_c81a26b5c4e46e30d3",
+    "title": "风电并网新规！国家能源局征求意见稿发布",
+    "url": "https://news.bjx.com.cn/html/20261009/1515366.shtml",
+    "published_at": "2026-10-09",
+    "date_evidence": "发布日期依据待核对",
+    "region": "国内",
+    "country": "中国",
+    "source_name": "北极星风力发电网｜风电政策",
+    "doc_type": "行业政策线索（待官方原文核验）",
+    "validity_status": "效力待核验",
+    "verification_status": "行业转载线索，需核对官方政策原文",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"2b0c657137afc6a3efc3ecc416671c71\",\"traceid\":\"2760779317920510944935569ed981\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "dimensions": [
+      "并网技术规范"
+    ],
+    "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核对并网测试责任、接入确认、认证时间及合同里程碑。市场准入或成本后果不能仅凭关键词认定。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "analysis_method": "规则辅助初筛·待人工核验",
+    "ai_application_note": "",
+    "content_hash": "f1475af6aabc0f325fc8b1b0cdbe2ed3117802cc7ced83c85a270452d272a675",
+    "importance_score": null,
+    "importance_level": "",
+    "design_relevance": 1,
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"2b0c657137afc6a3efc3ecc416671c71\",\"traceid\":\"2760779317920510944935569ed981\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-F"
+      }
+    ]
+  },
+  {
+    "id": "p_23cdc81faef01c3816",
+    "title": "省能源局关于下达纳雍县羊场永合风电场等20个风电光伏发电项目建设计划的通知",
+    "url": "https://nyj.guizhou.gov.cn/zwgk/xxgkml/zcwj_2/jnwj/ptwj_2/202609/t20260929_90951254.html",
+    "published_at": "2026-09-29",
+    "date_evidence": "来源公开列表日期",
+    "region": "国内",
+    "country": "贵州",
+    "source_name": "贵州省能源局",
+    "doc_type": "官方政策发布线索（待核验正文）",
+    "validity_status": "效力待核验",
+    "verification_status": "目录级线索：无任何18维度的条款证据；不是完整法规正文",
+    "source_excerpt": "政策发布线索：省能源局关于下达纳雍县羊场永合风电场等20个风电光伏发电项目建设计划的通知。公开目录标注发布日期：2026-09-29；详细条文未取得，禁止据此认定法律效力、适用义务或产品技术要求。",
+    "dimensions": [],
+    "impact_design": "只确认公开目录标题及发布日期；没有完整法规条文，不能判断产品设计义务。",
+    "impact_business": "只确认公开目录标题及发布日期；应核对政策原文与适用范围。",
+    "next_step": "访问主管机关政策详情，核对法规全文、法律效力及企业适用范围。",
+    "analysis_method": "规则辅助初筛·待人工核验",
+    "ai_application_note": "",
+    "content_hash": "1f2fb9c7b5373675406e9bd74a5004fa7ff37bca9807d406e6de58c34b7702e1",
+    "importance_score": null,
+    "importance_level": "",
+    "design_relevance": 0,
+    "clauses": []
+  },
+  {
     "id": "p_5f83340358fd02819a",
     "title": "宁夏回族自治区人民政府关于在五步墩内边墙保护范围内实施中电建同心县200MW风电项目110kV输变电工程的批复",
     "url": "https://www.nx.gov.cn/zwgk/qzfwj/202609/t20260924_5355941.html",
