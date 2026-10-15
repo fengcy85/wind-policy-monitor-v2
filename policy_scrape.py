@@ -1,4 +1,4 @@
-"""Wind Monitor V6.1: 121 independent site adapters, checkpoints and daily retries.
+"""Wind Monitor V6.1: independent site adapters, checkpoints and daily retries.
 
 No CAPTCHA solving, login bypass, access-control circumvention, invented evidence or
 speculative legal scores. A successfully fetched home page is not a verified crawl.
@@ -39,8 +39,8 @@ STATE = DATA / 'policy_crawl_state.json'
 CHECKPOINTS = DATA / 'policy_source_checkpoints.json'
 MAX_DETAILS = max(1, min(int(os.getenv('POLICY_DETAILS_PER_SOURCE','24')),90))
 MAX_LIST_PAGES = max(1, min(int(os.getenv('POLICY_LIST_PAGES','5')),12))
-MAX_WORKERS = max(1,min(int(os.getenv('POLICY_WORKERS','5')),8))
-TIMEOUT = max(3.0,min(float(os.getenv('POLICY_REQUEST_TIMEOUT','8')),20.0))
+MAX_WORKERS = max(1,min(int(os.getenv('POLICY_WORKERS','4')),8))
+TIMEOUT = max(3.0,min(float(os.getenv('POLICY_REQUEST_TIMEOUT','14')),35.0))
 BROWSER_ENABLED = os.getenv('POLICY_BROWSER_FALLBACK','1') == '1'
 LOG = logging.getLogger('policy-v6.1')
 logging.basicConfig(level=logging.INFO,format='%(asctime)s %(levelname)s %(message)s')
@@ -116,20 +116,30 @@ def same_site(a,b):
  return bool(x and y and (x==y or x.endswith('.'+y) or y.endswith('.'+x) or
    (x.endswith('.gov.cn') and y=='gov.cn') or (y.endswith('.gov.cn') and x=='gov.cn')))
 
+def allowed_detail_link(entry, candidate, adapter):
+ """Permit same-government site, or a source-declared exact public mirror host.
+
+ Not a general suffix/redirect exception; user supplied explicit mirrors only.
+ """
+ if same_site(entry,candidate):return True
+ try: host=(urlsplit(candidate).hostname or '').lower()
+ except ValueError:return False
+ return bool(host and host in set(adapter.config.get('allowed_detail_hosts') or []))
+
 def session():
  if not hasattr(_thread,'s'):
   s=requests.Session()
   s.headers.update({'User-Agent':'WindPolicyMonitor/6.1 (+public policy indexing; research)','Accept':'text/html,application/xhtml+xml,application/pdf,*/*;q=0.2','Accept-Language':'zh-CN,zh;q=0.9,en;q=0.7'})
-  retry=Retry(total=1,connect=1,read=1,status=1,backoff_factor=0.35,
+  retry=Retry(total=2,connect=2,read=1,status=2,backoff_factor=0.8,
               status_forcelist=[429,500,502,503,504],allowed_methods=frozenset(['GET']),
-              respect_retry_after_header=False)
+              respect_retry_after_header=True)
   s.mount('https://',HTTPAdapter(max_retries=retry,pool_connections=12,pool_maxsize=12))
   s.mount('http://',HTTPAdapter(max_retries=retry,pool_connections=12,pool_maxsize=12))
   _thread.s=s
  return _thread.s
 
 def fetch(url):
- r=session().get(url,timeout=(min(TIMEOUT,5),TIMEOUT),allow_redirects=True)
+ r=session().get(url,timeout=(min(TIMEOUT,10),TIMEOUT),allow_redirects=True)
  r.raise_for_status()
  if not normalize_url(r.url):raise ValueError('invalid final URL')
  if len(r.content)>7_000_000:raise ValueError('response too large')
@@ -152,8 +162,8 @@ def browser_fetch(url, adapter=""):
   browser=p.chromium.launch(headless=True,args=['--no-sandbox'])
   try:
    page=browser.new_page(locale='zh-CN',user_agent='WindPolicyMonitor/6.1 (public compliance monitoring)')
-   response=page.goto(url,wait_until='domcontentloaded',timeout=18000)
-   page.wait_for_timeout(900)
+   response=page.goto(url,wait_until='domcontentloaded',timeout=30000)
+   page.wait_for_timeout(1500)
    # Seven named portal adapters. Use only public UI, not guessed or private APIs.
    configurations={
     'gov_search':{'term':'风电','inputs':('input[name=q]','input[placeholder*=政策]','input[placeholder*=关键词]','input[type=search]'),'buttons':('button:has-text("搜索")','button:has-text("检索")')},
@@ -193,6 +203,12 @@ def browser_fetch(url, adapter=""):
 
 def parse_date(x):
  raw=str(x or '')
+ # Chinese official lists commonly abbreviate 2026-10-08 as 26-10-08.
+ # Only accept the unambiguous YY-MM-DD sequence, years 2020--2039.
+ short=re.search(r'(?<![\d/])(2[0-9]|3[0-9])[-./](0?[1-9]|1[0-2])[-./](0?[1-9]|[12]\d|3[01])(?!\d)',raw)
+ if short:
+  try:return date(2000+int(short.group(1)),int(short.group(2)),int(short.group(3))).isoformat()
+  except ValueError:return ''
  # Official foreign portals may use dd/mm/yyyy, dd-mm-yyyy or month-name formats.
  # Demand a full day+month+year to avoid deriving fictional dates from year-only text.
  slash=re.search(r'(?<!\d)([0-3]?\d)[./-]([01]?\d)[./-](20[1-3]\d)(?!\d)',raw)
@@ -387,14 +403,44 @@ def make_record(src,candidate,html,final,kind,dims,cutoff,manual):
  return {
   'id':uid,'title':title,'url':final,'source_id':src['id'],'source_name':src['name'],
   'region':src['region'],'country':src['country'],'province':src.get('province',''),
-  'published_at':pub,'discovered_at':clock(),'doc_type':classify_document(title,txt),
+  'published_at':pub,'discovered_at':clock(),
+  'doc_type':('行业政策线索（待官方原文核验）' if src.get('source_type')=='政策线索' else classify_document(title,txt)),
   'dimensions':dims_names,'primary_dimension':dims_names[0],
   'source_excerpt':snippets[0]['excerpt'][:340],'clauses':snippets,
   **impacts,'next_step':'核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。',
   'importance':representative,'clause_scoring':clause_scores,
-  'verification_status':'待人工复核原文和适用范围','article_evidence_available':True,
+  'verification_status':('行业转载线索，需核对官方政策原文' if src.get('source_type')=='政策线索' else '待人工复核原文和适用范围'),
+  'article_evidence_available':src.get('source_type')!='政策线索',
   'content_hash':hashlib.sha256((title+'\n'+pub+'\n'+'\n'.join(z['excerpt'] for z in snippets)).encode('utf-8')).hexdigest(),
  },''
+
+def listing_only_lead(src,candidate,cutoff,reason='详情未能读取'):
+ """Title+publication date evidence is enough to signal a new wind rule.
+
+ This is never represented as a verified law or completed detail crawl. It can be
+ replaced by the same URL's full-text record after the next successful visit.
+ """
+ title=clean(candidate.get('title'))
+ published=candidate.get('date') or ''
+ url=normalize_url(candidate.get('url') or '')
+ if (not url or not published or published<cutoff.isoformat() or
+     published>date.today().isoformat() or not WIND.search(title) or not NORM.search(title)):
+  return None
+ excerpt=('政策发布线索：'+title+'。公开目录标注发布日期：'+published+
+          '；详细条文未取得，禁止据此认定法律效力、适用义务或产品技术要求。')
+ return {'id':'p_'+hashlib.sha256(url.encode()).hexdigest()[:18],
+  'title':title,'url':url,'source_id':src['id'],'source_name':src['name'],
+  'region':src['region'],'country':src['country'],'province':src.get('province',''),
+  'published_at':published,'date_evidence':'来源公开列表日期',
+  'discovered_at':clock(),'doc_type':('行业政策发布线索（待核对官方原文）' if
+      src.get('source_type')=='政策线索' else '官方政策发布线索（待核验正文）'),
+  'source_excerpt':excerpt,'clauses':[],'dimensions':[],
+  'impact_design':'只确认公开目录标题及发布日期；没有完整法规条文，不能判断产品设计义务。',
+  'impact_business':'只确认公开目录标题及发布日期；应核对政策原文与适用范围。',
+  'verification_status':'目录级线索：'+reason+'；不是完整法规正文',
+  'article_evidence_available':False,'importance':importance(None,[]),
+  'next_step':'访问主管机关政策详情，核对法规全文、法律效力及企业适用范围。',
+  'content_hash':hashlib.sha256((title+'\n'+published+'\n'+excerpt).encode('utf-8')).hexdigest()}
 
 def adapter_urls(source):
  """Exactly the configured official entries for this site-specific module."""
@@ -431,10 +477,22 @@ def _listing_page(html,base,adapter):
   selector_hits=[]
  links=[];dated_rows=0;seen=set();eligible_rows=0;date_strings=[];unclassified=0
  for a in anchors:
+  if a.find_parent(['nav','header','footer','aside','menu']):continue
+  # Exclude site menus even when rendered as plain DIV/UL rather than <nav>.
+  menu=False
+  for ancestor in list(a.parents)[:5]:
+   classes=' '.join(ancestor.get('class') or []).lower()
+   identifier=str(ancestor.get('id') or '').lower()
+   if re.search(r'(?<![a-z])(?:navbar|navigation|breadcrumb|footer|side-menu|top-menu)(?![a-z])',classes+' '+identifier):
+    menu=True;break
+  if menu:continue
   title=clean(a.get_text(' ',strip=True)) or clean(a.get('title'))
   if not 7<=len(title)<=190 or EXCLUDE.fullmatch(title):continue
-  u=normalize_url(urljoin(base,a.get('href','')))
-  if not u or u in seen or not same_site(base,u) or u==normalize_url(base) or SKIPFILE.search(u):continue
+  raw_href=(a.get('href','') or '').strip()
+  if not raw_href or raw_href.startswith(('#','javascript:','mailto:','tel:')):continue
+  if not (NORM.search(title) or WIND.search(title) or BUSINESS.search(title)):continue
+  u=normalize_url(urljoin(base,raw_href))
+  if not u or u in seen or not allowed_detail_link(base,u,adapter) or u==normalize_url(base) or SKIPFILE.search(u):continue
   seen.add(u)
   # Source-specific date region: use nearest list row, not the complete body.
   parent=a.find_parent(['li','tr','article']) or a.parent
@@ -444,7 +502,16 @@ def _listing_page(html,base,adapter):
     for node in (parent or a).select(selector)[:2]:
      local+=' '+clean(node.get('datetime') or node.get('content') or node.get_text(' ',strip=True))
    except Exception:continue
-  published=parse_date(local)
+  published=parse_date(local) or parse_date(a.get('title') or '')
+  # Some portal templates place the date in a sibling DIV, not the LI or anchor.
+  # Use only small nearby row containers, never the body/sidebar date.
+  if not published:
+   for ancestor in list(a.parents)[:4]:
+    if ancestor.name in ('body','html'):break
+    neighbor_text=clean(ancestor.get_text(' ',strip=True))
+    if len(neighbor_text)>450:break
+    published=parse_date(neighbor_text)
+    if published:break
   eligible_rows+=1
   if published:
    dated_rows+=1
@@ -546,7 +613,7 @@ def scrape_one(src,dims,cutoff,manual):
    fetched=_try_entry(entry_url,src.get('adapter',''),queue_count==1,attempts)
    if fetched is None:continue
    html,actual,kind=fetched
-   if not same_site(entry_url,actual):
+   if not allowed_detail_link(entry_url,actual,adapter):
     attempts.append({'url':entry_url,'method':'validation','status':'failed','error':'非同官方域名的跳转被拒绝'})
     continue
    entry_read=True
@@ -559,13 +626,13 @@ def scrape_one(src,dims,cutoff,manual):
     continue
    page=_listing_page(html,actual,adapter)
    # For a public search application, rendered DOM often contains the only results.
-   if (not page['links'] and BROWSER_ENABLED and queue_count==1 and
+   if ((not page['links'] or not page['selector_matched'] or page['dated_rows']==0) and BROWSER_ENABLED and queue_count==1 and
        (adapter.config['needs_browser_ui'] or re.search(r'__NEXT_DATA__|__NUXT__|webpack|vue(?:\.runtime)?\.js|data-reactroot',html,re.I)) and
        not any(a['method']=='browser' and a['status']=='read' and a['url']==entry_url for a in attempts)):
     try:
      rendered,render_url,kind2=browser_fetch(entry_url,src.get('adapter',''))
      attempts.append({'url':entry_url,'method':'public_ui_search','status':'read','redirect':render_url})
-     if kind2=='html' and same_site(entry_url,render_url):
+     if kind2=='html' and allowed_detail_link(entry_url,render_url,adapter):
       trial=_listing_page(rendered,render_url,adapter)
       if trial['anchor_total']>page['anchor_total']:page=trial;html=rendered
     except Exception as exc:
@@ -621,10 +688,12 @@ def scrape_one(src,dims,cutoff,manual):
   fetched=_try_entry(candidate['url'],src.get('adapter',''),False,attempts)
   if fetched is None:
    details_errors+=1
+   lead=listing_only_lead(src,candidate,cutoff,'详情请求失败')
+   if lead:found[lead['id']]=lead
    if len(reviews)<30:reviews.append(review_record(src,candidate['title'],candidate['url'],'详情访问失败'))
    continue
   html,final,kind=fetched
-  if not same_site(candidate['url'],final):
+  if not allowed_detail_link(candidate['url'],final,adapter):
    details_errors+=1
    if len(reviews)<30:reviews.append(review_record(src,candidate['title'],final,'跨站点详情跳转，待验证官方关系'))
    continue
@@ -639,12 +708,15 @@ def scrape_one(src,dims,cutoff,manual):
      details_errors+=1
      continue
     pdf_text,pdf_final,pdf_kind=result
-    if pdf_kind!='pdf' or not same_site(final,pdf_final):continue
+    if pdf_kind!='pdf' or not allowed_detail_link(final,pdf_final,adapter):continue
     obj,reason=make_record(src,candidate,pdf_text,pdf_final,pdf_kind,dims,cutoff,manual)
     if obj:break
   if obj:found[obj['id']]=obj
-  elif reason and len(reviews)<30:
-   reviews.append(review_record(src,candidate['title'],final,reason))
+  else:
+   lead=listing_only_lead(src,candidate,cutoff,reason or '条款证据不足')
+   if lead:found[lead['id']]=lead
+   if reason and len(reviews)<30:
+    reviews.append(review_record(src,candidate['title'],final,reason))
   if reason and '发布日期' in reason:dates_missing+=1
  older_seen=bool(oldest_dates and min(oldest_dates)<cutoff.isoformat())
  all_rows_dated=rows_total>0 and rows_with_date==rows_total and undated_policy_rows==0
@@ -763,18 +835,18 @@ def merge_legal_records(old,items,source_by_id):
 
 
 def main(argv=None):
- p=argparse.ArgumentParser(description='V6.1: 121 source-specific adapters, initial 30 days per site then daily incremental')
+ p=argparse.ArgumentParser(description='V6.1: dynamic source-specific adapters, initial 30 days per site then daily incremental')
  p.add_argument('--mode',choices=('auto',),default='auto',help='Always auto; no global --days setting')
  p.add_argument('--offline-fixtures',action='store_true',help='Only for tests: no network')
  p.add_argument('--prepare',action='store_true',help='Write first-seen per-source checkpoints without network; used by Actions')
  a=p.parse_args(argv)
  if a.offline_fixtures:raise SystemExit('No fake network results are generated')
  sources=read(SOURCES,[]);dims=read(DIMS,[])
- if len(sources)!=121 or len({s['id'] for s in sources})!=121 or len(dims)!=18:
-  raise SystemExit('Expected 121 distinct official sources and 18 regulatory dimensions')
+ if len(sources)<121 or len({s['id'] for s in sources})!=len(sources) or len(dims)!=18:
+  raise SystemExit('Expected distinct source URLs with 18 regulatory dimensions')
  # Refuse silent fallback to a generic parser when even one individual module is absent.
  adapter_map={src['id']:load_adapter(src) for src in sources}
- if len(adapter_map)!=121 or not all(a.is_site_specific() for a in adapter_map.values()):
+ if len(adapter_map)!=len(sources) or not all(a.is_site_specific() for a in adapter_map.values()):
   raise SystemExit('Missing a source-specific adapter module')
  today=date.today();manual=read(SCORES,{})
  saved=read(CHECKPOINTS,{})
@@ -794,7 +866,7 @@ def main(argv=None):
   cp=checkpoints[source['id']]
   phase,cutoff=window_for(cp,today)
   jobs.append((source,phase,cutoff))
- LOG.info('V6.1: 121 per-site checkpoints; bootstrap=%s daily=%s workers=%s',
+ LOG.info('V6.1: %s per-site checkpoints; bootstrap=%s daily=%s workers=%s',len(sources),
           sum(x[1]=='initial_month' for x in jobs),sum(x[1]=='daily_increment' for x in jobs),MAX_WORKERS)
  statuses=[];reviewed=[];items=[]
  with futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
@@ -817,8 +889,8 @@ def main(argv=None):
    status['last_verified_date']=checkpoint.get('last_verified_date')
    status['consecutive_failures']=checkpoint['consecutive_failures']
    statuses.append(status);reviewed.extend(reviews);items.extend(docs)
-   LOG.info('%s/121 [%s] [%s] %s +%s, verified=%s',n,phase,status['status'],src['name'],len(docs),status.get('coverage_complete',False))
- assert len(statuses)==121 and len({s['id'] for s in statuses})==121
+   LOG.info('%s/%s [%s] [%s] %s +%s, verified=%s',n,len(sources),phase,status['status'],src['name'],len(docs),status.get('coverage_complete',False))
+ assert len(statuses)==len(sources) and len({s['id'] for s in statuses})==len(sources)
  order={s['id']:i for i,s in enumerate(sources)}
  statuses.sort(key=lambda st:order[st['id']])
  records,changes=merge_legal_records(read(POLICIES,[]),items,{s['id']:s for s in sources})
@@ -829,10 +901,10 @@ def main(argv=None):
  save(CHECKPOINTS,{'version':1,'updated_at':clock(),'bootstrap_days':30,'daily_overlap_days':2,'sources':checkpoints})
  initialized_count=sum(cp['initialized'] for cp in checkpoints.values())
  counts={code:sum(st['status']==code for st in statuses) for code in sorted({st['status'] for st in statuses})}
- state={'version':'V6.1','last_run':clock(),'configured_source_count':121,'attempted_source_count':121,
+ state={'version':'V6.1','last_run':clock(),'configured_source_count':len(sources),'attempted_source_count':len(sources),
         'initial_phase_count':sum(s['phase']=='initial_month' for s in statuses),
         'incremental_phase_count':sum(s['phase']=='daily_increment' for s in statuses),
-        'initialized_source_count':initialized_count,'pending_initialization_count':121-initialized_count,
+        'initialized_source_count':initialized_count,'pending_initialization_count':len(sources)-initialized_count,
         'bootstrap_days':30,'daily_overlap_days':2,'status_counts':counts,'change_counts':changes}
  save(STATE,state)
  rows=[{'法规名称':x.get('title',''),'所属国家区域':x.get('country','')+' / '+x.get('province',''),
@@ -858,8 +930,8 @@ def main(argv=None):
     '检查时间UTC':st['checked_at'],'详细访问轨迹':json.dumps(st.get('attempts',[]),ensure_ascii=False)})
  export_csv(acceptance,'policy_site_acceptance.csv',list(acceptance[0]))
  save(DATA/'policy_site_acceptance.json',acceptance)
- LOG.info('Completed 121/121, initialized %s/121, inserted=%s updated=%s unchanged=%s; false successes prohibited',
-          initialized_count,changes['inserted'],changes['updated'],changes['unchanged'])
+ LOG.info('Completed %s/%s, initialized %s/%s, inserted=%s updated=%s unchanged=%s; false successes prohibited',
+          len(sources),len(sources),initialized_count,len(sources),changes['inserted'],changes['updated'],changes['unchanged'])
  return statuses
 
 if __name__=='__main__':main()

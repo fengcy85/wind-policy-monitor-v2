@@ -7,6 +7,7 @@ from __future__ import annotations
 import importlib
 import re
 from dataclasses import dataclass
+from datetime import date
 from urllib.parse import urlsplit
 
 SITE_ID = re.compile(r"^(cn|intl)_[a-f0-9]{12}$")
@@ -32,7 +33,13 @@ class SiteAdapter:
 
     def entry_urls(self):
         """Uses only configured official entry URLs, never guesses private endpoints."""
-        return list(dict.fromkeys(self.config["entry_urls"]))
+        today=date.today()
+        urls=[]
+        for template in self.config["entry_urls"]:
+            if '{year}' in template:
+                urls.extend(template.format(year=y) for y in (today.year,today.year-1))
+            else: urls.append(template)
+        return list(dict.fromkeys(urls))
 
     def validate_source(self, source):
         if self.id != source["id"]: raise ValueError("adapter ID mismatch")

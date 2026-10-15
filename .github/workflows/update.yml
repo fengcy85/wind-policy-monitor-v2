@@ -72,8 +72,8 @@ jobs:
         continue-on-error: true
         env:
           POLICY_BROWSER_FALLBACK: '1'
-          POLICY_REQUEST_TIMEOUT: '10'
-          POLICY_WORKERS: '5'
+          POLICY_REQUEST_TIMEOUT: '18'
+          POLICY_WORKERS: '4'
           POLICY_DETAILS_PER_SOURCE: '32'
           POLICY_LIST_PAGES: '5'
         run: python policy_scrape.py --mode auto

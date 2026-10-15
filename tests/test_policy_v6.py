@@ -11,10 +11,10 @@ HTML_DETAIL='''<html><head><meta property="article:published_time" content="2026
 
 class ScraperChecks(unittest.TestCase):
  def test_source_count_and_adapters(self):
-  self.assertEqual(len(SRCS),121)
+  self.assertEqual(len(SRCS),138)
   self.assertEqual(len(DIMS),18)
   self.assertEqual(sum(bool(s['adapter']) for s in SRCS),7)
-  self.assertEqual(len({s['url'] for s in SRCS}),121)
+  self.assertEqual(len({s['url'] for s in SRCS}),138)
   self.assertEqual({a['adapter'] for a in SRCS if a['adapter']},set(p.ADAPTERS))
  def test_date_bounds(self):
   self.assertEqual(p.parse_date('2026年10月13日'),'2026-10-13')
@@ -86,7 +86,7 @@ class ScraperChecks(unittest.TestCase):
   self.assertEqual(obj['clause_scoring'][0]['importance']['score'],100)
   self.assertIn('impact_chain',obj)
   self.assertIn('responsible_teams',obj)
- def test_end_to_end_all_121_offline_fixtures(self):
+ def test_end_to_end_all_138_offline_fixtures(self):
   # No network: asserts loop coverage, output JSON, 30-day setting and no fabricated articles.
   with tempfile.TemporaryDirectory() as temp:
    dr=Path(temp); dr.mkdir(exist_ok=True)
@@ -101,13 +101,13 @@ class ScraperChecks(unittest.TestCase):
     old_disabled=p.LOG.disabled;p.LOG.disabled=True
     try:statuses=p.main(['--mode','auto'])
     finally:p.LOG.disabled=old_disabled
-   self.assertEqual(len(statuses),121)
-   self.assertEqual(len(set(s['id'] for s in statuses)),121)
+   self.assertEqual(len(statuses),138)
+   self.assertEqual(len(set(s['id'] for s in statuses)),138)
    self.assertEqual(json.loads((dr/'policy_crawl_state.json').read_text())['bootstrap_days'],30)
-   self.assertEqual(json.loads((dr/'policy_crawl_state.json').read_text())['pending_initialization_count'],121)
-   self.assertEqual(len(json.loads((dr/'policy_source_status.json').read_text())),121)
+   self.assertEqual(json.loads((dr/'policy_crawl_state.json').read_text())['pending_initialization_count'],138)
+   self.assertEqual(len(json.loads((dr/'policy_source_status.json').read_text())),138)
    self.assertEqual(len(json.loads((dr/'policies.json').read_text())),0)
-   self.assertEqual(len((dr/'policy_site_acceptance.csv').read_text(encoding='utf-8-sig').splitlines()),122)
+   self.assertEqual(len((dr/'policy_site_acceptance.csv').read_text(encoding='utf-8-sig').splitlines()),len(SRCS)+1)
    self.assertTrue(any(s['status']=='needs_adapter' for s in statuses))
    self.assertFalse(any(s['status']=='ok_with_results' for s in statuses))
  def test_browser_failure_trace(self):

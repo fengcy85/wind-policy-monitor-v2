@@ -32,17 +32,17 @@ def listing_markup(host,new_date,older_date):
 
 
 class V61Checkpoints(unittest.TestCase):
- def test_modules_one_per_121_urls_and_dimensions(self):
-  self.assertEqual(len(SOURCES),121)
+ def test_modules_one_per_138_urls_and_dimensions(self):
+  self.assertEqual(len(SOURCES),138)
   self.assertEqual(len(DIMS),18)
-  self.assertEqual(len({s['id'] for s in SOURCES}),121)
+  self.assertEqual(len({s['id'] for s in SOURCES}),138)
   for src in SOURCES:
    obj=p.load_adapter(src)
    self.assertEqual(obj.id,src['id'])
    self.assertTrue(obj.is_site_specific())
    self.assertTrue((p.ROOT/'adapters'/'sites'/(src['id']+'.py')).is_file())
    self.assertFalse(obj.config['selectors_live_verified'])
-  self.assertEqual(sum(s['region']=='中国' for s in SOURCES),100)
+  self.assertEqual(sum(s['region']=='中国' for s in SOURCES),117)
   self.assertEqual(sum(s['region']=='海外/国际' for s in SOURCES),21)
 
  def test_first_month_is_fixed_per_site_when_failures_span_more_than_month(self):
@@ -178,8 +178,8 @@ class V61Checkpoints(unittest.TestCase):
      b=p.main(['--prepare'])
      second=cpfile.read_text()
    self.assertEqual(first,second)
-   self.assertEqual(len(a),121)
-   self.assertEqual(len(b),121)
+   self.assertEqual(len(a),138)
+   self.assertEqual(len(b),138)
    self.assertFalse(any(x['initialized'] for x in a.values()))
 
  def test_error_status_never_advances_checkpoint(self):
@@ -215,15 +215,15 @@ class V61Checkpoints(unittest.TestCase):
     try:
      a=p.main([]);b=p.main([])
     finally:p.LOG.disabled=old_logging
-   self.assertEqual(len(a),121);self.assertEqual(len(b),121)
-   self.assertEqual(sum(x['phase']=='initial_month' for x in a),121)
-   self.assertEqual(sum(x['phase']=='daily_increment' for x in b),120)
+   self.assertEqual(len(a),138);self.assertEqual(len(b),138)
+   self.assertEqual(sum(x['phase']=='initial_month' for x in a),138)
+   self.assertEqual(sum(x['phase']=='daily_increment' for x in b),len(SOURCES)-1)
    self.assertEqual(sum(x['phase']=='initial_month' for x in b),1)
    ck=json.loads((path/'checkpoints.json').read_text())
    self.assertEqual(ck['sources'][failure_id]['consecutive_failures'],2)
    self.assertFalse(ck['sources'][failure_id]['initialized'])
-   self.assertEqual(sum(v['initialized'] for v in ck['sources'].values()),120)
-   self.assertEqual(len((path/'policy_site_acceptance.csv').read_text(encoding='utf-8-sig').splitlines()),122)
-   self.assertEqual(json.loads((path/'state.json').read_text())['initialized_source_count'],120)
+   self.assertEqual(sum(v['initialized'] for v in ck['sources'].values()),len(SOURCES)-1)
+   self.assertEqual(len((path/'policy_site_acceptance.csv').read_text(encoding='utf-8-sig').splitlines()),len(SOURCES)+1)
+   self.assertEqual(json.loads((path/'state.json').read_text())['initialized_source_count'],len(SOURCES)-1)
 
 if __name__=='__main__':unittest.main()

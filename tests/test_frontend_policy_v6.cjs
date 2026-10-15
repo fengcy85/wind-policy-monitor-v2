@@ -43,8 +43,8 @@ vm.runInNewContext(fs.readFileSync(path.join(root,'site/static/policy.js'),'utf8
  }
  assert(!html.includes('<script>BAD</script>'),'XSS must not be interpreted');
  assert(html.includes('&lt;script&gt;BAD&lt;/script&gt;'));
- assert.strictEqual(String(elements.get('sourceTotal').textContent),'121');
- assert.strictEqual(String(elements.get('sourceProblemCount').textContent),'120');
+ assert.strictEqual(String(elements.get('sourceTotal').textContent),String(sources.length));
+ assert.strictEqual(String(elements.get('sourceProblemCount').textContent),String(sources.length-1));
  assert.strictEqual(String(elements.get('sourceInitializedCount').textContent),'1');
  assert.strictEqual(String(elements.get('policyCount').textContent),'2');
  assert(elements.get('policySourceGrid').innerHTML.includes('Adilet'));
@@ -62,5 +62,5 @@ vm.runInNewContext(fs.readFileSync(path.join(root,'site/static/policy.js'),'utf8
  const index=fs.readFileSync(path.join(root,'site/index.html'),'utf8');
  const news=fs.readFileSync(path.join(root,'site/news.html'),'utf8');
  assert(index.includes('href="./news.html"')&&news.includes('href="./index.html"'));
- console.log('FRONTEND POLICY PASS: 121 sources, two pages, quote/analysis, sorting, filters, safe links & XSS.');
+ console.log(`FRONTEND POLICY PASS: ${sources.length} sources, two pages, quote/analysis, sorting, filters, safe links & XSS.`);
 })().catch(err=>{console.error(err);process.exitCode=1;});
