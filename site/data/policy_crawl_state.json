@@ -1,26 +1,26 @@
 {
   "version": "V6.1",
-  "last_run": "2026-10-15T07:58:53+00:00",
+  "last_run": "2026-10-16T01:01:47+00:00",
   "configured_source_count": 138,
   "attempted_source_count": 138,
-  "initial_phase_count": 133,
-  "incremental_phase_count": 5,
+  "initial_phase_count": 123,
+  "incremental_phase_count": 15,
   "initialized_source_count": 15,
   "pending_initialization_count": 123,
   "bootstrap_days": 30,
   "daily_overlap_days": 2,
   "status_counts": {
     "blocked": 12,
-    "connection_error": 39,
-    "error": 5,
+    "connection_error": 42,
+    "error": 3,
     "needs_adapter": 22,
-    "ok_no_recent": 13,
-    "ok_with_results": 2,
-    "partial_coverage": 45
+    "ok_no_recent": 14,
+    "ok_with_results": 1,
+    "partial_coverage": 44
   },
   "change_counts": {
-    "inserted": 25,
-    "updated": 0,
-    "unchanged": 21
+    "inserted": 5,
+    "updated": 2,
+    "unchanged": 36
   }
 }

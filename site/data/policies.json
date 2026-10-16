@@ -1,5 +1,392 @@
 [
   {
+    "id": "p_8839bb55e4069275ce",
+    "title": "广东省发展改革委 广东省能源局关于明确我省新能源就近消纳价格政策有关事项的通知",
+    "url": "https://drc.gd.gov.cn/ywtz/content/post_4967040.html",
+    "source_id": "cn_236457835be8",
+    "source_name": "广东省发展改革委｜业务通知",
+    "region": "中国",
+    "country": "中国",
+    "province": "广东省",
+    "published_at": "2026-10-15",
+    "discovered_at": "2026-10-16T01:00:50+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "并网技术规范"
+    ],
+    "primary_dimension": "并网技术规范",
+    "source_excerpt": "广东省发展改革委 广东省能源局关于明确我省新能源就近消纳价格政策有关事项的通知 信息来源：价格处 时间：2026-10-15 17:20:25 字体： [大] [中] [小] 粤发改价格函〔2026〕1848号 各地级以上市发展改革局（委），广东电网公司、深圳供电局、广东电力交易中心： 为贯彻落实《国家发展改革委 国家能源局关于完善价格机制促进新能源发电就近消纳的通知》（发改价格〔2025〕1192号），推动新能源实现更高水平就近消纳，结合我省实际，现就新能源就近消纳价格机制有关事项通知如下。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "广东省发展改革委 广东省能源局关于明确我省新能源就近消纳价格政策有关事项的通知 信息来源：价格处 时间：2026-10-15 17:20:25 字体： [大] [中] [小] 粤发改价格函〔2026〕1848号 各地级以上市发展改革局（委），广东电网公司、深圳供电局、广东电力交易中心： 为贯彻落实《国家发展改革委 国家能源局关于完善价格机制促进新能源发电就近消纳的通知》（发改价格〔2025〕1192号），推动新能源实现更高水平就近消纳，结合我省实际，现就新能源就近消纳价格机制有关事项通知如下。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "项目应当具备分表计量条件，由电网企业在发电、厂用电、并网、自发自用、储能等关口安装计量装置，准确计量各环节电量数据。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "对于在同一用地红线内建设分布式新能源的项目，继续按照《广东省能源局关于贯彻落实〈分布式光伏发电开发建设管理办法〉的实施意见（试行）》（粤能规〔2025〕2号）等文件要求执行。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "二、新能源就近消纳 执行 价格政策 按照“谁受益、谁负担”原则，对电力系统提供的稳定供应服务，就近消纳项目公平承担输配电费、系统运行费等费用；"
+      }
+    ],
+    "impact_design": "根据“广东省发展改革委 广东省能源局关于明确我省新能源就近消纳价格政策有关事项的通知 信息来源：价格处 时间：2026-10-15 17:20:25 字体： [大] [中] […”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核对并网测试责任、接入确认、认证时间及合同里程碑。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核故障穿越、无功、频率响应及控制软件是否需适配；核对并网测试责任、接入确认、认证时间及合同里程碑 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：广东省发展改革委 广东省能源局关于明确我省新能源就近消纳价格政策有关事项的通知 信息来源：价格处 时间：2026-10-15 17:20:25 字体： [大] [中] [小] 粤发改价格函〔2026〕1848号 各地级以上市发展改革局（委），广东电网公司、深圳供电局、广东电力交易中心： 为贯彻落实《国家发展改革委 国家能源局关于完善价格机制促进新能源发电就近消纳的通知》（发改价格〔2025〕119",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "电气与控制、认证与测试、国际销售",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "广东省发展改革委 广东省能源局关于明确我省新能源就近消纳价格政策有关事项的通知 信息来源：价格处 时间：2026-10-15 17:20:25 字体： [大] [中] [小] 粤发改价格函〔2026〕1848号 各地级以上市发展改革局（委），广东电网公司、深圳供电局、广东电力交易中心： 为贯彻落实《国家发展改革委 国家能源局关于完善价格机制促进新能源发电就近消纳的通知》（发改价格〔2025〕1192号），推动新能源实现更高水平就近消纳，结合我省实际，现就新能源就近消纳价格机制有关事项通知如下。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "项目应当具备分表计量条件，由电网企业在发电、厂用电、并网、自发自用、储能等关口安装计量装置，准确计量各环节电量数据。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "对于在同一用地红线内建设分布式新能源的项目，继续按照《广东省能源局关于贯彻落实〈分布式光伏发电开发建设管理办法〉的实施意见（试行）》（粤能规〔2025〕2号）等文件要求执行。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "二、新能源就近消纳 执行 价格政策 按照“谁受益、谁负担”原则，对电力系统提供的稳定供应服务，就近消纳项目公平承担输配电费、系统运行费等费用；",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "a9cb8bedaa88d7c0e9bd214c26dbcca5424cebd50763a3f81eb89e22d28894b4",
+    "originally_discovered_at": "2026-10-16T01:00:50+00:00"
+  },
+  {
+    "id": "p_c1cbe2691f6e6042a1",
+    "title": "贵州省能源局行政处罚公告（2026年第158号)",
+    "url": "https://nyj.guizhou.gov.cn/xwzx/gsgg/202610/t20261015_90994378.html",
+    "source_id": "cn_61f329f622c8",
+    "source_name": "贵州省能源局",
+    "region": "中国",
+    "country": "中国",
+    "province": "贵州",
+    "published_at": "2026-10-15",
+    "discovered_at": "2026-10-16T00:56:38+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "安全生产与劳动法规"
+    ],
+    "primary_dimension": "安全生产与劳动法规",
+    "source_excerpt": "贵州省能源局行政处罚公告 被处罚个人 魏毅 案件名称 关于遵义桐梓渝能公司吉源煤矿“5·31”顶板事故暂扣安全生产许可证，暂停、吊销相关责任人员煤矿安全生产管理从业有关资格案 处罚决定书文号 黔（能）煤安罚〔2026〕74-8号 处罚决定时间 2026年9月29日 处罚结果 暂停安全生产管理从业资格（安全生产知识和管理能力考核合格证明编号：512923********2574）30日（2026年9月29日-2026年10月28日）。 处罚事由 根据《国家矿山安全监察局贵州局关于遵义桐梓渝能公司吉源煤矿“5·31”顶板事故调查处理的决定》（矿安黔函〔2026〕203号），你个人存在：隐患排查治理不到位，11106回风巷施钻不规范、开挖迎头岩体、迎头危岩等问题隐患长期存在，未",
+    "clauses": [
+      {
+        "clause": "第九十六条",
+        "excerpt": "贵州省能源局行政处罚公告 被处罚个人 魏毅 案件名称 关于遵义桐梓渝能公司吉源煤矿“5·31”顶板事故暂扣安全生产许可证，暂停、吊销相关责任人员煤矿安全生产管理从业有关资格案 处罚决定书文号 黔（能）煤安罚〔2026〕74-8号 处罚决定时间 2026年9月29日 处罚结果 暂停安全生产管理从业资格（安全生产知识和管理能力考核合格证明编号：512923********2574）30日（2026年9月29日-2026年10月28日）。 处罚事由 根据《国家矿山安全监察局贵州局关于遵义桐梓渝能公司吉源煤矿“5·31”顶板事故调查处理的决定》（矿安黔函〔2026〕203号），你个人存在：隐患排查治理不到位，11106回风巷施钻不规范、开挖迎头岩体、迎头危岩等问题隐患长期存在，未督促落实整改的问题，认定你个人对事故发生负有主要责任。 处罚依据 《中华人民共和"
+      }
+    ],
+    "impact_design": "根据“贵州省能源局行政处罚公告 被处罚个人 魏毅 案件名称 关于遵义桐梓渝能公司吉源煤矿“5·31”顶板事故暂扣安全生产许可证，暂停、吊销相关责任人员煤矿安全生产管理从业有关资…”的文本线索，产品设计核查路径：复核安全联锁、施工检修措施及设备技术文件。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查施工、运维责任划分、人员培训及保险合同。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核安全联锁、施工检修措施及设备技术文件；核查施工、运维责任划分、人员培训及保险合同 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：贵州省能源局行政处罚公告 被处罚个人 魏毅 案件名称 关于遵义桐梓渝能公司吉源煤矿“5·31”顶板事故暂扣安全生产许可证，暂停、吊销相关责任人员煤矿安全生产管理从业有关资格案 处罚决定书文号 黔（能）煤安罚〔2026〕74-8号 处罚决定时间 2026年9月29日 处罚结果 暂停安全生产管理从业资格（安全生产知识和管理能力考核合格证明编号：512923********2574）30日（2026年9",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、运维服务、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "第九十六条",
+        "excerpt": "贵州省能源局行政处罚公告 被处罚个人 魏毅 案件名称 关于遵义桐梓渝能公司吉源煤矿“5·31”顶板事故暂扣安全生产许可证，暂停、吊销相关责任人员煤矿安全生产管理从业有关资格案 处罚决定书文号 黔（能）煤安罚〔2026〕74-8号 处罚决定时间 2026年9月29日 处罚结果 暂停安全生产管理从业资格（安全生产知识和管理能力考核合格证明编号：512923********2574）30日（2026年9月29日-2026年10月28日）。 处罚事由 根据《国家矿山安全监察局贵州局关于遵义桐梓渝能公司吉源煤矿“5·31”顶板事故调查处理的决定》（矿安黔函〔2026〕203号），你个人存在：隐患排查治理不到位，11106回风巷施钻不规范、开挖迎头岩体、迎头危岩等问题隐患长期存在，未督促落实整改的问题，认定你个人对事故发生负有主要责任。 处罚依据 《中华人民共和",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "758ae0b07ad36b43d6a1a6d5e24ffba0d8553299e7a3f2b9d842f23418ef98af",
+    "originally_discovered_at": "2026-10-16T00:56:38+00:00"
+  },
+  {
+    "id": "p_473a799a020bfc1204",
+    "title": "贵州省能源局行政处罚公告（2026年第163号)",
+    "url": "https://nyj.guizhou.gov.cn/xwzx/gsgg/202610/t20261015_90994391.html",
+    "source_id": "cn_61f329f622c8",
+    "source_name": "贵州省能源局",
+    "region": "中国",
+    "country": "中国",
+    "province": "贵州",
+    "published_at": "2026-10-15",
+    "discovered_at": "2026-10-16T00:56:37+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "安全生产与劳动法规"
+    ],
+    "primary_dimension": "安全生产与劳动法规",
+    "source_excerpt": "贵州省能源局行政处罚公告 被处罚单位 贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿） 案件名称 贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿）存在重大隐患被责令停产整顿暂扣安全生产许可证案 处罚决定书文号 黔（能）煤安罚〔2026〕81号 处罚决定时间 2026年10月10日 处罚结果 暂扣贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿）的《安全生产许可证》｛编号：（黔）MK安许证字〔3278〕｝，自决定送达之日起至隐患整改合格并依法申请返还。 处罚事由 2026 年 9 月 18 日，国家矿山安全监察局贵州局对贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿）下达《行政处罚决定书》 ( 矿安监黔煤执六罚〔 2026 〕 146 号 ) ",
+    "clauses": [
+      {
+        "clause": "第七十三条",
+        "excerpt": "贵州省能源局行政处罚公告 被处罚单位 贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿） 案件名称 贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿）存在重大隐患被责令停产整顿暂扣安全生产许可证案 处罚决定书文号 黔（能）煤安罚〔2026〕81号 处罚决定时间 2026年10月10日 处罚结果 暂扣贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿）的《安全生产许可证》｛编号：（黔）MK安许证字〔3278〕｝，自决定送达之日起至隐患整改合格并依法申请返还。 处罚事由 2026 年 9 月 18 日，国家矿山安全监察局贵州局对贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿）下达《行政处罚决定书》 ( 矿安监黔煤执六罚〔 2026 〕 146 号 ) ，作出责令停产整顿 12 日的行政处罚。 处罚依据 《煤矿安全生产条例》第七十三"
+      }
+    ],
+    "impact_design": "根据“贵州省能源局行政处罚公告 被处罚单位 贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿） 案件名称 贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿）存在重大…”的文本线索，产品设计核查路径：复核安全联锁、施工检修措施及设备技术文件。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查施工、运维责任划分、人员培训及保险合同。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核安全联锁、施工检修措施及设备技术文件；核查施工、运维责任划分、人员培训及保险合同 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：贵州省能源局行政处罚公告 被处罚单位 贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿） 案件名称 贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿）存在重大隐患被责令停产整顿暂扣安全生产许可证案 处罚决定书文号 黔（能）煤安罚〔2026〕81号 处罚决定时间 2026年10月10日 处罚结果 暂扣贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿）的《安全生产许可证》｛编号：（黔",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、运维服务、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "第七十三条",
+        "excerpt": "贵州省能源局行政处罚公告 被处罚单位 贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿） 案件名称 贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿）存在重大隐患被责令停产整顿暂扣安全生产许可证案 处罚决定书文号 黔（能）煤安罚〔2026〕81号 处罚决定时间 2026年10月10日 处罚结果 暂扣贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿）的《安全生产许可证》｛编号：（黔）MK安许证字〔3278〕｝，自决定送达之日起至隐患整改合格并依法申请返还。 处罚事由 2026 年 9 月 18 日，国家矿山安全监察局贵州局对贵州省桐梓县万顺煤炭有限责任公司（桐梓县木瓜镇万顺煤矿）下达《行政处罚决定书》 ( 矿安监黔煤执六罚〔 2026 〕 146 号 ) ，作出责令停产整顿 12 日的行政处罚。 处罚依据 《煤矿安全生产条例》第七十三",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "609c3bbcee8e5acc7fe3cebbe9e8de8ba7dcfee8f773259c5e45da4075650639",
+    "originally_discovered_at": "2026-10-16T00:56:37+00:00"
+  },
+  {
+    "id": "p_b90eb9e3aba554b57e",
+    "title": "贵州省能源局行政处罚公告（2026年第162号)",
+    "url": "https://nyj.guizhou.gov.cn/xwzx/gsgg/202610/t20261015_90994394.html",
+    "source_id": "cn_61f329f622c8",
+    "source_name": "贵州省能源局",
+    "region": "中国",
+    "country": "中国",
+    "province": "贵州",
+    "published_at": "2026-10-15",
+    "discovered_at": "2026-10-16T00:56:37+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "安全生产与劳动法规"
+    ],
+    "primary_dimension": "安全生产与劳动法规",
+    "source_excerpt": "贵州省能源局行政处罚公告 被处罚个人 张雷 案件名称 关于遵义桐梓渝能公司吉源煤矿“5·31”顶板事故暂扣安全生产许可证，暂停、吊销相关责任人员煤矿安全生产管理从业有关资格案 处罚决定书文号 黔（能）煤安罚〔2026〕74-12号 处罚决定时间 2026年9月29日 处罚结果 暂停安全生产管理从业资格（安全生产知识和管理能力考核合格证明编号：370902********2735）30日（2026年9月29日-2026年10月28日）。 处罚事由 根据《国家矿山安全监察局贵州局关于遵义桐梓渝能公司吉源煤矿“5·31”顶板事故调查处理的决定》（矿安黔函〔2026〕203号），你个人存在：未认真督促落实本单位全员安全生产责任制工作的问题，认定你个人对事故发生负有领导责任。 处罚",
+    "clauses": [
+      {
+        "clause": "第四十条",
+        "excerpt": "贵州省能源局行政处罚公告 被处罚个人 张雷 案件名称 关于遵义桐梓渝能公司吉源煤矿“5·31”顶板事故暂扣安全生产许可证，暂停、吊销相关责任人员煤矿安全生产管理从业有关资格案 处罚决定书文号 黔（能）煤安罚〔2026〕74-12号 处罚决定时间 2026年9月29日 处罚结果 暂停安全生产管理从业资格（安全生产知识和管理能力考核合格证明编号：370902********2735）30日（2026年9月29日-2026年10月28日）。 处罚事由 根据《国家矿山安全监察局贵州局关于遵义桐梓渝能公司吉源煤矿“5·31”顶板事故调查处理的决定》（矿安黔函〔2026〕203号），你个人存在：未认真督促落实本单位全员安全生产责任制工作的问题，认定你个人对事故发生负有领导责任。 处罚依据 《生产安全事故报告和调查处理条例》第四十条 救济渠道 行政复议和行政诉讼 "
+      }
+    ],
+    "impact_design": "根据“贵州省能源局行政处罚公告 被处罚个人 张雷 案件名称 关于遵义桐梓渝能公司吉源煤矿“5·31”顶板事故暂扣安全生产许可证，暂停、吊销相关责任人员煤矿安全生产管理从业有关资…”的文本线索，产品设计核查路径：复核安全联锁、施工检修措施及设备技术文件。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查施工、运维责任划分、人员培训及保险合同。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核安全联锁、施工检修措施及设备技术文件；核查施工、运维责任划分、人员培训及保险合同 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：贵州省能源局行政处罚公告 被处罚个人 张雷 案件名称 关于遵义桐梓渝能公司吉源煤矿“5·31”顶板事故暂扣安全生产许可证，暂停、吊销相关责任人员煤矿安全生产管理从业有关资格案 处罚决定书文号 黔（能）煤安罚〔2026〕74-12号 处罚决定时间 2026年9月29日 处罚结果 暂停安全生产管理从业资格（安全生产知识和管理能力考核合格证明编号：370902********2735）30日（2026年",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、运维服务、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "第四十条",
+        "excerpt": "贵州省能源局行政处罚公告 被处罚个人 张雷 案件名称 关于遵义桐梓渝能公司吉源煤矿“5·31”顶板事故暂扣安全生产许可证，暂停、吊销相关责任人员煤矿安全生产管理从业有关资格案 处罚决定书文号 黔（能）煤安罚〔2026〕74-12号 处罚决定时间 2026年9月29日 处罚结果 暂停安全生产管理从业资格（安全生产知识和管理能力考核合格证明编号：370902********2735）30日（2026年9月29日-2026年10月28日）。 处罚事由 根据《国家矿山安全监察局贵州局关于遵义桐梓渝能公司吉源煤矿“5·31”顶板事故调查处理的决定》（矿安黔函〔2026〕203号），你个人存在：未认真督促落实本单位全员安全生产责任制工作的问题，认定你个人对事故发生负有领导责任。 处罚依据 《生产安全事故报告和调查处理条例》第四十条 救济渠道 行政复议和行政诉讼 ",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "cd08042313d44232d2bb9de08c196bef27ef670b7361e24504f571c2a98f7d76",
+    "originally_discovered_at": "2026-10-16T00:56:37+00:00"
+  },
+  {
+    "id": "p_94c1ceb9ba56b479ea",
+    "title": "图表：第140届广交会开展 吸引境外采购商约34万名",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202610/content_7083353.htm",
+    "source_id": "cn_37cf03ee8fd2",
+    "source_name": "国务院最新政策（原单篇文章入口替换）",
+    "region": "中国",
+    "country": "中国",
+    "province": "",
+    "published_at": "2026-10-15",
+    "discovered_at": "2026-10-16T00:47:02+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "招投标与政府采购"
+    ],
+    "primary_dimension": "招投标与政府采购",
+    "source_excerpt": "首页 > 政策 > 图解政策 图表：第140届广交会开展 吸引境外采购商约34万名 2026-10-15 21:37 来源： 新华社 字号： 默认 大 超大 | 打印 | 第140届中国进出口商品交易会（广交会）10月15日开展，全程共有3万多家企业参展，约34万名境外采购商到会采购。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "首页 > 政策 > 图解政策 图表：第140届广交会开展 吸引境外采购商约34万名 2026-10-15 21:37 来源： 新华社 字号： 默认 大 超大 | 打印 | 第140届中国进出口商品交易会（广交会）10月15日开展，全程共有3万多家企业参展，约34万名境外采购商到会采购。"
+      }
+    ],
+    "impact_design": "根据“首页 > 政策 > 图解政策 图表：第140届广交会开展 吸引境外采购商约34万名 2026-10-15 21:37 来源： 新华社 字号： 默认 大 超大 | 打印 |…”的文本线索，产品设计核查路径：核对投标技术规范、质保测试证明及适用认证要求。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查供应商资格、评标条件、价格及交付承诺。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对投标技术规范、质保测试证明及适用认证要求；核查供应商资格、评标条件、价格及交付承诺 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：首页 > 政策 > 图解政策 图表：第140届广交会开展 吸引境外采购商约34万名 2026-10-15 21:37 来源： 新华社 字号： 默认 大 超大 | 打印 | 第140届中国进出口商品交易会（广交会）10月15日开展，全程共有3万多家企业参展，约34万名境外采购商到会采购。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "国际销售、市场战略、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "首页 > 政策 > 图解政策 图表：第140届广交会开展 吸引境外采购商约34万名 2026-10-15 21:37 来源： 新华社 字号： 默认 大 超大 | 打印 | 第140届中国进出口商品交易会（广交会）10月15日开展，全程共有3万多家企业参展，约34万名境外采购商到会采购。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "f31b365ea38bde7d438d73519a78774c12e7732c663bc03f76dddb31b295aaa4",
+    "originally_discovered_at": "2026-10-16T00:47:02+00:00"
+  },
+  {
     "id": "p_b10d900d7f7aa5ba6f",
     "title": "广东省发展改革委关于公布有关垃圾焚烧发电企业2026年上半年垃圾处理量及相关电量等事项的通知",
     "url": "https://drc.gd.gov.cn/ywtz/content/post_4966558.html",
@@ -1880,23 +2267,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-10-09",
-    "discovered_at": "2026-10-15T07:58:14+00:00",
+    "discovered_at": "2026-10-16T01:00:56+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "并网技术规范"
     ],
     "primary_dimension": "并网技术规范",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"2b0c657137afc6a3efc3ecc416671c71\",\"traceid\":\"2760779317920510944935569ed981\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"2e5987d12ba2db97cbbb28bfa1f1f336\",\"traceid\":\"276077e917921124558733183e11c5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"2b0c657137afc6a3efc3ecc416671c71\",\"traceid\":\"2760779317920510944935569ed981\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-F"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"2e5987d12ba2db97cbbb28bfa1f1f336\",\"traceid\":\"276077e917921124558733183e11c5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-a"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核对并网测试责任、接入确认、认证时间及合同里程碑。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核故障穿越、无功、频率响应及控制软件是否需适配；核对并网测试责任、接入确认、认证时间及合同里程碑 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"2b0c657137afc6a3efc3ecc416671c71\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"2e5987d12ba2db97cbbb28bfa1f1f336\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -1917,7 +2304,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"2b0c657137afc6a3efc3ecc416671c71\",\"traceid\":\"2760779317920510944935569ed981\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-F",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"2e5987d12ba2db97cbbb28bfa1f1f336\",\"traceid\":\"276077e917921124558733183e11c5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-a",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -1933,8 +2320,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "f1475af6aabc0f325fc8b1b0cdbe2ed3117802cc7ced83c85a270452d272a675",
-    "originally_discovered_at": "2026-10-15T07:58:14+00:00"
+    "content_hash": "658efe603e3ecba8d09373facd0fb1bd89f5a41c3b01831b7fbb461da4ad4abe",
+    "originally_discovered_at": "2026-10-15T07:58:14+00:00",
+    "updated_at": "2026-10-16T01:01:47+00:00"
   },
   {
     "id": "p_4d9e7c21f93f2dc095",
@@ -4830,23 +5218,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-09-16",
-    "discovered_at": "2026-10-15T07:58:15+00:00",
+    "discovered_at": "2026-10-16T01:00:56+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "可再生能源开发与电价"
     ],
     "primary_dimension": "可再生能源开发与电价",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"9d55df8579530b0b8603206c819a0a28\",\"traceid\":\"2760779317920510954735598ed981\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"5ad4d4b9141751742e969186ea60c2cf\",\"traceid\":\"276077e917921124567333212e11c5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"9d55df8579530b0b8603206c819a0a28\",\"traceid\":\"2760779317920510954735598ed981\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-u"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"5ad4d4b9141751742e969186ea60c2cf\",\"traceid\":\"276077e917921124567333212e11c5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-u"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"9d55df8579530b0b8603206c819a0a28\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"5ad4d4b9141751742e969186ea60c2cf\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -4867,7 +5255,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"9d55df8579530b0b8603206c819a0a28\",\"traceid\":\"2760779317920510954735598ed981\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-u",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"5ad4d4b9141751742e969186ea60c2cf\",\"traceid\":\"276077e917921124567333212e11c5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-u",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -4883,8 +5271,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "a0806fbc25d68080cd35d07c038d92eb400fc1a499d5c5bb2fc632514c5634d2",
-    "originally_discovered_at": "2026-10-15T07:58:15+00:00"
+    "content_hash": "a1c47e0713ec5bba83ab45acbab7fc49256a903ce28e8ba98d0bdc3e5e96efee",
+    "originally_discovered_at": "2026-10-15T07:58:15+00:00",
+    "updated_at": "2026-10-16T01:01:47+00:00"
   },
   {
     "id": "p_5bce90bf594d95cb32",
