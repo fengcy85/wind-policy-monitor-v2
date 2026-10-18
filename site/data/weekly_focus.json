@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-17T04:44:23+00:00",
+  "generated_at": "2026-10-18T04:49:42+00:00",
   "period": {
     "days": 7,
-    "start": "2026-10-11",
-    "end": "2026-10-17"
+    "start": "2026-10-12",
+    "end": "2026-10-18"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -92,12 +92,12 @@
       "importance_reason": "1.2 GW · 审批政策 · ReNew"
     },
     {
-      "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "Acciona picked to develop 2-GW Gippsland offshore wind transmission",
-      "translated_title": "Acciona 选择开发 2-GW Gippsland 近海风力传输",
-      "published_at": "2026-10-15",
-      "url": "https://renewablesnow.com/news/acciona-picked-to-develop-2-gw-gippsland-offshore-wind-transmission-1303045/",
+      "country": "印度",
+      "source_name": "Renewable Watch",
+      "title": "ACCIONA to develop 2 GW offshore wind transmission project",
+      "translated_title": "ACIONA开发2个GW岸外风能传输项目",
+      "published_at": "2026-10-16",
+      "url": "https://renewablewatch.in/2026/10/16/acciona-to-develop-2-gw-offshore-wind-transmission-project/",
       "tags": [
         "竞对资讯",
         "电网建设"
@@ -164,6 +164,29 @@
       "importance_reason": "10 GW · 竞对资讯 · 招标采购"
     },
     {
+      "country": "印度",
+      "source_name": "Renewable Watch",
+      "title": "TGREDCO floats tender for 800 MW wind projects",
+      "translated_title": "800兆瓦风能项目的TGREDCO浮标",
+      "published_at": "2026-10-16",
+      "url": "https://renewablewatch.in/2026/10/16/tgredco-floats-tender-for-800-mw-wind-projects/",
+      "tags": [
+        "竞对资讯",
+        "招标采购"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 500MW+项目 · 标题明确风电",
+      "signals": [
+        "800 MW",
+        "竞对资讯",
+        "招标采购"
+      ],
+      "rank": 7,
+      "importance_reason": "800 MW · 竞对资讯 · 招标采购"
+    },
+    {
       "country": "全球",
       "source_name": "Renewables Now",
       "title": "Germany keeps onshore wind tender volume at 2.5 GW",
@@ -182,31 +205,8 @@
         "招标采购",
         "ReNew"
       ],
-      "rank": 7,
-      "importance_reason": "2.5 GW · 招标采购 · ReNew"
-    },
-    {
-      "country": "印度",
-      "source_name": "Energetica India – Wind Power",
-      "title": "Alfanar to Sell 507.9 MW Gujarat Wind Portfolio to KPI Green",
-      "translated_title": "Alfanar向KPI Green出售507.9兆瓦古吉拉特风能组合",
-      "published_at": "2026-10-15",
-      "url": "https://www.energetica-india.net/news/alfanar-to-sell-5079-mw-gujarat-wind-portfolio-to-kpi-green",
-      "tags": [
-        "竞对资讯",
-        "招标采购"
-      ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "正文含招标/采购 · 竞对项目动态 · 500MW+项目 · 标题明确风电",
-      "signals": [
-        "508 MW",
-        "竞对资讯",
-        "招标采购"
-      ],
       "rank": 8,
-      "importance_reason": "508 MW · 竞对资讯 · 招标采购"
+      "importance_reason": "2.5 GW · 招标采购 · ReNew"
     }
   ]
 }

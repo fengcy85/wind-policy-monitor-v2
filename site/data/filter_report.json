@@ -1,26 +1,17 @@
 {
-  "generated_at": "2026-10-17T04:44:23+00:00",
-  "before": 335,
-  "kept": 278,
-  "filtered_out": 57,
+  "generated_at": "2026-10-18T04:49:42+00:00",
+  "before": 333,
+  "kept": 283,
+  "filtered_out": 50,
   "tag_counts": {
-    "竞对资讯": 244,
-    "招标采购": 69,
+    "竞对资讯": 250,
+    "招标采购": 71,
+    "电网建设": 23,
     "审批政策": 36,
-    "电网建设": 22,
     "市场机制": 8,
     "宏观政策": 3
   },
   "rejected_examples": [
-    {
-      "title": "Onshore Wind",
-      "source_name": "Renewables Now",
-      "published_at": "2026-10-16",
-      "url": "https://renewablesnow.com/news/wind/",
-      "reasons": [
-        "标题无效/栏目标题"
-      ]
-    },
     {
       "title": "Equinor leaves South Korea's offshore wind market",
       "source_name": "Renewables Now",
@@ -102,60 +93,6 @@
       ]
     },
     {
-      "title": "Financings",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-16",
-      "url": "https://renewablewatch.in/2026/10/05/sumitro-corporation-to-acquire-stake-in-hfes-500-mw-renewable-energy-project-in-karnataka/",
-      "reasons": [
-        "正文明确涉及风电"
-      ]
-    },
-    {
-      "title": "Financings",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-16",
-      "url": "https://renewablewatch.in/2026/10/06/vardhman-textiles-and-serentica-partner-for-captive-hybrid-project/",
-      "reasons": [
-        "正文明确涉及风电"
-      ]
-    },
-    {
-      "title": "International News",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-16",
-      "url": "https://renewablewatch.in/2026/10/08/cargill-expands-renewable-electricity-portfolio-in-the-us/",
-      "reasons": [
-        "标题无效/栏目标题"
-      ]
-    },
-    {
-      "title": "Hybrids and Energy Storage",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-16",
-      "url": "https://renewablewatch.in/2026/10/13/eskom-launches-6-gw-renewables-tender/",
-      "reasons": [
-        "标题无效/栏目标题"
-      ]
-    },
-    {
-      "title": "October 16, 2026",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-16",
-      "url": "https://renewablewatch.in/2026/10/",
-      "reasons": [
-        "标题无效/栏目标题"
-      ]
-    },
-    {
-      "title": "Projects",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-16",
-      "url": "https://renewablewatch.in/2026/10/15/telangana-issues-2-gw-fdre-rtc-tender/",
-      "reasons": [
-        "标题无效/栏目标题"
-      ]
-    },
-    {
       "title": "Pralhad Joshi to Inaugurate Windergy India 2026 in Chennai",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-10-15",
@@ -184,6 +121,15 @@
       ]
     },
     {
+      "title": "Telangana issues 2 GW FDRE-RTC tender",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-15",
+      "url": "https://renewablewatch.in/2026/10/15/telangana-issues-2-gw-fdre-rtc-tender/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Creating Value: Economic benefits from wind power projects",
       "source_name": "Renewable Watch",
       "published_at": "2026-10-15",
@@ -194,20 +140,19 @@
       ]
     },
     {
+      "title": "Eskom launches 6 GW renewables tender",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-13",
+      "url": "https://renewablewatch.in/2026/10/13/eskom-launches-6-gw-renewables-tender/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Alfanar accepts KPI Green Energy’s binding offer for 507.9 MW Bhuj wind portfolio; proceeds to fund 3 GW India pipeline",
       "source_name": "Renewable Watch",
       "published_at": "2026-10-13",
       "url": "https://renewablewatch.in/2026/10/13/alfanar-accepts-kpi-green-energys-binding-offer-for-507-9-mw-bhuj-wind-portfolio-proceeds-to-fund-3-gw-india-pipeline/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Juniper Green commissions 150 MW wind-solar hybrid project in Gujarat",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-13",
-      "url": "https://renewablewatch.in/2026/10/13/juniper-green-commissions-150-mw-wind-solar-hybrid-project-in-gujarat/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -322,16 +267,6 @@
       ]
     },
     {
-      "title": "Scout signs 300 MW wind VPPA with Oracle",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-09",
-      "url": "https://renewablewatch.in/2026/10/09/scout-signs-300-mw-wind-vppa-with-oracle/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "28 Ottobre 2026 - SEMINARIO 4 - Power Purchase Agreement per le Rinnovabili per supportare gli obiettivi di crescita del PNIEC - ANEV",
       "source_name": "ANEV",
       "published_at": "2026-09-29",
@@ -378,6 +313,15 @@
       ]
     },
     {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-25",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Türkiye's first offshore wind YEKA project expected to draw $3B investment",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-25",
@@ -385,15 +329,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-25",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -417,19 +352,19 @@
       ]
     },
     {
-      "title": "Anadolu Agency",
+      "title": "Türkiye to invest $108B to expand power generation and grid by 2035",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-19",
-      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
+      "url": "https://www.aa.com.tr/en/energy/electricity/turkiye-to-invest-108b-to-expand-power-generation-and-grid-by-2035/59649",
       "reasons": [
         "风电相关性不足"
       ]
     },
     {
-      "title": "Türkiye to invest $108B to expand power generation and grid by 2035",
+      "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-19",
-      "url": "https://www.aa.com.tr/en/energy/electricity/turkiye-to-invest-108b-to-expand-power-generation-and-grid-by-2035/59649",
+      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
       "reasons": [
         "风电相关性不足"
       ]

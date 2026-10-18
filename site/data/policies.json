@@ -2399,23 +2399,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-10-09",
-    "discovered_at": "2026-10-17T04:34:33+00:00",
+    "discovered_at": "2026-10-18T04:39:26+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "并网技术规范"
     ],
     "primary_dimension": "并网技术规范",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"7d85debf81ecb41aff1f107591b574c3\",\"traceid\":\"276077e517922116727542205e7f69\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"22a3dd461fe8913782b08eec5e674f1f\",\"traceid\":\"3ccdc17817922983657541802eeb7e\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"7d85debf81ecb41aff1f107591b574c3\",\"traceid\":\"276077e517922116727542205e7f69\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-5"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"22a3dd461fe8913782b08eec5e674f1f\",\"traceid\":\"3ccdc17817922983657541802eeb7e\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-g"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核对并网测试责任、接入确认、认证时间及合同里程碑。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核故障穿越、无功、频率响应及控制软件是否需适配；核对并网测试责任、接入确认、认证时间及合同里程碑 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"7d85debf81ecb41aff1f107591b574c3\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"22a3dd461fe8913782b08eec5e674f1f\",\"traceid\":\"3ccd",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -2436,7 +2436,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"7d85debf81ecb41aff1f107591b574c3\",\"traceid\":\"276077e517922116727542205e7f69\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-5",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"22a3dd461fe8913782b08eec5e674f1f\",\"traceid\":\"3ccdc17817922983657541802eeb7e\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-g",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -2452,9 +2452,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "6a5356751a8abedd7ac384673af3608947ae9bc70ae7bffa4f9bdfb1bb3bfc21",
+    "content_hash": "a522b541d1963ddbb70bdb922d0c4c11227819d3a0f81b43acd456cf310158d1",
     "originally_discovered_at": "2026-10-15T07:58:14+00:00",
-    "updated_at": "2026-10-17T04:35:10+00:00"
+    "updated_at": "2026-10-18T04:40:17+00:00"
   },
   {
     "id": "p_4d9e7c21f93f2dc095",
@@ -3569,6 +3569,129 @@
     "article_evidence_available": true,
     "content_hash": "06fde21f7ad02a2ba1be48143d168b99a7fd52908b3569c575f635143dda1dd2",
     "originally_discovered_at": "2026-10-14T06:58:20+00:00"
+  },
+  {
+    "id": "p_11030c35758f30f82a",
+    "title": "关于印发《城乡义务教育补助经费管理办法》的通知",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7083519.htm",
+    "source_id": "cn_9abe6d2f93c7",
+    "source_name": "国务院部门文件",
+    "region": "中国",
+    "country": "中国",
+    "province": "",
+    "published_at": "2026-09-24",
+    "discovered_at": "2026-10-18T04:24:07+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "招投标与政府采购"
+    ],
+    "primary_dimension": "招投标与政府采购",
+    "source_excerpt": "中央与地方按比例分担的公用经费补助资金不得用于教职工福利、临时聘用人员工资等人员经费，基本建设投资，偿还债务等方面的支出。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "中央与地方按比例分担的公用经费补助资金不得用于教职工福利、临时聘用人员工资等人员经费，基本建设投资，偿还债务等方面的支出。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "涉及政府采购的，按照政府采购有关法律制度执行，其中国家课程免费教科书由省级教育、财政部门结合当地实际,按政府采购有关规定统一组织采购。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "完善内部经费管理办法，细化公用经费等支出范围与标准，加强实物消耗核算，建立规范的经费、实物等管理程序，建立物品采购登记台账，健全物品验收、进出库、保管、领用制度，明确责任，严格管理；"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "严禁将补助经费用于平衡预算、偿还债务、支付利息、对外投资等支出，不得从补助经费中提取工作经费或管理经费。"
+      }
+    ],
+    "impact_design": "根据“中央与地方按比例分担的公用经费补助资金不得用于教职工福利、临时聘用人员工资等人员经费，基本建设投资，偿还债务等方面的支出。…”的文本线索，产品设计核查路径：核对投标技术规范、质保测试证明及适用认证要求。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查供应商资格、评标条件、价格及交付承诺。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对投标技术规范、质保测试证明及适用认证要求；核查供应商资格、评标条件、价格及交付承诺 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：中央与地方按比例分担的公用经费补助资金不得用于教职工福利、临时聘用人员工资等人员经费，基本建设投资，偿还债务等方面的支出。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "国际销售、市场战略、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "中央与地方按比例分担的公用经费补助资金不得用于教职工福利、临时聘用人员工资等人员经费，基本建设投资，偿还债务等方面的支出。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "涉及政府采购的，按照政府采购有关法律制度执行，其中国家课程免费教科书由省级教育、财政部门结合当地实际,按政府采购有关规定统一组织采购。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "完善内部经费管理办法，细化公用经费等支出范围与标准，加强实物消耗核算，建立规范的经费、实物等管理程序，建立物品采购登记台账，健全物品验收、进出库、保管、领用制度，明确责任，严格管理；",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "严禁将补助经费用于平衡预算、偿还债务、支付利息、对外投资等支出，不得从补助经费中提取工作经费或管理经费。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "8a163b45a3e821eb041b406efd46e85974ca9bea4a7acd0f22133fb303f99231",
+    "originally_discovered_at": "2026-10-18T04:24:07+00:00"
   },
   {
     "id": "p_5f83340358fd02819a",
@@ -5350,23 +5473,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-09-16",
-    "discovered_at": "2026-10-17T04:34:34+00:00",
+    "discovered_at": "2026-10-18T04:39:27+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "可再生能源开发与电价"
     ],
     "primary_dimension": "可再生能源开发与电价",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"c2e3f5e83fa4942f8869ceeb2bd0ce26\",\"traceid\":\"276077e517922116740572238e7f69\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"236618cb90599814abc1a626be02fa74\",\"traceid\":\"3ccdc17817922983670861849eeb7e\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"c2e3f5e83fa4942f8869ceeb2bd0ce26\",\"traceid\":\"276077e517922116740572238e7f69\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-2"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"236618cb90599814abc1a626be02fa74\",\"traceid\":\"3ccdc17817922983670861849eeb7e\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-5"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"c2e3f5e83fa4942f8869ceeb2bd0ce26\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"236618cb90599814abc1a626be02fa74\",\"traceid\":\"3ccd",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -5387,7 +5510,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"c2e3f5e83fa4942f8869ceeb2bd0ce26\",\"traceid\":\"276077e517922116740572238e7f69\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-2",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"236618cb90599814abc1a626be02fa74\",\"traceid\":\"3ccdc17817922983670861849eeb7e\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-5",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -5403,9 +5526,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "848ed1dda1fc5c21d5d0aa1671a367fb935025fb0572fc1d230a8d0c9567b4a3",
+    "content_hash": "46d2ef7615967277cbc263491b09ffa81bd45ad350d9826a9bbc6fcca0e53940",
     "originally_discovered_at": "2026-10-15T07:58:15+00:00",
-    "updated_at": "2026-10-17T04:35:10+00:00"
+    "updated_at": "2026-10-18T04:40:17+00:00"
   },
   {
     "id": "p_5bce90bf594d95cb32",
