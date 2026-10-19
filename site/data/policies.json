@@ -644,6 +644,72 @@
     "originally_discovered_at": "2026-10-15T07:47:15+00:00"
   },
   {
+    "id": "p_6fa375ddd60778aef0",
+    "title": "福建省工业和信息化厅关于福建鼎信实业有限公司钛合金及配套项目节能报告的审查意见",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/bszn/202610/t20261019_7237576.htm",
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "region": "中国",
+    "country": "中国",
+    "province": "福建",
+    "published_at": "2026-10-13",
+    "discovered_at": "2026-10-19T04:37:48+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "供应链、ESG及碳足迹"
+    ],
+    "primary_dimension": "供应链、ESG及碳足迹",
+    "source_excerpt": "根据《中华人民共和国节约能源法》第十五条和《固定资产投资项目节能审查和碳排放评价办法》（国家发展和改革委员会令2025年第31号）等有关法律法规规章，经审查，具体意见如下： 一、根据你公司提供的节能报告，该项目为新建项目，内容符合《福建省固定资产投资项目节能审查实施办法》（闽发改规〔2023〕9号）等相关要求。",
+    "clauses": [
+      {
+        "clause": "第十五条",
+        "excerpt": "根据《中华人民共和国节约能源法》第十五条和《固定资产投资项目节能审查和碳排放评价办法》（国家发展和改革委员会令2025年第31号）等有关法律法规规章，经审查，具体意见如下： 一、根据你公司提供的节能报告，该项目为新建项目，内容符合《福建省固定资产投资项目节能审查实施办法》（闽发改规〔2023〕9号）等相关要求。"
+      }
+    ],
+    "impact_design": "根据“根据《中华人民共和国节约能源法》第十五条和《固定资产投资项目节能审查和碳排放评价办法》（国家发展和改革委员会令2025年第31号）等有关法律法规规章，经审查，具体意见如下…”的文本线索，产品设计核查路径：复核碳足迹、物料追溯、供应链披露和LCA文档。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查绿色采购、供应商披露及产品碳足迹对招投标的影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核碳足迹、物料追溯、供应链披露和LCA文档；核查绿色采购、供应商披露及产品碳足迹对招投标的影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：根据《中华人民共和国节约能源法》第十五条和《固定资产投资项目节能审查和碳排放评价办法》（国家发展和改革委员会令2025年第31号）等有关法律法规规章，经审查，具体意见如下： 一、根据你公司提供的节能报告，该项目为新建项目，内容符合《福建省固定资产投资项目节能审查实施办法》（闽发改规〔2023〕9号）等相关要求。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "供应链与采购、法务与合规、国际销售",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "第十五条",
+        "excerpt": "根据《中华人民共和国节约能源法》第十五条和《固定资产投资项目节能审查和碳排放评价办法》（国家发展和改革委员会令2025年第31号）等有关法律法规规章，经审查，具体意见如下： 一、根据你公司提供的节能报告，该项目为新建项目，内容符合《福建省固定资产投资项目节能审查实施办法》（闽发改规〔2023〕9号）等相关要求。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "8bd68f0b38f96b63b101dc61dea4f92cf80b1aebc46b6980819daa84fe4d1007",
+    "originally_discovered_at": "2026-10-19T04:37:48+00:00"
+  },
+  {
     "id": "p_36243a693ef74238ea",
     "title": "青海省人民政府 关于公布全省征收农用地区片综合地价的通知",
     "url": "http://www.qinghai.gov.cn/xxgk/xxgk/fd/zfwj/202610/t20261016_447217.html",
@@ -2399,23 +2465,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-10-09",
-    "discovered_at": "2026-10-18T04:39:26+00:00",
+    "discovered_at": "2026-10-19T04:50:09+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "并网技术规范"
     ],
     "primary_dimension": "并网技术规范",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"22a3dd461fe8913782b08eec5e674f1f\",\"traceid\":\"3ccdc17817922983657541802eeb7e\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"90a3408a2fc1fd2061b84a2e05ac2e96\",\"traceid\":\"276077ec17923854096154913e9aa6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"22a3dd461fe8913782b08eec5e674f1f\",\"traceid\":\"3ccdc17817922983657541802eeb7e\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-g"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"90a3408a2fc1fd2061b84a2e05ac2e96\",\"traceid\":\"276077ec17923854096154913e9aa6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-1"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核对并网测试责任、接入确认、认证时间及合同里程碑。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核故障穿越、无功、频率响应及控制软件是否需适配；核对并网测试责任、接入确认、认证时间及合同里程碑 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"22a3dd461fe8913782b08eec5e674f1f\",\"traceid\":\"3ccd",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"90a3408a2fc1fd2061b84a2e05ac2e96\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -2436,7 +2502,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"22a3dd461fe8913782b08eec5e674f1f\",\"traceid\":\"3ccdc17817922983657541802eeb7e\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-g",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"90a3408a2fc1fd2061b84a2e05ac2e96\",\"traceid\":\"276077ec17923854096154913e9aa6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-1",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -2452,9 +2518,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "a522b541d1963ddbb70bdb922d0c4c11227819d3a0f81b43acd456cf310158d1",
+    "content_hash": "55585ac6def163f341434e21803e17eed3ae98f8a5275a6dfe9b0f40e6065597",
     "originally_discovered_at": "2026-10-15T07:58:14+00:00",
-    "updated_at": "2026-10-18T04:40:17+00:00"
+    "updated_at": "2026-10-19T04:50:53+00:00"
   },
   {
     "id": "p_4d9e7c21f93f2dc095",
@@ -5473,23 +5539,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-09-16",
-    "discovered_at": "2026-10-18T04:39:27+00:00",
+    "discovered_at": "2026-10-19T04:50:10+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "可再生能源开发与电价"
     ],
     "primary_dimension": "可再生能源开发与电价",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"236618cb90599814abc1a626be02fa74\",\"traceid\":\"3ccdc17817922983670861849eeb7e\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f7cb00710630e4374d0a5d1cd95ab007\",\"traceid\":\"276077ec17923854107924930e9aa6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"236618cb90599814abc1a626be02fa74\",\"traceid\":\"3ccdc17817922983670861849eeb7e\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-5"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f7cb00710630e4374d0a5d1cd95ab007\",\"traceid\":\"276077ec17923854107924930e9aa6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-4"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"236618cb90599814abc1a626be02fa74\",\"traceid\":\"3ccd",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f7cb00710630e4374d0a5d1cd95ab007\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -5510,7 +5576,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"236618cb90599814abc1a626be02fa74\",\"traceid\":\"3ccdc17817922983670861849eeb7e\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-5",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f7cb00710630e4374d0a5d1cd95ab007\",\"traceid\":\"276077ec17923854107924930e9aa6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-4",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -5526,9 +5592,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "46d2ef7615967277cbc263491b09ffa81bd45ad350d9826a9bbc6fcca0e53940",
+    "content_hash": "7651af043206fd8268924237b62ceb38992f63fa88a4c06fab8a9e7f555c7b98",
     "originally_discovered_at": "2026-10-15T07:58:15+00:00",
-    "updated_at": "2026-10-18T04:40:17+00:00"
+    "updated_at": "2026-10-19T04:50:53+00:00"
   },
   {
     "id": "p_5bce90bf594d95cb32",
