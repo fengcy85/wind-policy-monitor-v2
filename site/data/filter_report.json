@@ -1,22 +1,41 @@
 {
-  "generated_at": "2026-10-20T05:09:03+00:00",
-  "before": 342,
-  "kept": 288,
-  "filtered_out": 54,
+  "generated_at": "2026-10-21T05:03:52+00:00",
+  "before": 347,
+  "kept": 292,
+  "filtered_out": 55,
   "tag_counts": {
-    "竞对资讯": 252,
+    "竞对资讯": 255,
     "招标采购": 71,
     "市场机制": 10,
     "电网建设": 26,
-    "审批政策": 37,
+    "审批政策": 38,
     "宏观政策": 3
   },
   "rejected_examples": [
     {
-      "title": "EXCLUSIVE: Turbine giant eyes mounting data centres on floating wind platform",
+      "title": "Onshore Wind",
+      "source_name": "Renewables Now",
+      "published_at": "2026-10-21",
+      "url": "https://renewablesnow.com/news/wind/",
+      "reasons": [
+        "标题无效/栏目标题"
+      ]
+    },
+    {
+      "title": "UK grid engineers: More wind and solar make power system harder to manage",
       "source_name": "Recharge",
-      "published_at": "2026-10-20",
-      "url": "https://www.rechargenews.com/floating-wind/exclusive-turbine-giant-eyes-mounting-data-centres-on-floating-wind-platform/2-1-2059847",
+      "published_at": "2026-10-21",
+      "url": "https://www.rechargenews.com/grid/uk-grid-engineers-more-wind-and-solar-make-power-system-harder-to-manage/2-1-2061094",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Major Chinese wind supplier planning factories on five continents",
+      "source_name": "Recharge",
+      "published_at": "2026-10-21",
+      "url": "https://www.rechargenews.com/china/major-chinese-wind-supplier-planning-factories-on-five-continents/2-1-2059919",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -25,7 +44,7 @@
     {
       "title": "China to remove ‘foreign’ control systems from wind farms over security concerns",
       "source_name": "Recharge",
-      "published_at": "2026-10-20",
+      "published_at": "2026-10-21",
       "url": "https://www.rechargenews.com/policy/china-to-remove-foreign-control-systems-from-wind-farms-over-security-concerns/2-1-2059671",
       "reasons": [
         "无六类监测标签",
@@ -33,39 +52,30 @@
       ]
     },
     {
-      "title": "Onshore Wind",
+      "title": "EDP switches on 130.5 MW of wind power in Spain",
       "source_name": "Renewables Now",
-      "published_at": "2026-10-19",
-      "url": "https://renewablesnow.com/news/wind/",
-      "reasons": [
-        "标题无效/栏目标题"
-      ]
-    },
-    {
-      "title": "Africa topped 11 GW of installed wind in 2025 - GWEC",
-      "source_name": "Renewables Now",
-      "published_at": "2026-10-19",
-      "url": "https://renewablesnow.com/news/africa-topped-11-gw-of-installed-wind-in-2025-gwec-1303245/",
+      "published_at": "2026-10-20",
+      "url": "https://renewablesnow.com/news/edp-switches-on-130-5-mw-of-wind-power-in-spain-1303316/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "EirGrid finishes 2026 surveys for offshore wind connection programme",
-      "source_name": "Renewables Now",
-      "published_at": "2026-10-19",
-      "url": "https://renewablesnow.com/news/eirgrid-finishes-2026-surveys-for-offshore-wind-connection-programme-1303223/",
+      "title": "Egypt targets regional gas integration and reveals $6.1 bn debt clearance at Mediterranean Offshore Conference",
+      "source_name": "Daily News Egypt",
+      "published_at": "2026-10-20",
+      "url": "https://www.dailynewsegypt.com/2026/10/20/egypt-targets-regional-gas-integration-and-reveals-6-1-bn-debt-clearance-at-mediterranean-offshore-conference/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Litgrid agrees 10-year wind PPA to cover grid losses",
-      "source_name": "Renewables Now",
-      "published_at": "2026-10-19",
-      "url": "https://renewablesnow.com/news/litgrid-agrees-10-year-wind-ppa-to-cover-grid-losses-1303208/",
+      "title": "Africa’s installed wind capacity tops 11 GW – GWEC",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-10-20",
+      "url": "https://qazaqgreen.com/en/news/world/3946/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
