@@ -1,6 +1,6 @@
 {
   "version": "V6.1",
-  "last_run": "2026-10-21T04:53:57+00:00",
+  "last_run": "2026-10-22T04:53:12+00:00",
   "configured_source_count": 138,
   "attempted_source_count": 138,
   "initial_phase_count": 122,
@@ -11,16 +11,16 @@
   "daily_overlap_days": 2,
   "status_counts": {
     "blocked": 12,
-    "connection_error": 39,
+    "connection_error": 38,
     "error": 5,
-    "needs_adapter": 22,
-    "ok_no_recent": 14,
-    "ok_with_results": 1,
+    "needs_adapter": 23,
+    "ok_no_recent": 13,
+    "ok_with_results": 2,
     "partial_coverage": 45
   },
   "change_counts": {
-    "inserted": 9,
+    "inserted": 8,
     "updated": 2,
-    "unchanged": 45
+    "unchanged": 52
   }
 }

@@ -1,30 +1,21 @@
 {
-  "generated_at": "2026-10-21T05:03:52+00:00",
+  "generated_at": "2026-10-22T05:02:34+00:00",
   "before": 347,
-  "kept": 292,
-  "filtered_out": 55,
+  "kept": 297,
+  "filtered_out": 50,
   "tag_counts": {
-    "竞对资讯": 255,
-    "招标采购": 71,
+    "竞对资讯": 258,
+    "招标采购": 73,
     "市场机制": 10,
     "电网建设": 26,
-    "审批政策": 38,
+    "审批政策": 39,
     "宏观政策": 3
   },
   "rejected_examples": [
     {
-      "title": "Onshore Wind",
-      "source_name": "Renewables Now",
-      "published_at": "2026-10-21",
-      "url": "https://renewablesnow.com/news/wind/",
-      "reasons": [
-        "标题无效/栏目标题"
-      ]
-    },
-    {
       "title": "UK grid engineers: More wind and solar make power system harder to manage",
       "source_name": "Recharge",
-      "published_at": "2026-10-21",
+      "published_at": "2026-10-22",
       "url": "https://www.rechargenews.com/grid/uk-grid-engineers-more-wind-and-solar-make-power-system-harder-to-manage/2-1-2061094",
       "reasons": [
         "无六类监测标签",
@@ -34,7 +25,7 @@
     {
       "title": "Major Chinese wind supplier planning factories on five continents",
       "source_name": "Recharge",
-      "published_at": "2026-10-21",
+      "published_at": "2026-10-22",
       "url": "https://www.rechargenews.com/china/major-chinese-wind-supplier-planning-factories-on-five-continents/2-1-2059919",
       "reasons": [
         "无六类监测标签",
@@ -42,20 +33,20 @@
       ]
     },
     {
-      "title": "China to remove ‘foreign’ control systems from wind farms over security concerns",
+      "title": "US to add 106GW of wind despite Trump's policy pushback",
       "source_name": "Recharge",
-      "published_at": "2026-10-21",
-      "url": "https://www.rechargenews.com/policy/china-to-remove-foreign-control-systems-from-wind-farms-over-security-concerns/2-1-2059671",
+      "published_at": "2026-10-22",
+      "url": "https://www.rechargenews.com/policy/us-to-add-106gw-of-wind-despite-trumps-policy-pushback/2-1-2060839",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "EDP switches on 130.5 MW of wind power in Spain",
-      "source_name": "Renewables Now",
-      "published_at": "2026-10-20",
-      "url": "https://renewablesnow.com/news/edp-switches-on-130-5-mw-of-wind-power-in-spain-1303316/",
+      "title": "Africa’s installed wind capacity tops 11 GW – GWEC",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-10-22",
+      "url": "https://qazaqgreen.com/en/news/world/3946/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -66,16 +57,6 @@
       "source_name": "Daily News Egypt",
       "published_at": "2026-10-20",
       "url": "https://www.dailynewsegypt.com/2026/10/20/egypt-targets-regional-gas-integration-and-reveals-6-1-bn-debt-clearance-at-mediterranean-offshore-conference/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Africa’s installed wind capacity tops 11 GW – GWEC",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-10-20",
-      "url": "https://qazaqgreen.com/en/news/world/3946/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -180,37 +161,10 @@
       ]
     },
     {
-      "title": "Hybrids and Energy Storage",
+      "title": "ADB and Japan to finance AM Green’s ammonia project in Andhra Pradesh",
       "source_name": "Renewable Watch",
-      "published_at": "2026-10-16",
-      "url": "https://renewablewatch.in/2026/10/05/sumitro-corporation-to-acquire-stake-in-hfes-500-mw-renewable-energy-project-in-karnataka/",
-      "reasons": [
-        "标题无效/栏目标题"
-      ]
-    },
-    {
-      "title": "Financings",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-16",
-      "url": "https://renewablewatch.in/2026/10/06/vardhman-textiles-and-serentica-partner-for-captive-hybrid-project/",
-      "reasons": [
-        "正文明确涉及风电"
-      ]
-    },
-    {
-      "title": "October 2026 – Renewable Watch",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-16",
-      "url": "https://renewablewatch.in/2026/10/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Eskom launches 6 GW renewables tender",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-16",
-      "url": "https://renewablewatch.in/2026/10/13/eskom-launches-6-gw-renewables-tender/",
+      "published_at": "2026-10-19",
+      "url": "https://renewablewatch.in/2026/10/19/adb-and-japan-to-finance-am-greens-ammonia-project-in-andhra-pradesh/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -218,20 +172,19 @@
     {
       "title": "Telangana issues 2 GW FDRE-RTC tender",
       "source_name": "Renewable Watch",
-      "published_at": "2026-10-16",
+      "published_at": "2026-10-15",
       "url": "https://renewablewatch.in/2026/10/15/telangana-issues-2-gw-fdre-rtc-tender/",
       "reasons": [
         "风电相关性不足"
       ]
     },
     {
-      "title": "Creating Value: Economic benefits from wind power projects",
+      "title": "Eskom launches 6 GW renewables tender",
       "source_name": "Renewable Watch",
-      "published_at": "2026-10-15",
-      "url": "https://renewablewatch.in/2026/10/15/creating-value-economic-benefits-from-wind-power-projects/",
+      "published_at": "2026-10-13",
+      "url": "https://renewablewatch.in/2026/10/13/eskom-launches-6-gw-renewables-tender/",
       "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
+        "风电相关性不足"
       ]
     },
     {
@@ -239,6 +192,16 @@
       "source_name": "Renewable Watch",
       "published_at": "2026-10-13",
       "url": "https://renewablewatch.in/2026/10/13/juniper-green-commissions-150-mw-wind-solar-hybrid-project-in-gujarat/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Alfanar accepts KPI Green Energy's binding offer for 507.9 MW Bhuj wind portfolio; proceeds to fund 3 GW India pipeline",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-13",
+      "url": "https://renewablewatch.in/2026/10/13/alfanar-accepts-kpi-green-energys-binding-offer-for-507-9-mw-bhuj-wind-portfolio-proceeds-to-fund-3-gw-india-pipeline/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -481,15 +444,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Cargill expands renewable electricity portfolio in the US",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-08-10",
-      "url": "https://renewablewatch.in/2026/10/08/cargill-expands-renewable-electricity-portfolio-in-the-us/",
-      "reasons": [
-        "正文明确涉及风电"
       ]
     },
     {
