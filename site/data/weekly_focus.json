@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-22T05:02:34+00:00",
+  "generated_at": "2026-10-23T05:07:56+00:00",
   "period": {
     "days": 7,
-    "start": "2026-10-16",
-    "end": "2026-10-22"
+    "start": "2026-10-17",
+    "end": "2026-10-23"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -16,12 +16,12 @@
     "审批政策"
   ],
   "tag_counts": {
-    "竞对资讯": 5,
+    "竞对资讯": 6,
     "招标采购": 6,
     "市场机制": 2,
-    "电网建设": 3,
+    "电网建设": 2,
     "宏观政策": 0,
-    "审批政策": 1
+    "审批政策": 2
   },
   "items": [
     {
@@ -48,29 +48,33 @@
     {
       "country": "全球",
       "source_name": "Recharge",
-      "title": "Bids in for France's record 10GW offshore wind tender",
-      "translated_title": "法国创纪录的10GW近海风力标",
-      "published_at": "2026-10-20",
-      "url": "https://www.rechargenews.com/policy/bids-in-for-frances-record-10gw-offshore-wind-tender/2-1-2058588",
+      "title": "Latest US offshore wind remand bid may rattle permitting talks, but Iberdrola project already stalled",
+      "translated_title": "美国最近的海上风还押招标 可能会引发谈判 但Iberdrola项目已经停滞了",
+      "published_at": "2026-10-23",
+      "url": "https://www.rechargenews.com/policy/latest-us-offshore-wind-remand-bid-may-rattle-permitting-talks-but-iberdrola-project-already-stalled/2-1-2063030",
       "tags": [
-        "招标采购"
-      ],
-      "competitors": [],
-      "monitor_reason": "招标/采购节点 · GW级项目 · 标题明确风电",
-      "signals": [
-        "10 GW",
+        "竞对资讯",
         "招标采购",
-        "招标/采购节点"
+        "审批政策"
+      ],
+      "competitors": [
+        "Iberdrola"
+      ],
+      "monitor_reason": "招标/采购节点 · 审批/许可节点 · 竞对项目动态 · 标题明确风电",
+      "signals": [
+        "竞对资讯",
+        "招标采购",
+        "Iberdrola"
       ],
       "rank": 2,
-      "importance_reason": "10 GW · 招标采购 · 招标/采购节点"
+      "importance_reason": "竞对资讯 · 招标采购 · Iberdrola"
     },
     {
       "country": "全球",
       "source_name": "Recharge",
       "title": "World's biggest offshore wind farm battles CfD deadline as turbine troubles weigh",
       "translated_title": "世界最大的岸外风力场战 CfD的最后期限 风机故障的重量",
-      "published_at": "2026-10-22",
+      "published_at": "2026-10-23",
       "url": "https://www.rechargenews.com/offshore-wind/worlds-biggest-offshore-wind-farm-battles-cfd-deadline-as-turbine-troubles-weigh/2-1-2059341",
       "tags": [
         "市场机制",
@@ -88,28 +92,27 @@
       "importance_reason": "市场机制 · 电网建设 · 电价/市场机制"
     },
     {
-      "country": "印度",
-      "source_name": "Renewable Watch",
-      "title": "TGREDCO floats tender for 800 MW wind projects",
-      "translated_title": "800兆瓦风能项目的TGREDCO浮标",
-      "published_at": "2026-10-16",
-      "url": "https://renewablewatch.in/2026/10/16/tgredco-floats-tender-for-800-mw-wind-projects/",
+      "country": "全球",
+      "source_name": "Renewables Now",
+      "title": "50Hertz installs substations for 927-MW Gennaker offshore wind farm",
+      "translated_title": "50赫兹为927-MW Gennaker海上风力场安装分站",
+      "published_at": "2026-10-19",
+      "url": "https://renewablesnow.com/news/50hertz-installs-substations-for-927-mw-gennaker-offshore-wind-farm-1303235/",
       "tags": [
         "竞对资讯",
-        "招标采购",
         "电网建设"
       ],
       "competitors": [
         "ReNew"
       ],
-      "monitor_reason": "招标/采购节点 · 项目涉及电网/送出 · 竞对项目动态 · 500MW+项目 · 标题明确风电",
+      "monitor_reason": "电网/送出建设 · 竞对项目动态 · 500MW+项目 · 标题明确风电",
       "signals": [
-        "800 MW",
+        "927 MW",
         "竞对资讯",
-        "招标采购"
+        "电网建设"
       ],
       "rank": 4,
-      "importance_reason": "800 MW · 竞对资讯 · 招标采购"
+      "importance_reason": "927 MW · 竞对资讯 · 电网建设"
     },
     {
       "country": "印度",
@@ -137,25 +140,26 @@
     {
       "country": "全球",
       "source_name": "Renewables Now",
-      "title": "50Hertz installs substations for 927-MW Gennaker offshore wind farm",
-      "translated_title": "50赫兹为927-MW Gennaker海上风力场安装分站",
-      "published_at": "2026-10-19",
-      "url": "https://renewablesnow.com/news/50hertz-installs-substations-for-927-mw-gennaker-offshore-wind-farm-1303235/",
+      "title": "Nordex enters New Zealand with 192-MW wind turbine order",
+      "translated_title": "诺德克斯以192-MW风电机组订单进入新西兰.",
+      "published_at": "2026-10-22",
+      "url": "https://renewablesnow.com/news/nordex-enters-new-zealand-with-192-mw-wind-turbine-order-1303475/",
       "tags": [
         "竞对资讯",
-        "电网建设"
+        "招标采购"
       ],
       "competitors": [
+        "Nordex",
         "ReNew"
       ],
-      "monitor_reason": "电网/送出建设 · 竞对项目动态 · 500MW+项目 · 标题明确风电",
+      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 标题明确风电",
       "signals": [
-        "927 MW",
+        "192 MW",
         "竞对资讯",
-        "电网建设"
+        "招标采购"
       ],
       "rank": 6,
-      "importance_reason": "927 MW · 竞对资讯 · 电网建设"
+      "importance_reason": "192 MW · 竞对资讯 · 招标采购"
     },
     {
       "country": "全球",
