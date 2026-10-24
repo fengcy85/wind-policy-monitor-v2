@@ -1,17 +1,27 @@
 {
-  "generated_at": "2026-10-23T05:07:56+00:00",
-  "before": 352,
-  "kept": 301,
+  "generated_at": "2026-10-24T04:56:16+00:00",
+  "before": 359,
+  "kept": 308,
   "filtered_out": 51,
   "tag_counts": {
-    "竞对资讯": 262,
-    "市场机制": 10,
-    "电网建设": 26,
-    "审批政策": 40,
+    "竞对资讯": 267,
+    "电网建设": 27,
     "招标采购": 75,
+    "审批政策": 40,
+    "市场机制": 11,
     "宏观政策": 3
   },
   "rejected_examples": [
+    {
+      "title": "Axpo, Fortia ink second wind PPA for Votorantim Cimentos in Spain",
+      "source_name": "Renewables Now",
+      "published_at": "2026-10-23",
+      "url": "https://renewablesnow.com/news/axpo-fortia-ink-second-wind-ppa-for-votorantim-cimentos-in-spain-1303553/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
     {
       "title": "Major Chinese wind supplier planning factories on five continents",
       "source_name": "Recharge",
@@ -37,6 +47,16 @@
       "source_name": "Recharge",
       "published_at": "2026-10-23",
       "url": "https://www.rechargenews.com/policy/germany-rethinks-offshore-wind-layout-to-cut-costly-wake-effects/2-1-2062551",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "US Wind gives up Baltimore monopile maker but insists Maryland offshore wind farm will proceed",
+      "source_name": "Recharge",
+      "published_at": "2026-10-23",
+      "url": "https://www.rechargenews.com/offshore-wind/us-wind-gives-up-baltimore-monopile-maker-but-insists-maryland-offshore-wind-farm-will-proceed/2-1-2063040",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -113,19 +133,9 @@
       ]
     },
     {
-      "title": "Soluna, Applied Digital plan 50-MW wind-powered data centre in Texas",
-      "source_name": "Renewables Now",
-      "published_at": "2026-10-22",
-      "url": "https://renewablesnow.com/news/soluna-applied-digital-plan-50-mw-wind-powered-data-centre-in-texas-1303456/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "Africa’s installed wind capacity tops 11 GW – GWEC",
       "source_name": "QazaqGreen",
-      "published_at": "2026-10-22",
+      "published_at": "2026-10-23",
       "url": "https://qazaqgreen.com/en/news/world/3946/",
       "reasons": [
         "无六类监测标签",
@@ -199,20 +209,20 @@
       ]
     },
     {
-      "title": "Alfanar accepts KPI Green Energy's binding offer for 507.9 MW Bhuj wind portfolio; proceeds to fund 3 GW India pipeline",
+      "title": "Juniper Green commissions 150 MW wind-solar hybrid project in Gujarat",
       "source_name": "Renewable Watch",
       "published_at": "2026-10-13",
-      "url": "https://renewablewatch.in/2026/10/13/alfanar-accepts-kpi-green-energys-binding-offer-for-507-9-mw-bhuj-wind-portfolio-proceeds-to-fund-3-gw-india-pipeline/",
+      "url": "https://renewablewatch.in/2026/10/13/juniper-green-commissions-150-mw-wind-solar-hybrid-project-in-gujarat/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Juniper Green commissions 150 MW wind-solar hybrid project in Gujarat",
+      "title": "Alfanar accepts KPI Green Energy's binding offer for 507.9 MW Bhuj wind portfolio; proceeds to fund 3 GW India pipeline",
       "source_name": "Renewable Watch",
       "published_at": "2026-10-13",
-      "url": "https://renewablewatch.in/2026/10/13/juniper-green-commissions-150-mw-wind-solar-hybrid-project-in-gujarat/",
+      "url": "https://renewablewatch.in/2026/10/13/alfanar-accepts-kpi-green-energys-binding-offer-for-507-9-mw-bhuj-wind-portfolio-proceeds-to-fund-3-gw-india-pipeline/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -333,6 +343,15 @@
       ]
     },
     {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-25",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Türkiye's first offshore wind YEKA project expected to draw $3B investment",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-25",
@@ -340,15 +359,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-25",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -477,16 +487,6 @@
       ]
     },
     {
-      "title": "Purvah Green Signs PPA with SECI for 175 MW Wind Project - Asia Pacific | Energetica India Magazine",
-      "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-07-10",
-      "url": "https://www.energetica-india.net/news/purvah-green-signs-ppa-with-seci-for-175-mw-wind-project",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "Inox Green Completes INR 550 Crore WWIL Wind O&M Deal - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-07-10",
@@ -497,12 +497,13 @@
       ]
     },
     {
-      "title": "L’ANEV, CON IL SUO SEGRETARIO GENERALE, DAVIDE ASTIASO GARCIA, ELETTO NEL WINDEUROPE MANAGEMENT COMMITTEE - ANEV",
-      "source_name": "ANEV",
-      "published_at": "2026-06-25",
-      "url": "https://www.anev.org/2026/06/25/lanev-con-il-suo-segretario-generale-davide-astiaso-garcia-eletto-nel-windeurope-management-committee/",
+      "title": "Purvah Green Signs PPA with SECI for 175 MW Wind Project - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-07-10",
+      "url": "https://www.energetica-india.net/news/purvah-green-signs-ppa-with-seci-for-175-mw-wind-project",
       "reasons": [
-        "正文明确涉及风电"
+        "无六类监测标签",
+        "标题明确风电"
       ]
     }
   ]

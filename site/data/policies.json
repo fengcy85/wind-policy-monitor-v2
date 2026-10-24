@@ -1,5 +1,442 @@
 [
   {
+    "id": "p_9c9ee80ae11a2666cf",
+    "title": "宁夏回族自治区人民政府关于印发《宁夏新型工业化“十五五”规划》的通知",
+    "url": "https://www.nx.gov.cn/zwgk/qzfwj/202610/t20261023_5380355.html",
+    "source_id": "cn_7c77b32d80d0",
+    "source_name": "宁夏人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "宁夏",
+    "published_at": "2026-10-23",
+    "discovered_at": "2026-10-24T04:44:08+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "土地、环境与生态许可"
+    ],
+    "primary_dimension": "土地、环境与生态许可",
+    "source_excerpt": "一、总体要求 坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，认真贯彻落实习近平总书记关于新型工业化的重要论述、发展先进制造业的重要指示和考察宁夏重要讲话精神，按照自治区党委和政府工作安排，完整准确全面贯彻新发展理念，主动服务和融入新发展格局，牢固树立和践行正确政绩观，坚定扛起建设黄河流域生态保护和高质量发展先行区、创建铸牢中华民族共同体意识示范区使命任务，锚定基本实现新型工业化目标，统筹发展和安全，以推动高质量发展为主题，推动科技创新和产业创新深度融合，因地制宜发展新质生产力，纵深推进制造业智能化、绿色化、融合化发展，构建以先进制造业为骨干的现代化产业体系，全力打造全国重要产业基地，为加快建设美丽新宁夏、奋力谱写中国式现代化宁夏篇章",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "一、总体要求 坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，认真贯彻落实习近平总书记关于新型工业化的重要论述、发展先进制造业的重要指示和考察宁夏重要讲话精神，按照自治区党委和政府工作安排，完整准确全面贯彻新发展理念，主动服务和融入新发展格局，牢固树立和践行正确政绩观，坚定扛起建设黄河流域生态保护和高质量发展先行区、创建铸牢中华民族共同体意识示范区使命任务，锚定基本实现新型工业化目标，统筹发展和安全，以推动高质量发展为主题，推动科技创新和产业创新深度融合，因地制宜发展新质生产力，纵深推进制造业智能化、绿色化、融合化发展，构建以先进制造业为骨干的现代化产业体系，全力打造全国重要产业基地，为加快建设美丽新宁夏、奋力谱写中国式现代化宁夏篇章作出新的更大贡献。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "（四）加快培育新兴产业 加快新一代信息技术、新能源、新材料、低空经济等新兴产业发展，实施新技术新产品新场景大规模应用示范行动，一体推进创新设施建设、技术研究开发、产品迭代升级。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "健全完善制造业中试平台梯次培育、规范运行、迭代升级体系，打通“实验室—生产线—市场”成果转化全链条。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "深入实施制造业数字化转型行动，推动龙头企业全流程、全场景数字化转型，打造一批基础级、先进级、卓越级、领航级智能工厂。"
+      }
+    ],
+    "impact_design": "根据“一、总体要求 坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，认真贯彻落实习近平总书记关于新型工业化的重要论述、发展先进制造业的重要…”的文本线索，产品设计核查路径：核对噪声、叶片生态影响和环境监测的设计接口。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核实环评、用地海域和环境许可对项目选址及交付节点的影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对噪声、叶片生态影响和环境监测的设计接口；核实环评、用地海域和环境许可对项目选址及交付节点的影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：一、总体要求 坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，认真贯彻落实习近平总书记关于新型工业化的重要论述、发展先进制造业的重要指示和考察宁夏重要讲话精神，按照自治区党委和政府工作安排，完整准确全面贯彻新发展理念，主动服务和融入新发展格局，牢固树立和践行正确政绩观，坚定扛起建设黄河流域生态保护和高质量发展先行区、创建铸牢中华民族共同体意识示范区使命任务，锚",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、项目开发、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "一、总体要求 坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，认真贯彻落实习近平总书记关于新型工业化的重要论述、发展先进制造业的重要指示和考察宁夏重要讲话精神，按照自治区党委和政府工作安排，完整准确全面贯彻新发展理念，主动服务和融入新发展格局，牢固树立和践行正确政绩观，坚定扛起建设黄河流域生态保护和高质量发展先行区、创建铸牢中华民族共同体意识示范区使命任务，锚定基本实现新型工业化目标，统筹发展和安全，以推动高质量发展为主题，推动科技创新和产业创新深度融合，因地制宜发展新质生产力，纵深推进制造业智能化、绿色化、融合化发展，构建以先进制造业为骨干的现代化产业体系，全力打造全国重要产业基地，为加快建设美丽新宁夏、奋力谱写中国式现代化宁夏篇章作出新的更大贡献。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "（四）加快培育新兴产业 加快新一代信息技术、新能源、新材料、低空经济等新兴产业发展，实施新技术新产品新场景大规模应用示范行动，一体推进创新设施建设、技术研究开发、产品迭代升级。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "健全完善制造业中试平台梯次培育、规范运行、迭代升级体系，打通“实验室—生产线—市场”成果转化全链条。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "深入实施制造业数字化转型行动，推动龙头企业全流程、全场景数字化转型，打造一批基础级、先进级、卓越级、领航级智能工厂。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "bb2af80abf295141dcddd15402433a70dea359f369ca1d3684e4644aba167a80",
+    "originally_discovered_at": "2026-10-24T04:44:08+00:00"
+  },
+  {
+    "id": "p_b594440274605f42cf",
+    "title": "宁夏回族自治区人民政府办公厅关于印发《宁夏开发区改革创新和高质量发展“十五五”规划》的通知",
+    "url": "https://www.nx.gov.cn/zwgk/qzfwj/202610/t20261023_5380058.html",
+    "source_id": "cn_7c77b32d80d0",
+    "source_name": "宁夏人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "宁夏",
+    "published_at": "2026-10-23",
+    "discovered_at": "2026-10-24T04:44:08+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "产品认证与技术标准",
+      "土地、环境与生态许可",
+      "供应链、ESG及碳足迹"
+    ],
+    "primary_dimension": "产品认证与技术标准",
+    "source_excerpt": "鼓励支持宁东基地、银川经开区等规模体量大、发展水平高的开发区带动产业布局相似的开发区集群化、一体化发展，通过建立产业联盟、实施跨园区项目招引流转和利益分享等方式，促进先进制造业扩容提质，打造一批具有竞争优势的先进制造业产业集群。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "鼓励支持宁东基地、银川经开区等规模体量大、发展水平高的开发区带动产业布局相似的开发区集群化、一体化发展，通过建立产业联盟、实施跨园区项目招引流转和利益分享等方式，促进先进制造业扩容提质，打造一批具有竞争优势的先进制造业产业集群。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "推行绿色设计、绿色供应链，支持绿色产品认证，累计建成绿色工厂 250个。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "持续加大政策、金融、财政、土地、人才、能源、水资源等关键要素的统筹配置力度，强化水资源刚性约束，促进要素资源向开发区、企业、项目集中。"
+      }
+    ],
+    "impact_design": "根据“鼓励支持宁东基地、银川经开区等规模体量大、发展水平高的开发区带动产业布局相似的开发区集群化、一体化发展，通过建立产业联盟、实施跨园区项目招引流转和利益分享等方式，促进先进…”的文本线索，产品设计核查路径：比对机组设计载荷、部件标准、型式试验报告和认证文件。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：复核认证周期、第三方检测费用及客户准入要求。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 比对机组设计载荷、部件标准、型式试验报告和认证文件；复核认证周期、第三方检测费用及客户准入要求 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：鼓励支持宁东基地、银川经开区等规模体量大、发展水平高的开发区带动产业布局相似的开发区集群化、一体化发展，通过建立产业联盟、实施跨园区项目招引流转和利益分享等方式，促进先进制造业扩容提质，打造一批具有竞争优势的先进制造业产业集群。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、认证与测试、国际销售",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "鼓励支持宁东基地、银川经开区等规模体量大、发展水平高的开发区带动产业布局相似的开发区集群化、一体化发展，通过建立产业联盟、实施跨园区项目招引流转和利益分享等方式，促进先进制造业扩容提质，打造一批具有竞争优势的先进制造业产业集群。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "推行绿色设计、绿色供应链，支持绿色产品认证，累计建成绿色工厂 250个。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "持续加大政策、金融、财政、土地、人才、能源、水资源等关键要素的统筹配置力度，强化水资源刚性约束，促进要素资源向开发区、企业、项目集中。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "6fdca628be7638b999d5f6553ac6ba9683891ab6c013bf9b5f1eaca932890512",
+    "originally_discovered_at": "2026-10-24T04:44:08+00:00"
+  },
+  {
+    "id": "p_80fae9835afc35bdd1",
+    "title": "宁夏回族自治区人民政府办公厅关于印发《宁夏回族自治区全域消防安全监管实施办法（试行）》的通知",
+    "url": "https://www.nx.gov.cn/zwgk/gfxwj/202610/t20261023_5380470.html",
+    "source_id": "cn_7c77b32d80d0",
+    "source_name": "宁夏人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "宁夏",
+    "published_at": "2026-10-23",
+    "discovered_at": "2026-10-24T04:44:06+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "安全生产与劳动法规"
+    ],
+    "primary_dimension": "安全生产与劳动法规",
+    "source_excerpt": "铁路、邮政管理、矿山安全监察、电力监管、烟草专卖、民航、电网、通信等中央驻宁单位，应当依照各自职责范围，在涉及的行政审批事项中加强消防安全源头管控。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "铁路、邮政管理、矿山安全监察、电力监管、烟草专卖、民航、电网、通信等中央驻宁单位，应当依照各自职责范围，在涉及的行政审批事项中加强消防安全源头管控。"
+      },
+      {
+        "clause": "第十六条",
+        "excerpt": "第十六条 教育、工业和信息化、宗教事务、民政、司法行政、住房城乡建设、交通运输、农业农村、水利、商务、文化和旅游、国有资产监督管理、卫生健康、市场监管、应急管理、能源、邮政管理、体育等部门，应当按照各自职责，加强本行业领域单位场所（含自建房）和工程施工现场的消防安全检查排查，将偏远乡镇、城乡结合部区域内的行业单位纳入监管范围，建立并动态更新行业单位消防安全管理情况清单，实行隐患问题闭环管理、动态销号。"
+      }
+    ],
+    "impact_design": "根据“铁路、邮政管理、矿山安全监察、电力监管、烟草专卖、民航、电网、通信等中央驻宁单位，应当依照各自职责范围，在涉及的行政审批事项中加强消防安全源头管控。…”的文本线索，产品设计核查路径：复核安全联锁、施工检修措施及设备技术文件。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查施工、运维责任划分、人员培训及保险合同。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核安全联锁、施工检修措施及设备技术文件；核查施工、运维责任划分、人员培训及保险合同 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：铁路、邮政管理、矿山安全监察、电力监管、烟草专卖、民航、电网、通信等中央驻宁单位，应当依照各自职责范围，在涉及的行政审批事项中加强消防安全源头管控。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、运维服务、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "铁路、邮政管理、矿山安全监察、电力监管、烟草专卖、民航、电网、通信等中央驻宁单位，应当依照各自职责范围，在涉及的行政审批事项中加强消防安全源头管控。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "第十六条",
+        "excerpt": "第十六条 教育、工业和信息化、宗教事务、民政、司法行政、住房城乡建设、交通运输、农业农村、水利、商务、文化和旅游、国有资产监督管理、卫生健康、市场监管、应急管理、能源、邮政管理、体育等部门，应当按照各自职责，加强本行业领域单位场所（含自建房）和工程施工现场的消防安全检查排查，将偏远乡镇、城乡结合部区域内的行业单位纳入监管范围，建立并动态更新行业单位消防安全管理情况清单，实行隐患问题闭环管理、动态销号。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "044b0b79790bfd84a25abbfa791a06ae130e4d094d1990654fe534eae09717e2",
+    "originally_discovered_at": "2026-10-24T04:44:06+00:00"
+  },
+  {
+    "id": "p_ada15530e8a1aa7e7d",
+    "title": "《对外投资管理办法》 2026年第49号令",
+    "url": "https://drc.gd.gov.cn/attachment/0/628/628196/4970335.pdf",
+    "source_id": "cn_35210b5ce137",
+    "source_name": "广东省发改委",
+    "region": "中国",
+    "country": "中国",
+    "province": "广东",
+    "published_at": "2026-10-23",
+    "discovered_at": "2026-10-24T04:36:25+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "融资与项目担保"
+    ],
+    "primary_dimension": "融资与项目担保",
+    "source_excerpt": "1 对外投资管理办法 第一章 总 则 第一条 为了推进高水平对外开放，促进对外投资高质量发 展，有效实施对外投资管理，保护投资者及其对外投资合法权益， 维护国家主权、安全、发展利益，根据《中华人民共和国行政许可 法》《国务院关于对外投资的规定》《国务院对确需保留的行政审 批项目设定行政许可的决定》《国务院关于投资体制改革的决定》 等法律、行政法规和国务院决定，制定本办法。",
+    "clauses": [
+      {
+        "clause": "第一条",
+        "excerpt": "1 对外投资管理办法 第一章 总 则 第一条 为了推进高水平对外开放，促进对外投资高质量发 展，有效实施对外投资管理，保护投资者及其对外投资合法权益， 维护国家主权、安全、发展利益，根据《中华人民共和国行政许可 法》《国务院关于对外投资的规定》《国务院对确需保留的行政审 批项目设定行政许可的决定》《国务院关于投资体制改革的决定》 等法律、行政法规和国务院决定，制定本办法。"
+      },
+      {
+        "clause": "第二条",
+        "excerpt": "第二条 中华人民共和国境内（以下称“境内”）投资者对外 投资，适用本办法。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "本办法所称对外投资即境外投资，是指投资者以投入资产、权 益或者提供融资、担保等方式，直接或者间接获得境外企业、资产 等所有权、控制权、经营管理权以及其他相关权益的活动。"
+      },
+      {
+        "clause": "第四条",
+        "excerpt": "第四条 投资者开展对外投资及其相关活动，应当遵守法律法 规和国际惯例，尊重当地习俗和文化传统，遵守商业道德，诚实守 信、公平竞争，履行社会责任，维护国家形象，不得妨害市场竞争 秩序、破坏生态环境、损害劳动者合法权益，不得危害中国国家安 全、损害国家利益和社会公共利益。"
+      }
+    ],
+    "impact_design": "根据“1 对外投资管理办法 第一章 总 则 第一条 为了推进高水平对外开放，促进对外投资高质量发 展，有效实施对外投资管理，保护投资者及其对外投资合法权益， 维护国家主权、安全…”的文本线索，产品设计核查路径：确认绿色融资是否要求技术认证或产品信息披露。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查银行担保、融资条件和项目现金流对客户采购的影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认绿色融资是否要求技术认证或产品信息披露；核查银行担保、融资条件和项目现金流对客户采购的影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：1 对外投资管理办法 第一章 总 则 第一条 为了推进高水平对外开放，促进对外投资高质量发 展，有效实施对外投资管理，保护投资者及其对外投资合法权益， 维护国家主权、安全、发展利益，根据《中华人民共和国行政许可 法》《国务院关于对外投资的规定》《国务院对确需保留的行政审 批项目设定行政许可的决定》《国务院关于投资体制改革的决定》 等法律、行政法规和国务院决定，制定本办法。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "财务与融资、国际销售、市场战略",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "第一条",
+        "excerpt": "1 对外投资管理办法 第一章 总 则 第一条 为了推进高水平对外开放，促进对外投资高质量发 展，有效实施对外投资管理，保护投资者及其对外投资合法权益， 维护国家主权、安全、发展利益，根据《中华人民共和国行政许可 法》《国务院关于对外投资的规定》《国务院对确需保留的行政审 批项目设定行政许可的决定》《国务院关于投资体制改革的决定》 等法律、行政法规和国务院决定，制定本办法。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "第二条",
+        "excerpt": "第二条 中华人民共和国境内（以下称“境内”）投资者对外 投资，适用本办法。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "本办法所称对外投资即境外投资，是指投资者以投入资产、权 益或者提供融资、担保等方式，直接或者间接获得境外企业、资产 等所有权、控制权、经营管理权以及其他相关权益的活动。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "第四条",
+        "excerpt": "第四条 投资者开展对外投资及其相关活动，应当遵守法律法 规和国际惯例，尊重当地习俗和文化传统，遵守商业道德，诚实守 信、公平竞争，履行社会责任，维护国家形象，不得妨害市场竞争 秩序、破坏生态环境、损害劳动者合法权益，不得危害中国国家安 全、损害国家利益和社会公共利益。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "d0ac6602c84ff64c11a2ff11ea9d8177afebf14295bc883eeb1574ae04427487",
+    "originally_discovered_at": "2026-10-24T04:36:25+00:00"
+  },
+  {
     "id": "p_e8099c541145101397",
     "title": "宁夏回族自治区人民政府办公厅关于印发《自治区长效化防范拖欠中小企业款项的若干措施》的通知",
     "url": "https://www.nx.gov.cn/zwgk/gfxwj/202610/t20261023_5379864.html",
@@ -4647,23 +5084,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-10-09",
-    "discovered_at": "2026-10-23T04:57:33+00:00",
+    "discovered_at": "2026-10-24T04:45:54+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "并网技术规范"
     ],
     "primary_dimension": "并网技术规范",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"c8309a8d3649c3194fd4b6eb576c9df3\",\"traceid\":\"276082bc17927314534992354e8fe6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"5df63a0f64134f6eb104aee2b1348b5d\",\"traceid\":\"2760822b17928171543958753e7d97\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"c8309a8d3649c3194fd4b6eb576c9df3\",\"traceid\":\"276082bc17927314534992354e8fe6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-F"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"5df63a0f64134f6eb104aee2b1348b5d\",\"traceid\":\"2760822b17928171543958753e7d97\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-m"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核对并网测试责任、接入确认、认证时间及合同里程碑。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核故障穿越、无功、频率响应及控制软件是否需适配；核对并网测试责任、接入确认、认证时间及合同里程碑 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"c8309a8d3649c3194fd4b6eb576c9df3\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"5df63a0f64134f6eb104aee2b1348b5d\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -4684,7 +5121,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"c8309a8d3649c3194fd4b6eb576c9df3\",\"traceid\":\"276082bc17927314534992354e8fe6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-F",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"5df63a0f64134f6eb104aee2b1348b5d\",\"traceid\":\"2760822b17928171543958753e7d97\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-m",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -4700,9 +5137,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "ac1c39a6173e530bf4c67dc882cfceb0a72866cca1239aef07b3b5ee513088d7",
+    "content_hash": "98b30648f0c4c4955659af4bdae9d2bb21f778af192e37a7f4c8b086a15c1d10",
     "originally_discovered_at": "2026-10-15T07:58:14+00:00",
-    "updated_at": "2026-10-23T04:58:19+00:00"
+    "updated_at": "2026-10-24T04:47:01+00:00"
   },
   {
     "id": "p_4d9e7c21f93f2dc095",
@@ -7721,23 +8158,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-09-16",
-    "discovered_at": "2026-10-23T04:57:34+00:00",
+    "discovered_at": "2026-10-24T04:45:55+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "可再生能源开发与电价"
     ],
     "primary_dimension": "可再生能源开发与电价",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"c7719516140532adcd84dc177fa2b884\",\"traceid\":\"276082bc17927314543522368e8fe6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"21cd2a9423bef2794fcdd1806b00e1f4\",\"traceid\":\"2760822b17928171552968770e7d97\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"c7719516140532adcd84dc177fa2b884\",\"traceid\":\"276082bc17927314543522368e8fe6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-I"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"21cd2a9423bef2794fcdd1806b00e1f4\",\"traceid\":\"2760822b17928171552968770e7d97\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-U"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"c7719516140532adcd84dc177fa2b884\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"21cd2a9423bef2794fcdd1806b00e1f4\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -7758,7 +8195,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"c7719516140532adcd84dc177fa2b884\",\"traceid\":\"276082bc17927314543522368e8fe6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-I",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"21cd2a9423bef2794fcdd1806b00e1f4\",\"traceid\":\"2760822b17928171552968770e7d97\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-U",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -7774,9 +8211,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "cd114fab78c572dd82e55b8bd41e9e2e79e8d20bf9cf9fa44f49e7db06e73bfc",
+    "content_hash": "878b047b890700246f541cf448843e43c93cc0edb5491fddede83264275c95eb",
     "originally_discovered_at": "2026-10-15T07:58:15+00:00",
-    "updated_at": "2026-10-23T04:58:19+00:00"
+    "updated_at": "2026-10-24T04:47:01+00:00"
   },
   {
     "id": "p_5bce90bf594d95cb32",
