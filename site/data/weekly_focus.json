@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T04:56:16+00:00",
+  "generated_at": "2026-10-25T05:02:08+00:00",
   "period": {
     "days": 7,
-    "start": "2026-10-18",
-    "end": "2026-10-24"
+    "start": "2026-10-19",
+    "end": "2026-10-25"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -16,10 +16,10 @@
     "审批政策"
   ],
   "tag_counts": {
-    "竞对资讯": 5,
-    "招标采购": 4,
-    "市场机制": 2,
-    "电网建设": 3,
+    "竞对资讯": 6,
+    "招标采购": 5,
+    "市场机制": 1,
+    "电网建设": 2,
     "宏观政策": 0,
     "审批政策": 3
   },
@@ -48,6 +48,32 @@
     {
       "country": "全球",
       "source_name": "Recharge",
+      "title": "Europe built the wind farms but neglected the grid. Now the costs are mounting analysis 20.10.2026",
+      "translated_title": "欧洲建造了风电场但忽略了电网. 现在费用正在增加分析 20.10.2026",
+      "published_at": "2026-10-23",
+      "url": "https://www.rechargenews.com/analysis/costs-soared-as-europe-raced-to-build-renewables-while-the-grid-fell-behind/2-1-2061243",
+      "tags": [
+        "竞对资讯",
+        "招标采购",
+        "审批政策"
+      ],
+      "competitors": [
+        "Vestas",
+        "Envision",
+        "Iberdrola"
+      ],
+      "monitor_reason": "正文含招标/采购 · 正文涉及审批/许可 · 竞对项目动态 · 标题明确风电",
+      "signals": [
+        "竞对资讯",
+        "招标采购",
+        "Vestas"
+      ],
+      "rank": 2,
+      "importance_reason": "竞对资讯 · 招标采购 · Vestas"
+    },
+    {
+      "country": "全球",
+      "source_name": "Recharge",
       "title": "Latest US offshore wind remand bid may rattle permitting talks, but Iberdrola project already stalled",
       "translated_title": "美国最近的海上风还押招标 可能会引发谈判 但Iberdrola项目已经停滞了",
       "published_at": "2026-10-23",
@@ -66,30 +92,8 @@
         "招标采购",
         "Iberdrola"
       ],
-      "rank": 2,
-      "importance_reason": "竞对资讯 · 招标采购 · Iberdrola"
-    },
-    {
-      "country": "全球",
-      "source_name": "Recharge",
-      "title": "World's biggest offshore wind farm battles CfD deadline as turbine troubles weigh",
-      "translated_title": "世界最大的岸外风力场战 CfD的最后期限 风机故障的重量",
-      "published_at": "2026-10-23",
-      "url": "https://www.rechargenews.com/offshore-wind/worlds-biggest-offshore-wind-farm-battles-cfd-deadline-as-turbine-troubles-weigh/2-1-2059341",
-      "tags": [
-        "市场机制",
-        "电网建设",
-        "审批政策"
-      ],
-      "competitors": [],
-      "monitor_reason": "电价/市场机制 · 项目涉及电网/送出 · 正文涉及审批/许可 · 标题明确风电",
-      "signals": [
-        "市场机制",
-        "电网建设",
-        "电价/市场机制"
-      ],
       "rank": 3,
-      "importance_reason": "市场机制 · 电网建设 · 电价/市场机制"
+      "importance_reason": "竞对资讯 · 招标采购 · Iberdrola"
     },
     {
       "country": "全球",

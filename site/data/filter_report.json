@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-24T04:56:16+00:00",
+  "generated_at": "2026-10-25T05:02:08+00:00",
   "before": 359,
-  "kept": 308,
-  "filtered_out": 51,
+  "kept": 309,
+  "filtered_out": 50,
   "tag_counts": {
-    "竞对资讯": 267,
+    "竞对资讯": 268,
     "电网建设": 27,
-    "招标采购": 75,
-    "审批政策": 40,
+    "招标采购": 76,
+    "审批政策": 41,
     "市场机制": 11,
     "宏观政策": 3
   },
@@ -143,16 +143,6 @@
       ]
     },
     {
-      "title": "Egypt targets regional gas integration and reveals $6.1 bn debt clearance at Mediterranean Offshore Conference",
-      "source_name": "Daily News Egypt",
-      "published_at": "2026-10-20",
-      "url": "https://www.dailynewsegypt.com/2026/10/20/egypt-targets-regional-gas-integration-and-reveals-6-1-bn-debt-clearance-at-mediterranean-offshore-conference/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "Pralhad Joshi to Inaugurate Windergy India 2026 in Chennai",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-10-19",
@@ -200,6 +190,16 @@
       ]
     },
     {
+      "title": "Alfanar accepts KPI Green Energy's binding offer for 507.9 MW Bhuj wind portfolio; proceeds to fund 3 GW India pipeline",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-13",
+      "url": "https://renewablewatch.in/2026/10/13/alfanar-accepts-kpi-green-energys-binding-offer-for-507-9-mw-bhuj-wind-portfolio-proceeds-to-fund-3-gw-india-pipeline/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
       "title": "Eskom launches 6 GW renewables tender",
       "source_name": "Renewable Watch",
       "published_at": "2026-10-13",
@@ -213,16 +213,6 @@
       "source_name": "Renewable Watch",
       "published_at": "2026-10-13",
       "url": "https://renewablewatch.in/2026/10/13/juniper-green-commissions-150-mw-wind-solar-hybrid-project-in-gujarat/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Alfanar accepts KPI Green Energy's binding offer for 507.9 MW Bhuj wind portfolio; proceeds to fund 3 GW India pipeline",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-13",
-      "url": "https://renewablewatch.in/2026/10/13/alfanar-accepts-kpi-green-energys-binding-offer-for-507-9-mw-bhuj-wind-portfolio-proceeds-to-fund-3-gw-india-pipeline/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -343,15 +333,6 @@
       ]
     },
     {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-25",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "Türkiye's first offshore wind YEKA project expected to draw $3B investment",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-25",
@@ -359,6 +340,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-25",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -394,7 +384,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-19",
-      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
+      "url": "https://www.aa.com.tr/en/energy/finance",
       "reasons": [
         "风电相关性不足"
       ]
@@ -403,7 +393,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-19",
-      "url": "https://www.aa.com.tr/en/energy/finance",
+      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
       "reasons": [
         "风电相关性不足"
       ]

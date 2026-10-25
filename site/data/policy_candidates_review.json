@@ -1,19 +1,11 @@
 [
   {
-    "source_id": "intl_032ffd7444d8",
-    "source_name": "乌兹别克国家法律数据库",
-    "title": "On amendments to the Law of the Republic of Uzbekistan “On the introduction of the Uzbek alphabet based on the Latin script”",
-    "url": "https://lex.uz/en/docs/8549969",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:15+00:00"
-  },
-  {
     "source_id": "intl_fb3e8ad4274d",
     "source_name": "nrea.gov.eg",
     "title": "Wind Energy In Egypt",
     "url": "https://nrea.gov.eg/test/en/Technology/WindStations",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:20+00:00"
+    "checked_at": "2026-10-25T04:34:22+00:00"
   },
   {
     "source_id": "intl_fb3e8ad4274d",
@@ -21,7 +13,7 @@
     "title": "Tenders",
     "url": "https://nrea.gov.eg/test/en/Investors/Tender/1",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:20+00:00"
+    "checked_at": "2026-10-25T04:34:22+00:00"
   },
   {
     "source_id": "intl_fb3e8ad4274d",
@@ -29,7 +21,7 @@
     "title": "Tenders",
     "url": "https://nrea.gov.eg/test/en/Investors/Tender",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:20+00:00"
+    "checked_at": "2026-10-25T04:34:23+00:00"
   },
   {
     "source_id": "intl_fb3e8ad4274d",
@@ -37,7 +29,7 @@
     "title": "Integrated sustainable energy strategy",
     "url": "https://nrea.gov.eg/test/en/About/Strategy",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:21+00:00"
+    "checked_at": "2026-10-25T04:34:23+00:00"
   },
   {
     "source_id": "intl_fb3e8ad4274d",
@@ -45,7 +37,7 @@
     "title": "Solar Energy In Egypt",
     "url": "https://nrea.gov.eg/test/en/Technology/HeatingSystems",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:21+00:00"
+    "checked_at": "2026-10-25T04:34:23+00:00"
   },
   {
     "source_id": "intl_fb3e8ad4274d",
@@ -53,7 +45,7 @@
     "title": "Renewable Energy Legislation",
     "url": "https://nrea.gov.eg/test/en/Investors/Legislation",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:21+00:00"
+    "checked_at": "2026-10-25T04:34:23+00:00"
   },
   {
     "source_id": "intl_845de2334f9c",
@@ -61,7 +53,7 @@
     "title": "RPP BESF and Hybrid Power Plant Post Commercial Operation Process",
     "url": "https://www.ntcsa.co.za/wp-content/uploads/2026/09/RPP-BESF-and-Hybrid-Power-Plant-Post-Commercial-Operation-Process_Signed.pdf",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:30:30+00:00"
+    "checked_at": "2026-10-25T04:34:32+00:00"
   },
   {
     "source_id": "intl_845de2334f9c",
@@ -69,103 +61,7 @@
     "title": "Hybrid Power Plants Guidance Note",
     "url": "https://www.ntcsa.co.za/wp-content/uploads/2025/10/240-180000896-Guideline-Note-Grid-Code-Requirements-for-Hybrid-Power-Plants.pdf",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:31+00:00"
-  },
-  {
-    "source_id": "intl_6f87a1487e95",
-    "source_name": "欧盟能源总司风电专题",
-    "title": "pledges on wind energy deployment volumes",
-    "url": "https://webgate.ec.europa.eu/circabc-ewpp/d/d/workspace/SpacesStore/fad3f719-dfed-44c2-909f-568e5a18575a/download",
-    "reason": "跨站点详情跳转，待验证官方关系",
-    "checked_at": "2026-10-24T04:30:28+00:00"
-  },
-  {
-    "source_id": "intl_6f87a1487e95",
-    "source_name": "欧盟能源总司风电专题",
-    "title": "offshore renewable energy",
-    "url": "https://energy.ec.europa.eu/topics/renewable-energy/offshore-renewable-energy_en",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:28+00:00"
-  },
-  {
-    "source_id": "intl_6f87a1487e95",
-    "source_name": "欧盟能源总司风电专题",
-    "title": "Renewables Acceleration Areas",
-    "url": "https://energy.ec.europa.eu/topics/renewable-energy/enabling-framework-renewables_en",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:30+00:00"
-  },
-  {
-    "source_id": "intl_6f87a1487e95",
-    "source_name": "欧盟能源总司风电专题",
-    "title": "European Grids Package",
-    "url": "https://energy.ec.europa.eu/topics/infrastructure/european-grids_en",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:31+00:00"
-  },
-  {
-    "source_id": "intl_6f87a1487e95",
-    "source_name": "欧盟能源总司风电专题",
-    "title": "37.5% of renewable electricity generation",
-    "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260319-2",
-    "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:30:32+00:00"
-  },
-  {
-    "source_id": "cn_37cf03ee8fd2",
-    "source_name": "国务院最新政策（原单篇文章入口替换）",
-    "title": "国办关于适应人工智能技术发展助力构建就业友好型发展方式的意见",
-    "url": "https://www.gov.cn/zhengce/content/202610/content_7084107.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:33+00:00"
-  },
-  {
-    "source_id": "cn_37cf03ee8fd2",
-    "source_name": "国务院最新政策（原单篇文章入口替换）",
-    "title": "科技部就《关于推动科技创新和产业创新深度融合的意见》答记者问",
-    "url": "https://www.gov.cn/zhengce/202610/content_7083959.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:34+00:00"
-  },
-  {
-    "source_id": "cn_37cf03ee8fd2",
-    "source_name": "国务院最新政策（原单篇文章入口替换）",
-    "title": "推动存量政策与增量政策协同发力——国家发展改革委解读经济社会热点",
-    "url": "https://www.gov.cn/zhengce/202610/content_7083845.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:34+00:00"
-  },
-  {
-    "source_id": "cn_37cf03ee8fd2",
-    "source_name": "国务院最新政策（原单篇文章入口替换）",
-    "title": "商务部电子商务司负责人解读《关于实施品质电商“五优”行动的通知》",
-    "url": "https://www.gov.cn/zhengce/202610/content_7082909.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:35+00:00"
-  },
-  {
-    "source_id": "cn_37cf03ee8fd2",
-    "source_name": "国务院最新政策（原单篇文章入口替换）",
-    "title": "国务院办公厅关于发展体育赛事激发消费活力的意见",
-    "url": "https://www.gov.cn/zhengce/content/202609/content_7082492.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:35+00:00"
-  },
-  {
-    "source_id": "cn_37cf03ee8fd2",
-    "source_name": "国务院最新政策（原单篇文章入口替换）",
-    "title": "中办国办印发《文化遗产保护传承“十五五”规划》",
-    "url": "https://www.gov.cn/zhengce/202609/content_7082364.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:36+00:00"
-  },
-  {
-    "source_id": "cn_37cf03ee8fd2",
-    "source_name": "国务院最新政策（原单篇文章入口替换）",
-    "title": "中华人民共和国审计法实施条例",
-    "url": "https://www.gov.cn/zhengce/content/202609/content_7081972.htm",
-    "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:30:36+00:00"
+    "checked_at": "2026-10-25T04:34:33+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -173,7 +69,7 @@
     "title": "Electricity Law",
     "url": "https://egyptera.org/en/SidePages/img/works/pdf/SitePDF/law2015.pdf",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:23+00:00"
+    "checked_at": "2026-10-25T04:34:25+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -181,7 +77,7 @@
     "title": "Presidential Decree",
     "url": "https://egyptera.org/en/SidePages/img/works/pdf/SitePDF/2000dec339.pdf",
     "reason": "详情访问失败",
-    "checked_at": "2026-10-24T04:30:24+00:00"
+    "checked_at": "2026-10-25T04:34:26+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -189,7 +85,7 @@
     "title": "Law Secondary Legislative",
     "url": "https://egyptera.org/en/SidePages/img/works/pdf/SitePDF/ExecutiveRegulationsforeleclow.pdf",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:26+00:00"
+    "checked_at": "2026-10-25T04:34:27+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -197,7 +93,7 @@
     "title": "Standards and Specifications",
     "url": "https://egyptera.org/en/download%5Cpdf%5CENMSNew2018.pdf",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:27+00:00"
+    "checked_at": "2026-10-25T04:34:27+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -205,7 +101,7 @@
     "title": "DecreeNo 1539 Year 2025",
     "url": "https://egyptera.org/en/download%5CDecreeNo1539Year2025.pdf",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:27+00:00"
+    "checked_at": "2026-10-25T04:34:28+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -213,7 +109,7 @@
     "title": "Regulations",
     "url": "https://egyptera.org/en/Regulation.aspx",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:28+00:00"
+    "checked_at": "2026-10-25T04:34:28+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -221,7 +117,7 @@
     "title": "Renewal license of generation from Renewable Energy Resources",
     "url": "https://egyptera.org/en/RenewLicRequest.aspx",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:29+00:00"
+    "checked_at": "2026-10-25T04:34:29+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -229,7 +125,7 @@
     "title": "Permit Application for Distribution Grid",
     "url": "https://egyptera.org/en/DisPerRequest.aspx",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:30+00:00"
+    "checked_at": "2026-10-25T04:34:29+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -237,7 +133,7 @@
     "title": "Decisions of the Committee for Renewable of license/permit",
     "url": "https://egyptera.org/en/LicDis.aspx",
     "reason": "详情访问失败",
-    "checked_at": "2026-10-24T04:30:30+00:00"
+    "checked_at": "2026-10-25T04:34:30+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -245,7 +141,7 @@
     "title": "Feed-in tariff for electricity generation projects From waste into energy",
     "url": "https://egyptera.org/en/download%5Cpdf%5CW2E2025TariffENG.pdf",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:30:31+00:00"
+    "checked_at": "2026-10-25T04:34:30+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -253,7 +149,7 @@
     "title": "Tariff for purchasing energy from sludge and gases",
     "url": "https://egyptera.org/en/download%5Cpdf%5CSludgeTariff2025ENG.pdf",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:30:31+00:00"
+    "checked_at": "2026-10-25T04:34:30+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -261,7 +157,7 @@
     "title": "Fees for Transmission Grid usage",
     "url": "https://egyptera.org/en/download%5Cpdf%5Ccalculation_methodology_for_transmission_network_usage.pdf",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:32+00:00"
+    "checked_at": "2026-10-25T04:34:31+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -269,7 +165,7 @@
     "title": "apply for Electric power supply",
     "url": "https://egyptera.org/en/ConsumerInfo.aspx",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:33+00:00"
+    "checked_at": "2026-10-25T04:34:31+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -277,7 +173,7 @@
     "title": "Electric Power Connection Rules 2020",
     "url": "https://egyptera.org/en/download%5Cpdf%5Cguide2020.pdf",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:34+00:00"
+    "checked_at": "2026-10-25T04:34:32+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -285,7 +181,7 @@
     "title": "Electricity Utility Facilities",
     "url": "https://egyptera.org/en/EleAgencyFacilities.aspx",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:35+00:00"
+    "checked_at": "2026-10-25T04:34:33+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -293,7 +189,7 @@
     "title": "Power plant Owned by Consumer",
     "url": "https://egyptera.org/en/SolarStation.aspx",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:36+00:00"
+    "checked_at": "2026-10-25T04:34:33+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -301,7 +197,7 @@
     "title": "Electricity Consumption Plan",
     "url": "https://egyptera.org/en/EnergyConsuptionPlan.aspx",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:37+00:00"
+    "checked_at": "2026-10-25T04:34:34+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -309,7 +205,7 @@
     "title": "Electricity Consumption",
     "url": "https://egyptera.org/en/download\\pdf\\ElectricityConsumption.pdf",
     "reason": "详情访问失败",
-    "checked_at": "2026-10-24T04:30:37+00:00"
+    "checked_at": "2026-10-25T04:34:34+00:00"
   },
   {
     "source_id": "intl_2d4b292b6df3",
@@ -317,247 +213,103 @@
     "title": "home appliances Electricity Consumption",
     "url": "https://egyptera.org/en/EfficientUse.aspx",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:38+00:00"
+    "checked_at": "2026-10-25T04:34:35+00:00"
   },
   {
-    "source_id": "cn_9abe6d2f93c7",
-    "source_name": "国务院部门文件",
-    "title": "国务院办公厅关于适应人工智能技术发展助力构建就业友好型发展方式的意见",
-    "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7084108.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:43+00:00"
+    "source_id": "intl_6f87a1487e95",
+    "source_name": "欧盟能源总司风电专题",
+    "title": "pledges on wind energy deployment volumes",
+    "url": "https://webgate.ec.europa.eu/circabc-ewpp/d/d/workspace/SpacesStore/fad3f719-dfed-44c2-909f-568e5a18575a/download",
+    "reason": "跨站点详情跳转，待验证官方关系",
+    "checked_at": "2026-10-25T04:34:34+00:00"
   },
   {
-    "source_id": "cn_9abe6d2f93c7",
-    "source_name": "国务院部门文件",
-    "title": "关于印发《综合交通枢纽发展“十五五”规划》的通知",
-    "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7084174.htm",
+    "source_id": "intl_6f87a1487e95",
+    "source_name": "欧盟能源总司风电专题",
+    "title": "offshore renewable energy",
+    "url": "https://energy.ec.europa.eu/topics/renewable-energy/offshore-renewable-energy_en",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:34+00:00"
+  },
+  {
+    "source_id": "intl_6f87a1487e95",
+    "source_name": "欧盟能源总司风电专题",
+    "title": "Renewables Acceleration Areas",
+    "url": "https://energy.ec.europa.eu/topics/renewable-energy/enabling-framework-renewables_en",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:35+00:00"
+  },
+  {
+    "source_id": "intl_6f87a1487e95",
+    "source_name": "欧盟能源总司风电专题",
+    "title": "European Grids Package",
+    "url": "https://energy.ec.europa.eu/topics/infrastructure/european-grids_en",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:36+00:00"
+  },
+  {
+    "source_id": "intl_6f87a1487e95",
+    "source_name": "欧盟能源总司风电专题",
+    "title": "37.5% of renewable electricity generation",
+    "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260319-2",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:30:43+00:00"
+    "checked_at": "2026-10-25T04:34:37+00:00"
   },
   {
-    "source_id": "cn_9abe6d2f93c7",
-    "source_name": "国务院部门文件",
-    "title": "在制度上更好保障对外投资发展和安全——国家发展改革委有关负责人就《对外投资管理办法》答记者问",
-    "url": "https://www.gov.cn/zhengce/202610/content_7084050.htm",
+    "source_id": "cn_37cf03ee8fd2",
+    "source_name": "国务院最新政策（原单篇文章入口替换）",
+    "title": "国办关于适应人工智能技术发展助力构建就业友好型发展方式的意见",
+    "url": "https://www.gov.cn/zhengce/content/202610/content_7084107.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:43+00:00"
+    "checked_at": "2026-10-25T04:34:37+00:00"
   },
   {
-    "source_id": "cn_9abe6d2f93c7",
-    "source_name": "国务院部门文件",
-    "title": "工业和信息化部等八部门关于印发《产业基础能力提升“十五五”规划》的通知",
-    "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7084022.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:44+00:00"
-  },
-  {
-    "source_id": "cn_9abe6d2f93c7",
-    "source_name": "国务院部门文件",
-    "title": "国家知识产权局 海关总署关于强化知识产权协同保护的意见",
-    "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7083901.htm",
-    "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:30:45+00:00"
-  },
-  {
-    "source_id": "cn_9abe6d2f93c7",
-    "source_name": "国务院部门文件",
-    "title": "科技部有关负责人就《关于推动科技创新和产业创新深度融合的意见》答记者问",
+    "source_id": "cn_37cf03ee8fd2",
+    "source_name": "国务院最新政策（原单篇文章入口替换）",
+    "title": "科技部就《关于推动科技创新和产业创新深度融合的意见》答记者问",
     "url": "https://www.gov.cn/zhengce/202610/content_7083959.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:45+00:00"
+    "checked_at": "2026-10-25T04:34:37+00:00"
   },
   {
-    "source_id": "cn_9abe6d2f93c7",
-    "source_name": "国务院部门文件",
-    "title": "住房城乡建设部关于印发《历史文化名城（镇、村）与历史建筑保护传承“十五五”规划》的通知",
-    "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7083855.htm",
+    "source_id": "cn_37cf03ee8fd2",
+    "source_name": "国务院最新政策（原单篇文章入口替换）",
+    "title": "推动存量政策与增量政策协同发力——国家发展改革委解读经济社会热点",
+    "url": "https://www.gov.cn/zhengce/202610/content_7083845.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:47+00:00"
+    "checked_at": "2026-10-25T04:34:37+00:00"
   },
   {
-    "source_id": "cn_9abe6d2f93c7",
-    "source_name": "国务院部门文件",
-    "title": "金融监管总局 中国人民银行关于印发《个人住房贷款管理办法（试行）》的通知 个人住房贷款管理办法（试行）",
-    "url": "https://www.gov.cn/gongbao/2026/issue_13046/202610/content_7083665.html",
+    "source_id": "cn_37cf03ee8fd2",
+    "source_name": "国务院最新政策（原单篇文章入口替换）",
+    "title": "商务部电子商务司负责人解读《关于实施品质电商“五优”行动的通知》",
+    "url": "https://www.gov.cn/zhengce/202610/content_7082909.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:34:38+00:00"
+  },
+  {
+    "source_id": "cn_37cf03ee8fd2",
+    "source_name": "国务院最新政策（原单篇文章入口替换）",
+    "title": "国务院办公厅关于发展体育赛事激发消费活力的意见",
+    "url": "https://www.gov.cn/zhengce/content/202609/content_7082492.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:34:38+00:00"
+  },
+  {
+    "source_id": "cn_37cf03ee8fd2",
+    "source_name": "国务院最新政策（原单篇文章入口替换）",
+    "title": "中办国办印发《文化遗产保护传承“十五五”规划》",
+    "url": "https://www.gov.cn/zhengce/202609/content_7082364.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:34:38+00:00"
+  },
+  {
+    "source_id": "cn_37cf03ee8fd2",
+    "source_name": "国务院最新政策（原单篇文章入口替换）",
+    "title": "中华人民共和国审计法实施条例",
+    "url": "https://www.gov.cn/zhengce/content/202609/content_7081972.htm",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:30:47+00:00"
-  },
-  {
-    "source_id": "cn_9abe6d2f93c7",
-    "source_name": "国务院部门文件",
-    "title": "国务院办公厅关于发展体育赛事激发消费活力的意见",
-    "url": "https://www.gov.cn/gongbao/2026/issue_13046/202610/content_7083673.html",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:48+00:00"
-  },
-  {
-    "source_id": "cn_9abe6d2f93c7",
-    "source_name": "国务院部门文件",
-    "title": "中共中央办公厅 国务院办公厅印发《文化遗产保护传承“十五五”规划》",
-    "url": "https://www.gov.cn/gongbao/2026/issue_13046/202610/content_7083674.html",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:48+00:00"
-  },
-  {
-    "source_id": "cn_9abe6d2f93c7",
-    "source_name": "国务院部门文件",
-    "title": "国务院办公厅关于发展体育赛事激发消费活力的意见",
-    "url": "https://www.gov.cn/zhengce/zhengceku/202609/content_7082493.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:48+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "国家标准实施信息反馈",
-    "url": "https://std.samr.gov.cn/gb/gbOpinion",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:44+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "国家标准复审结论公示 征",
-    "url": "https://std.samr.gov.cn/gb/withdrawnReview",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:45+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "拟立项标准公示 征",
-    "url": "https://std.samr.gov.cn/gb/gbSuggestionPlan",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:45+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "拟立项标准样品公示 征",
-    "url": "https://std.samr.gov.cn/gsm/gsmPlanPublic",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:46+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "强标草案征求意见 征",
-    "url": "https://std.samr.gov.cn/gb/gbqSuggestion",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:46+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "推标草案征求意见 征",
-    "url": "https://std.samr.gov.cn/gb/gbPlanDraft",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:46+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "国家标准立项建议征集 征",
-    "url": "https://std.samr.gov.cn/qbprop/introduce",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:47+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "国家标准计划查询",
-    "url": "https://std.samr.gov.cn/gb/gbProcessInfo",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:47+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "国家标准目录查询",
-    "url": "https://std.samr.gov.cn/gb/gbQuery",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:47+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "国家标准样品查询",
-    "url": "https://std.samr.gov.cn/gsm/query",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:47+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "国家标准外文版查询",
-    "url": "https://std.samr.gov.cn/gfs/query",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:48+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "行业标准 备案月报",
-    "url": "https://std.samr.gov.cn/noc/nocHB",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:48+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "地方标准 备案月报",
-    "url": "https://std.samr.gov.cn/noc/nocDB",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:48+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "ISO标准化组织机构",
-    "url": "https://std.samr.gov.cn/gj/org?op=ISO",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:48+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "ISO标准化组织国内对口单位查询",
-    "url": "https://std.samr.gov.cn/gj/orgCn?type=ISO",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:49+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "ISO标准查询",
-    "url": "https://std.samr.gov.cn/gj/std?op=ISO",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:49+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "IEC标准化组织机构",
-    "url": "https://std.samr.gov.cn/gj/org?op=IEC",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:49+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "IEC标准化组织国内对口单位查询",
-    "url": "https://std.samr.gov.cn/gj/orgCn?type=IEC",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:50+00:00"
-  },
-  {
-    "source_id": "cn_68fd9b24ba66",
-    "source_name": "全国标准信息公共服务平台",
-    "title": "IEC标准查询",
-    "url": "https://std.samr.gov.cn/gj/std?op=IEC",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:50+00:00"
+    "checked_at": "2026-10-25T04:34:38+00:00"
   },
   {
     "source_id": "cn_b7b7d481ef53",
@@ -565,7 +317,7 @@
     "title": "GB 强制性国家标准",
     "url": "https://openstd.samr.gov.cn/bzgk/std/std_list_type?p.p1=1&p.p90=circulation_date&p.p91=desc",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:48+00:00"
+    "checked_at": "2026-10-25T04:34:47+00:00"
   },
   {
     "source_id": "cn_b7b7d481ef53",
@@ -573,7 +325,7 @@
     "title": "GB/T 推荐性国家标准",
     "url": "https://openstd.samr.gov.cn/bzgk/std/std_list_type?p.p1=2&p.p90=circulation_date&p.p91=desc",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:49+00:00"
+    "checked_at": "2026-10-25T04:34:49+00:00"
   },
   {
     "source_id": "cn_b7b7d481ef53",
@@ -581,7 +333,247 @@
     "title": "National standards in foreign language version 国家标准外文版",
     "url": "https://openstd.samr.gov.cn/bzgk/std/std_list_type?p.p1=6&p.p90=circulation_date&p.p91=desc",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:50+00:00"
+    "checked_at": "2026-10-25T04:34:50+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "国家标准实施信息反馈",
+    "url": "https://std.samr.gov.cn/gb/gbOpinion",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:47+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "国家标准复审结论公示 征",
+    "url": "https://std.samr.gov.cn/gb/withdrawnReview",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:47+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "拟立项标准公示 征",
+    "url": "https://std.samr.gov.cn/gb/gbSuggestionPlan",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:49+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "拟立项标准样品公示 征",
+    "url": "https://std.samr.gov.cn/gsm/gsmPlanPublic",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:49+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "强标草案征求意见 征",
+    "url": "https://std.samr.gov.cn/gb/gbqSuggestion",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:50+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "推标草案征求意见 征",
+    "url": "https://std.samr.gov.cn/gb/gbPlanDraft",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:50+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "国家标准立项建议征集 征",
+    "url": "https://std.samr.gov.cn/qbprop/introduce",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:50+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "国家标准计划查询",
+    "url": "https://std.samr.gov.cn/gb/gbProcessInfo",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:50+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "国家标准目录查询",
+    "url": "https://std.samr.gov.cn/gb/gbQuery",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:51+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "国家标准样品查询",
+    "url": "https://std.samr.gov.cn/gsm/query",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:51+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "国家标准外文版查询",
+    "url": "https://std.samr.gov.cn/gfs/query",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:51+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "行业标准 备案月报",
+    "url": "https://std.samr.gov.cn/noc/nocHB",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:51+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "地方标准 备案月报",
+    "url": "https://std.samr.gov.cn/noc/nocDB",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:52+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "ISO标准化组织机构",
+    "url": "https://std.samr.gov.cn/gj/org?op=ISO",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:52+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "ISO标准化组织国内对口单位查询",
+    "url": "https://std.samr.gov.cn/gj/orgCn?type=ISO",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:52+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "ISO标准查询",
+    "url": "https://std.samr.gov.cn/gj/std?op=ISO",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:53+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "IEC标准化组织机构",
+    "url": "https://std.samr.gov.cn/gj/org?op=IEC",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:53+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "IEC标准化组织国内对口单位查询",
+    "url": "https://std.samr.gov.cn/gj/orgCn?type=IEC",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:53+00:00"
+  },
+  {
+    "source_id": "cn_68fd9b24ba66",
+    "source_name": "全国标准信息公共服务平台",
+    "title": "IEC标准查询",
+    "url": "https://std.samr.gov.cn/gj/std?op=IEC",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:34:54+00:00"
+  },
+  {
+    "source_id": "cn_9abe6d2f93c7",
+    "source_name": "国务院部门文件",
+    "title": "国务院办公厅关于适应人工智能技术发展助力构建就业友好型发展方式的意见",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7084108.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:34:53+00:00"
+  },
+  {
+    "source_id": "cn_9abe6d2f93c7",
+    "source_name": "国务院部门文件",
+    "title": "关于印发《综合交通枢纽发展“十五五”规划》的通知",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7084174.htm",
+    "reason": "发布日期早于回溯起点",
+    "checked_at": "2026-10-25T04:34:54+00:00"
+  },
+  {
+    "source_id": "cn_9abe6d2f93c7",
+    "source_name": "国务院部门文件",
+    "title": "在制度上更好保障对外投资发展和安全——国家发展改革委有关负责人就《对外投资管理办法》答记者问",
+    "url": "https://www.gov.cn/zhengce/202610/content_7084050.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:34:54+00:00"
+  },
+  {
+    "source_id": "cn_9abe6d2f93c7",
+    "source_name": "国务院部门文件",
+    "title": "工业和信息化部等八部门关于印发《产业基础能力提升“十五五”规划》的通知",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7084022.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:34:55+00:00"
+  },
+  {
+    "source_id": "cn_9abe6d2f93c7",
+    "source_name": "国务院部门文件",
+    "title": "国家知识产权局 海关总署关于强化知识产权协同保护的意见",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7083901.htm",
+    "reason": "尚不能建立风电业务相关影响链条",
+    "checked_at": "2026-10-25T04:34:55+00:00"
+  },
+  {
+    "source_id": "cn_9abe6d2f93c7",
+    "source_name": "国务院部门文件",
+    "title": "科技部有关负责人就《关于推动科技创新和产业创新深度融合的意见》答记者问",
+    "url": "https://www.gov.cn/zhengce/202610/content_7083959.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:34:55+00:00"
+  },
+  {
+    "source_id": "cn_9abe6d2f93c7",
+    "source_name": "国务院部门文件",
+    "title": "住房城乡建设部关于印发《历史文化名城（镇、村）与历史建筑保护传承“十五五”规划》的通知",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7083855.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:34:56+00:00"
+  },
+  {
+    "source_id": "cn_9abe6d2f93c7",
+    "source_name": "国务院部门文件",
+    "title": "金融监管总局 中国人民银行关于印发《个人住房贷款管理办法（试行）》的通知 个人住房贷款管理办法（试行）",
+    "url": "https://www.gov.cn/gongbao/2026/issue_13046/202610/content_7083665.html",
+    "reason": "发布日期早于回溯起点",
+    "checked_at": "2026-10-25T04:34:56+00:00"
+  },
+  {
+    "source_id": "cn_9abe6d2f93c7",
+    "source_name": "国务院部门文件",
+    "title": "国务院办公厅关于发展体育赛事激发消费活力的意见",
+    "url": "https://www.gov.cn/gongbao/2026/issue_13046/202610/content_7083673.html",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:34:56+00:00"
+  },
+  {
+    "source_id": "cn_9abe6d2f93c7",
+    "source_name": "国务院部门文件",
+    "title": "中共中央办公厅 国务院办公厅印发《文化遗产保护传承“十五五”规划》",
+    "url": "https://www.gov.cn/gongbao/2026/issue_13046/202610/content_7083674.html",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:34:57+00:00"
+  },
+  {
+    "source_id": "cn_9abe6d2f93c7",
+    "source_name": "国务院部门文件",
+    "title": "国务院办公厅关于发展体育赛事激发消费活力的意见",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202609/content_7082493.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:34:57+00:00"
   },
   {
     "source_id": "cn_24e54ba38a1a",
@@ -589,7 +581,7 @@
     "title": "[现行有效] 北京市发展和改革委员会关于印发北京市“十五五”时期现代物流发展规划的通知",
     "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/ghjhwb/wngh/202610/t20261020_4911756.htm",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:30:50+00:00"
+    "checked_at": "2026-10-25T04:34:56+00:00"
   },
   {
     "source_id": "cn_24e54ba38a1a",
@@ -597,7 +589,7 @@
     "title": "[现行有效] 北京市发展和改革委员会关于发布北京市2026年新能源供热新技术目录清单的通知",
     "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202610/t20261016_4906079.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:51+00:00"
+    "checked_at": "2026-10-25T04:34:57+00:00"
   },
   {
     "source_id": "cn_24e54ba38a1a",
@@ -605,7 +597,7 @@
     "title": "[现行有效] 北京市人民政府关于印发《北京市“十五五”时期社会公共服务发展规划》的通知",
     "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/ghjhwb/wngh/202610/t20261010_4897023.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:51+00:00"
+    "checked_at": "2026-10-25T04:34:57+00:00"
   },
   {
     "source_id": "cn_24e54ba38a1a",
@@ -613,7 +605,7 @@
     "title": "[现行有效] 北京市人力资源和社会保障局 北京市发展和改革委员会关于印发《北京市“十五五”时期促进高质量充分就业规划》的通知",
     "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/ghjhwb/wngh/202610/t20261010_4896838.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:52+00:00"
+    "checked_at": "2026-10-25T04:34:58+00:00"
   },
   {
     "source_id": "cn_24e54ba38a1a",
@@ -621,7 +613,7 @@
     "title": "[现行有效] 北京市发展和改革委员会关于公示拟履行市政府固定资产投资评估流程供热 管网更新及智能化改造项目清单的通知",
     "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202610/t20261008_4893330.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:52+00:00"
+    "checked_at": "2026-10-25T04:34:58+00:00"
   },
   {
     "source_id": "cn_24e54ba38a1a",
@@ -629,7 +621,7 @@
     "title": "[现行有效] 北京市发展和改革委员会关于公示北京市2026年新能源供热新技术目录清单的通知",
     "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202610/t20261008_4893253.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:53+00:00"
+    "checked_at": "2026-10-25T04:34:59+00:00"
   },
   {
     "source_id": "cn_24e54ba38a1a",
@@ -637,7 +629,7 @@
     "title": "[现行有效] 北京市人民政府关于印发《北京市“十五五”时期现代化基础设施发展规划》的通知",
     "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/ghjhwb/wngh/202610/t20261008_4893451.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:53+00:00"
+    "checked_at": "2026-10-25T04:34:59+00:00"
   },
   {
     "source_id": "cn_24e54ba38a1a",
@@ -645,7 +637,7 @@
     "title": "[现行有效] 北京市发展和改革委员会 北京市住房和城乡建设委员会关于征集2027年市重点工程的通知",
     "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202609/t20260923_4877843.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:54+00:00"
+    "checked_at": "2026-10-25T04:35:01+00:00"
   },
   {
     "source_id": "cn_24e54ba38a1a",
@@ -653,7 +645,7 @@
     "title": "[现行有效] 北京市人民政府关于印发《北京市“十五五”时期优化营商环境规划》的通知",
     "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/ghjhwb/wngh/202609/t20260920_4872103.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:55+00:00"
+    "checked_at": "2026-10-25T04:35:02+00:00"
   },
   {
     "source_id": "cn_24e54ba38a1a",
@@ -661,7 +653,7 @@
     "title": "[现行有效] 北京市人民政府关于印发《北京市现代服务业扩能提质实施方案（2026—2030年）》的通知",
     "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/sjbmgfxwj/bjszfwj/202609/t20260916_4866625.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:55+00:00"
+    "checked_at": "2026-10-25T04:35:03+00:00"
   },
   {
     "source_id": "cn_24e54ba38a1a",
@@ -669,7 +661,7 @@
     "title": "[现行有效] 关于发布北京市节能技术产品推荐目录 （2026年本）的通知",
     "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202609/t20260916_4866029.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:56+00:00"
+    "checked_at": "2026-10-25T04:35:03+00:00"
   },
   {
     "source_id": "cn_24e54ba38a1a",
@@ -677,7 +669,7 @@
     "title": "法律法规规章 (119)",
     "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/flfggz/",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:56+00:00"
+    "checked_at": "2026-10-25T04:35:03+00:00"
   },
   {
     "source_id": "cn_24e54ba38a1a",
@@ -685,7 +677,7 @@
     "title": "本委规范性文件 (117)",
     "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwgfxwj/",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:57+00:00"
+    "checked_at": "2026-10-25T04:35:04+00:00"
   },
   {
     "source_id": "cn_24e54ba38a1a",
@@ -693,7 +685,7 @@
     "title": "规划计划 (362)",
     "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/ghjhwb/",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:30:57+00:00"
+    "checked_at": "2026-10-25T04:35:04+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -701,7 +693,7 @@
     "title": "北京市行政规范性文件备案审查规定",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261023_4916567.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:50+00:00"
+    "checked_at": "2026-10-25T04:34:53+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -709,7 +701,7 @@
     "title": "北京市科学技术委员会、中关村科技园区管理委员会关于印发《北京市实验动物许可证管理办法》的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261023_4916674.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:51+00:00"
+    "checked_at": "2026-10-25T04:34:54+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -717,7 +709,7 @@
     "title": "中共北京市委金融委员会办公室 中国人民银行北京市分行等单位关于印发《北京市全面提升金融营商环境实施方案》的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261022_4914459.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:51+00:00"
+    "checked_at": "2026-10-25T04:34:54+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -725,7 +717,7 @@
     "title": "北京市民政局关于印发《北京市殡葬领域行政处罚裁量基准表》的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261021_4912827.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:51+00:00"
+    "checked_at": "2026-10-25T04:34:54+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -733,7 +725,7 @@
     "title": "北京市民政局关于印发《北京市养老领域行政处罚裁量基准表》的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261021_4913084.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:51+00:00"
+    "checked_at": "2026-10-25T04:34:55+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -741,7 +733,7 @@
     "title": "北京市文物局关于印发《北京市“十五五”时期文物事业发展规划》的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261022_4914130.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:52+00:00"
+    "checked_at": "2026-10-25T04:34:55+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -749,7 +741,7 @@
     "title": "北京市政务服务和数据管理局关于征集词元经济领域数据标准研制需求的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261020_4911898.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:54+00:00"
+    "checked_at": "2026-10-25T04:34:57+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -757,7 +749,7 @@
     "title": "北京市生态环境局关于印发《北京市生态环境行政处罚信息公示期限管理规定》的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261020_4911455.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:54+00:00"
+    "checked_at": "2026-10-25T04:34:58+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -765,7 +757,7 @@
     "title": "北京市人力资源和社会保障局关于开展2026年市级技能大师工作室申报工作的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261019_4910111.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:55+00:00"
+    "checked_at": "2026-10-25T04:34:59+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -773,7 +765,7 @@
     "title": "北京市教育委员会 北京市人力资源和社会保障局关于开展北京市职业教育新形态教材培育建设的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261019_4910201.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:55+00:00"
+    "checked_at": "2026-10-25T04:34:59+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -781,7 +773,7 @@
     "title": "北京市知识产权局关于开展2026年度第一批北京市知识产权金融扶持资金项目申报的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261020_4911114.html",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:30:55+00:00"
+    "checked_at": "2026-10-25T04:34:59+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -789,7 +781,7 @@
     "title": "北京市教育委员会 北京市发展和改革委员会关于下达2026年北京市普通中等专业学校招生规模的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261019_4908310.html",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:30:56+00:00"
+    "checked_at": "2026-10-25T04:35:00+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -797,7 +789,7 @@
     "title": "北京市发展和改革委员会关于发布北京市2026年新能源供热新技术目录清单的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261016_4906061.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:56+00:00"
+    "checked_at": "2026-10-25T04:35:01+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -805,7 +797,7 @@
     "title": "北京市人民政府办公厅印发《关于大力发展赛事经济 促进体育消费的若干措施》的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261016_4904604.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:58+00:00"
+    "checked_at": "2026-10-25T04:35:02+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -813,7 +805,7 @@
     "title": "北京市农业农村局关于在第二轮土地承包到期后再延长30年试点中规范开展确权确利的指导意见",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261016_4905603.html",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:30:58+00:00"
+    "checked_at": "2026-10-25T04:35:02+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -821,7 +813,7 @@
     "title": "北京市经济和信息化局关于开展产业技术基础公共服务平台申报工作的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261016_4906552.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:58+00:00"
+    "checked_at": "2026-10-25T04:35:03+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -829,7 +821,7 @@
     "title": "北京市“十五五”时期推进托幼一体化发展规划",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261019_4908290.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:58+00:00"
+    "checked_at": "2026-10-25T04:35:03+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -837,7 +829,7 @@
     "title": "北京市科学技术委员会、中关村科技园区管理委员会关于开展北京科学数据中心建设项目申报工作的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261016_4904643.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:59+00:00"
+    "checked_at": "2026-10-25T04:35:03+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -845,7 +837,7 @@
     "title": "北京市商务局关于做好本市2027年原油非国营贸易进口允许量申请工作的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261014_4900887.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:59+00:00"
+    "checked_at": "2026-10-25T04:35:04+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -853,7 +845,7 @@
     "title": "北京市文物局关于举办2026年北京市文物保护工程资质单位培训班的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261014_4900914.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:30:59+00:00"
+    "checked_at": "2026-10-25T04:35:04+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -861,7 +853,7 @@
     "title": "北京市人力资源和社会保障局关于开展2026年高技能人才研修培训补充申报工作的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261014_4900946.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:31:00+00:00"
+    "checked_at": "2026-10-25T04:35:05+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -869,7 +861,7 @@
     "title": "北京市人力资源和社会保障局 北京市民政局等部门关于印发《北京市“十五五”时期社会保障事业发展规划》的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261014_4901036.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:31:00+00:00"
+    "checked_at": "2026-10-25T04:35:05+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -877,7 +869,7 @@
     "title": "北京市国防科学技术工业办公室关于开展高端装备领域“寻宝”工作的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261012_4898310.html",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:31:00+00:00"
+    "checked_at": "2026-10-25T04:35:06+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -885,7 +877,7 @@
     "title": "北京市人民政府关于印发《北京市“十五五”时期现代综合交通运输体系发展规划》的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261012_4898783.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:31:02+00:00"
+    "checked_at": "2026-10-25T04:35:07+00:00"
   },
   {
     "source_id": "cn_8101686d3883",
@@ -893,7 +885,7 @@
     "title": "北京市规划和自然资源委员会关于印发《关于本市住宅公共空间品质提升的意见（试行）》的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261013_4899326.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:31:02+00:00"
+    "checked_at": "2026-10-25T04:35:07+00:00"
   },
   {
     "source_id": "cn_687800e62fca",
@@ -901,7 +893,7 @@
     "title": "辽宁省人民政府关于公布省政府行政规范性文件清理结果的决定",
     "url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfwj/2026n/2026101021205617877/index.shtml",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:32:47+00:00"
+    "checked_at": "2026-10-25T04:37:00+00:00"
   },
   {
     "source_id": "cn_687800e62fca",
@@ -909,7 +901,7 @@
     "title": "辽宁省人民政府关于印发《辽宁省“十五五”就业促进规划》的通知",
     "url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfwj/2026n/2026091610000287351/index.shtml",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:32:48+00:00"
+    "checked_at": "2026-10-25T04:37:02+00:00"
   },
   {
     "source_id": "cn_4b359756b91a",
@@ -917,7 +909,7 @@
     "title": "政府信息公开指南",
     "url": "https://gxt.ln.gov.cn/gxt/zfxxgk/zfxxgkzn/index.shtml",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:32:55+00:00"
+    "checked_at": "2026-10-25T04:37:08+00:00"
   },
   {
     "source_id": "cn_fcdd8a95a7df",
@@ -925,7 +917,7 @@
     "title": "政府信息公开指南",
     "url": "https://xxgk.jl.gov.cn/szf/gkzn/",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:33:01+00:00"
+    "checked_at": "2026-10-25T04:37:12+00:00"
   },
   {
     "source_id": "cn_3c9957b26c3c",
@@ -933,15 +925,7 @@
     "title": "政府信息公开指南",
     "url": "https://xxgk.jl.gov.cn/zcbm/fgw/gkzn/",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:33:03+00:00"
-  },
-  {
-    "source_id": "cn_573ba3b6d161",
-    "source_name": "吉林省工信部",
-    "title": "政府信息公开指南",
-    "url": "https://xxgk.jl.gov.cn/zcbm/fgw_97953/gkzn/",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:33:05+00:00"
+    "checked_at": "2026-10-25T04:37:14+00:00"
   },
   {
     "source_id": "cn_c9be69562225",
@@ -949,7 +933,7 @@
     "title": "关于印发《辽宁省虚拟电厂建设服务指南（暂行）》的通知",
     "url": "https://fgw.ln.gov.cn/fgw/zc/zxzc/2026101215252041391/index.shtml",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:33:05+00:00"
+    "checked_at": "2026-10-25T04:37:15+00:00"
   },
   {
     "source_id": "cn_c9be69562225",
@@ -957,7 +941,7 @@
     "title": "我为辽宁‘十五五’规划献一策",
     "url": "https://fgw.ln.gov.cn/fgw/wwlnswwgh/index.shtml",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:33:05+00:00"
+    "checked_at": "2026-10-25T04:37:16+00:00"
   },
   {
     "source_id": "cn_c9be69562225",
@@ -965,7 +949,7 @@
     "title": "固定资产投资处",
     "url": "https://fgw.ln.gov.cn/fgw/jg/jgsz/gdzctzc/index.shtml",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:33:05+00:00"
+    "checked_at": "2026-10-25T04:37:17+00:00"
   },
   {
     "source_id": "cn_c9be69562225",
@@ -973,7 +957,15 @@
     "title": "利用外资和境外投资处",
     "url": "https://fgw.ln.gov.cn/fgw/jg/jgsz/lywzhjwtzc/index.shtml",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:33:06+00:00"
+    "checked_at": "2026-10-25T04:37:17+00:00"
+  },
+  {
+    "source_id": "cn_573ba3b6d161",
+    "source_name": "吉林省工信部",
+    "title": "政府信息公开指南",
+    "url": "https://xxgk.jl.gov.cn/zcbm/fgw_97953/gkzn/",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:37:17+00:00"
   },
   {
     "source_id": "cn_a70a2ad659af",
@@ -981,7 +973,7 @@
     "title": "其他政策文件（电力营商环境政策）",
     "url": "https://www.sheitc.sh.gov.cn/01050220/index.html?from=zl",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:33:22+00:00"
+    "checked_at": "2026-10-25T04:37:32+00:00"
   },
   {
     "source_id": "cn_a70a2ad659af",
@@ -989,7 +981,7 @@
     "title": "政府信息公开指南",
     "url": "https://www.sheitc.sh.gov.cn/zfxxgkzn/index.html",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:33:23+00:00"
+    "checked_at": "2026-10-25T04:37:33+00:00"
   },
   {
     "source_id": "cn_a70a2ad659af",
@@ -997,7 +989,7 @@
     "title": "地方性法规、政府规章",
     "url": "https://www.sheitc.sh.gov.cn/bmgzjxgwj/index.html?from=zl",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:33:23+00:00"
+    "checked_at": "2026-10-25T04:37:33+00:00"
   },
   {
     "source_id": "cn_b85a8fe9fba8",
@@ -1005,167 +997,7 @@
     "title": "省政府政策文件",
     "url": "https://fgw.fujian.gov.cn/zwgk/fgzd/szcfg/",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:33:51+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅关于公布超纯氨等30款新材料新产品的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261021_7238826.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:33:54+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅 福建省通信管理局关于组织开展2026年国家5G工厂名录遴选工作的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261021_7238815.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:33:54+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅关于开展2027年工业数智化转型项目申报工作的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261020_7238286.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:33:55+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅关于公布福建泓然智控信息科技有限公司等66家省专精特新中小企业名单的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261020_7238195.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:33:56+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅关于公布第十批省级制造业单项冠军企业名单和年度抽查结果的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261019_7237792.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:33:57+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅等七部门关于公布漳州视瑞特光电科技股份有限公司技术中心等22家省企业技术中心和部分取消名单的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261019_7237574.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:33:58+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅关于公布入选福建消费名品名录名单的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261015_7225620.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:33:58+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅关于确定第七届福建省工艺美术大师与名人评审认定机构的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261014_7225261.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:33:59+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅 福建省卫生健康委员会 福建省药品监督管理局关于开展2026年高端医疗装备推广应用项目申报工作的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261014_7225102.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:00+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅 福建省发展和改革委员会关于组织开展2026年度享受增值税加计抵减政策的集成电路企业申报工作的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261012_7223896.htm",
-    "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:34:02+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅等四部门关于公布2026年福建省重点用水企业水效领跑者的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261009_7222615.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:03+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅关于开展2026年生物制造标志性产品征集申报工作的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261008_7221553.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:04+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅关于印发《福建省工业设计赋能制造业创新发展行动计划（2026—2028年）》的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261015_7226123.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:05+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅关于公布“金旅客车大规模个性化快速定制数智化工业互联网平台”等73个2026年省级数字化转型项目的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202609/t20260930_7220369.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:05+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省纺织行业缝纫工职业技能竞赛组委会关于公布2026年福建省纺织行业缝纫工职业技能竞赛获奖名单的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202609/t20260929_7220001.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:06+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅 福建省通信管理局关于开展人工智能应用服务商培育专项行动的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261009_7222536.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:07+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅等四部门关于做好2026年度享受先进制造业企业增值税加计抵减政策企业名单制定工作的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202609/t20260922_7216646.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:08+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅关于废止和宣布失效部分行政规范性文件的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gfxwj/202609/t20260920_7216036.htm",
-    "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:34:10+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅关于组织开展数字化转型等典型案例征集工作的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202609/t20260918_7215078.htm",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:11+00:00"
-  },
-  {
-    "source_id": "cn_18e109d08abf",
-    "source_name": "福建省工信厅",
-    "title": "福建省工业和信息化厅 福建省通信管理局 福建省科学技术厅关于组织申报2026年度第二批、2027年度移动信息网络国家科技重大专项项目（公开竞争）的通知",
-    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202609/t20260916_7214319.htm",
-    "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:34:12+00:00"
+    "checked_at": "2026-10-25T04:38:01+00:00"
   },
   {
     "source_id": "cn_b2148d5e1247",
@@ -1173,7 +1005,7 @@
     "title": "福建省人民政府关于朱百里免职的通知",
     "url": "https://www.fujian.gov.cn/zwgk/zxwj/szfwj/202610/t20261009_7222690.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:33:49+00:00"
+    "checked_at": "2026-10-25T04:37:58+00:00"
   },
   {
     "source_id": "cn_b2148d5e1247",
@@ -1181,7 +1013,7 @@
     "title": "福建省人民政府关于蔡晓季任职的通知",
     "url": "https://www.fujian.gov.cn/zwgk/zxwj/szfwj/202610/t20261009_7222689.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:33:50+00:00"
+    "checked_at": "2026-10-25T04:37:59+00:00"
   },
   {
     "source_id": "cn_b2148d5e1247",
@@ -1189,7 +1021,7 @@
     "title": "福建省人民政府关于吴卫云、肖申华任职的通知",
     "url": "https://www.fujian.gov.cn/zwgk/zxwj/szfwj/202610/t20261009_7222688.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:33:54+00:00"
+    "checked_at": "2026-10-25T04:38:00+00:00"
   },
   {
     "source_id": "cn_b2148d5e1247",
@@ -1197,7 +1029,7 @@
     "title": "福建省人民政府关于庄源源免职的通知",
     "url": "https://www.fujian.gov.cn/zwgk/zxwj/szfwj/202610/t20261009_7222687.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:33:55+00:00"
+    "checked_at": "2026-10-25T04:38:02+00:00"
   },
   {
     "source_id": "cn_b2148d5e1247",
@@ -1205,7 +1037,7 @@
     "title": "福建省人民政府关于王哲林、孙树群职务任免的通知",
     "url": "https://www.fujian.gov.cn/zwgk/zxwj/szfwj/202610/t20261009_7222686.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:33:57+00:00"
+    "checked_at": "2026-10-25T04:38:03+00:00"
   },
   {
     "source_id": "cn_b2148d5e1247",
@@ -1213,7 +1045,7 @@
     "title": "福建省人民政府关于张新怿免职的通知",
     "url": "https://www.fujian.gov.cn/zwgk/zxwj/szfwj/202610/t20261009_7222685.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:33:58+00:00"
+    "checked_at": "2026-10-25T04:38:04+00:00"
   },
   {
     "source_id": "cn_b2148d5e1247",
@@ -1221,7 +1053,7 @@
     "title": "福建省人民政府关于陈虔免职的通知",
     "url": "https://www.fujian.gov.cn/zwgk/zxwj/szfwj/202610/t20261009_7222684.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:00+00:00"
+    "checked_at": "2026-10-25T04:38:05+00:00"
   },
   {
     "source_id": "cn_b2148d5e1247",
@@ -1229,7 +1061,7 @@
     "title": "福建省人民政府关于朱真免职的通知",
     "url": "https://www.fujian.gov.cn/zwgk/zxwj/szfwj/202610/t20261009_7222683.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:02+00:00"
+    "checked_at": "2026-10-25T04:38:07+00:00"
   },
   {
     "source_id": "cn_b2148d5e1247",
@@ -1237,7 +1069,7 @@
     "title": "福建省人民政府关于潘臻颖免职的通知",
     "url": "https://www.fujian.gov.cn/zwgk/zxwj/szfwj/202610/t20261009_7222682.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:04+00:00"
+    "checked_at": "2026-10-25T04:38:08+00:00"
   },
   {
     "source_id": "cn_b2148d5e1247",
@@ -1245,7 +1077,7 @@
     "title": "福建省人民政府关于郑立敏任职的通知",
     "url": "https://www.fujian.gov.cn/zwgk/zxwj/szfwj/202610/t20261009_7222681.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:05+00:00"
+    "checked_at": "2026-10-25T04:38:09+00:00"
   },
   {
     "source_id": "cn_b2148d5e1247",
@@ -1253,7 +1085,7 @@
     "title": "福建省人民政府关于陈敬辉免职的通知",
     "url": "https://www.fujian.gov.cn/zwgk/zxwj/szfwj/202610/t20261009_7222680.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:07+00:00"
+    "checked_at": "2026-10-25T04:38:10+00:00"
   },
   {
     "source_id": "cn_b2148d5e1247",
@@ -1261,7 +1093,7 @@
     "title": "福建省人民政府关于李钊免职的通知",
     "url": "https://www.fujian.gov.cn/zwgk/zxwj/szfwj/202610/t20261009_7222679.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:08+00:00"
+    "checked_at": "2026-10-25T04:38:11+00:00"
   },
   {
     "source_id": "cn_b2148d5e1247",
@@ -1269,7 +1101,7 @@
     "title": "福建省人民政府关于戴清泉任职的通知",
     "url": "https://www.fujian.gov.cn/zwgk/zxwj/szfwj/202610/t20261009_7222678.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:10+00:00"
+    "checked_at": "2026-10-25T04:38:12+00:00"
   },
   {
     "source_id": "cn_b2148d5e1247",
@@ -1277,7 +1109,7 @@
     "title": "福建省人民政府关于郑彧任职的通知",
     "url": "https://www.fujian.gov.cn/zwgk/zxwj/szfwj/202610/t20261009_7222677.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:12+00:00"
+    "checked_at": "2026-10-25T04:38:13+00:00"
   },
   {
     "source_id": "cn_b2148d5e1247",
@@ -1285,7 +1117,167 @@
     "title": "福建省人民政府关于郭宋玉等职务任免的通知",
     "url": "https://www.fujian.gov.cn/zwgk/zxwj/szfwj/202610/t20261009_7222676.htm",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:34:13+00:00"
+    "checked_at": "2026-10-25T04:38:14+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅关于公布超纯氨等30款新材料新产品的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261021_7238826.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:06+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅 福建省通信管理局关于组织开展2026年国家5G工厂名录遴选工作的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261021_7238815.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:07+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅关于开展2027年工业数智化转型项目申报工作的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261020_7238286.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:07+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅关于公布福建泓然智控信息科技有限公司等66家省专精特新中小企业名单的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261020_7238195.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:08+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅关于公布第十批省级制造业单项冠军企业名单和年度抽查结果的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261019_7237792.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:09+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅等七部门关于公布漳州视瑞特光电科技股份有限公司技术中心等22家省企业技术中心和部分取消名单的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261019_7237574.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:10+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅关于公布入选福建消费名品名录名单的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261015_7225620.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:11+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅关于确定第七届福建省工艺美术大师与名人评审认定机构的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261014_7225261.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:11+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅 福建省卫生健康委员会 福建省药品监督管理局关于开展2026年高端医疗装备推广应用项目申报工作的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261014_7225102.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:12+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅 福建省发展和改革委员会关于组织开展2026年度享受增值税加计抵减政策的集成电路企业申报工作的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261012_7223896.htm",
+    "reason": "尚不能建立风电业务相关影响链条",
+    "checked_at": "2026-10-25T04:38:15+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅等四部门关于公布2026年福建省重点用水企业水效领跑者的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261009_7222615.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:15+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅关于开展2026年生物制造标志性产品征集申报工作的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261008_7221553.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:16+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅关于印发《福建省工业设计赋能制造业创新发展行动计划（2026—2028年）》的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261015_7226123.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:17+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅关于公布“金旅客车大规模个性化快速定制数智化工业互联网平台”等73个2026年省级数字化转型项目的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202609/t20260930_7220369.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:17+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省纺织行业缝纫工职业技能竞赛组委会关于公布2026年福建省纺织行业缝纫工职业技能竞赛获奖名单的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202609/t20260929_7220001.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:18+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅 福建省通信管理局关于开展人工智能应用服务商培育专项行动的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261009_7222536.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:19+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅等四部门关于做好2026年度享受先进制造业企业增值税加计抵减政策企业名单制定工作的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202609/t20260922_7216646.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:20+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅关于废止和宣布失效部分行政规范性文件的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gfxwj/202609/t20260920_7216036.htm",
+    "reason": "尚不能建立风电业务相关影响链条",
+    "checked_at": "2026-10-25T04:38:22+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅关于组织开展数字化转型等典型案例征集工作的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202609/t20260918_7215078.htm",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:38:23+00:00"
+  },
+  {
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "title": "福建省工业和信息化厅 福建省通信管理局 福建省科学技术厅关于组织申报2026年度第二批、2027年度移动信息网络国家科技重大专项项目（公开竞争）的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202609/t20260916_7214319.htm",
+    "reason": "发布日期早于回溯起点",
+    "checked_at": "2026-10-25T04:38:23+00:00"
   },
   {
     "source_id": "cn_64d94992d798",
@@ -1293,7 +1285,7 @@
     "title": "规范性文件清理",
     "url": "http://gxt.shandong.gov.cn/col/col103864/index.html?number=SD020205",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:35:27+00:00"
+    "checked_at": "2026-10-25T04:39:30+00:00"
   },
   {
     "source_id": "cn_3fb2a96af337",
@@ -1301,7 +1293,7 @@
     "title": "湖南省人民政府关于印发《湖南省自然资源保护利用“十五五”规划》的通知",
     "url": "https://www.hunan.gov.cn/hnszf/xxgk/wjk/szfwj/202610/t20261023_34087524.html",
     "reason": "详情访问失败",
-    "checked_at": "2026-10-24T04:35:50+00:00"
+    "checked_at": "2026-10-25T04:39:57+00:00"
   },
   {
     "source_id": "cn_3fb2a96af337",
@@ -1309,7 +1301,7 @@
     "title": "湖南省人民政府关于印发《湖南省加快农业农村现代化“十五五”规划》的通知",
     "url": "https://www.hunan.gov.cn/hnszf/xxgk/wjk/szfwj/202610/t20261022_34086280.html",
     "reason": "详情访问失败",
-    "checked_at": "2026-10-24T04:35:53+00:00"
+    "checked_at": "2026-10-25T04:40:01+00:00"
   },
   {
     "source_id": "cn_3fb2a96af337",
@@ -1317,7 +1309,7 @@
     "title": "湖南省人民政府关于印发《湖南省就业促进和职业技能培训“十五五”规划》的通知",
     "url": "https://www.hunan.gov.cn/hnszf/xxgk/wjk/szfwj/202610/t20261015_34081838.html",
     "reason": "详情访问失败",
-    "checked_at": "2026-10-24T04:35:56+00:00"
+    "checked_at": "2026-10-25T04:40:04+00:00"
   },
   {
     "source_id": "cn_3fb2a96af337",
@@ -1325,7 +1317,7 @@
     "title": "湖南省人民政府关于公布行政规范性文件等清理结果的决定",
     "url": "https://www.hunan.gov.cn/hnszf/xxgk/wjk/szfwj/202610/t20261010_34078816.html",
     "reason": "详情访问失败",
-    "checked_at": "2026-10-24T04:35:59+00:00"
+    "checked_at": "2026-10-25T04:40:07+00:00"
   },
   {
     "source_id": "cn_a05a053fbf35",
@@ -1333,7 +1325,7 @@
     "title": "广东省人民政府关于河源市龙川县佗城等5个历史文化名城、名村保护规划的批复",
     "url": "https://www.gd.gov.cn/zwgk/wjk/qbwj/yfh/content/post_4969257.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:20+00:00"
+    "checked_at": "2026-10-25T04:40:27+00:00"
   },
   {
     "source_id": "cn_35210b5ce137",
@@ -1341,7 +1333,7 @@
     "title": "广东省投资和信用中心（广东省发展和改革事...",
     "url": "https://drc.gd.gov.cn/wgj_zsdw/content/post_3318562.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:36:26+00:00"
+    "checked_at": "2026-10-25T04:40:38+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1349,7 +1341,7 @@
     "title": "广东省工业和信息化厅 广东省通信管理局关于做好5G工厂名录项目遴选工作的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4970236.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:30+00:00"
+    "checked_at": "2026-10-25T04:40:36+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1357,7 +1349,7 @@
     "title": "“广货行天下”智能穿戴产销对接城市联盟脑机接口专场暨制造业赋能活动在广州成功举办",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4970241.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:31+00:00"
+    "checked_at": "2026-10-25T04:40:37+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1365,7 +1357,7 @@
     "title": "广东省工业和信息化厅关于征求广东省支持“广货行天下”产销对接活动举办经费补助政策实施细则、广东省赋能制造业企业线上销售激励政策实施细则的意见建议的通告",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4968144.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:32+00:00"
+    "checked_at": "2026-10-25T04:40:37+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1373,7 +1365,7 @@
     "title": "广东省工业和信息化厅关于公开征求《广东省智能网联汽车发展促进条例（征求意见稿）》意见的通告",
     "url": "https://gdii.gd.gov.cn/hdjlpt/yjzj/answer/53540",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:32+00:00"
+    "checked_at": "2026-10-25T04:40:38+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1381,7 +1373,7 @@
     "title": "广东省工业和信息化厅关于开展第八批产业技术基础公共服务平台申报工作的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4967575.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:35+00:00"
+    "checked_at": "2026-10-25T04:40:43+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1389,7 +1381,7 @@
     "title": "广东省工业和信息化厅关于公开征求《广东省零碳工厂建设方案（征求意见稿）》意见的通告",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4965732.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:36+00:00"
+    "checked_at": "2026-10-25T04:40:43+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1397,7 +1389,7 @@
     "title": "广东省工业和信息化厅关于公布第一批广东省制造业中试平台名单的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4965379.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:36+00:00"
+    "checked_at": "2026-10-25T04:40:44+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1405,7 +1397,7 @@
     "title": "广东省工业和信息化厅关于举办2026年专精特新“小巨人”企业高级经营管理人才研修班(第一、二期)的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4965381.html",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:36:36+00:00"
+    "checked_at": "2026-10-25T04:40:45+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1413,7 +1405,7 @@
     "title": "广东省工业和信息化厅关于公开征求广东省制造业赋能奖励专项资金（2026-2028年）政策意见的通告",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4965003.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:37+00:00"
+    "checked_at": "2026-10-25T04:40:45+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1421,7 +1413,7 @@
     "title": "广东省工业和信息化厅关于印发广东省支持制造业企业开拓市场与产销对接若干措施（2026—2028年）的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4964992.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:37+00:00"
+    "checked_at": "2026-10-25T04:40:45+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1429,7 +1421,7 @@
     "title": "广东省工业和信息化厅关于公布2026年创新型中小企业和通过复核的创新型中小企业名单的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4965038.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:38+00:00"
+    "checked_at": "2026-10-25T04:40:45+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1437,7 +1429,7 @@
     "title": "广东省工业和信息化厅 交通银行广东省分行印发产业培育融资服务方案的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4964002.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:38+00:00"
+    "checked_at": "2026-10-25T04:40:45+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1445,7 +1437,7 @@
     "title": "广东省工业和信息化厅关于组织开展2026年生物制造标志性产品征集工作的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4963916.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:38+00:00"
+    "checked_at": "2026-10-25T04:40:46+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1453,7 +1445,7 @@
     "title": "广东省工业和信息化厅关于广东省制造业创新中心（第九批）筹建名单的公示",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4963746.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:39+00:00"
+    "checked_at": "2026-10-25T04:40:46+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1461,7 +1453,7 @@
     "title": "广东省工业和信息化厅关于印发《广东省工业和信息化领域企业信息安全事件应急预案（试行）》的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4962777.html",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:36:40+00:00"
+    "checked_at": "2026-10-25T04:40:47+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1469,7 +1461,7 @@
     "title": "广东省工业和信息化厅 广东省卫生健康委员会 广东省药品监督管理局关于开展2026年高端医疗装备推广应用项目申报工作的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4962768.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:40+00:00"
+    "checked_at": "2026-10-25T04:40:47+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1477,7 +1469,7 @@
     "title": "广东省工业和信息化厅 中国农业银行广东省分行印发产业培育融资服务方案的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4962396.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:40+00:00"
+    "checked_at": "2026-10-25T04:40:47+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1485,7 +1477,7 @@
     "title": "广东省工业和信息化厅关于组织申报重点新材料研发及应用国家科技重大专项（科技创新2030重大项目）2026年度第三批项目和2027年度第一批项目的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4961465.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:40+00:00"
+    "checked_at": "2026-10-25T04:40:48+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1493,7 +1485,7 @@
     "title": "广东省工业和信息化厅关于公布佛北战新产业园大塘化工园区通过认定的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4960472.html",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:36:41+00:00"
+    "checked_at": "2026-10-25T04:40:48+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1501,7 +1493,7 @@
     "title": "广东省工业和信息化厅 中国工商银行广东省分行 印发产业培育融资服务方案的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4965361.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:41+00:00"
+    "checked_at": "2026-10-25T04:40:48+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1509,7 +1501,7 @@
     "title": "广东省工业和信息化厅 中国建设银行广东省分行印发产业培育“善建智造”综合金融服务方案的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4959711.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:42+00:00"
+    "checked_at": "2026-10-25T04:40:48+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1517,7 +1509,7 @@
     "title": "广东省工业和信息化厅关于组织申报2026年全国工业领域电力需求侧管理典型案例的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4958582.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:46+00:00"
+    "checked_at": "2026-10-25T04:40:52+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1525,7 +1517,7 @@
     "title": "广东省工业和信息化厅 广东省科学技术厅 广东省财政厅 国家税务总局广东省税务局关于开展2026年度享受增值税加计抵减政策的先进制造业企业名单制定工作的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4958569.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:52+00:00"
+    "checked_at": "2026-10-25T04:41:17+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1533,7 +1525,7 @@
     "title": "广东省工业和信息化厅关于转发协助推荐《2026中国制造盛典》内容素材的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4959716.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:53+00:00"
+    "checked_at": "2026-10-25T04:41:18+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1541,7 +1533,7 @@
     "title": "广东省工业和信息化厅关于2026年省级制造业中试平台名单的公示",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4958592.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:53+00:00"
+    "checked_at": "2026-10-25T04:41:18+00:00"
   },
   {
     "source_id": "cn_e290654fb72d",
@@ -1549,7 +1541,7 @@
     "title": "广东省工业和信息化厅关于开展服务型制造创新发展高地储备入库工作的通知",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4957656.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:36:54+00:00"
+    "checked_at": "2026-10-25T04:41:19+00:00"
   },
   {
     "source_id": "cn_c3d9397ca287",
@@ -1557,7 +1549,7 @@
     "title": "关于上海市贯彻落实新能源上网电价市场化改革有关事项的通知",
     "url": "http://fgw.sh.gov.cn/fgw_jggl/20261020/489f8337cf3a4a23aeb03c72f82fb189.html",
     "reason": "详情访问失败",
-    "checked_at": "2026-10-24T04:34:27+00:00"
+    "checked_at": "2026-10-25T04:38:37+00:00"
   },
   {
     "source_id": "cn_c3d9397ca287",
@@ -1565,7 +1557,7 @@
     "title": "关于公布《上海市“十五五”燃机项目专家优选评议实施方案》的通知",
     "url": "http://fgw.sh.gov.cn/fgw_ny/20261020/c7e79a6dbfa64af6a3f76ccd1f2cdd3b.html",
     "reason": "详情访问失败",
-    "checked_at": "2026-10-24T04:34:58+00:00"
+    "checked_at": "2026-10-25T04:39:10+00:00"
   },
   {
     "source_id": "cn_c3d9397ca287",
@@ -1573,7 +1565,7 @@
     "title": "关于印发上海市2026年绿电直连开发建设方案的通知",
     "url": "http://fgw.sh.gov.cn/fgw_ny/20261016/68a561a1b2ee440e9f66793deade946a.html",
     "reason": "详情访问失败",
-    "checked_at": "2026-10-24T04:35:31+00:00"
+    "checked_at": "2026-10-25T04:39:41+00:00"
   },
   {
     "source_id": "cn_c3d9397ca287",
@@ -1581,7 +1573,7 @@
     "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十六批）的通知",
     "url": "http://fgw.sh.gov.cn/fgw_zyjyhhjbh/20261014/bdc7487968ab42228ee3212f55f327db.html",
     "reason": "详情访问失败",
-    "checked_at": "2026-10-24T04:36:13+00:00"
+    "checked_at": "2026-10-25T04:40:24+00:00"
   },
   {
     "source_id": "cn_c3d9397ca287",
@@ -1589,7 +1581,7 @@
     "title": "关于我市居民瓶装液化石油气基准价的通知",
     "url": "http://fgw.sh.gov.cn/fgw_jggl/20261009/5bba81a9129a468cb813b9ab8bd859f0.html",
     "reason": "详情访问失败",
-    "checked_at": "2026-10-24T04:36:45+00:00"
+    "checked_at": "2026-10-25T04:40:56+00:00"
   },
   {
     "source_id": "cn_c3d9397ca287",
@@ -1597,7 +1589,7 @@
     "title": "上海市发展和改革委员会关于车用汽、柴油价格的通知（2026年9月24日）",
     "url": "http://fgw.sh.gov.cn/fgw_jggl/20260924/9346a0fd85d74075a9431f83f365cef8.html",
     "reason": "详情访问失败",
-    "checked_at": "2026-10-24T04:37:17+00:00"
+    "checked_at": "2026-10-25T04:41:28+00:00"
   },
   {
     "source_id": "cn_c3d9397ca287",
@@ -1605,7 +1597,7 @@
     "title": "关于印发《上海市“十五五”推动浅层地热能高质量利用实施方案》的通知",
     "url": "http://fgw.sh.gov.cn/fgw_ny/20260922/db250dceca9a437daee9951bfdcb9314.html",
     "reason": "详情访问失败",
-    "checked_at": "2026-10-24T04:37:49+00:00"
+    "checked_at": "2026-10-25T04:42:00+00:00"
   },
   {
     "source_id": "cn_c3d9397ca287",
@@ -1613,7 +1605,7 @@
     "title": "关于下达本市2026年节能降碳减排专项资金和超长期特别国债资金安排计划（第十五批）的通知",
     "url": "http://fgw.sh.gov.cn/fgw_zyjyhhjbh/20260920/f9afab1f5f94418780e351832e49b78e.html",
     "reason": "详情访问失败",
-    "checked_at": "2026-10-24T04:38:26+00:00"
+    "checked_at": "2026-10-25T04:42:31+00:00"
   },
   {
     "source_id": "cn_7953653226d0",
@@ -1621,7 +1613,7 @@
     "title": "省经信厅办公室关于开展2026年湖北省首版次软件产品申报工作的通知",
     "url": "http://jxt.hubei.gov.cn/fbjd/zc/qtzdgkwj/gwfb/202610/t20261012_6031558.shtml",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:35:37+00:00"
+    "checked_at": "2026-10-25T04:39:45+00:00"
   },
   {
     "source_id": "cn_7953653226d0",
@@ -1629,7 +1621,7 @@
     "title": "关于开展2026年度湖北省电子信息工程专业职称评审申报工作的通知",
     "url": "http://jxt.hubei.gov.cn/fbjd/zc/qtzdgkwj/gwfb/202609/t20260922_6020215.shtml",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:38:05+00:00"
+    "checked_at": "2026-10-25T04:43:35+00:00"
   },
   {
     "source_id": "cn_7953653226d0",
@@ -1637,7 +1629,7 @@
     "title": "集中采购目录、标准、采购实施情况",
     "url": "http://jxt.hubei.gov.cn/fbjd/xxgkml/zfcg/jzcgml/",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:38:25+00:00"
+    "checked_at": "2026-10-25T04:43:59+00:00"
   },
   {
     "source_id": "cn_7953653226d0",
@@ -1645,7 +1637,7 @@
     "title": "政府信息公开指南",
     "url": "http://jxt.hubei.gov.cn/fbjd/xxgkzn/",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:38:26+00:00"
+    "checked_at": "2026-10-25T04:44:00+00:00"
   },
   {
     "source_id": "cn_7953653226d0",
@@ -1653,7 +1645,7 @@
     "title": "规划和技术改造处",
     "url": "http://jxt.hubei.gov.cn/fbjd/xxgkml/jgzn/nsjg/ghhjsgzc/",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:38:26+00:00"
+    "checked_at": "2026-10-25T04:44:00+00:00"
   },
   {
     "source_id": "cn_7953653226d0",
@@ -1661,7 +1653,7 @@
     "title": "政策执行及落实情况",
     "url": "http://jxt.hubei.gov.cn/fbjd/xxgkml/qtzdgknr/zczxjlsqk/",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:38:26+00:00"
+    "checked_at": "2026-10-25T04:44:01+00:00"
   },
   {
     "source_id": "cn_61f329f622c8",
@@ -1669,7 +1661,7 @@
     "title": "省能源局关于下达纳雍县羊场永合风电场等20个风电光伏发电项目建设计划的通知",
     "url": "https://nyj.guizhou.gov.cn/zwgk/xxgkml/zcwj_2/jnwj/ptwj_2/202609/t20260929_90951254.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:41:38+00:00"
+    "checked_at": "2026-10-25T04:46:09+00:00"
   },
   {
     "source_id": "cn_61f329f622c8",
@@ -1677,7 +1669,7 @@
     "title": "省能源局关于发布《贵州省煤矿重要数据及视频交换技术要求（2026版）》的通知",
     "url": "https://nyj.guizhou.gov.cn/zwgk/xxgkml/zcwj_2/jnwj/ptwj_2/202609/t20260916_90878911.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:41:40+00:00"
+    "checked_at": "2026-10-25T04:46:12+00:00"
   },
   {
     "source_id": "cn_61f329f622c8",
@@ -1685,7 +1677,7 @@
     "title": "省能源局关于公开征求《贵州省煤矿安全生产标准化定级实施细...",
     "url": "https://nyj.guizhou.gov.cn/xwzx/gsgg/202610/t20261023_91025395.html",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:41:40+00:00"
+    "checked_at": "2026-10-25T04:46:12+00:00"
   },
   {
     "source_id": "cn_61f329f622c8",
@@ -1693,7 +1685,7 @@
     "title": "已失效废止规范性文件",
     "url": "https://nyj.guizhou.gov.cn/zwgk/xxgkml/zcwj_2/jnwj/gfxwj/",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:41:41+00:00"
+    "checked_at": "2026-10-25T04:46:13+00:00"
   },
   {
     "source_id": "cn_61f329f622c8",
@@ -1701,7 +1693,7 @@
     "title": "贵州省能源局关于采购第三方技术服务机构开展2026年电厂存煤...",
     "url": "https://nyj.guizhou.gov.cn/xwzx/gsgg/202610/t20261023_91025355.html",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:41:41+00:00"
+    "checked_at": "2026-10-25T04:46:13+00:00"
   },
   {
     "source_id": "cn_5cc7c12757b9",
@@ -1709,7 +1701,7 @@
     "title": "青海省人民政府办公厅 关于印发《青海省防震减灾“十五五” 规划》的通知",
     "url": "http://www.qinghai.gov.cn/xxgk/xxgk/fd/zfwj/202610/t20261012_446821.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:43:29+00:00"
+    "checked_at": "2026-10-25T04:47:49+00:00"
   },
   {
     "source_id": "cn_5cc7c12757b9",
@@ -1717,7 +1709,7 @@
     "title": "青海省人民政府 关于印发《青海省应急管理发展 “十五五”规划》的通知",
     "url": "http://www.qinghai.gov.cn/xxgk/xxgk/fd/zfwj/202610/t20261012_446782.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:43:30+00:00"
+    "checked_at": "2026-10-25T04:47:50+00:00"
   },
   {
     "source_id": "cn_5cc7c12757b9",
@@ -1725,7 +1717,7 @@
     "title": "青海省人民政府 关于印发《青海省民营经济发展 “十五五”规划》的通知",
     "url": "http://www.qinghai.gov.cn/xxgk/xxgk/fd/zfwj/202610/t20261008_443424.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:43:30+00:00"
+    "checked_at": "2026-10-25T04:47:50+00:00"
   },
   {
     "source_id": "cn_5cc7c12757b9",
@@ -1733,7 +1725,7 @@
     "title": "青海省人民政府 关于印发《青海省自然资源保护利用 “十五五”规划》的通知",
     "url": "http://www.qinghai.gov.cn/xxgk/xxgk/fd/zfwj/202609/t20260918_442714.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:43:30+00:00"
+    "checked_at": "2026-10-25T04:47:51+00:00"
   },
   {
     "source_id": "cn_5cc7c12757b9",
@@ -1741,7 +1733,7 @@
     "title": "国土资源、能源",
     "url": "http://www.qinghai.gov.cn/xxgk/8/13/",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:43:31+00:00"
+    "checked_at": "2026-10-25T04:47:51+00:00"
   },
   {
     "source_id": "cn_7c77b32d80d0",
@@ -1749,7 +1741,7 @@
     "title": "宁夏回族自治区人民政府办公厅关于加强基层消防工作的实施意见",
     "url": "https://www.nx.gov.cn/zwgk/gfxwj/202610/t20261023_5380407.html",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:44:07+00:00"
+    "checked_at": "2026-10-25T04:48:28+00:00"
   },
   {
     "source_id": "cn_7c77b32d80d0",
@@ -1757,7 +1749,7 @@
     "title": "宁夏回族自治区人民政府关于印发《宁夏加快农业农村现代化“十五五”规划》的通知",
     "url": "https://www.nx.gov.cn/zwgk/qzfwj/202610/t20261023_5380461.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:44:07+00:00"
+    "checked_at": "2026-10-25T04:48:29+00:00"
   },
   {
     "source_id": "cn_7c77b32d80d0",
@@ -1765,7 +1757,7 @@
     "title": "宁夏回族自治区人民政府关于《宁夏文化和旅游发展“十五五”规划》的批复",
     "url": "https://www.nx.gov.cn/zwgk/qzfwj/202610/t20261023_5380008.html",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:44:08+00:00"
+    "checked_at": "2026-10-25T04:48:30+00:00"
   },
   {
     "source_id": "cn_7c77b32d80d0",
@@ -1773,7 +1765,7 @@
     "title": "宁夏回族自治区人民政府关于《宁夏残疾人保障和发展“十五五”规划》的批复",
     "url": "https://www.nx.gov.cn/zwgk/qzfwj/202610/t20261012_5369188.html",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:44:09+00:00"
+    "checked_at": "2026-10-25T04:48:30+00:00"
   },
   {
     "source_id": "cn_7c77b32d80d0",
@@ -1781,7 +1773,7 @@
     "title": "宁夏回族自治区人民政府办公厅关于印发《宁夏现代渔业高质量发展实施方案（2026—2030年）》的通知",
     "url": "https://www.nx.gov.cn/zwgk/qzfwj/202610/t20261012_5369182.html",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:44:10+00:00"
+    "checked_at": "2026-10-25T04:48:31+00:00"
   },
   {
     "source_id": "cn_7c77b32d80d0",
@@ -1789,7 +1781,7 @@
     "title": "宁夏回族自治区人民政府关于《宁夏体育事业发展“十五五”规划》的批复",
     "url": "https://www.nx.gov.cn/zwgk/qzfwj/202610/t20261012_5369169.html",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:44:10+00:00"
+    "checked_at": "2026-10-25T04:48:32+00:00"
   },
   {
     "source_id": "cn_7c77b32d80d0",
@@ -1797,7 +1789,7 @@
     "title": "宁夏回族自治区人民政府关于《宁夏回族自治区疾病预防控制事业发展“十五五”规划》的批复",
     "url": "https://www.nx.gov.cn/zwgk/qzfwj/202609/t20260924_5356183.html",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:44:12+00:00"
+    "checked_at": "2026-10-25T04:48:33+00:00"
   },
   {
     "source_id": "cn_7c77b32d80d0",
@@ -1805,7 +1797,7 @@
     "title": "宁夏回族自治区人民政府关于《宁夏回族自治区中医药振兴发展“十五五”规划》的批复",
     "url": "https://www.nx.gov.cn/zwgk/qzfwj/202609/t20260924_5356174.html",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:44:12+00:00"
+    "checked_at": "2026-10-25T04:48:33+00:00"
   },
   {
     "source_id": "cn_7c77b32d80d0",
@@ -1813,7 +1805,7 @@
     "title": "宁夏回族自治区人民政府办公厅关于印发《宁夏回族自治区人均预期寿命提升行动方案（2026-2030年）》的通知",
     "url": "https://www.nx.gov.cn/zwgk/qzfwj/202609/t20260920_5350169.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:44:12+00:00"
+    "checked_at": "2026-10-25T04:48:34+00:00"
   },
   {
     "source_id": "cn_7c77b32d80d0",
@@ -1821,7 +1813,7 @@
     "title": "宁夏回族自治区人民政府办公厅关于印发《宁夏回族自治区自然灾害调查评估实施办法》的通知",
     "url": "https://www.nx.gov.cn/zwgk/qzfwj/202609/t20260920_5350150.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:44:13+00:00"
+    "checked_at": "2026-10-25T04:48:34+00:00"
   },
   {
     "source_id": "cn_7c77b32d80d0",
@@ -1829,7 +1821,7 @@
     "title": "部门规范性文件( )",
     "url": "https://www.nx.gov.cn/zwgk/qzfwj/5620/5650/index.html",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:44:14+00:00"
+    "checked_at": "2026-10-25T04:48:35+00:00"
   },
   {
     "source_id": "cn_7c77b32d80d0",
@@ -1837,7 +1829,7 @@
     "title": "国土资源、能源( )",
     "url": "https://www.nx.gov.cn/zwgk/qzfwj/5619/5624/index.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:44:14+00:00"
+    "checked_at": "2026-10-25T04:48:35+00:00"
   },
   {
     "source_id": "cn_7c77b32d80d0",
@@ -1845,7 +1837,7 @@
     "title": "宁夏宁东能源化工基地",
     "url": "http://ningdong.nx.gov.cn/",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:44:16+00:00"
+    "checked_at": "2026-10-25T04:48:37+00:00"
   },
   {
     "source_id": "cn_7c77b32d80d0",
@@ -1853,7 +1845,7 @@
     "title": "宁夏贸易促进委员会",
     "url": "https://nxccpit.nx.gov.cn/",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:44:20+00:00"
+    "checked_at": "2026-10-25T04:48:39+00:00"
   },
   {
     "source_id": "cn_cbab808cd2a0",
@@ -1861,7 +1853,7 @@
     "title": "政府信息公开指南",
     "url": "https://www.xinjiang.gov.cn/xinjiang/xxgkzl/zfxxgk_xxgkzn.shtml",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:44:28+00:00"
+    "checked_at": "2026-10-25T04:48:46+00:00"
   },
   {
     "source_id": "cn_f772ee3b1cc5",
@@ -1869,7 +1861,7 @@
     "title": "政府信息公开指南",
     "url": "https://gxt.xinjiang.gov.cn/gxt/xxgkzn/zfxxgk_xxgkzd.shtml",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:44:31+00:00"
+    "checked_at": "2026-10-25T04:48:48+00:00"
   },
   {
     "source_id": "cn_e4c52c960d02",
@@ -1877,7 +1869,7 @@
     "title": "政府信息公开指南",
     "url": "https://xjdrc.xinjiang.gov.cn/xjfgw/c108347/zfxxgk_xxgkzn.shtml",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:44:34+00:00"
+    "checked_at": "2026-10-25T04:48:50+00:00"
   },
   {
     "source_id": "intl_851d40951467",
@@ -1885,7 +1877,7 @@
     "title": "Certificate of Accreditation [ PDF, 199.17 KB]",
     "url": "https://niwe.res.in/static/pdf/NABL_certificate_of_accreditation_2024-26.pdf",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:44:37+00:00"
+    "checked_at": "2026-10-25T04:48:55+00:00"
   },
   {
     "source_id": "cn_09b62684b798",
@@ -1893,7 +1885,7 @@
     "title": "国务院政策文件库 >",
     "url": "https://www.gov.cn/zhengce/zhengcewenjianku/index.htm",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:44:43+00:00"
+    "checked_at": "2026-10-25T04:49:02+00:00"
   },
   {
     "source_id": "cn_385aa60c445a",
@@ -1901,7 +1893,7 @@
     "title": "政府信息公开指南",
     "url": "https://www.xinjiang.gov.cn/xinjiang/xxgkzl/zfxxgk_xxgkzn.shtml",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:41+00:00"
+    "checked_at": "2026-10-25T04:50:01+00:00"
   },
   {
     "source_id": "cn_2b0fcb94d833",
@@ -1909,7 +1901,7 @@
     "title": "政府信息公开指南",
     "url": "https://www.xinjiang.gov.cn/xinjiang/xxgkzl/zfxxgk_xxgkzn.shtml",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:43+00:00"
+    "checked_at": "2026-10-25T04:50:02+00:00"
   },
   {
     "source_id": "cn_5dab18c54fb9",
@@ -1917,23 +1909,7 @@
     "title": "广东省投资和信用中心（广东省发展和改革事...",
     "url": "https://drc.gd.gov.cn/wgj_zsdw/content/post_3318562.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:45:48+00:00"
-  },
-  {
-    "source_id": "cn_236457835be8",
-    "source_name": "广东省发展改革委｜业务通知",
-    "title": "关于印发《广东省重点行业节能降碳改造攻坚三年行动方案》的通知",
-    "url": "https://drc.gd.gov.cn/ywtz/content/post_4960402.html",
-    "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:45:53+00:00"
-  },
-  {
-    "source_id": "cn_236457835be8",
-    "source_name": "广东省发展改革委｜业务通知",
-    "title": "广东省投资和信用中心（广东省发展和改革事...",
-    "url": "https://drc.gd.gov.cn/wgj_zsdw/content/post_3318562.html",
-    "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:45:53+00:00"
+    "checked_at": "2026-10-25T04:50:05+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -1941,7 +1917,7 @@
     "title": "国家发改委：支持新能源与场站内配套储能作为联合报价主体参与电力现货市场申报、出清、调用、结算、考核等（征求意见）",
     "url": "https://news.bjx.com.cn/html/20261020/1516992.shtml",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:45:54+00:00"
+    "checked_at": "2026-10-25T04:50:10+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -1949,7 +1925,7 @@
     "title": "涉及新能源开发！天津开展2027年市级重点项目申报",
     "url": "https://news.bjx.com.cn/html/20261013/1515993.shtml",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:45:54+00:00"
+    "checked_at": "2026-10-25T04:50:10+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -1957,7 +1933,7 @@
     "title": "河北：就风、光发电及独立储能项目共用工程建设及费用分摊征求意见",
     "url": "https://news.bjx.com.cn/html/20260921/1513716.shtml",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:45:54+00:00"
+    "checked_at": "2026-10-25T04:50:11+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -1965,7 +1941,7 @@
     "title": "新疆发布防范新能源项目诈骗公告！",
     "url": "https://news.bjx.com.cn/html/20260918/1513353.shtml",
     "reason": "无任何18维度的条款证据",
-    "checked_at": "2026-10-24T04:45:54+00:00"
+    "checked_at": "2026-10-25T04:50:11+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -1973,7 +1949,7 @@
     "title": "江苏省：统筹推进海上风电场改造升级、融合开发和退役管理！",
     "url": "https://news.bjx.com.cn/html/20260917/1513214.shtml",
     "reason": "无法核实政策规范信号",
-    "checked_at": "2026-10-24T04:45:55+00:00"
+    "checked_at": "2026-10-25T04:50:11+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -1981,7 +1957,7 @@
     "title": "天津启动机制电价竞价！竞价上限0.32元/度",
     "url": "https://news.bjx.com.cn/html/20260916/1512949.shtml",
     "reason": "尚不能建立风电业务相关影响链条",
-    "checked_at": "2026-10-24T04:45:55+00:00"
+    "checked_at": "2026-10-25T04:50:12+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -1989,7 +1965,23 @@
     "title": "北极星风力发电网",
     "url": "https://fd.bjx.com.cn/",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:45:56+00:00"
+    "checked_at": "2026-10-25T04:50:12+00:00"
+  },
+  {
+    "source_id": "cn_236457835be8",
+    "source_name": "广东省发展改革委｜业务通知",
+    "title": "关于印发《广东省重点行业节能降碳改造攻坚三年行动方案》的通知",
+    "url": "https://drc.gd.gov.cn/ywtz/content/post_4960402.html",
+    "reason": "无任何18维度的条款证据",
+    "checked_at": "2026-10-25T04:50:13+00:00"
+  },
+  {
+    "source_id": "cn_236457835be8",
+    "source_name": "广东省发展改革委｜业务通知",
+    "title": "广东省投资和信用中心（广东省发展和改革事...",
+    "url": "https://drc.gd.gov.cn/wgj_zsdw/content/post_3318562.html",
+    "reason": "发布日期早于回溯起点",
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -1997,7 +1989,7 @@
     "title": "江苏扬州港单船风电叶片出口创纪录：153支“风电翅膀”启运印度",
     "url": "https://www.cnenergynews.cn/article/4TjJ563h75z",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:54+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2005,7 +1997,7 @@
     "title": "新能源电价不是越低越好",
     "url": "https://www.cnenergynews.cn/article/4TjpFvFsUEP",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:54+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2013,7 +2005,7 @@
     "title": "向投产发电迈出关键一步！贵州能源水城2×66万千瓦燃煤发电项目并网成功",
     "url": "https://www.cnenergynews.cn/article/4ThZJk60WI8",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:54+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2021,7 +2013,7 @@
     "title": "通威助力马尔康大藏400MW光伏项目并网发电",
     "url": "https://www.cnenergynews.cn/article/4TiMsphgIoa",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:55+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2029,7 +2021,7 @@
     "title": "违反金融统计规定，金谷信托被央行北京分行警告、罚款150万元",
     "url": "https://www.cnenergynews.cn/article/4TjHZRePrJW",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:55+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2037,7 +2029,7 @@
     "title": "国务院办公厅印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》",
     "url": "https://www.cnenergynews.cn/article/4TjJFJFfSBn",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:55+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2045,7 +2037,7 @@
     "title": "电动自行车等三类产品CCC认证新规11月1日起实施",
     "url": "https://www.cnenergynews.cn/article/4TjIJZmbzP9",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:55+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2053,7 +2045,7 @@
     "title": "青海落地绿电溯源地方标准 助力产业低碳转型",
     "url": "https://www.cnenergynews.cn/article/4TjIwj0t8nZ",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:55+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2061,7 +2053,7 @@
     "title": "香港发展低空经济工作组正全力制订《发展低空经济规划行动纲领》 | 投研报告",
     "url": "https://www.cnenergynews.cn/article/4TiFnQj08EG",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:55+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2069,7 +2061,7 @@
     "title": "政策“左右互搏”加剧日本经济困局",
     "url": "https://www.cnenergynews.cn/article/4TfgcvdvlhK",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:55+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2077,7 +2069,23 @@
     "title": "【车企没了，数十万辆新能源“孤儿车”谁来负责修】",
     "url": "https://www.cnenergynews.cn/article/4Tjq2USfs3P",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:55+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
+  },
+  {
+    "source_id": "cn_b637baec056a",
+    "source_name": "中国能源报·中国能源网",
+    "title": "全球最大“电力超市”正式开业了",
+    "url": "https://www.cnenergynews.cn/article/4TkDpAYkyuj",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:50:13+00:00"
+  },
+  {
+    "source_id": "cn_b637baec056a",
+    "source_name": "中国能源报·中国能源网",
+    "title": "南方区域电力市场今起正式运行",
+    "url": "https://www.cnenergynews.cn/article/4TkC0YcTVsX",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2085,7 +2093,7 @@
     "title": "十大券商首席研判：A股中长期投资价值凸显",
     "url": "https://www.cnenergynews.cn/article/4TjpHPeAW7y",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:55+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2093,23 +2101,7 @@
     "title": "本轮AI投资热潮能持续多久？",
     "url": "https://www.cnenergynews.cn/article/4TjpLlsILea",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:55+00:00"
-  },
-  {
-    "source_id": "cn_b637baec056a",
-    "source_name": "中国能源报·中国能源网",
-    "title": "能源转型下一场大考：当绿电不再只是“卖出去”",
-    "url": "https://www.cnenergynews.cn/article/4TjC9D1Hqag",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:55+00:00"
-  },
-  {
-    "source_id": "cn_b637baec056a",
-    "source_name": "中国能源报·中国能源网",
-    "title": "售电公司转型，关系全国统一电力市场成色",
-    "url": "https://www.cnenergynews.cn/article/4Tj8BnK5oEi",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:55+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2117,7 +2109,7 @@
     "title": "广州联合6省区21地市打造7600公里清洁能源走廊",
     "url": "https://www.cnenergynews.cn/article/4Tj48atc08u",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:55+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2125,7 +2117,7 @@
     "title": "让绿色能源深度增值",
     "url": "https://www.cnenergynews.cn/article/4TiFLs4REzt",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:55+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2133,7 +2125,7 @@
     "title": "乌克兰称能源设施遭俄军袭击 俄称发动无人机袭击",
     "url": "https://www.cnenergynews.cn/article/4TjIdckvhGp",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:55+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2141,7 +2133,7 @@
     "title": "事关再生资源绿色供应链 最新报告显示废旧家电等成今年增长重点",
     "url": "https://www.cnenergynews.cn/article/4TG2ldYEEir",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:55+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2149,7 +2141,7 @@
     "title": "今年我国已有7种高端钢材实现全新突破，面向新能源汽车、人形机器人等新兴赛道",
     "url": "https://www.cnenergynews.cn/article/4SvHNNDoE4r",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:56+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2157,7 +2149,7 @@
     "title": "“电力数据＋绿色金融”助力变压器制造企业产品出海",
     "url": "https://www.cnenergynews.cn/article/4TjIvURznor",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:56+00:00"
+    "checked_at": "2026-10-25T04:50:13+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2165,7 +2157,7 @@
     "title": "山东能源新疆煤化工：国内首台突破，8万空分机组控制系统实现国产化替代",
     "url": "https://www.cnenergynews.cn/article/4T773bpwGFR",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:56+00:00"
+    "checked_at": "2026-10-25T04:50:14+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2173,7 +2165,7 @@
     "title": "9月叉车出口增速回升，龙头加码智能化与新能源产品布局 | 投研报告",
     "url": "https://www.cnenergynews.cn/article/4TiEkUYKFji",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:56+00:00"
+    "checked_at": "2026-10-25T04:50:14+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2181,7 +2173,7 @@
     "title": "能源和产业绿色低碳转型取得重大进展",
     "url": "https://www.cnenergynews.cn/article/4TiFWQ0yXh7",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:56+00:00"
+    "checked_at": "2026-10-25T04:50:14+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2189,7 +2181,7 @@
     "title": "大国基地——“深入践行能源安全新战略”系列纪录片第九集",
     "url": "https://www.cnenergynews.cn/article/4TWrMsLHSMr",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:56+00:00"
+    "checked_at": "2026-10-25T04:50:14+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2197,7 +2189,7 @@
     "title": "赛道上的液态新能源，吉利远程甲醇电动护航绿醇超吉联赛",
     "url": "https://www.cnenergynews.cn/article/4Tgnk1mSCR0",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:56+00:00"
+    "checked_at": "2026-10-25T04:50:14+00:00"
   },
   {
     "source_id": "cn_b637baec056a",
@@ -2205,7 +2197,7 @@
     "title": "中国燃气举行AI成果发布会 打造能源行业数智化转型标杆",
     "url": "https://www.cnenergynews.cn/article/4TgnH6bJWho",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:56+00:00"
+    "checked_at": "2026-10-25T04:50:14+00:00"
   },
   {
     "source_id": "cn_f1e4c09a897d",
@@ -2213,7 +2205,7 @@
     "title": "内蒙古自治区能源局",
     "url": "https://nyj.nmg.gov.cn/",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-10-24T04:45:59+00:00"
+    "checked_at": "2026-10-25T04:50:15+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2221,7 +2213,7 @@
     "title": "《风电场改造升级和退役管理办法》",
     "url": "https://www.cweea.com.cn/zcfg/html/36226.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:03+00:00"
+    "checked_at": "2026-10-25T04:50:25+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2229,7 +2221,7 @@
     "title": "《国家能源局关于进一步加强海上风电项目安全风险防控相关工作的通知》",
     "url": "https://www.cweea.com.cn/zcfg/html/34922.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:05+00:00"
+    "checked_at": "2026-10-25T04:50:26+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2237,7 +2229,7 @@
     "title": "《国家能源局关于2021年风电、光伏发电开发建设有关事项的通知》",
     "url": "https://www.cweea.com.cn/zcfg/html/32027.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:07+00:00"
+    "checked_at": "2026-10-25T04:50:29+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2245,7 +2237,7 @@
     "title": "国家能源局发布2021年风电开发建设事项征求意见稿",
     "url": "https://www.cweea.com.cn/zcfg/html/31800.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:08+00:00"
+    "checked_at": "2026-10-25T04:50:30+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2253,7 +2245,7 @@
     "title": "延长半年并网期限，湖北省风电项目上网电价政策延期",
     "url": "https://www.cweea.com.cn/zcfg/html/31740.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:10+00:00"
+    "checked_at": "2026-10-25T04:50:30+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2261,7 +2253,7 @@
     "title": "国家发展改革委办公厅 国家能源局综合司关于公布2020年风电、光伏发电平价上网项目的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/30892.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:11+00:00"
+    "checked_at": "2026-10-25T04:50:31+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2269,7 +2261,7 @@
     "title": "国家能源局关于发布《2020年度风电投资监测预警结果》和《2019年度光伏发电市场环境监测评价结果》的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/30073.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:12+00:00"
+    "checked_at": "2026-10-25T04:50:31+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2277,7 +2269,7 @@
     "title": "国家能源局关于2020年风电、光伏发电项目建设有关事项的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/29899.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:13+00:00"
+    "checked_at": "2026-10-25T04:50:32+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2285,7 +2277,7 @@
     "title": "《国家能源局关于2019年风电、光伏发电项目建设有关事项的通知》解读",
     "url": "https://www.cweea.com.cn/zcfg/html/25586.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:13+00:00"
+    "checked_at": "2026-10-25T04:50:34+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2293,7 +2285,7 @@
     "title": "发改委能源局关于积极推进风电、光伏发电无补贴平价上网有关工作的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/350.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:14+00:00"
+    "checked_at": "2026-10-25T04:50:36+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2301,7 +2293,7 @@
     "title": "国家能源局关于2018年度风电建设管理有关要求的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/345.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:14+00:00"
+    "checked_at": "2026-10-25T04:50:41+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2309,7 +2301,7 @@
     "title": "国家能源局关于印发《分散式风电项目开发建设暂行管理办法》的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/343.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:16+00:00"
+    "checked_at": "2026-10-25T04:50:41+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2317,7 +2309,7 @@
     "title": "国家能源局关于发布2018年度风电投资监测预警结果的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/339.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:16+00:00"
+    "checked_at": "2026-10-25T04:50:42+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2325,7 +2317,7 @@
     "title": "国家能源局关于公布风电平价上网示范项目的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/331.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:17+00:00"
+    "checked_at": "2026-10-25T04:50:43+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2333,7 +2325,7 @@
     "title": "国家能源局关于加快推进分散式接入风电项目建设有关要求的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/328.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:19+00:00"
+    "checked_at": "2026-10-25T04:50:44+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2341,7 +2333,7 @@
     "title": "国家能源局综合司发布关于开展风电平价上网示范工作的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/327.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:19+00:00"
+    "checked_at": "2026-10-25T04:50:45+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2349,7 +2341,7 @@
     "title": "国家能源局关于发布2017年度风电投资监测预警结果的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/320.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:20+00:00"
+    "checked_at": "2026-10-25T04:50:46+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2357,7 +2349,7 @@
     "title": "国家能源局 国家海洋局关于印发《海上风电开发建设管理办法》的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/319.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:20+00:00"
+    "checked_at": "2026-10-25T04:50:47+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2365,7 +2357,7 @@
     "title": "关于调整光伏发电陆上风电标杆上网电价的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/315.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:21+00:00"
+    "checked_at": "2026-10-25T04:50:50+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2373,7 +2365,7 @@
     "title": "国家能源局关于印发《风电发展“十三五”规划》的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/313.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:21+00:00"
+    "checked_at": "2026-10-25T04:50:51+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2381,7 +2373,7 @@
     "title": "国家海洋局关于进一步规范海上风电用海管理的意见",
     "url": "https://www.cweea.com.cn/zcfg/html/311.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:21+00:00"
+    "checked_at": "2026-10-25T04:50:52+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2389,7 +2381,7 @@
     "title": "关于建立监测预警机制促进风电产业持续健康发展的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/310.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:22+00:00"
+    "checked_at": "2026-10-25T04:50:53+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2397,7 +2389,7 @@
     "title": "国家能源局关于下达2016年全国风电开发建设方案的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/303.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:22+00:00"
+    "checked_at": "2026-10-25T04:50:54+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2405,7 +2397,7 @@
     "title": "八部委联合发文推动废旧风电叶片回收应用",
     "url": "https://www.cweea.com.cn/zcfg/html/33319.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:23+00:00"
+    "checked_at": "2026-10-25T04:50:55+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2413,7 +2405,7 @@
     "title": "五部委联合发文：加大金融支持力度 促进风电和光伏发电等行业健康有序发展",
     "url": "https://www.cweea.com.cn/zcfg/html/31835.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:23+00:00"
+    "checked_at": "2026-10-25T04:50:57+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2421,7 +2413,7 @@
     "title": "国家能源局发布《风电开发建设情况专项监管工作方案》",
     "url": "https://www.cweea.com.cn/zcfg/html/30891.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:24+00:00"
+    "checked_at": "2026-10-25T04:50:58+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2429,7 +2421,7 @@
     "title": "发改委能源局关于做好风电、光伏发电全额保障性收购管理工作的通",
     "url": "https://www.cweea.com.cn/zcfg/html/308.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:24+00:00"
+    "checked_at": "2026-10-25T04:50:59+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2437,7 +2429,7 @@
     "title": "国家能源局关于印发《可再生能源绿色电力证书管理实施细则（试行）》的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/41080.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:25+00:00"
+    "checked_at": "2026-10-25T04:50:59+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2445,7 +2437,7 @@
     "title": "国家能源局综合司关于组织开展“人工智能+”能源试点工作的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/41079.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:25+00:00"
+    "checked_at": "2026-10-25T04:51:00+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -2453,6 +2445,6 @@
     "title": "国家发展改革委 国家能源局关于深化新能源上网电价市场化改革促进新能源高质量发展的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/41078.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-10-24T04:46:25+00:00"
+    "checked_at": "2026-10-25T04:51:00+00:00"
   }
 ]
