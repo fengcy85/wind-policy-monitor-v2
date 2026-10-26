@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-25T05:02:08+00:00",
+  "generated_at": "2026-10-26T05:07:00+00:00",
   "period": {
     "days": 7,
-    "start": "2026-10-19",
-    "end": "2026-10-25"
+    "start": "2026-10-20",
+    "end": "2026-10-26"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
-  "count": 8,
+  "count": 7,
   "tag_order": [
     "竞对资讯",
     "招标采购",
@@ -16,10 +16,10 @@
     "审批政策"
   ],
   "tag_counts": {
-    "竞对资讯": 6,
+    "竞对资讯": 5,
     "招标采购": 5,
     "市场机制": 1,
-    "电网建设": 2,
+    "电网建设": 1,
     "宏观政策": 0,
     "审批政策": 3
   },
@@ -48,6 +48,30 @@
     {
       "country": "全球",
       "source_name": "Recharge",
+      "title": "Latest US offshore wind remand bid may rattle permitting talks, but Iberdrola project already stalled",
+      "translated_title": "美国最近的海上风还押招标 可能会引发谈判 但Iberdrola项目已经停滞了",
+      "published_at": "2026-10-23",
+      "url": "https://www.rechargenews.com/policy/latest-us-offshore-wind-remand-bid-may-rattle-permitting-talks-but-iberdrola-project-already-stalled/2-1-2063030",
+      "tags": [
+        "竞对资讯",
+        "招标采购",
+        "审批政策"
+      ],
+      "competitors": [
+        "Iberdrola"
+      ],
+      "monitor_reason": "招标/采购节点 · 审批/许可节点 · 竞对项目动态 · 标题明确风电",
+      "signals": [
+        "竞对资讯",
+        "招标采购",
+        "Iberdrola"
+      ],
+      "rank": 2,
+      "importance_reason": "竞对资讯 · 招标采购 · Iberdrola"
+    },
+    {
+      "country": "全球",
+      "source_name": "Recharge",
       "title": "Europe built the wind farms but neglected the grid. Now the costs are mounting analysis 20.10.2026",
       "translated_title": "欧洲建造了风电场但忽略了电网. 现在费用正在增加分析 20.10.2026",
       "published_at": "2026-10-23",
@@ -68,32 +92,8 @@
         "招标采购",
         "Vestas"
       ],
-      "rank": 2,
-      "importance_reason": "竞对资讯 · 招标采购 · Vestas"
-    },
-    {
-      "country": "全球",
-      "source_name": "Recharge",
-      "title": "Latest US offshore wind remand bid may rattle permitting talks, but Iberdrola project already stalled",
-      "translated_title": "美国最近的海上风还押招标 可能会引发谈判 但Iberdrola项目已经停滞了",
-      "published_at": "2026-10-23",
-      "url": "https://www.rechargenews.com/policy/latest-us-offshore-wind-remand-bid-may-rattle-permitting-talks-but-iberdrola-project-already-stalled/2-1-2063030",
-      "tags": [
-        "竞对资讯",
-        "招标采购",
-        "审批政策"
-      ],
-      "competitors": [
-        "Iberdrola"
-      ],
-      "monitor_reason": "招标/采购节点 · 审批/许可节点 · 竞对项目动态 · 标题明确风电",
-      "signals": [
-        "竞对资讯",
-        "招标采购",
-        "Iberdrola"
-      ],
       "rank": 3,
-      "importance_reason": "竞对资讯 · 招标采购 · Iberdrola"
+      "importance_reason": "竞对资讯 · 招标采购 · Vestas"
     },
     {
       "country": "全球",
@@ -118,29 +118,6 @@
       "importance_reason": "70 GW · 电网建设 · ReNew"
     },
     {
-      "country": "印度",
-      "source_name": "Energetica India – Wind Power",
-      "title": "Alfanar to Sell 507.9 MW Gujarat Wind Portfolio to KPI Green",
-      "translated_title": "Alfanar向KPI Green出售507.9兆瓦古吉拉特风能组合",
-      "published_at": "2026-10-19",
-      "url": "https://www.energetica-india.net/news/alfanar-to-sell-5079-mw-gujarat-wind-portfolio-to-kpi-green",
-      "tags": [
-        "竞对资讯",
-        "招标采购"
-      ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "正文含招标/采购 · 竞对项目动态 · 500MW+项目 · 标题明确风电",
-      "signals": [
-        "508 MW",
-        "竞对资讯",
-        "招标采购"
-      ],
-      "rank": 5,
-      "importance_reason": "508 MW · 竞对资讯 · 招标采购"
-    },
-    {
       "country": "全球",
       "source_name": "Renewables Now",
       "title": "Nordex enters New Zealand with 192-MW wind turbine order",
@@ -161,31 +138,8 @@
         "竞对资讯",
         "招标采购"
       ],
-      "rank": 6,
+      "rank": 5,
       "importance_reason": "192 MW · 竞对资讯 · 招标采购"
-    },
-    {
-      "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "50Hertz installs substations for 927-MW Gennaker offshore wind farm",
-      "translated_title": "50赫兹为927-MW Gennaker海上风力场安装分站",
-      "published_at": "2026-10-19",
-      "url": "https://renewablesnow.com/news/50hertz-installs-substations-for-927-mw-gennaker-offshore-wind-farm-1303235/",
-      "tags": [
-        "竞对资讯",
-        "电网建设"
-      ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "电网/送出建设 · 竞对项目动态 · 500MW+项目 · 标题明确风电",
-      "signals": [
-        "927 MW",
-        "竞对资讯",
-        "电网建设"
-      ],
-      "rank": 7,
-      "importance_reason": "927 MW · 竞对资讯 · 电网建设"
     },
     {
       "country": "哈萨克斯坦",
@@ -207,8 +161,32 @@
         "审批政策",
         "ReNew"
       ],
-      "rank": 8,
+      "rank": 6,
       "importance_reason": "竞对资讯 · 审批政策 · ReNew"
+    },
+    {
+      "country": "全球",
+      "source_name": "Renewables Now",
+      "title": "Vestas wins 27-MW wind turbine order in Vietnam",
+      "translated_title": "Vestas赢得越南27MW风力涡轮订单",
+      "published_at": "2026-10-21",
+      "url": "https://renewablesnow.com/news/vestas-wins-27-mw-wind-turbine-order-in-vietnam-1303386/",
+      "tags": [
+        "竞对资讯",
+        "招标采购"
+      ],
+      "competitors": [
+        "Vestas",
+        "ReNew"
+      ],
+      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 标题明确风电",
+      "signals": [
+        "竞对资讯",
+        "招标采购",
+        "Vestas"
+      ],
+      "rank": 7,
+      "importance_reason": "竞对资讯 · 招标采购 · Vestas"
     }
   ]
 }
