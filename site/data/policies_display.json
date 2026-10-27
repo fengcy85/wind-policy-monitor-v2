@@ -11,7 +11,7 @@
     "doc_type": "行业政策线索（待官方原文核验）",
     "validity_status": "效力待核验",
     "verification_status": "行业转载线索，需核对官方政策原文",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f84d46843e4f288e62ede6566245dc22\",\"traceid\":\"2760779317929905408048182ed97d\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"040955b41a09f0b040fe18471f7b34ff\",\"traceid\":\"3ccdc17617930780550581496e6bf4\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "dimensions": [
       "并网技术规范"
     ],
@@ -20,14 +20,14 @@
     "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
     "analysis_method": "规则辅助初筛·待人工核验",
     "ai_application_note": "",
-    "content_hash": "53faf32ace99d4f3c7729cb78b0b8c2ee4fa935ef4bff32bb4babce04ea0d21f",
+    "content_hash": "90f8368fe102bb18f7f9f0af8f86caef601a9b5420cbfcf5adef81651a2b8b6a",
     "importance_score": null,
     "importance_level": "",
     "design_relevance": 1,
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f84d46843e4f288e62ede6566245dc22\",\"traceid\":\"2760779317929905408048182ed97d\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-7"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"040955b41a09f0b040fe18471f7b34ff\",\"traceid\":\"3ccdc17617930780550581496e6bf4\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-6"
       }
     ]
   },
