@@ -1,71 +1,22 @@
 {
-  "generated_at": "2026-10-28T05:58:58+00:00",
-  "before": 374,
-  "kept": 320,
-  "filtered_out": 54,
+  "generated_at": "2026-10-29T06:07:35+00:00",
+  "before": 377,
+  "kept": 327,
+  "filtered_out": 50,
   "tag_counts": {
+    "竞对资讯": 281,
+    "招标采购": 81,
     "电网建设": 28,
-    "竞对资讯": 276,
     "审批政策": 42,
-    "招标采购": 79,
     "市场机制": 12,
     "宏观政策": 3
   },
   "rejected_examples": [
     {
-      "title": "Africa’s installed wind capacity tops 11 GW – GWEC",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-10-28",
-      "url": "https://qazaqgreen.com/en/news/world/3946/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "27.10.2026 TouchWind’s floating turbine tilts its rotor in strong winds",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-10-28",
-      "url": "https://qazaqgreen.com/en/news/world/3961/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Fourth Partner lends USD 79m for wind-solar-BESS hybrid in India",
+      "title": "GE Vernova's wind EBITDA improves to positive USD 72m in Q3",
       "source_name": "Renewables Now",
-      "published_at": "2026-10-27",
-      "url": "https://renewablesnow.com/news/fourth-partner-lends-usd-79m-for-wind-solar-bess-hybrid-in-india-1303695/",
-      "reasons": [
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "40 Under 40 | Key decisions the wind industry faces in the next decade",
-      "source_name": "Recharge",
-      "published_at": "2026-10-27",
-      "url": "https://www.rechargenews.com/people/40-under-40-key-decisions-the-wind-industry-faces-in-the-next-decade/2-1-2057512",
-      "reasons": [
-        "标题明确风电",
-        "低价值内容"
-      ]
-    },
-    {
-      "title": "Germany rethinks offshore wind layout to cut costly wake effects",
-      "source_name": "Recharge",
-      "published_at": "2026-10-27",
-      "url": "https://www.rechargenews.com/policy/germany-rethinks-offshore-wind-layout-to-cut-costly-wake-effects/2-1-2062551",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "US Wind gives up Baltimore monopile maker but insists Maryland offshore wind farm will proceed",
-      "source_name": "Recharge",
-      "published_at": "2026-10-27",
-      "url": "https://www.rechargenews.com/offshore-wind/us-wind-gives-up-baltimore-monopile-maker-but-insists-maryland-offshore-wind-farm-will-proceed/2-1-2063040",
+      "published_at": "2026-10-28",
+      "url": "https://renewablesnow.com/news/ge-vernovas-wind-ebitda-improves-to-positive-usd-72m-in-q3-1303856/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -74,7 +25,7 @@
     {
       "title": "Could offshore wind farms enhance US national security not threaten it?",
       "source_name": "Recharge",
-      "published_at": "2026-10-27",
+      "published_at": "2026-10-28",
       "url": "https://www.rechargenews.com/offshore-wind/could-offshore-wind-farms-enhance-us-national-security-not-threaten-it-/2-1-2063647",
       "reasons": [
         "无六类监测标签",
@@ -84,8 +35,18 @@
     {
       "title": "Half of Germany's state premiers urge change to offshore wind reform to save sector",
       "source_name": "Recharge",
-      "published_at": "2026-10-27",
+      "published_at": "2026-10-28",
       "url": "https://www.rechargenews.com/policy/half-of-germanys-state-premiers-urge-change-to-offshore-wind-reform-to-save-sector/2-1-2064477",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "TouchWind’s floating turbine tilts its rotor in strong winds",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-10-28",
+      "url": "https://qazaqgreen.com/en/news/world/3961/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -379,20 +340,20 @@
       ]
     },
     {
-      "title": "Global wind power capacity to rise by more than 180 GW this year",
+      "title": "Türkiye seeks stronger international cooperation for resilient wind energy supply chains",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-23",
-      "url": "https://www.aa.com.tr/en/energy/wind/global-wind-power-capacity-to-rise-by-more-than-180-gw-this-year/59784",
+      "url": "https://www.aa.com.tr/en/energy/wind/turkiye-seeks-stronger-international-cooperation-for-resilient-wind-energy-supply-chains/59763",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Türkiye seeks stronger international cooperation for resilient wind energy supply chains",
+      "title": "Global wind power capacity to rise by more than 180 GW this year",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-23",
-      "url": "https://www.aa.com.tr/en/energy/wind/turkiye-seeks-stronger-international-cooperation-for-resilient-wind-energy-supply-chains/59763",
+      "url": "https://www.aa.com.tr/en/energy/wind/global-wind-power-capacity-to-rise-by-more-than-180-gw-this-year/59784",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"

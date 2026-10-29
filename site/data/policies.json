@@ -1,5 +1,429 @@
 [
   {
+    "id": "p_b4abc38b2248d8b799",
+    "title": "北京市经济和信息化局关于组织开展2026年度再生资源综合利用行业规范条件企业申报并做好已公告企业事中事后监管工作的通知",
+    "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261028634559505112.pdf",
+    "source_id": "cn_8101686d3883",
+    "source_name": "北京市人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "北京市",
+    "published_at": "2026-10-28",
+    "discovered_at": "2026-10-29T05:41:18+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "土地、环境与生态许可",
+      "产品认证与技术标准",
+      "安全生产与劳动法规",
+      "运维、质保及退役"
+    ],
+    "primary_dimension": "土地、环境与生态许可",
+    "source_excerpt": "4 （二）再生铜直接利用企业单位利用量综合能耗应当达到 《铜及铜合金加工材单位产品能源消耗限额》（GB 21350）中 1 级能耗限额等级。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "4 （二）再生铜直接利用企业单位利用量综合能耗应当达到 《铜及铜合金加工材单位产品能源消耗限额》（GB 21350）中 1 级能耗限额等级。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "－统计期内，企业实际消耗的各种能源实物量，即主要生 产系统、辅助生产系统和附属生产系统的综合能耗，单位为千 克标准煤（kgce）；"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "二、综合能耗计算边界 再生铜直接利用企业综合能耗计算边界应依据《铜及铜合 金加工材单位产品能源消耗限额》（GB 21350）相关规定。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "19 表 1-2 废铜铝加工利用企业规范情况表 （适用于废铜加工配送、废铝加工配送企业） 企业名称： （单位公章） 填表人： 联系电话： 序号 名称 内容 备注 1 项目批 复情况 工业投资主管部门核准（或备案）文件及文号 请提供 复印件 2 土地主管部门批准文件及文号 3 生态环境主管部门批准文件及文号 4 安全生产主管部门批准文件及文号 5 提供租约合同（若土地为租用） 6 布局 选址 企业建设是否有规范化设计要求 7 周边是否有自然保护区、风景名胜区、饮用水源保护区、永久基本农田、湿地保护区和其他需要特别保护的区域 8 规 模装 备 和工 艺 主要设备 设备名称 型号 台数 位置不 足可增 加行 9 作业场地是否封闭 10 厂区地面是否硬化 11 是否采用节能、环保、高效的新技术、新工艺、新装备 12 是否配套有粉尘收集设施 13 是否配套有污"
+      }
+    ],
+    "impact_design": "根据“4 （二）再生铜直接利用企业单位利用量综合能耗应当达到 《铜及铜合金加工材单位产品能源消耗限额》（GB 21350）中 1 级能耗限额等级。…”的文本线索，产品设计核查路径：核对噪声、叶片生态影响和环境监测的设计接口。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核实环评、用地海域和环境许可对项目选址及交付节点的影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对噪声、叶片生态影响和环境监测的设计接口；核实环评、用地海域和环境许可对项目选址及交付节点的影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：4 （二）再生铜直接利用企业单位利用量综合能耗应当达到 《铜及铜合金加工材单位产品能源消耗限额》（GB 21350）中 1 级能耗限额等级。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、项目开发、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "4 （二）再生铜直接利用企业单位利用量综合能耗应当达到 《铜及铜合金加工材单位产品能源消耗限额》（GB 21350）中 1 级能耗限额等级。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "－统计期内，企业实际消耗的各种能源实物量，即主要生 产系统、辅助生产系统和附属生产系统的综合能耗，单位为千 克标准煤（kgce）；",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "二、综合能耗计算边界 再生铜直接利用企业综合能耗计算边界应依据《铜及铜合 金加工材单位产品能源消耗限额》（GB 21350）相关规定。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "19 表 1-2 废铜铝加工利用企业规范情况表 （适用于废铜加工配送、废铝加工配送企业） 企业名称： （单位公章） 填表人： 联系电话： 序号 名称 内容 备注 1 项目批 复情况 工业投资主管部门核准（或备案）文件及文号 请提供 复印件 2 土地主管部门批准文件及文号 3 生态环境主管部门批准文件及文号 4 安全生产主管部门批准文件及文号 5 提供租约合同（若土地为租用） 6 布局 选址 企业建设是否有规范化设计要求 7 周边是否有自然保护区、风景名胜区、饮用水源保护区、永久基本农田、湿地保护区和其他需要特别保护的区域 8 规 模装 备 和工 艺 主要设备 设备名称 型号 台数 位置不 足可增 加行 9 作业场地是否封闭 10 厂区地面是否硬化 11 是否采用节能、环保、高效的新技术、新工艺、新装备 12 是否配套有粉尘收集设施 13 是否配套有污",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "a4ef84ee9b248893a3e0cb3743f7795a0b0f70a4ce79909602bf3d57b28661db",
+    "originally_discovered_at": "2026-10-29T05:41:18+00:00"
+  },
+  {
+    "id": "p_8049b0c1d112564dd5",
+    "title": "关于组织开展2026年度再生资源综合利用行业规范条件企业申报并做好已公告企业事中事后监管工作的通知",
+    "url": "https://jxj.beijing.gov.cn/zwgk/2024zcwj/202610/W020261028554171525528.pdf",
+    "source_id": "cn_1003b870a030",
+    "source_name": "北京市经济和信息化局",
+    "region": "中国",
+    "country": "中国",
+    "province": "北京市",
+    "published_at": "2026-10-28",
+    "discovered_at": "2026-10-29T05:41:14+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "土地、环境与生态许可",
+      "产品认证与技术标准",
+      "安全生产与劳动法规",
+      "运维、质保及退役"
+    ],
+    "primary_dimension": "土地、环境与生态许可",
+    "source_excerpt": "4 （二）再生铜直接利用企业单位利用量综合能耗应当达到 《铜及铜合金加工材单位产品能源消耗限额》（GB 21350）中 1 级能耗限额等级。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "4 （二）再生铜直接利用企业单位利用量综合能耗应当达到 《铜及铜合金加工材单位产品能源消耗限额》（GB 21350）中 1 级能耗限额等级。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "－统计期内，企业实际消耗的各种能源实物量，即主要生 产系统、辅助生产系统和附属生产系统的综合能耗，单位为千 克标准煤（kgce）；"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "二、综合能耗计算边界 再生铜直接利用企业综合能耗计算边界应依据《铜及铜合 金加工材单位产品能源消耗限额》（GB 21350）相关规定。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "19 表 1-2 废铜铝加工利用企业规范情况表 （适用于废铜加工配送、废铝加工配送企业） 企业名称： （单位公章） 填表人： 联系电话： 序号 名称 内容 备注 1 项目批 复情况 工业投资主管部门核准（或备案）文件及文号 请提供 复印件 2 土地主管部门批准文件及文号 3 生态环境主管部门批准文件及文号 4 安全生产主管部门批准文件及文号 5 提供租约合同（若土地为租用） 6 布局 选址 企业建设是否有规范化设计要求 7 周边是否有自然保护区、风景名胜区、饮用水源保护区、永久基本农田、湿地保护区和其他需要特别保护的区域 8 规 模装 备 和工 艺 主要设备 设备名称 型号 台数 位置不 足可增 加行 9 作业场地是否封闭 10 厂区地面是否硬化 11 是否采用节能、环保、高效的新技术、新工艺、新装备 12 是否配套有粉尘收集设施 13 是否配套有污"
+      }
+    ],
+    "impact_design": "根据“4 （二）再生铜直接利用企业单位利用量综合能耗应当达到 《铜及铜合金加工材单位产品能源消耗限额》（GB 21350）中 1 级能耗限额等级。…”的文本线索，产品设计核查路径：核对噪声、叶片生态影响和环境监测的设计接口。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核实环评、用地海域和环境许可对项目选址及交付节点的影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对噪声、叶片生态影响和环境监测的设计接口；核实环评、用地海域和环境许可对项目选址及交付节点的影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：4 （二）再生铜直接利用企业单位利用量综合能耗应当达到 《铜及铜合金加工材单位产品能源消耗限额》（GB 21350）中 1 级能耗限额等级。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、项目开发、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "4 （二）再生铜直接利用企业单位利用量综合能耗应当达到 《铜及铜合金加工材单位产品能源消耗限额》（GB 21350）中 1 级能耗限额等级。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "－统计期内，企业实际消耗的各种能源实物量，即主要生 产系统、辅助生产系统和附属生产系统的综合能耗，单位为千 克标准煤（kgce）；",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "二、综合能耗计算边界 再生铜直接利用企业综合能耗计算边界应依据《铜及铜合 金加工材单位产品能源消耗限额》（GB 21350）相关规定。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "19 表 1-2 废铜铝加工利用企业规范情况表 （适用于废铜加工配送、废铝加工配送企业） 企业名称： （单位公章） 填表人： 联系电话： 序号 名称 内容 备注 1 项目批 复情况 工业投资主管部门核准（或备案）文件及文号 请提供 复印件 2 土地主管部门批准文件及文号 3 生态环境主管部门批准文件及文号 4 安全生产主管部门批准文件及文号 5 提供租约合同（若土地为租用） 6 布局 选址 企业建设是否有规范化设计要求 7 周边是否有自然保护区、风景名胜区、饮用水源保护区、永久基本农田、湿地保护区和其他需要特别保护的区域 8 规 模装 备 和工 艺 主要设备 设备名称 型号 台数 位置不 足可增 加行 9 作业场地是否封闭 10 厂区地面是否硬化 11 是否采用节能、环保、高效的新技术、新工艺、新装备 12 是否配套有粉尘收集设施 13 是否配套有污",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "92e62ed967cfe440f7d72a12c9753e465c8664343073a57786e3f1268768b6ec",
+    "originally_discovered_at": "2026-10-29T05:41:14+00:00"
+  },
+  {
+    "id": "p_472d956d6c628bf849",
+    "title": "北京市科学技术委员会、中关村科技园区管理委员会关于征集2026年第二批重点应用场景储备项目的通知",
+    "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261028_4921615.html",
+    "source_id": "cn_8101686d3883",
+    "source_name": "北京市人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "北京市",
+    "published_at": "2026-10-28",
+    "discovered_at": "2026-10-29T05:41:12+00:00",
+    "doc_type": "历史版本／失效",
+    "dimensions": [
+      "供应链、ESG及碳足迹"
+    ],
+    "primary_dimension": "供应链、ESG及碳足迹",
+    "source_excerpt": "项目实施后，可带动相关技术产品迭代创新和示范应用，可形成具有推广价值的标杆性应用场景及解决方案，促进中小企业进入产业链、供应链，实现大中小企业融通发展。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "项目实施后，可带动相关技术产品迭代创新和示范应用，可形成具有推广价值的标杆性应用场景及解决方案，促进中小企业进入产业链、供应链，实现大中小企业融通发展。"
+      }
+    ],
+    "impact_design": "根据“项目实施后，可带动相关技术产品迭代创新和示范应用，可形成具有推广价值的标杆性应用场景及解决方案，促进中小企业进入产业链、供应链，实现大中小企业融通发展。…”的文本线索，产品设计核查路径：复核碳足迹、物料追溯、供应链披露和LCA文档。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查绿色采购、供应商披露及产品碳足迹对招投标的影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核碳足迹、物料追溯、供应链披露和LCA文档；核查绿色采购、供应商披露及产品碳足迹对招投标的影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：项目实施后，可带动相关技术产品迭代创新和示范应用，可形成具有推广价值的标杆性应用场景及解决方案，促进中小企业进入产业链、供应链，实现大中小企业融通发展。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "供应链与采购、法务与合规、国际销售",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "项目实施后，可带动相关技术产品迭代创新和示范应用，可形成具有推广价值的标杆性应用场景及解决方案，促进中小企业进入产业链、供应链，实现大中小企业融通发展。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "925894096e9128bb7a8e5e4e0a2baf5017869fc8a2eac4bd224f3eb3e06b2289",
+    "originally_discovered_at": "2026-10-29T05:41:12+00:00"
+  },
+  {
+    "id": "p_6a7680609904cfc499",
+    "title": "广东省工业和信息化厅关于重点民船制造业企业加强安全生产管理专家指导服务项目采购的通告",
+    "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4972107.html",
+    "source_id": "cn_e290654fb72d",
+    "source_name": "广东省工信厅",
+    "region": "中国",
+    "country": "中国",
+    "province": "广东",
+    "published_at": "2026-10-27",
+    "discovered_at": "2026-10-29T05:47:05+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "招投标与政府采购",
+      "关税、税收与贸易救济",
+      "安全生产与劳动法规"
+    ],
+    "primary_dimension": "招投标与政府采购",
+    "source_excerpt": "为深入贯彻落实《中华人民共和国安全生产法》《广东省安全生产条例》等法律法规，进一步提升我省民用船舶制造业企业安全生产管理水平，强化行业安全风险防控能力，现面向社会公开遴选专业机构承担本省民船制造业企业加强安全生产管理专家指导服务项目工作。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "为深入贯彻落实《中华人民共和国安全生产法》《广东省安全生产条例》等法律法规，进一步提升我省民用船舶制造业企业安全生产管理水平，强化行业安全风险防控能力，现面向社会公开遴选专业机构承担本省民船制造业企业加强安全生产管理专家指导服务项目工作。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "（五）供应商未被列入“信用中国”网站“记录失信被执行人或重大税收违法失信主体或政府采购严重违法失信行为”记录名单；"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "不处于中国政府采购“政府采购严重违法失信行为信息记录”中的禁止参加政府采购活动期间的查询证明文件。"
+      }
+    ],
+    "impact_design": "根据“为深入贯彻落实《中华人民共和国安全生产法》《广东省安全生产条例》等法律法规，进一步提升我省民用船舶制造业企业安全生产管理水平，强化行业安全风险防控能力，现面向社会公开遴选…”的文本线索，产品设计核查路径：核对投标技术规范、质保测试证明及适用认证要求。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查供应商资格、评标条件、价格及交付承诺。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对投标技术规范、质保测试证明及适用认证要求；核查供应商资格、评标条件、价格及交付承诺 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：为深入贯彻落实《中华人民共和国安全生产法》《广东省安全生产条例》等法律法规，进一步提升我省民用船舶制造业企业安全生产管理水平，强化行业安全风险防控能力，现面向社会公开遴选专业机构承担本省民船制造业企业加强安全生产管理专家指导服务项目工作。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "国际销售、市场战略、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "为深入贯彻落实《中华人民共和国安全生产法》《广东省安全生产条例》等法律法规，进一步提升我省民用船舶制造业企业安全生产管理水平，强化行业安全风险防控能力，现面向社会公开遴选专业机构承担本省民船制造业企业加强安全生产管理专家指导服务项目工作。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "（五）供应商未被列入“信用中国”网站“记录失信被执行人或重大税收违法失信主体或政府采购严重违法失信行为”记录名单；",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "不处于中国政府采购“政府采购严重违法失信行为信息记录”中的禁止参加政府采购活动期间的查询证明文件。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "31621f95634f50d6f3cac665977ccef8c37bac24c5f1213a331cb99a496e0010",
+    "originally_discovered_at": "2026-10-29T05:47:05+00:00"
+  },
+  {
     "id": "p_b2ed686c6e0de90d1a",
     "title": "内蒙古自治区能源局关于公开征求《内蒙古自治区压缩空气储能电站安全管理导则（征求意见稿）》意见建议",
     "url": "https://nyj.nmg.gov.cn/tzgg/202610/t20261027_2970055.html",
@@ -6042,23 +6466,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-10-09",
-    "discovered_at": "2026-10-28T05:48:27+00:00",
+    "discovered_at": "2026-10-29T05:57:01+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "并网技术规范"
     ],
     "primary_dimension": "并网技术规范",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"5517054609eddbb6c3d17ac0a5f7c345\",\"traceid\":\"2760822b17931665071025152e7d98\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"44dd71509842c4d8e6f4e64b8a0ca9b5\",\"traceid\":\"276077a917932534212194130e230a\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"5517054609eddbb6c3d17ac0a5f7c345\",\"traceid\":\"2760822b17931665071025152e7d98\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-D"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"44dd71509842c4d8e6f4e64b8a0ca9b5\",\"traceid\":\"276077a917932534212194130e230a\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-z"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核对并网测试责任、接入确认、认证时间及合同里程碑。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核故障穿越、无功、频率响应及控制软件是否需适配；核对并网测试责任、接入确认、认证时间及合同里程碑 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"5517054609eddbb6c3d17ac0a5f7c345\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"44dd71509842c4d8e6f4e64b8a0ca9b5\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -6079,7 +6503,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"5517054609eddbb6c3d17ac0a5f7c345\",\"traceid\":\"2760822b17931665071025152e7d98\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-D",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"44dd71509842c4d8e6f4e64b8a0ca9b5\",\"traceid\":\"276077a917932534212194130e230a\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-z",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -6095,9 +6519,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "4fabb30c3e829e4e2ea76409e2f7f6b459abb8b65256876a565d115f2cc51e4d",
+    "content_hash": "2e421159545bc29fa88106ea00b561672adef3d08aa229ce50fd95f04a243914",
     "originally_discovered_at": "2026-10-15T07:58:14+00:00",
-    "updated_at": "2026-10-28T05:49:32+00:00"
+    "updated_at": "2026-10-29T05:58:01+00:00"
   },
   {
     "id": "p_f83c69d35a9d682cd7",
@@ -9182,23 +9606,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-09-16",
-    "discovered_at": "2026-10-28T05:48:28+00:00",
+    "discovered_at": "2026-10-29T05:57:02+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "可再生能源开发与电价"
     ],
     "primary_dimension": "可再生能源开发与电价",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"430737ff10014ba00843b961f968020a\",\"traceid\":\"2760822b17931665080695172e7d98\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f3848dce141e4a49ba74dc8dabbf612e\",\"traceid\":\"276077a917932534223364155e230a\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"430737ff10014ba00843b961f968020a\",\"traceid\":\"2760822b17931665080695172e7d98\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-N"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f3848dce141e4a49ba74dc8dabbf612e\",\"traceid\":\"276077a917932534223364155e230a\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-z"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"430737ff10014ba00843b961f968020a\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f3848dce141e4a49ba74dc8dabbf612e\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -9219,7 +9643,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"430737ff10014ba00843b961f968020a\",\"traceid\":\"2760822b17931665080695172e7d98\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-N",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f3848dce141e4a49ba74dc8dabbf612e\",\"traceid\":\"276077a917932534223364155e230a\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-z",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -9235,9 +9659,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "1fbbee76bcee61e36ad7ef6a9633ab35325aecbd43a1328e24f673bceb8f57f6",
+    "content_hash": "d994e8bf731bff2c151f39b5b335d214dbd5fe841f837342af80e243ce8f7e7e",
     "originally_discovered_at": "2026-10-15T07:58:15+00:00",
-    "updated_at": "2026-10-28T05:49:32+00:00"
+    "updated_at": "2026-10-29T05:58:01+00:00"
   },
   {
     "id": "p_5bce90bf594d95cb32",
