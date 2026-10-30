@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-29T06:07:35+00:00",
+  "generated_at": "2026-10-30T06:06:20+00:00",
   "period": {
     "days": 7,
-    "start": "2026-10-23",
-    "end": "2026-10-29"
+    "start": "2026-10-24",
+    "end": "2026-10-30"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -95,26 +95,24 @@
       "importance_reason": "竞对资讯 · 招标采购 · Iberdrola"
     },
     {
-      "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "Germany plans fewer offshore wind grid connections, retains 70-GW goal",
-      "translated_title": "德国计划减少海上风电电网连接,保留70千兆瓦的目标",
-      "published_at": "2026-10-23",
-      "url": "https://renewablesnow.com/news/germany-plans-fewer-offshore-wind-grid-connections-retains-70-gw-goal-1303573/",
+      "country": "哈萨克斯坦",
+      "source_name": "QazaqGreen",
+      "title": "Kazakhstan’s Turkistan region to host 150 MW wind farm, scalable to 350 MW",
+      "translated_title": "27.10.2026 哈萨克斯坦的突厥斯坦地区有150兆瓦风力发电场,可扩至350兆瓦",
+      "published_at": "2026-10-29",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/3960/",
       "tags": [
         "电网建设"
       ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "电网/送出建设 · GW级项目 · 标题明确风电",
+      "competitors": [],
+      "monitor_reason": "项目涉及电网/送出 · 标题明确风电",
       "signals": [
-        "70 GW",
+        "350 MW",
         "电网建设",
-        "ReNew"
+        "项目涉及电网/送出"
       ],
       "rank": 4,
-      "importance_reason": "70 GW · 电网建设 · ReNew"
+      "importance_reason": "350 MW · 电网建设 · 项目涉及电网/送出"
     },
     {
       "country": "全球",
@@ -144,7 +142,7 @@
       "source_name": "Recharge",
       "title": "Despite Trump hurdles, US wind turbine orders climb to three-year high of 2.8GW",
       "translated_title": "尽管特朗普有障碍,美国风电机组订单却攀升到三年2.8GW的最高点.",
-      "published_at": "2026-10-28",
+      "published_at": "2026-10-30",
       "url": "https://www.rechargenews.com/offshore-wind/despite-trump-hurdles-us-wind-turbine-orders-climb-to-three-year-high-of-2-8gw/2-1-2064316",
       "tags": [
         "招标采购"

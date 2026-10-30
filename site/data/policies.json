@@ -1,5 +1,194 @@
 [
   {
+    "id": "p_27e79e85c1474fe5d7",
+    "title": "广东省工业和信息化厅转发工业和信息化部中小企业局关于开展2026年中小企业“高校对接深度行—天津站”活动的通知",
+    "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4973012.html",
+    "source_id": "cn_e290654fb72d",
+    "source_name": "广东省工信厅",
+    "region": "中国",
+    "country": "中国",
+    "province": "广东",
+    "published_at": "2026-10-30",
+    "discovered_at": "2026-10-30T05:46:04+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "航空、雷达及国防限制"
+    ],
+    "primary_dimension": "航空、雷达及国防限制",
+    "source_excerpt": "各地级以上市工业和信息化局、横琴粤澳深度合作区经济发展局： 现将《工业和信息化部中小企业局关于开展2026年中小企业“高校对接深度行—天津站”活动的通知》（见附件1）转发给你们。根据活动通知安排，工业和信息化部中小企业局将于11月6日（周五）在天津大学、南开大学开展重点实验室参观、专家报告、座谈交流等系列活动，围绕具身智能、航空动力和特种化学电源三个技术领域，每位参加活动的企业家可选择其中一个技术领域报名。请你们积极发动专精特新“小巨人”企业、专精特新中小企业、制造业单项冠军企业等， 以及中小企业特色产业集群的中小企业，组织相关企业负责人、高管及技术、人力资源等部门负责人参加。本活动不收取任何费用，参加活动人员交通、食宿等费用自理，参与的企业可通过扫描活动通知中二维码填写",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "各地级以上市工业和信息化局、横琴粤澳深度合作区经济发展局： 现将《工业和信息化部中小企业局关于开展2026年中小企业“高校对接深度行—天津站”活动的通知》（见附件1）转发给你们。根据活动通知安排，工业和信息化部中小企业局将于11月6日（周五）在天津大学、南开大学开展重点实验室参观、专家报告、座谈交流等系列活动，围绕具身智能、航空动力和特种化学电源三个技术领域，每位参加活动的企业家可选择其中一个技术领域报名。请你们积极发动专精特新“小巨人”企业、专精特新中小企业、制造业单项冠军企业等， 以及中小企业特色产业集群的中小企业，组织相关企业负责人、高管及技术、人力资源等部门负责人参加。本活动不收取任何费用，参加活动人员交通、食宿等费用自理，参与的企业可通过扫描活动通知中二维码填写报名信息，报名截止时间为2026年11月3日18点，并将活动报名汇总表（见附件2"
+      }
+    ],
+    "impact_design": "根据“各地级以上市工业和信息化局、横琴粤澳深度合作区经济发展局： 现将《工业和信息化部中小企业局关于开展2026年中小企业“高校对接深度行—天津站”活动的通知》（见附件1）转发…”的文本线索，产品设计核查路径：核查塔高、航标灯、雷达兼容及工程布置需求。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核实航空净空、雷达审批是否限制可销售机型或项目选址。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核查塔高、航标灯、雷达兼容及工程布置需求；核实航空净空、雷达审批是否限制可销售机型或项目选址 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：各地级以上市工业和信息化局、横琴粤澳深度合作区经济发展局： 现将《工业和信息化部中小企业局关于开展2026年中小企业“高校对接深度行—天津站”活动的通知》（见附件1）转发给你们。根据活动通知安排，工业和信息化部中小企业局将于11月6日（周五）在天津大学、南开大学开展重点实验室参观、专家报告、座谈交流等系列活动，围绕具身智能、航空动力和特种化学电源三个技术领域，每位参加活动的企业家可选择其中一个技术",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、电气与控制、项目开发",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "各地级以上市工业和信息化局、横琴粤澳深度合作区经济发展局： 现将《工业和信息化部中小企业局关于开展2026年中小企业“高校对接深度行—天津站”活动的通知》（见附件1）转发给你们。根据活动通知安排，工业和信息化部中小企业局将于11月6日（周五）在天津大学、南开大学开展重点实验室参观、专家报告、座谈交流等系列活动，围绕具身智能、航空动力和特种化学电源三个技术领域，每位参加活动的企业家可选择其中一个技术领域报名。请你们积极发动专精特新“小巨人”企业、专精特新中小企业、制造业单项冠军企业等， 以及中小企业特色产业集群的中小企业，组织相关企业负责人、高管及技术、人力资源等部门负责人参加。本活动不收取任何费用，参加活动人员交通、食宿等费用自理，参与的企业可通过扫描活动通知中二维码填写报名信息，报名截止时间为2026年11月3日18点，并将活动报名汇总表（见附件2",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "d28543bf2bb6aa9ce8344390861aea98e5428558d02b5b767943ae869610fe95",
+    "originally_discovered_at": "2026-10-30T05:46:04+00:00"
+  },
+  {
+    "id": "p_5889c296b45e2dd582",
+    "title": "商务部 国家发展改革委 生态环境部 海关总署关于进一步提高海南自由贸易港贸易自由化便利化水平的通知",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202610/content_7084476.htm",
+    "source_id": "cn_9abe6d2f93c7",
+    "source_name": "国务院部门文件",
+    "region": "中国",
+    "country": "中国",
+    "province": "",
+    "published_at": "2026-10-29",
+    "discovered_at": "2026-10-30T05:39:45+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "航空、雷达及国防限制"
+    ],
+    "primary_dimension": "航空、雷达及国防限制",
+    "source_excerpt": "商务部 国家发展改革委 生态环境部 海关总署关于进一步提高海南自由贸易港贸易自由化便利化水平的通知 商自贸发〔2026〕187号 国家发展改革委、工业和信息化部、财政部、人力资源社会保障部、生态环境部、商务部、国家卫生健康委、中国人民银行、海关总署、税务总局、市场监管总局、金融监管总局、中国证监会、国家能源局、国家移民局、中国民航局、国家外汇局，海南省委深改办、省委人才发展局，海南省发展改革委、省工业和信息化厅、省财政厅、省人力资源社会保障厅、省生态环境厅、省商务厅、省卫生健康委，中国人民银行海南省分行、海口海关、海南省税务局、省市场监管局、海南金融监管局、中国证监会海南监管局、海口出入境边防检查总站、民航海南监管局、国家外汇局海南省分局： 为高标准建设海南自由贸易港，努",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "商务部 国家发展改革委 生态环境部 海关总署关于进一步提高海南自由贸易港贸易自由化便利化水平的通知 商自贸发〔2026〕187号 国家发展改革委、工业和信息化部、财政部、人力资源社会保障部、生态环境部、商务部、国家卫生健康委、中国人民银行、海关总署、税务总局、市场监管总局、金融监管总局、中国证监会、国家能源局、国家移民局、中国民航局、国家外汇局，海南省委深改办、省委人才发展局，海南省发展改革委、省工业和信息化厅、省财政厅、省人力资源社会保障厅、省生态环境厅、省商务厅、省卫生健康委，中国人民银行海南省分行、海口海关、海南省税务局、省市场监管局、海南金融监管局、中国证监会海南监管局、海口出入境边防检查总站、民航海南监管局、国家外汇局海南省分局： 为高标准建设海南自由贸易港，努力把海南自由贸易港打造成为引领我国新时代对外开放的重要门户，现就进一步提高海南自"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "对自境外进入海南自由贸易港的保税监管场所内独立保税仓储设施并用于复出口的航空煤油，按照国际标准进行检验。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "海南省将制定海南自由贸易港法规，规定专门的配套监管措施，相关内容与《国务院对确需保留的行政审批项目设定行政许可的决定》等行政法规规定不一致的，按《中华人民共和国海南自由贸易港法》规定的相关程序办理。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "支持海南自由贸易港动态完善认可境外职业资格目录清单，支持具有境外职业资格的外籍人才按规定参加职称评审，拓展境外职业资格认可渠道。"
+      }
+    ],
+    "impact_design": "根据“商务部 国家发展改革委 生态环境部 海关总署关于进一步提高海南自由贸易港贸易自由化便利化水平的通知 商自贸发〔2026〕187号 国家发展改革委、工业和信息化部、财政部、…”的文本线索，产品设计核查路径：核查塔高、航标灯、雷达兼容及工程布置需求。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核实航空净空、雷达审批是否限制可销售机型或项目选址。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核查塔高、航标灯、雷达兼容及工程布置需求；核实航空净空、雷达审批是否限制可销售机型或项目选址 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：商务部 国家发展改革委 生态环境部 海关总署关于进一步提高海南自由贸易港贸易自由化便利化水平的通知 商自贸发〔2026〕187号 国家发展改革委、工业和信息化部、财政部、人力资源社会保障部、生态环境部、商务部、国家卫生健康委、中国人民银行、海关总署、税务总局、市场监管总局、金融监管总局、中国证监会、国家能源局、国家移民局、中国民航局、国家外汇局，海南省委深改办、省委人才发展局，海南省发展改革委、省",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、电气与控制、项目开发",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "商务部 国家发展改革委 生态环境部 海关总署关于进一步提高海南自由贸易港贸易自由化便利化水平的通知 商自贸发〔2026〕187号 国家发展改革委、工业和信息化部、财政部、人力资源社会保障部、生态环境部、商务部、国家卫生健康委、中国人民银行、海关总署、税务总局、市场监管总局、金融监管总局、中国证监会、国家能源局、国家移民局、中国民航局、国家外汇局，海南省委深改办、省委人才发展局，海南省发展改革委、省工业和信息化厅、省财政厅、省人力资源社会保障厅、省生态环境厅、省商务厅、省卫生健康委，中国人民银行海南省分行、海口海关、海南省税务局、省市场监管局、海南金融监管局、中国证监会海南监管局、海口出入境边防检查总站、民航海南监管局、国家外汇局海南省分局： 为高标准建设海南自由贸易港，努力把海南自由贸易港打造成为引领我国新时代对外开放的重要门户，现就进一步提高海南自",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "对自境外进入海南自由贸易港的保税监管场所内独立保税仓储设施并用于复出口的航空煤油，按照国际标准进行检验。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "海南省将制定海南自由贸易港法规，规定专门的配套监管措施，相关内容与《国务院对确需保留的行政审批项目设定行政许可的决定》等行政法规规定不一致的，按《中华人民共和国海南自由贸易港法》规定的相关程序办理。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "支持海南自由贸易港动态完善认可境外职业资格目录清单，支持具有境外职业资格的外籍人才按规定参加职称评审，拓展境外职业资格认可渠道。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "02b7d1f7ea7cd210ed0e91c98dd07a5f89efffb1d8d4eeb01788776964a3133f",
+    "originally_discovered_at": "2026-10-30T05:39:45+00:00"
+  },
+  {
     "id": "p_b4abc38b2248d8b799",
     "title": "北京市经济和信息化局关于组织开展2026年度再生资源综合利用行业规范条件企业申报并做好已公告企业事中事后监管工作的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261028634559505112.pdf",
@@ -6466,23 +6655,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-10-09",
-    "discovered_at": "2026-10-29T05:57:01+00:00",
+    "discovered_at": "2026-10-30T05:55:37+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "并网技术规范"
     ],
     "primary_dimension": "并网技术规范",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"44dd71509842c4d8e6f4e64b8a0ca9b5\",\"traceid\":\"276077a917932534212194130e230a\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"e0760c5ebf46c0e17865ac67a3b15e42\",\"traceid\":\"276077ed17933397369468568e2ed6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"44dd71509842c4d8e6f4e64b8a0ca9b5\",\"traceid\":\"276077a917932534212194130e230a\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-z"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"e0760c5ebf46c0e17865ac67a3b15e42\",\"traceid\":\"276077ed17933397369468568e2ed6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-Z"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核对并网测试责任、接入确认、认证时间及合同里程碑。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核故障穿越、无功、频率响应及控制软件是否需适配；核对并网测试责任、接入确认、认证时间及合同里程碑 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"44dd71509842c4d8e6f4e64b8a0ca9b5\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"e0760c5ebf46c0e17865ac67a3b15e42\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -6503,7 +6692,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"44dd71509842c4d8e6f4e64b8a0ca9b5\",\"traceid\":\"276077a917932534212194130e230a\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-z",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"e0760c5ebf46c0e17865ac67a3b15e42\",\"traceid\":\"276077ed17933397369468568e2ed6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-Z",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -6519,9 +6708,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "2e421159545bc29fa88106ea00b561672adef3d08aa229ce50fd95f04a243914",
+    "content_hash": "9d423494c3e853a000fe6e0438ae79b788ef8e3b9da1444a9781673c9913bfc6",
     "originally_discovered_at": "2026-10-15T07:58:14+00:00",
-    "updated_at": "2026-10-29T05:58:01+00:00"
+    "updated_at": "2026-10-30T05:56:42+00:00"
   },
   {
     "id": "p_f83c69d35a9d682cd7",
@@ -9606,23 +9795,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-09-16",
-    "discovered_at": "2026-10-29T05:57:02+00:00",
+    "discovered_at": "2026-10-30T05:55:37+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "可再生能源开发与电价"
     ],
     "primary_dimension": "可再生能源开发与电价",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f3848dce141e4a49ba74dc8dabbf612e\",\"traceid\":\"276077a917932534223364155e230a\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"0cd5bf99f6308cb1130c3f5bf3314a5b\",\"traceid\":\"276077ed17933397378658591e2ed6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f3848dce141e4a49ba74dc8dabbf612e\",\"traceid\":\"276077a917932534223364155e230a\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-z"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"0cd5bf99f6308cb1130c3f5bf3314a5b\",\"traceid\":\"276077ed17933397378658591e2ed6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-v"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f3848dce141e4a49ba74dc8dabbf612e\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"0cd5bf99f6308cb1130c3f5bf3314a5b\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -9643,7 +9832,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f3848dce141e4a49ba74dc8dabbf612e\",\"traceid\":\"276077a917932534223364155e230a\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-z",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"0cd5bf99f6308cb1130c3f5bf3314a5b\",\"traceid\":\"276077ed17933397378658591e2ed6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-v",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -9659,9 +9848,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "d994e8bf731bff2c151f39b5b335d214dbd5fe841f837342af80e243ce8f7e7e",
+    "content_hash": "335a2bad7af7dcb04aa86a24c6c394d3e78f39a19e419498a3b45fb3d5b4e3db",
     "originally_discovered_at": "2026-10-15T07:58:15+00:00",
-    "updated_at": "2026-10-29T05:58:01+00:00"
+    "updated_at": "2026-10-30T05:56:42+00:00"
   },
   {
     "id": "p_5bce90bf594d95cb32",
