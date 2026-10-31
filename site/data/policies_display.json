@@ -11,23 +11,24 @@
     "doc_type": "行业政策线索（待官方原文核验）",
     "validity_status": "效力待核验",
     "verification_status": "行业转载线索，需核对官方政策原文",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"e0760c5ebf46c0e17865ac67a3b15e42\",\"traceid\":\"276077ed17933397369468568e2ed6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"644ff48e5e832525c5ab6b607d7de6ce\",\"traceid\":\"276077fe17934256065683435e3949\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "dimensions": [
-      "并网技术规范"
+      "并网技术规范",
+      "关税、税收与贸易救济"
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核对并网测试责任、接入确认、认证时间及合同里程碑。市场准入或成本后果不能仅凭关键词认定。",
     "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
     "analysis_method": "规则辅助初筛·待人工核验",
     "ai_application_note": "",
-    "content_hash": "9d423494c3e853a000fe6e0438ae79b788ef8e3b9da1444a9781673c9913bfc6",
+    "content_hash": "9e62b8695f0daeb9af9c10e27664a619df767a863efea02cd4766473b9d064a5",
     "importance_score": null,
     "importance_level": "",
     "design_relevance": 1,
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"e0760c5ebf46c0e17865ac67a3b15e42\",\"traceid\":\"276077ed17933397369468568e2ed6\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-Z"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"644ff48e5e832525c5ab6b607d7de6ce\",\"traceid\":\"276077fe17934256065683435e3949\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-Y"
       }
     ]
   },
