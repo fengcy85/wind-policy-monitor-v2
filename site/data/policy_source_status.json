@@ -3,7 +3,7 @@
     "id": "intl_b0c274b1a8eb",
     "name": "Adilet 哈萨克法规库",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:30:24+00:00",
+    "checked_at": "2026-11-01T05:55:42+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -26,7 +26,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_b0c274b1a8eb",
     "adapter_strategy": "legal_database",
     "adapter_live_verified": false,
@@ -35,13 +35,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_fc40306c8d18",
     "name": "kegoc.kz",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:30:24+00:00",
+    "checked_at": "2026-11-01T05:55:42+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -64,7 +64,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_fc40306c8d18",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -73,13 +73,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_032ffd7444d8",
     "name": "乌兹别克国家法律数据库",
     "status": "ok_no_recent",
-    "checked_at": "2026-10-31T05:30:24+00:00",
+    "checked_at": "2026-11-01T05:55:42+00:00",
     "found_count": 0,
     "candidate_links": 6,
     "candidate_dated_links": 6,
@@ -101,8 +101,8 @@
         "redirect": "https://lex.uz/en/"
       }
     ],
-    "window_start": "2026-10-28",
-    "window_end": "2026-10-31",
+    "window_start": "2026-10-29",
+    "window_end": "2026-11-01",
     "adapter": "intl_032ffd7444d8",
     "adapter_strategy": "legal_database",
     "adapter_live_verified": false,
@@ -110,14 +110,14 @@
     "initialized": true,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
-    "last_verified_date": "2026-10-31",
+    "last_verified_date": "2026-11-01",
     "consecutive_failures": 0
   },
   {
     "id": "intl_0033bc5d506a",
     "name": "越南国家法律法规数据库",
-    "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:30:24+00:00",
+    "status": "blocked",
+    "checked_at": "2026-11-01T05:55:42+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -130,23 +130,23 @@
     "detail_limit_hit": false,
     "coverage_complete": false,
     "coverage_evidence": "缺少完整时间窗覆盖证据",
-    "message": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
+    "message": "官方访问受限；保留失败证据，不能绕过权限",
     "attempts": [
       {
         "url": "https://vbpl.vn/",
         "method": "http",
-        "status": "read",
-        "redirect": "https://vbpl.vn/"
+        "status": "failed",
+        "error": "HTTPError: 403 Client Error: Forbidden for url: https://vbpl.vn/"
       },
       {
         "url": "https://vbpl.vn/",
-        "method": "public_ui_search",
-        "status": "read",
-        "redirect": "https://vbpl.vn/"
+        "method": "browser",
+        "status": "failed",
+        "error": "ValueError: browser HTTP 403"
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_0033bc5d506a",
     "adapter_strategy": "legal_database",
     "adapter_live_verified": false,
@@ -155,13 +155,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_2dbdce92512c",
     "name": "moit.gov.vn",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:30:25+00:00",
+    "checked_at": "2026-11-01T05:55:43+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -184,7 +184,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_2dbdce92512c",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -193,13 +193,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_2dc77d6e8664",
     "name": "resmigazete.gov.tr",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:30:25+00:00",
+    "checked_at": "2026-11-01T05:55:44+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -228,7 +228,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_2dc77d6e8664",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -237,13 +237,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_87a7aa70bf22",
     "name": "epdk.gov.tr",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:30:26+00:00",
+    "checked_at": "2026-11-01T05:55:44+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -266,7 +266,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_87a7aa70bf22",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -275,13 +275,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_39999515ec1f",
     "name": "powersaudiarabia.com.sa",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:30:27+00:00",
+    "checked_at": "2026-11-01T05:55:45+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -304,7 +304,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_39999515ec1f",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -313,13 +313,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_0e079da25f30",
     "name": "nersa.org.za",
     "status": "ok_no_recent",
-    "checked_at": "2026-10-31T05:30:28+00:00",
+    "checked_at": "2026-11-01T05:55:45+00:00",
     "found_count": 0,
     "candidate_links": 7,
     "candidate_dated_links": 7,
@@ -341,8 +341,8 @@
         "redirect": "https://www.nersa.org.za/electricity/regulatory-rules"
       }
     ],
-    "window_start": "2026-10-28",
-    "window_end": "2026-10-31",
+    "window_start": "2026-10-29",
+    "window_end": "2026-11-01",
     "adapter": "intl_0e079da25f30",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -350,14 +350,14 @@
     "initialized": true,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
-    "last_verified_date": "2026-10-31",
+    "last_verified_date": "2026-11-01",
     "consecutive_failures": 0
   },
   {
     "id": "intl_845de2334f9c",
     "name": "ntcsa.co.za",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:30:29+00:00",
+    "checked_at": "2026-11-01T05:55:46+00:00",
     "found_count": 0,
     "candidate_links": 2,
     "candidate_dated_links": 0,
@@ -398,7 +398,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_845de2334f9c",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -407,18 +407,18 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_fb3e8ad4274d",
     "name": "nrea.gov.eg",
-    "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:30:30+00:00",
+    "status": "connection_error",
+    "checked_at": "2026-11-01T05:55:48+00:00",
     "found_count": 0,
-    "candidate_links": 6,
+    "candidate_links": 0,
     "candidate_dated_links": 0,
     "listing_rows_with_date": 0,
-    "listing_rows_total": 6,
+    "listing_rows_total": 0,
     "listing_pages": 1,
     "oldest_listing_date": "",
     "explicit_end_of_list": false,
@@ -426,53 +426,23 @@
     "detail_limit_hit": false,
     "coverage_complete": false,
     "coverage_evidence": "缺少完整时间窗覆盖证据",
-    "message": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+    "message": "官方来源连接失败或超时，后续自动补查",
     "attempts": [
       {
         "url": "https://nrea.gov.eg/test/en/Home",
         "method": "http",
-        "status": "read",
-        "redirect": "https://nrea.gov.eg/test/en/Home"
+        "status": "failed",
+        "error": "SSLError: HTTPSConnectionPool(host='nrea.gov.eg', port=443): Max retries exceeded with url: /test/en/Home (Caused by SSLError(SSLCertVerificationError(1, '[SSL:"
       },
       {
-        "url": "https://nrea.gov.eg/test/en/Technology/WindStations",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://nrea.gov.eg/test/en/Technology/WindStations"
-      },
-      {
-        "url": "https://nrea.gov.eg/test/en/Investors/Tender/1",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://nrea.gov.eg/test/en/Investors/Tender/1"
-      },
-      {
-        "url": "https://nrea.gov.eg/test/en/Investors/Tender",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://nrea.gov.eg/test/en/Investors/Tender"
-      },
-      {
-        "url": "https://nrea.gov.eg/test/en/About/Strategy",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://nrea.gov.eg/test/en/About/Strategy"
-      },
-      {
-        "url": "https://nrea.gov.eg/test/en/Technology/HeatingSystems",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://nrea.gov.eg/test/en/Technology/HeatingSystems"
-      },
-      {
-        "url": "https://nrea.gov.eg/test/en/Investors/Legislation",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://nrea.gov.eg/test/en/Investors/Legislation"
+        "url": "https://nrea.gov.eg/test/en/Home",
+        "method": "browser",
+        "status": "failed",
+        "error": "Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://nrea.gov.eg/test/en/Home Call log: - navigating to \"https://nrea.gov.eg/test/en/Home\", waiting until "
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_fb3e8ad4274d",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -481,13 +451,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_2d4b292b6df3",
     "name": "egyptera.org",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:30:30+00:00",
+    "checked_at": "2026-11-01T05:55:48+00:00",
     "found_count": 0,
     "candidate_links": 19,
     "candidate_dated_links": 0,
@@ -720,7 +690,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_2d4b292b6df3",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -729,13 +699,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_859650137482",
     "name": "anre.ma",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:30:32+00:00",
+    "checked_at": "2026-11-01T05:55:52+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -758,7 +728,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_859650137482",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -767,13 +737,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_d678f36c7a03",
     "name": "gov.br",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:30:32+00:00",
+    "checked_at": "2026-11-01T05:55:53+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -796,7 +766,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_d678f36c7a03",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -805,13 +775,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_53f753c6dd77",
     "name": "normattiva.it",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:30:33+00:00",
+    "checked_at": "2026-11-01T05:55:55+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -834,7 +804,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_53f753c6dd77",
     "adapter_strategy": "legal_database",
     "adapter_live_verified": false,
@@ -843,13 +813,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_6f87a1487e95",
     "name": "欧盟能源总司风电专题",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:30:34+00:00",
+    "checked_at": "2026-11-01T05:55:55+00:00",
     "found_count": 0,
     "candidate_links": 9,
     "candidate_dated_links": 4,
@@ -926,7 +896,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_6f87a1487e95",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -935,13 +905,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_64e5307cf1d2",
     "name": "EUR-Lex 欧盟法规库",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:30:36+00:00",
+    "checked_at": "2026-11-01T05:55:59+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -964,7 +934,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_64e5307cf1d2",
     "adapter_strategy": "legal_database",
     "adapter_live_verified": false,
@@ -973,13 +943,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_d4013c1b2a1e",
     "name": "中央国务院及各部委",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:30:36+00:00",
+    "checked_at": "2026-11-01T05:55:59+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -1008,7 +978,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_d4013c1b2a1e",
     "adapter_strategy": "government_policy_search",
     "adapter_live_verified": false,
@@ -1017,13 +987,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_37cf03ee8fd2",
     "name": "国务院最新政策（原单篇文章入口替换）",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:30:40+00:00",
+    "checked_at": "2026-11-01T05:56:00+00:00",
     "found_count": 3,
     "candidate_links": 12,
     "candidate_dated_links": 11,
@@ -1124,7 +1094,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_37cf03ee8fd2",
     "adapter_strategy": "official_index_fallback",
     "adapter_live_verified": false,
@@ -1133,13 +1103,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_b1f77d6fbfeb",
     "name": "国际/国别政策",
     "status": "blocked",
-    "checked_at": "2026-10-31T05:30:40+00:00",
+    "checked_at": "2026-11-01T05:56:04+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -1192,7 +1162,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_b1f77d6fbfeb",
     "adapter_strategy": "iea_public_policy_index",
     "adapter_live_verified": false,
@@ -1201,13 +1171,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_68fd9b24ba66",
     "name": "全国标准信息公共服务平台",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:30:43+00:00",
+    "checked_at": "2026-11-01T05:56:05+00:00",
     "found_count": 0,
     "candidate_links": 19,
     "candidate_dated_links": 0,
@@ -1350,7 +1320,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_68fd9b24ba66",
     "adapter_strategy": "national_standard_search",
     "adapter_live_verified": false,
@@ -1359,13 +1329,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_b7b7d481ef53",
     "name": "国家标准全文公开系统",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:30:44+00:00",
+    "checked_at": "2026-11-01T05:56:09+00:00",
     "found_count": 0,
     "candidate_links": 3,
     "candidate_dated_links": 0,
@@ -1412,7 +1382,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_b7b7d481ef53",
     "adapter_strategy": "national_standard_fulltext",
     "adapter_live_verified": false,
@@ -1421,13 +1391,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_9abe6d2f93c7",
     "name": "国务院部门文件",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:30:54+00:00",
+    "checked_at": "2026-11-01T05:56:10+00:00",
     "found_count": 2,
     "candidate_links": 15,
     "candidate_dated_links": 15,
@@ -1540,7 +1510,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_9abe6d2f93c7",
     "adapter_strategy": "document_library_search",
     "adapter_live_verified": false,
@@ -1549,13 +1519,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_8101686d3883",
     "name": "北京市人民政府",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:30:56+00:00",
+    "checked_at": "2026-11-01T05:56:19+00:00",
     "found_count": 5,
     "candidate_links": 916,
     "candidate_dated_links": 916,
@@ -1637,24 +1607,6 @@
         "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261028337893665715.pdf"
       },
       {
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261029_4923238.html",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261029_4923238.html"
-      },
-      {
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261029532589213440.pdf",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261029532589213440.pdf"
-      },
-      {
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261029532589389305.pdf",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261029532589389305.pdf"
-      },
-      {
         "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261028_4921615.html",
         "method": "http",
         "status": "read",
@@ -1691,6 +1643,30 @@
         "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261029_4922827.html"
       },
       {
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261029_4923238.html",
+        "method": "http",
+        "status": "read",
+        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261029_4923238.html"
+      },
+      {
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261029532589213440.pdf",
+        "method": "http",
+        "status": "read",
+        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261029532589213440.pdf"
+      },
+      {
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261029532589389305.pdf",
+        "method": "http",
+        "status": "read",
+        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261029532589389305.pdf"
+      },
+      {
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261028_4921393.html",
+        "method": "http",
+        "status": "read",
+        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261028_4921393.html"
+      },
+      {
         "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261027_4920721.html",
         "method": "http",
         "status": "read",
@@ -1703,12 +1679,6 @@
         "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261027636858003143.pdf"
       },
       {
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261028_4921393.html",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261028_4921393.html"
-      },
-      {
         "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918728.html",
         "method": "http",
         "status": "read",
@@ -1719,48 +1689,6 @@
         "method": "http",
         "status": "read",
         "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261027_4919856.html"
-      },
-      {
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918582.html",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918582.html"
-      },
-      {
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261026476139517784.pdf",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261026476139517784.pdf"
-      },
-      {
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918583.html",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918583.html"
-      },
-      {
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918585.html",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918585.html"
-      },
-      {
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261026488194574608.pdf",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261026488194574608.pdf"
-      },
-      {
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918604.html",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918604.html"
-      },
-      {
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918662.html",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918662.html"
       },
       {
         "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261023_4916567.html",
@@ -1817,6 +1745,48 @@
         "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261026414396755499.pdf"
       },
       {
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918582.html",
+        "method": "http",
+        "status": "read",
+        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918582.html"
+      },
+      {
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261026476139517784.pdf",
+        "method": "http",
+        "status": "read",
+        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261026476139517784.pdf"
+      },
+      {
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918583.html",
+        "method": "http",
+        "status": "read",
+        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918583.html"
+      },
+      {
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918585.html",
+        "method": "http",
+        "status": "read",
+        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918585.html"
+      },
+      {
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261026488194574608.pdf",
+        "method": "http",
+        "status": "read",
+        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/W020261026488194574608.pdf"
+      },
+      {
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918604.html",
+        "method": "http",
+        "status": "read",
+        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918604.html"
+      },
+      {
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918662.html",
+        "method": "http",
+        "status": "read",
+        "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918662.html"
+      },
+      {
         "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261022_4914459.html",
         "method": "http",
         "status": "read",
@@ -1836,7 +1806,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_8101686d3883",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -1845,13 +1815,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_24e54ba38a1a",
     "name": "北京市发展和改革委员会",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:30:58+00:00",
+    "checked_at": "2026-11-01T05:56:20+00:00",
     "found_count": 1,
     "candidate_links": 16,
     "candidate_dated_links": 13,
@@ -1970,7 +1940,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_24e54ba38a1a",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -1979,14 +1949,14 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_1003b870a030",
     "name": "北京市经济和信息化局",
-    "status": "ok_with_results",
-    "checked_at": "2026-10-31T05:31:01+00:00",
-    "found_count": 1,
+    "status": "ok_no_recent",
+    "checked_at": "2026-11-01T05:56:20+00:00",
+    "found_count": 0,
     "candidate_links": 20,
     "candidate_dated_links": 20,
     "listing_rows_with_date": 20,
@@ -1998,7 +1968,7 @@
     "detail_limit_hit": false,
     "coverage_complete": true,
     "coverage_evidence": "已识别原始栏目、逐条日期及翻页边界",
-    "message": "有真实详情正文与发布日期证据，且已获得本站完整时间窗的分页覆盖证据",
+    "message": "该来源在本次时间窗内未取得可纳入的法规；分页与日期覆盖已核验",
     "attempts": [
       {
         "url": "https://jxj.beijing.gov.cn/zwgk/2024zcwj/",
@@ -2011,22 +1981,10 @@
         "method": "http",
         "status": "read",
         "redirect": "https://jxj.beijing.gov.cn/zwgk/2024zcwj/202610/t20261030_4925660.html"
-      },
-      {
-        "url": "https://jxj.beijing.gov.cn/zwgk/2024zcwj/202610/t20261028_4921964.html",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://jxj.beijing.gov.cn/zwgk/2024zcwj/202610/t20261028_4921964.html"
-      },
-      {
-        "url": "https://jxj.beijing.gov.cn/zwgk/2024zcwj/202610/W020261028554171525528.pdf",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://jxj.beijing.gov.cn/zwgk/2024zcwj/202610/W020261028554171525528.pdf"
       }
     ],
-    "window_start": "2026-10-28",
-    "window_end": "2026-10-31",
+    "window_start": "2026-10-29",
+    "window_end": "2026-11-01",
     "adapter": "cn_1003b870a030",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -2034,14 +1992,14 @@
     "initialized": true,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
-    "last_verified_date": "2026-10-31",
+    "last_verified_date": "2026-11-01",
     "consecutive_failures": 0
   },
   {
     "id": "cn_ad5b4fd78be8",
     "name": "北京市城市管理委员会",
     "status": "ok_no_recent",
-    "checked_at": "2026-10-31T05:31:03+00:00",
+    "checked_at": "2026-11-01T05:56:23+00:00",
     "found_count": 0,
     "candidate_links": 20,
     "candidate_dated_links": 20,
@@ -2063,8 +2021,8 @@
         "redirect": "https://csglw.beijing.gov.cn/zwxx/2024zcwj/"
       }
     ],
-    "window_start": "2026-10-28",
-    "window_end": "2026-10-31",
+    "window_start": "2026-10-29",
+    "window_end": "2026-11-01",
     "adapter": "cn_ad5b4fd78be8",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -2072,14 +2030,14 @@
     "initialized": true,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
-    "last_verified_date": "2026-10-31",
+    "last_verified_date": "2026-11-01",
     "consecutive_failures": 0
   },
   {
     "id": "cn_bcae52a0ff64",
     "name": "天津市人民政府",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:31:06+00:00",
+    "checked_at": "2026-11-01T05:56:23+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -2102,7 +2060,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_bcae52a0ff64",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -2111,13 +2069,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_17bffa52408e",
     "name": "天津发展和改革委员会",
     "status": "blocked",
-    "checked_at": "2026-10-31T05:31:06+00:00",
+    "checked_at": "2026-11-01T05:56:25+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -2146,7 +2104,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_17bffa52408e",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -2155,13 +2113,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_5dc355c1a7a8",
     "name": "天津工业和信息化局",
     "status": "blocked",
-    "checked_at": "2026-10-31T05:31:10+00:00",
+    "checked_at": "2026-11-01T05:56:29+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -2190,7 +2148,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_5dc355c1a7a8",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -2199,13 +2157,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_9218a245fb7e",
     "name": "河北省人民政府",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:31:13+00:00",
+    "checked_at": "2026-11-01T05:56:29+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -2234,7 +2192,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_9218a245fb7e",
     "adapter_strategy": "cms_column",
     "adapter_live_verified": false,
@@ -2243,13 +2201,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_bcbd7c678a4f",
     "name": "河北省发展和改革委员会",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:31:13+00:00",
+    "checked_at": "2026-11-01T05:56:30+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -2278,7 +2236,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_bcbd7c678a4f",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -2287,13 +2245,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_72b1e5bf6cc8",
     "name": "山西省人民政府",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:31:15+00:00",
+    "checked_at": "2026-11-01T05:56:35+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -2322,7 +2280,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_72b1e5bf6cc8",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -2331,13 +2289,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_0cedc4affbe8",
     "name": "山西省能源局",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:31:31+00:00",
+    "checked_at": "2026-11-01T05:56:50+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -2366,7 +2324,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_0cedc4affbe8",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -2375,13 +2333,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_f967a158ac3f",
     "name": "山西省工信厅",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:32:18+00:00",
+    "checked_at": "2026-11-01T05:57:34+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -2410,7 +2368,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_f967a158ac3f",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -2419,13 +2377,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_05f1f10b143f",
     "name": "山西省发改委",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:32:20+00:00",
+    "checked_at": "2026-11-01T05:57:35+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -2454,7 +2412,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_05f1f10b143f",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -2463,13 +2421,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_09b66c7ebd13",
     "name": "内蒙古人民政府",
     "status": "blocked",
-    "checked_at": "2026-10-31T05:32:48+00:00",
+    "checked_at": "2026-11-01T05:58:09+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -2498,7 +2456,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_09b66c7ebd13",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -2507,13 +2465,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_c6f9b3f56fe8",
     "name": "内蒙古发改委",
     "status": "blocked",
-    "checked_at": "2026-10-31T05:32:54+00:00",
+    "checked_at": "2026-11-01T05:58:24+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -2542,7 +2500,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_c6f9b3f56fe8",
     "adapter_strategy": "iframe_listing",
     "adapter_live_verified": false,
@@ -2551,13 +2509,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_eb58eb83050f",
     "name": "内蒙古能源局",
     "status": "ok_no_recent",
-    "checked_at": "2026-10-31T05:32:59+00:00",
+    "checked_at": "2026-11-01T05:58:25+00:00",
     "found_count": 0,
     "candidate_links": 13,
     "candidate_dated_links": 13,
@@ -2579,8 +2537,8 @@
         "redirect": "https://nyj.nmg.gov.cn/tzgg/"
       }
     ],
-    "window_start": "2026-10-28",
-    "window_end": "2026-10-31",
+    "window_start": "2026-10-29",
+    "window_end": "2026-11-01",
     "adapter": "cn_eb58eb83050f",
     "adapter_strategy": "iframe_listing",
     "adapter_live_verified": false,
@@ -2588,14 +2546,14 @@
     "initialized": true,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
-    "last_verified_date": "2026-10-31",
+    "last_verified_date": "2026-11-01",
     "consecutive_failures": 0
   },
   {
     "id": "cn_687800e62fca",
     "name": "辽宁省人民政府",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:33:01+00:00",
+    "checked_at": "2026-11-01T05:58:27+00:00",
     "found_count": 0,
     "candidate_links": 17,
     "candidate_dated_links": 17,
@@ -2630,7 +2588,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_687800e62fca",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -2639,13 +2597,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_c9be69562225",
     "name": "辽宁省发改委",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:33:05+00:00",
+    "checked_at": "2026-11-01T05:58:30+00:00",
     "found_count": 3,
     "candidate_links": 18,
     "candidate_dated_links": 15,
@@ -2716,7 +2674,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_c9be69562225",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -2725,13 +2683,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_4b359756b91a",
     "name": "辽宁省工信厅",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:33:08+00:00",
+    "checked_at": "2026-11-01T05:58:33+00:00",
     "found_count": 3,
     "candidate_links": 12,
     "candidate_dated_links": 11,
@@ -2749,6 +2707,12 @@
       {
         "url": "https://gxt.ln.gov.cn/gxt/zfxxgk/zc/xzgfxwj/index.shtml",
         "method": "http",
+        "status": "failed",
+        "error": "ConnectionError: HTTPSConnectionPool(host='gxt.ln.gov.cn', port=443): Max retries exceeded with url: /gxt/zfxxgk/zc/xzgfxwj/index.shtml (Caused by ReadTimeoutError(\"HT"
+      },
+      {
+        "url": "https://gxt.ln.gov.cn/gxt/zfxxgk/zc/xzgfxwj/index.shtml",
+        "method": "browser",
         "status": "read",
         "redirect": "https://gxt.ln.gov.cn/gxt/zfxxgk/zc/xzgfxwj/index.shtml"
       },
@@ -2778,7 +2742,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_4b359756b91a",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -2787,13 +2751,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_fcdd8a95a7df",
     "name": "吉林省人民政府",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:33:15+00:00",
+    "checked_at": "2026-11-01T05:58:50+00:00",
     "found_count": 0,
     "candidate_links": 1,
     "candidate_dated_links": 0,
@@ -2822,7 +2786,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_fcdd8a95a7df",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -2831,13 +2795,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_3c9957b26c3c",
     "name": "吉林省发改委",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:33:20+00:00",
+    "checked_at": "2026-11-01T05:58:56+00:00",
     "found_count": 0,
     "candidate_links": 1,
     "candidate_dated_links": 0,
@@ -2866,7 +2830,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_3c9957b26c3c",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -2875,13 +2839,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_573ba3b6d161",
     "name": "吉林省工信部",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:33:23+00:00",
+    "checked_at": "2026-11-01T05:58:58+00:00",
     "found_count": 0,
     "candidate_links": 1,
     "candidate_dated_links": 0,
@@ -2910,7 +2874,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_573ba3b6d161",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -2919,13 +2883,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_d9b99a25cf12",
     "name": "黑龙江省人民政府",
     "status": "ok_no_recent",
-    "checked_at": "2026-10-31T05:33:25+00:00",
+    "checked_at": "2026-11-01T05:59:01+00:00",
     "found_count": 0,
     "candidate_links": 9,
     "candidate_dated_links": 9,
@@ -2947,8 +2911,8 @@
         "redirect": "https://www.hlj.gov.cn/hlj/c108371/zfxxgk_search.shtml"
       }
     ],
-    "window_start": "2026-10-28",
-    "window_end": "2026-10-31",
+    "window_start": "2026-10-29",
+    "window_end": "2026-11-01",
     "adapter": "cn_d9b99a25cf12",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -2956,14 +2920,14 @@
     "initialized": true,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
-    "last_verified_date": "2026-10-31",
+    "last_verified_date": "2026-11-01",
     "consecutive_failures": 0
   },
   {
     "id": "cn_be6b37d7a3a0",
     "name": "黑龙江工信部",
     "status": "ok_no_recent",
-    "checked_at": "2026-10-31T05:33:27+00:00",
+    "checked_at": "2026-11-01T05:59:03+00:00",
     "found_count": 0,
     "candidate_links": 6,
     "candidate_dated_links": 6,
@@ -2985,8 +2949,8 @@
         "redirect": "https://gxt.hlj.gov.cn/gxt/c106981/zfxxgk.shtml?tab=gfxwj"
       }
     ],
-    "window_start": "2026-10-28",
-    "window_end": "2026-10-31",
+    "window_start": "2026-10-29",
+    "window_end": "2026-11-01",
     "adapter": "cn_be6b37d7a3a0",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -2994,14 +2958,14 @@
     "initialized": true,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
-    "last_verified_date": "2026-10-31",
+    "last_verified_date": "2026-11-01",
     "consecutive_failures": 0
   },
   {
     "id": "cn_e3337f219cd6",
     "name": "黑龙江发改委",
     "status": "ok_no_recent",
-    "checked_at": "2026-10-31T05:33:27+00:00",
+    "checked_at": "2026-11-01T05:59:05+00:00",
     "found_count": 0,
     "candidate_links": 11,
     "candidate_dated_links": 11,
@@ -3023,8 +2987,8 @@
         "redirect": "https://drc.hlj.gov.cn/drc/c111444/common_zfxxgk.shtml?tab=gfxwj"
       }
     ],
-    "window_start": "2026-10-28",
-    "window_end": "2026-10-31",
+    "window_start": "2026-10-29",
+    "window_end": "2026-11-01",
     "adapter": "cn_e3337f219cd6",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -3032,14 +2996,14 @@
     "initialized": true,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
-    "last_verified_date": "2026-10-31",
+    "last_verified_date": "2026-11-01",
     "consecutive_failures": 0
   },
   {
     "id": "cn_27e871c7b989",
     "name": "上海市人民政府",
     "status": "ok_no_recent",
-    "checked_at": "2026-10-31T05:33:29+00:00",
+    "checked_at": "2026-11-01T05:59:07+00:00",
     "found_count": 0,
     "candidate_links": 34,
     "candidate_dated_links": 34,
@@ -3061,8 +3025,8 @@
         "redirect": "https://www.shanghai.gov.cn/nw42944/index.html"
       }
     ],
-    "window_start": "2026-10-28",
-    "window_end": "2026-10-31",
+    "window_start": "2026-10-29",
+    "window_end": "2026-11-01",
     "adapter": "cn_27e871c7b989",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -3070,55 +3034,49 @@
     "initialized": true,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
-    "last_verified_date": "2026-10-31",
+    "last_verified_date": "2026-11-01",
     "consecutive_failures": 0
   },
   {
     "id": "cn_a70a2ad659af",
     "name": "上海市经信委",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:33:30+00:00",
+    "checked_at": "2026-11-01T05:59:08+00:00",
     "found_count": 0,
-    "candidate_links": 11,
-    "candidate_dated_links": 8,
-    "listing_rows_with_date": 8,
-    "listing_rows_total": 11,
+    "candidate_links": 6,
+    "candidate_dated_links": 5,
+    "listing_rows_with_date": 5,
+    "listing_rows_total": 6,
     "listing_pages": 1,
     "oldest_listing_date": "2026-01-12",
     "explicit_end_of_list": false,
-    "detail_errors": 0,
+    "detail_errors": 1,
     "detail_limit_hit": false,
     "coverage_complete": false,
     "coverage_evidence": "缺少完整时间窗覆盖证据",
-    "message": "列表候选发布日期不完整，不能证明覆盖所需时间段",
+    "message": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
     "attempts": [
       {
         "url": "https://www.sheitc.sh.gov.cn/zcfg/index.html",
         "method": "http",
+        "status": "failed",
+        "error": "ConnectionError: HTTPSConnectionPool(host='www.sheitc.sh.gov.cn', port=443): Max retries exceeded with url: /zcfg/index.html (Caused by NewConnectionError(\"HTTPSConnec"
+      },
+      {
+        "url": "https://www.sheitc.sh.gov.cn/zcfg/index.html",
+        "method": "browser",
         "status": "read",
         "redirect": "https://www.sheitc.sh.gov.cn/zcfg/index.html"
       },
       {
-        "url": "https://www.sheitc.sh.gov.cn/01050220/index.html?from=zl",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.sheitc.sh.gov.cn/01050220/index.html?from=zl"
-      },
-      {
         "url": "https://www.sheitc.sh.gov.cn/zfxxgkzn/index.html",
         "method": "http",
-        "status": "read",
-        "redirect": "https://www.sheitc.sh.gov.cn/zfxxgkzn/index.html"
-      },
-      {
-        "url": "https://www.sheitc.sh.gov.cn/bmgzjxgwj/index.html?from=zl",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.sheitc.sh.gov.cn/bmgzjxgwj/index.html?from=zl"
+        "status": "failed",
+        "error": "ConnectionError: HTTPSConnectionPool(host='www.sheitc.sh.gov.cn', port=443): Max retries exceeded with url: /zfxxgkzn/index.html (Caused by NewConnectionError(\"HTTPSCo"
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_a70a2ad659af",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -3127,14 +3085,14 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_c3d9397ca287",
     "name": "上海市发改委",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:33:31+00:00",
-    "found_count": 1,
+    "checked_at": "2026-11-01T05:59:08+00:00",
+    "found_count": 4,
     "candidate_links": 20,
     "candidate_dated_links": 20,
     "listing_rows_with_date": 20,
@@ -3142,7 +3100,7 @@
     "listing_pages": 1,
     "oldest_listing_date": "2026-08-27",
     "explicit_end_of_list": false,
-    "detail_errors": 8,
+    "detail_errors": 2,
     "detail_limit_hit": false,
     "coverage_complete": false,
     "coverage_evidence": "缺少完整时间窗覆盖证据",
@@ -3151,20 +3109,20 @@
       {
         "url": "https://fgw.sh.gov.cn/fgw_zcwjfl/index.html",
         "method": "http",
-        "status": "failed",
-        "error": "ConnectionError: HTTPSConnectionPool(host='fgw.sh.gov.cn', port=443): Max retries exceeded with url: /fgw_zcwjfl/index.html (Caused by NewConnectionError(\"HTTPSConnect"
-      },
-      {
-        "url": "https://fgw.sh.gov.cn/fgw_zcwjfl/index.html",
-        "method": "browser",
         "status": "read",
         "redirect": "https://fgw.sh.gov.cn/fgw_zcwjfl/index.html"
       },
       {
         "url": "http://fgw.sh.gov.cn/fgw_jggl/20261029/c4173f8c7fb84f8486130488d93f1751.html",
         "method": "http",
-        "status": "failed",
-        "error": "ConnectionError: HTTPSConnectionPool(host='fgw.sh.gov.cn', port=443): Max retries exceeded with url: /fgw_jggl/20261029/c4173f8c7fb84f8486130488d93f1751.html (Caused b"
+        "status": "read",
+        "redirect": "https://fgw.sh.gov.cn/fgw_jggl/20261029/c4173f8c7fb84f8486130488d93f1751.html"
+      },
+      {
+        "url": "https://fgw.sh.gov.cn/cmsres/78/7836d174ea8e4686b2e91e3bcc5dd566/e8692450517aa588a41c35bc2ece446f.pdf",
+        "method": "http",
+        "status": "read",
+        "redirect": "https://fgw.sh.gov.cn/cmsres/78/7836d174ea8e4686b2e91e3bcc5dd566/e8692450517aa588a41c35bc2ece446f.pdf"
       },
       {
         "url": "https://www.shanghai.gov.cn/zhengce/detail?businessId=ca10d092176d4e85a6c7ff181701513d&siteId=0001",
@@ -3175,32 +3133,44 @@
       {
         "url": "http://fgw.sh.gov.cn/fgw_jggl/20261028/47b1f68412d5415d8be62bc32f7c327e.html",
         "method": "http",
-        "status": "failed",
-        "error": "ConnectionError: HTTPSConnectionPool(host='fgw.sh.gov.cn', port=443): Max retries exceeded with url: /fgw_jggl/20261028/47b1f68412d5415d8be62bc32f7c327e.html (Caused b"
+        "status": "read",
+        "redirect": "https://fgw.sh.gov.cn/fgw_jggl/20261028/47b1f68412d5415d8be62bc32f7c327e.html"
       },
       {
         "url": "http://fgw.sh.gov.cn/fgw_jggl/20261028/52fde67cc5084d01a0e87aacde15e556.html",
         "method": "http",
-        "status": "failed",
-        "error": "ConnectionError: HTTPSConnectionPool(host='fgw.sh.gov.cn', port=443): Max retries exceeded with url: /fgw_jggl/20261028/52fde67cc5084d01a0e87aacde15e556.html (Caused b"
+        "status": "read",
+        "redirect": "https://fgw.sh.gov.cn/fgw_jggl/20261028/52fde67cc5084d01a0e87aacde15e556.html"
+      },
+      {
+        "url": "https://fgw.sh.gov.cn/cmsres/7b/7bffb38cb453445f94e4e605e04a9989/f739905a0252750500b0d15d0b6366c3.pdf",
+        "method": "http",
+        "status": "read",
+        "redirect": "https://fgw.sh.gov.cn/cmsres/7b/7bffb38cb453445f94e4e605e04a9989/f739905a0252750500b0d15d0b6366c3.pdf"
       },
       {
         "url": "http://fgw.sh.gov.cn/fgw_jggl/20261020/489f8337cf3a4a23aeb03c72f82fb189.html",
         "method": "http",
-        "status": "failed",
-        "error": "ConnectionError: HTTPSConnectionPool(host='fgw.sh.gov.cn', port=443): Max retries exceeded with url: /fgw_jggl/20261020/489f8337cf3a4a23aeb03c72f82fb189.html (Caused b"
+        "status": "read",
+        "redirect": "https://fgw.sh.gov.cn/fgw_jggl/20261020/489f8337cf3a4a23aeb03c72f82fb189.html"
       },
       {
         "url": "http://fgw.sh.gov.cn/fgw_ny/20261020/c7e79a6dbfa64af6a3f76ccd1f2cdd3b.html",
         "method": "http",
-        "status": "failed",
-        "error": "ConnectionError: HTTPSConnectionPool(host='fgw.sh.gov.cn', port=443): Max retries exceeded with url: /fgw_ny/20261020/c7e79a6dbfa64af6a3f76ccd1f2cdd3b.html (Caused by "
+        "status": "read",
+        "redirect": "https://fgw.sh.gov.cn/fgw_ny/20261020/c7e79a6dbfa64af6a3f76ccd1f2cdd3b.html"
+      },
+      {
+        "url": "https://fgw.sh.gov.cn/cmsres/67/678d49b37b0b464e925c78e6abfebe5f/38631786561e2c9fe5828babe0143dde.pdf",
+        "method": "http",
+        "status": "read",
+        "redirect": "https://fgw.sh.gov.cn/cmsres/67/678d49b37b0b464e925c78e6abfebe5f/38631786561e2c9fe5828babe0143dde.pdf"
       },
       {
         "url": "http://fgw.sh.gov.cn/fgw_ny/20261016/68a561a1b2ee440e9f66793deade946a.html",
         "method": "http",
-        "status": "failed",
-        "error": "ConnectionError: HTTPSConnectionPool(host='fgw.sh.gov.cn', port=443): Max retries exceeded with url: /fgw_ny/20261016/68a561a1b2ee440e9f66793deade946a.html (Caused by "
+        "status": "read",
+        "redirect": "https://fgw.sh.gov.cn/fgw_ny/20261016/68a561a1b2ee440e9f66793deade946a.html"
       },
       {
         "url": "https://www.shanghai.gov.cn/nw12344/20261013/9818972b5d6c4a50b7e08896ec412e02.html?sessionid=",
@@ -3270,7 +3240,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_c3d9397ca287",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -3279,13 +3249,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_96f475fd98fa",
     "name": "江苏省人民政府",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:33:42+00:00",
+    "checked_at": "2026-11-01T05:59:10+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -3308,7 +3278,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_96f475fd98fa",
     "adapter_strategy": "cms_column",
     "adapter_live_verified": false,
@@ -3317,13 +3287,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_642f1102f38a",
     "name": "江苏省发改委",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:33:46+00:00",
+    "checked_at": "2026-11-01T05:59:15+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -3346,7 +3316,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_642f1102f38a",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -3355,13 +3325,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_c37e9b9f7acf",
     "name": "江苏省工信部",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:33:47+00:00",
+    "checked_at": "2026-11-01T05:59:18+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -3384,7 +3354,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_c37e9b9f7acf",
     "adapter_strategy": "cms_column",
     "adapter_live_verified": false,
@@ -3393,13 +3363,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_826688a2babc",
     "name": "浙江省政府及部门文件",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:33:49+00:00",
+    "checked_at": "2026-11-01T05:59:19+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -3428,7 +3398,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_826688a2babc",
     "adapter_strategy": "cms_column",
     "adapter_live_verified": false,
@@ -3437,13 +3407,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_bc2b5fe1372b",
     "name": "安徽省人民政府",
     "status": "blocked",
-    "checked_at": "2026-10-31T05:33:52+00:00",
+    "checked_at": "2026-11-01T05:59:26+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -3472,7 +3442,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_bc2b5fe1372b",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -3481,13 +3451,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_23a1b77623a0",
     "name": "安徽省发改委",
     "status": "blocked",
-    "checked_at": "2026-10-31T05:33:53+00:00",
+    "checked_at": "2026-11-01T05:59:37+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -3516,7 +3486,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_23a1b77623a0",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -3525,13 +3495,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_a5db7e800aa9",
     "name": "安徽省工信厅",
     "status": "blocked",
-    "checked_at": "2026-10-31T05:33:58+00:00",
+    "checked_at": "2026-11-01T05:59:39+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -3560,7 +3530,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_a5db7e800aa9",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -3569,13 +3539,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_b2148d5e1247",
     "name": "福建省人民政府",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:34:00+00:00",
+    "checked_at": "2026-11-01T05:59:44+00:00",
     "found_count": 0,
     "candidate_links": 15,
     "candidate_dated_links": 15,
@@ -3688,7 +3658,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_b2148d5e1247",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -3697,13 +3667,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_b85a8fe9fba8",
     "name": "福建省发改委",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:34:03+00:00",
+    "checked_at": "2026-11-01T05:59:45+00:00",
     "found_count": 2,
     "candidate_links": 71,
     "candidate_dated_links": 70,
@@ -3744,7 +3714,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_b85a8fe9fba8",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -3753,13 +3723,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_18e109d08abf",
     "name": "福建省工信厅",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:34:14+00:00",
+    "checked_at": "2026-11-01T05:59:50+00:00",
     "found_count": 5,
     "candidate_links": 86,
     "candidate_dated_links": 86,
@@ -3980,7 +3950,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_18e109d08abf",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -3989,13 +3959,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_8d7abc70b68b",
     "name": "江西省人民政府",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:34:23+00:00",
+    "checked_at": "2026-11-01T06:00:05+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -4024,7 +3994,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_8d7abc70b68b",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -4033,13 +4003,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_257f0497a96d",
     "name": "江西省发改委",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:34:40+00:00",
+    "checked_at": "2026-11-01T06:00:12+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -4068,7 +4038,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_257f0497a96d",
     "adapter_strategy": "cms_column",
     "adapter_live_verified": false,
@@ -4077,13 +4047,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_d05bd105b38d",
     "name": "江西省工信厅",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:34:49+00:00",
+    "checked_at": "2026-11-01T06:00:16+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -4112,7 +4082,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_d05bd105b38d",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -4121,13 +4091,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_fdb9ab86c4a9",
     "name": "山东省人民政府",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:35:27+00:00",
+    "checked_at": "2026-11-01T06:00:26+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -4150,7 +4120,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_fdb9ab86c4a9",
     "adapter_strategy": "cms_column",
     "adapter_live_verified": false,
@@ -4159,13 +4129,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_ec953fefe292",
     "name": "山东省发改委",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:35:31+00:00",
+    "checked_at": "2026-11-01T06:00:27+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -4194,7 +4164,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_ec953fefe292",
     "adapter_strategy": "cms_column",
     "adapter_live_verified": false,
@@ -4203,13 +4173,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_64d94992d798",
     "name": "山东省工信厅",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:35:43+00:00",
+    "checked_at": "2026-11-01T06:01:07+00:00",
     "found_count": 0,
     "candidate_links": 1,
     "candidate_dated_links": 0,
@@ -4238,7 +4208,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_64d94992d798",
     "adapter_strategy": "cms_column",
     "adapter_live_verified": false,
@@ -4247,13 +4217,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_124239bfeb82",
     "name": "国家能源局山东监管办公室（官方替代）",
     "status": "ok_no_recent",
-    "checked_at": "2026-10-31T05:35:46+00:00",
+    "checked_at": "2026-11-01T06:01:08+00:00",
     "found_count": 0,
     "candidate_links": 12,
     "candidate_dated_links": 12,
@@ -4273,16 +4243,10 @@
         "method": "http",
         "status": "read",
         "redirect": "https://sdb.nea.gov.cn/dtyw/tzgg/"
-      },
-      {
-        "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202610/t20261028_311168.html",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://sdb.nea.gov.cn/dtyw/tzgg/202610/t20261028_311168.html"
       }
     ],
-    "window_start": "2026-10-28",
-    "window_end": "2026-10-31",
+    "window_start": "2026-10-29",
+    "window_end": "2026-11-01",
     "adapter": "cn_124239bfeb82",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -4290,14 +4254,14 @@
     "initialized": true,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
-    "last_verified_date": "2026-10-31",
+    "last_verified_date": "2026-11-01",
     "consecutive_failures": 0
   },
   {
     "id": "cn_c38c37a7f95a",
     "name": "河南省人民政府",
     "status": "blocked",
-    "checked_at": "2026-10-31T05:35:49+00:00",
+    "checked_at": "2026-11-01T06:01:10+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -4338,7 +4302,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_c38c37a7f95a",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -4347,13 +4311,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_ca01ba1d0ac7",
     "name": "河南省发改委",
     "status": "blocked",
-    "checked_at": "2026-10-31T05:35:52+00:00",
+    "checked_at": "2026-11-01T06:01:15+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -4382,7 +4346,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_ca01ba1d0ac7",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -4391,13 +4355,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_d503c07b0951",
     "name": "河南省工信厅",
     "status": "blocked",
-    "checked_at": "2026-10-31T05:35:54+00:00",
+    "checked_at": "2026-11-01T06:01:16+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -4426,7 +4390,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_d503c07b0951",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -4435,13 +4399,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_6677a056500c",
     "name": "湖北省人民政府",
     "status": "error",
-    "checked_at": "2026-10-31T05:35:55+00:00",
+    "checked_at": "2026-11-01T06:01:18+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -4470,7 +4434,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_6677a056500c",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -4479,13 +4443,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_68fbb3ebe6ee",
     "name": "湖北省发改委",
     "status": "error",
-    "checked_at": "2026-10-31T05:35:56+00:00",
+    "checked_at": "2026-11-01T06:01:18+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -4514,7 +4478,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_68fbb3ebe6ee",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -4523,13 +4487,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_7953653226d0",
     "name": "湖北省经信厅",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:36:00+00:00",
+    "checked_at": "2026-11-01T06:01:19+00:00",
     "found_count": 2,
     "candidate_links": 22,
     "candidate_dated_links": 18,
@@ -4618,7 +4582,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_7953653226d0",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -4627,13 +4591,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_3fb2a96af337",
     "name": "湖南省人民政府",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:36:01+00:00",
+    "checked_at": "2026-11-01T06:01:22+00:00",
     "found_count": 0,
     "candidate_links": 15,
     "candidate_dated_links": 15,
@@ -4698,7 +4662,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_3fb2a96af337",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -4707,13 +4671,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_13b15007a2b0",
     "name": "湖南省工信厅",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:36:40+00:00",
+    "checked_at": "2026-11-01T06:01:22+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -4742,7 +4706,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_13b15007a2b0",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -4751,26 +4715,26 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_64dc11b10278",
     "name": "湖南省发改委",
-    "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:36:41+00:00",
+    "status": "ok_no_recent",
+    "checked_at": "2026-11-01T06:01:30+00:00",
     "found_count": 0,
-    "candidate_links": 0,
-    "candidate_dated_links": 0,
-    "listing_rows_with_date": 0,
-    "listing_rows_total": 0,
+    "candidate_links": 20,
+    "candidate_dated_links": 20,
+    "listing_rows_with_date": 20,
+    "listing_rows_total": 20,
     "listing_pages": 1,
-    "oldest_listing_date": "",
+    "oldest_listing_date": "2026-06-03",
     "explicit_end_of_list": false,
     "detail_errors": 0,
     "detail_limit_hit": false,
-    "coverage_complete": false,
-    "coverage_evidence": "缺少完整时间窗覆盖证据",
-    "message": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
+    "coverage_complete": true,
+    "coverage_evidence": "已识别原始栏目、逐条日期及翻页边界",
+    "message": "该来源在本次时间窗内未取得可纳入的法规；分页与日期覆盖已核验",
     "attempts": [
       {
         "url": "https://www.hunan.gov.cn/hnszf/xxgk/wjk/szbm/szfzcbm_19689/sfzhggwyh_19690/gfxwj_19691/index.html",
@@ -4786,7 +4750,7 @@
       }
     ],
     "window_start": "2026-10-25",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_64dc11b10278",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -4794,14 +4758,14 @@
     "initialized": true,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
-    "last_verified_date": "2026-10-27",
-    "consecutive_failures": 4
+    "last_verified_date": "2026-11-01",
+    "consecutive_failures": 0
   },
   {
     "id": "cn_a05a053fbf35",
     "name": "广东省人民政府",
     "status": "ok_no_recent",
-    "checked_at": "2026-10-31T05:36:53+00:00",
+    "checked_at": "2026-11-01T06:01:30+00:00",
     "found_count": 0,
     "candidate_links": 14,
     "candidate_dated_links": 14,
@@ -4823,8 +4787,8 @@
         "redirect": "http://www.gd.gov.cn/zwgk/wjk/qbwj/index.html"
       }
     ],
-    "window_start": "2026-10-28",
-    "window_end": "2026-10-31",
+    "window_start": "2026-10-29",
+    "window_end": "2026-11-01",
     "adapter": "cn_a05a053fbf35",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -4832,14 +4796,14 @@
     "initialized": true,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
-    "last_verified_date": "2026-10-31",
+    "last_verified_date": "2026-11-01",
     "consecutive_failures": 0
   },
   {
     "id": "cn_35210b5ce137",
     "name": "广东省发改委",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:36:54+00:00",
+    "checked_at": "2026-11-01T06:01:32+00:00",
     "found_count": 1,
     "candidate_links": 81,
     "candidate_dated_links": 80,
@@ -4904,7 +4868,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_35210b5ce137",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -4913,13 +4877,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_e290654fb72d",
     "name": "广东省工信厅",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:36:55+00:00",
+    "checked_at": "2026-11-01T06:01:37+00:00",
     "found_count": 6,
     "candidate_links": 52,
     "candidate_dated_links": 52,
@@ -5176,7 +5140,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_e290654fb72d",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -5185,13 +5149,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_7239ba11c55b",
     "name": "广东省能源局",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:37:04+00:00",
+    "checked_at": "2026-11-01T06:01:42+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5214,7 +5178,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_7239ba11c55b",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -5223,13 +5187,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_79acd9237aeb",
     "name": "广西省人民政府",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:37:04+00:00",
+    "checked_at": "2026-11-01T06:01:45+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5258,7 +5222,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_79acd9237aeb",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -5267,13 +5231,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_55a439b16478",
     "name": "广西省工信厅",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:37:24+00:00",
+    "checked_at": "2026-11-01T06:02:06+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5302,7 +5266,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_55a439b16478",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -5311,13 +5275,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_d8311f7de6e6",
     "name": "广西省发改委",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:37:56+00:00",
+    "checked_at": "2026-11-01T06:02:36+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5346,7 +5310,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_d8311f7de6e6",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -5355,13 +5319,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_9cee9310b605",
     "name": "海南省人民政府",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:38:14+00:00",
+    "checked_at": "2026-11-01T06:03:10+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5390,7 +5354,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_9cee9310b605",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -5399,13 +5363,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_ef2bc5e95df5",
     "name": "海南省工信厅",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:38:27+00:00",
+    "checked_at": "2026-11-01T06:03:38+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5434,7 +5398,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_ef2bc5e95df5",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -5443,13 +5407,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_cf5880769bc6",
     "name": "海南省发改委",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:38:59+00:00",
+    "checked_at": "2026-11-01T06:03:39+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5478,7 +5442,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_cf5880769bc6",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -5487,13 +5451,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_67c4991ac3e9",
     "name": "重庆市人民政府",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:39:16+00:00",
+    "checked_at": "2026-11-01T06:04:03+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5522,7 +5486,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_67c4991ac3e9",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -5531,13 +5495,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_dc94216cbc6d",
     "name": "重庆市发改委",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:39:29+00:00",
+    "checked_at": "2026-11-01T06:04:12+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5566,7 +5530,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_dc94216cbc6d",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -5575,13 +5539,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_43f3081a512a",
     "name": "重庆市经信委",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:40:02+00:00",
+    "checked_at": "2026-11-01T06:04:41+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5610,7 +5574,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_43f3081a512a",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -5619,13 +5583,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_1abbceed2047",
     "name": "四川省人民政府",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:40:24+00:00",
+    "checked_at": "2026-11-01T06:04:43+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5654,7 +5618,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_1abbceed2047",
     "adapter_strategy": "cms_column",
     "adapter_live_verified": false,
@@ -5663,13 +5627,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_b922a2143a80",
     "name": "四川省发改委",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:40:49+00:00",
+    "checked_at": "2026-11-01T06:05:36+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5698,7 +5662,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_b922a2143a80",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -5707,13 +5671,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_3973d84e5084",
     "name": "四川省经信厅",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:41:04+00:00",
+    "checked_at": "2026-11-01T06:05:45+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5742,7 +5706,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_3973d84e5084",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -5751,13 +5715,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_2f5ca615b97d",
     "name": "贵州省人民政府",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:41:26+00:00",
+    "checked_at": "2026-11-01T06:05:46+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5786,7 +5750,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_2f5ca615b97d",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -5795,13 +5759,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_8f9dbeeebd54",
     "name": "贵州省工信厅",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:41:35+00:00",
+    "checked_at": "2026-11-01T06:06:14+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5830,7 +5794,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_8f9dbeeebd54",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -5839,13 +5803,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_8a2870d6b4f1",
     "name": "贵州省发改委",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:41:52+00:00",
+    "checked_at": "2026-11-01T06:06:38+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5874,7 +5838,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_8a2870d6b4f1",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -5883,13 +5847,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_61f329f622c8",
     "name": "贵州省能源局",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:42:06+00:00",
+    "checked_at": "2026-11-01T06:06:47+00:00",
     "found_count": 2,
     "candidate_links": 18,
     "candidate_dated_links": 15,
@@ -5954,7 +5918,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_61f329f622c8",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -5963,13 +5927,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_ec89e3d97259",
     "name": "云南省人民政府",
     "status": "blocked",
-    "checked_at": "2026-10-31T05:42:16+00:00",
+    "checked_at": "2026-11-01T06:06:48+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -5998,7 +5962,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_ec89e3d97259",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -6007,13 +5971,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_44bc1881857e",
     "name": "云南省发改委",
     "status": "error",
-    "checked_at": "2026-10-31T05:42:22+00:00",
+    "checked_at": "2026-11-01T06:06:52+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6054,7 +6018,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_44bc1881857e",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -6063,13 +6027,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_f4e44b3462eb",
     "name": "云南省工信部",
     "status": "error",
-    "checked_at": "2026-10-31T05:42:29+00:00",
+    "checked_at": "2026-11-01T06:06:55+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6098,7 +6062,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_f4e44b3462eb",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -6107,13 +6071,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_7beeafa4d326",
     "name": "西藏人民政府",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:42:30+00:00",
+    "checked_at": "2026-11-01T06:06:58+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6142,7 +6106,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_7beeafa4d326",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -6151,13 +6115,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_17594557097c",
     "name": "西藏经信厅",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:42:32+00:00",
+    "checked_at": "2026-11-01T06:06:59+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6186,7 +6150,7 @@
       }
     ],
     "window_start": "2026-10-24",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_17594557097c",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -6195,13 +6159,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": "2026-10-26",
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
   {
     "id": "cn_3a9624d397b1",
     "name": "西藏发改委",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:42:38+00:00",
+    "checked_at": "2026-11-01T06:07:18+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6230,7 +6194,7 @@
       }
     ],
     "window_start": "2026-10-21",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_3a9624d397b1",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -6239,13 +6203,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": "2026-10-23",
-    "consecutive_failures": 8
+    "consecutive_failures": 9
   },
   {
     "id": "cn_969ad9ff831b",
     "name": "陕西省人民政府",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:42:57+00:00",
+    "checked_at": "2026-11-01T06:07:41+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6274,7 +6238,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_969ad9ff831b",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -6283,13 +6247,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_42ed5bf25d5d",
     "name": "陕西省发改委",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:43:33+00:00",
+    "checked_at": "2026-11-01T06:08:00+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6342,7 +6306,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_42ed5bf25d5d",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -6351,13 +6315,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_878d16ddc7e6",
     "name": "陕西省工信厅",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:43:41+00:00",
+    "checked_at": "2026-11-01T06:08:06+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6386,7 +6350,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_878d16ddc7e6",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -6395,13 +6359,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_6088d4f495dd",
     "name": "甘肃省人民政府",
     "status": "error",
-    "checked_at": "2026-10-31T05:43:42+00:00",
+    "checked_at": "2026-11-01T06:08:21+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6430,7 +6394,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_6088d4f495dd",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -6439,13 +6403,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_98fa85780368",
     "name": "甘肃省发改委",
     "status": "error",
-    "checked_at": "2026-10-31T05:43:50+00:00",
+    "checked_at": "2026-11-01T06:08:27+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6474,7 +6438,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_98fa85780368",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -6483,13 +6447,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_884a06211f11",
     "name": "甘肃省工信厅",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:43:59+00:00",
+    "checked_at": "2026-11-01T06:08:44+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6518,7 +6482,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_884a06211f11",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -6527,13 +6491,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_5cc7c12757b9",
     "name": "青海省人民政府",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:44:05+00:00",
+    "checked_at": "2026-11-01T06:08:46+00:00",
     "found_count": 2,
     "candidate_links": 21,
     "candidate_dated_links": 20,
@@ -6610,7 +6574,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_5cc7c12757b9",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -6619,13 +6583,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_2988b09ee88b",
     "name": "青海省发改委",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:44:12+00:00",
+    "checked_at": "2026-11-01T06:08:52+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6654,7 +6618,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_2988b09ee88b",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -6663,13 +6627,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_b8b647e382c3",
     "name": "青海省工信厅",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:44:37+00:00",
+    "checked_at": "2026-11-01T06:09:09+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6698,7 +6662,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_b8b647e382c3",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -6707,13 +6671,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_7c77b32d80d0",
     "name": "宁夏人民政府",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:44:44+00:00",
+    "checked_at": "2026-11-01T06:09:24+00:00",
     "found_count": 8,
     "candidate_links": 23,
     "candidate_dated_links": 19,
@@ -6868,7 +6832,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_7c77b32d80d0",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -6877,13 +6841,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_354fb314969b",
     "name": "宁夏工信厅",
     "status": "ok_no_recent",
-    "checked_at": "2026-10-31T05:45:09+00:00",
+    "checked_at": "2026-11-01T06:09:44+00:00",
     "found_count": 0,
     "candidate_links": 19,
     "candidate_dated_links": 19,
@@ -6905,8 +6869,8 @@
         "redirect": "https://gxt.nx.gov.cn/zwgk/fdzdgknr/zcfg/gxtwj/"
       }
     ],
-    "window_start": "2026-10-28",
-    "window_end": "2026-10-31",
+    "window_start": "2026-10-29",
+    "window_end": "2026-11-01",
     "adapter": "cn_354fb314969b",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -6914,14 +6878,14 @@
     "initialized": true,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
-    "last_verified_date": "2026-10-31",
+    "last_verified_date": "2026-11-01",
     "consecutive_failures": 0
   },
   {
     "id": "cn_44abb54d7339",
     "name": "宁夏发改委",
     "status": "ok_no_recent",
-    "checked_at": "2026-10-31T05:45:14+00:00",
+    "checked_at": "2026-11-01T06:09:46+00:00",
     "found_count": 0,
     "candidate_links": 20,
     "candidate_dated_links": 20,
@@ -6943,8 +6907,8 @@
         "redirect": "https://fzggw.nx.gov.cn/zcgh/fgwwj/"
       }
     ],
-    "window_start": "2026-10-28",
-    "window_end": "2026-10-31",
+    "window_start": "2026-10-29",
+    "window_end": "2026-11-01",
     "adapter": "cn_44abb54d7339",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -6952,14 +6916,14 @@
     "initialized": true,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
-    "last_verified_date": "2026-10-31",
+    "last_verified_date": "2026-11-01",
     "consecutive_failures": 0
   },
   {
     "id": "cn_cbab808cd2a0",
     "name": "新疆人民政府",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:45:15+00:00",
+    "checked_at": "2026-11-01T06:09:49+00:00",
     "found_count": 0,
     "candidate_links": 1,
     "candidate_dated_links": 0,
@@ -6988,7 +6952,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_cbab808cd2a0",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -6997,13 +6961,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_f772ee3b1cc5",
     "name": "新疆工信厅",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:45:17+00:00",
+    "checked_at": "2026-11-01T06:09:51+00:00",
     "found_count": 0,
     "candidate_links": 1,
     "candidate_dated_links": 0,
@@ -7032,7 +6996,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_f772ee3b1cc5",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -7041,13 +7005,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_e4c52c960d02",
     "name": "新疆发改委",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:45:19+00:00",
+    "checked_at": "2026-11-01T06:09:54+00:00",
     "found_count": 0,
     "candidate_links": 1,
     "candidate_dated_links": 0,
@@ -7076,7 +7040,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_e4c52c960d02",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -7085,13 +7049,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_851d40951467",
     "name": "印度国家风能研究院",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:45:19+00:00",
+    "checked_at": "2026-11-01T06:09:54+00:00",
     "found_count": 0,
     "candidate_links": 1,
     "candidate_dated_links": 0,
@@ -7120,7 +7084,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_851d40951467",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -7129,13 +7093,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "intl_f7bbe0b9bd8f",
     "name": "阿曼公共服务监管门户",
     "status": "ok_no_recent",
-    "checked_at": "2026-10-31T05:45:21+00:00",
+    "checked_at": "2026-11-01T06:09:56+00:00",
     "found_count": 0,
     "candidate_links": 4,
     "candidate_dated_links": 4,
@@ -7157,8 +7121,8 @@
         "redirect": "https://gov.om/en/authority-for-public-services-regulation"
       }
     ],
-    "window_start": "2026-10-28",
-    "window_end": "2026-10-31",
+    "window_start": "2026-10-29",
+    "window_end": "2026-11-01",
     "adapter": "intl_f7bbe0b9bd8f",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -7166,14 +7130,14 @@
     "initialized": true,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
-    "last_verified_date": "2026-10-31",
+    "last_verified_date": "2026-11-01",
     "consecutive_failures": 0
   },
   {
     "id": "intl_1b89a16f2050",
     "name": "摩洛哥司法法规门户",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:45:23+00:00",
+    "checked_at": "2026-11-01T06:09:57+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -7202,7 +7166,7 @@
       }
     ],
     "window_start": "2026-09-15",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "intl_1b89a16f2050",
     "adapter_strategy": "legal_database",
     "adapter_live_verified": false,
@@ -7211,13 +7175,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 19
+    "consecutive_failures": 20
   },
   {
     "id": "cn_c2e6bff0ffc3",
     "name": "国家能源局｜最新文件",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:45:26+00:00",
+    "checked_at": "2026-11-01T06:10:01+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -7246,7 +7210,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_c2e6bff0ffc3",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -7255,13 +7219,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_09b62684b798",
     "name": "国家发展改革委｜文件库",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:45:30+00:00",
+    "checked_at": "2026-11-01T06:10:05+00:00",
     "found_count": 0,
     "candidate_links": 1,
     "candidate_dated_links": 0,
@@ -7290,7 +7254,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_09b62684b798",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -7299,13 +7263,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_1900232416b3",
     "name": "国家能源局电力可靠性管理和工程质量监督中心｜政策法规",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:45:31+00:00",
+    "checked_at": "2026-11-01T06:10:07+00:00",
     "found_count": 2,
     "candidate_links": 60,
     "candidate_dated_links": 60,
@@ -7364,7 +7328,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_1900232416b3",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -7373,13 +7337,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_c89dbe504b64",
     "name": "浙江省发改委/能源局｜本机关其他政策文件",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:45:35+00:00",
+    "checked_at": "2026-11-01T06:10:11+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -7408,7 +7372,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_c89dbe504b64",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -7417,13 +7381,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_271bc860137c",
     "name": "浙江省发改委/能源局｜通知公告",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:45:40+00:00",
+    "checked_at": "2026-11-01T06:10:11+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -7452,7 +7416,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_271bc860137c",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -7461,13 +7425,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_a85889da2306",
     "name": "国家能源局浙江监管办公室｜政策法规",
     "status": "needs_adapter",
-    "checked_at": "2026-10-31T05:46:25+00:00",
+    "checked_at": "2026-11-01T06:11:01+00:00",
     "found_count": 0,
     "candidate_links": 15,
     "candidate_dated_links": 15,
@@ -7490,7 +7454,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_a85889da2306",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -7499,13 +7463,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_e8b37b376677",
     "name": "辽宁省政府｜辽政办发",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:46:26+00:00",
+    "checked_at": "2026-11-01T06:11:02+00:00",
     "found_count": 6,
     "candidate_links": 20,
     "candidate_dated_links": 20,
@@ -7564,7 +7528,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_e8b37b376677",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -7573,13 +7537,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_385aa60c445a",
     "name": "新疆自治区政府｜新政发",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:46:27+00:00",
+    "checked_at": "2026-11-01T06:11:02+00:00",
     "found_count": 0,
     "candidate_links": 1,
     "candidate_dated_links": 0,
@@ -7608,7 +7572,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_385aa60c445a",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -7617,13 +7581,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_2b0fcb94d833",
     "name": "新疆自治区政府｜新政办发",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:46:29+00:00",
+    "checked_at": "2026-11-01T06:11:03+00:00",
     "found_count": 0,
     "candidate_links": 1,
     "candidate_dated_links": 0,
@@ -7652,7 +7616,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_2b0fcb94d833",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -7661,13 +7625,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_a51c943c9543",
     "name": "贵州省政府｜黔府办发",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:46:30+00:00",
+    "checked_at": "2026-11-01T06:11:05+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -7696,7 +7660,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_a51c943c9543",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -7705,13 +7669,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_5dab18c54fb9",
     "name": "广东省发展改革委｜规范性文件",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:46:31+00:00",
+    "checked_at": "2026-11-01T06:11:05+00:00",
     "found_count": 0,
     "candidate_links": 99,
     "candidate_dated_links": 98,
@@ -7764,7 +7728,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_5dab18c54fb9",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -7773,13 +7737,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_236457835be8",
     "name": "广东省发展改革委｜业务通知",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:46:32+00:00",
+    "checked_at": "2026-11-01T06:11:08+00:00",
     "found_count": 4,
     "candidate_links": 99,
     "candidate_dated_links": 98,
@@ -7862,7 +7826,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_236457835be8",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -7871,13 +7835,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_5555c1d4376e",
     "name": "北极星风力发电网｜风电政策",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:46:39+00:00",
+    "checked_at": "2026-11-01T06:11:09+00:00",
     "found_count": 2,
     "candidate_links": 264,
     "candidate_dated_links": 263,
@@ -8002,7 +7966,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_5555c1d4376e",
     "adapter_strategy": "media_policy_listing",
     "adapter_live_verified": false,
@@ -8011,18 +7975,18 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_b637baec056a",
     "name": "中国能源报·中国能源网",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:46:40+00:00",
+    "checked_at": "2026-11-01T06:11:09+00:00",
     "found_count": 0,
-    "candidate_links": 28,
+    "candidate_links": 24,
     "candidate_dated_links": 0,
     "listing_rows_with_date": 0,
-    "listing_rows_total": 28,
+    "listing_rows_total": 24,
     "listing_pages": 1,
     "oldest_listing_date": "",
     "explicit_end_of_list": false,
@@ -8039,22 +8003,10 @@
         "redirect": "https://www.cnenergynews.cn/"
       },
       {
-        "url": "https://www.cnenergynews.cn/article/4ToCf3e3NiU",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.cnenergynews.cn/article/4ToCf3e3NiU"
-      },
-      {
         "url": "https://www.cnenergynews.cn/article/4Toq5CilyxW",
         "method": "http",
         "status": "read",
         "redirect": "https://www.cnenergynews.cn/article/4Toq5CilyxW"
-      },
-      {
-        "url": "https://www.cnenergynews.cn/article/4Tp8yejWa2x",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.cnenergynews.cn/article/4Tp8yejWa2x"
       },
       {
         "url": "https://www.cnenergynews.cn/article/4Tp15ctRgvW",
@@ -8093,16 +8045,16 @@
         "redirect": "https://www.cnenergynews.cn/article/4To2OZwUyMC"
       },
       {
+        "url": "https://www.cnenergynews.cn/article/4Tpx2MsWSlL",
+        "method": "http",
+        "status": "read",
+        "redirect": "https://www.cnenergynews.cn/article/4Tpx2MsWSlL"
+      },
+      {
         "url": "https://www.cnenergynews.cn/article/4Tp8YOIM8jd",
         "method": "http",
         "status": "read",
         "redirect": "https://www.cnenergynews.cn/article/4Tp8YOIM8jd"
-      },
-      {
-        "url": "https://www.cnenergynews.cn/article/4To081BB38C",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.cnenergynews.cn/article/4To081BB38C"
       },
       {
         "url": "https://www.cnenergynews.cn/article/4ToyFxZFYmi",
@@ -8121,12 +8073,6 @@
         "method": "http",
         "status": "read",
         "redirect": "https://www.cnenergynews.cn/article/4TotXVH39lX"
-      },
-      {
-        "url": "https://www.cnenergynews.cn/article/4Tpdgo0G9OJ",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.cnenergynews.cn/article/4Tpdgo0G9OJ"
       },
       {
         "url": "https://www.cnenergynews.cn/article/4ToG52OpG9T",
@@ -8153,16 +8099,10 @@
         "redirect": "https://www.cnenergynews.cn/article/4TG2ldYEEir"
       },
       {
-        "url": "https://www.cnenergynews.cn/article/4Tp3kAKGlQb",
+        "url": "https://www.cnenergynews.cn/article/4Tq38SooTia",
         "method": "http",
         "status": "read",
-        "redirect": "https://www.cnenergynews.cn/article/4Tp3kAKGlQb"
-      },
-      {
-        "url": "https://www.cnenergynews.cn/article/4TonqPZzHNw",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://www.cnenergynews.cn/article/4TonqPZzHNw"
+        "redirect": "https://www.cnenergynews.cn/article/4Tq38SooTia"
       },
       {
         "url": "https://www.cnenergynews.cn/article/4T773bpwGFR",
@@ -8208,7 +8148,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_b637baec056a",
     "adapter_strategy": "media_policy_listing",
     "adapter_live_verified": false,
@@ -8217,13 +8157,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_2e22c487ffee",
     "name": "风能产业网｜政策法规",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:46:46+00:00",
+    "checked_at": "2026-11-01T06:11:12+00:00",
     "found_count": 0,
     "candidate_links": 96,
     "candidate_dated_links": 0,
@@ -8462,7 +8402,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_2e22c487ffee",
     "adapter_strategy": "media_policy_listing",
     "adapter_live_verified": false,
@@ -8471,13 +8411,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_f1e4c09a897d",
     "name": "内蒙古能源局｜政策文件",
     "status": "partial_coverage",
-    "checked_at": "2026-10-31T05:46:48+00:00",
+    "checked_at": "2026-11-01T06:11:17+00:00",
     "found_count": 0,
     "candidate_links": 9,
     "candidate_dated_links": 8,
@@ -8506,7 +8446,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_f1e4c09a897d",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -8515,13 +8455,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_6d0248c0ef07",
     "name": "西藏发改委｜政策解读",
     "status": "connection_error",
-    "checked_at": "2026-10-31T05:46:52+00:00",
+    "checked_at": "2026-11-01T06:11:17+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -8550,7 +8490,7 @@
       }
     ],
     "window_start": "2026-09-16",
-    "window_end": "2026-10-31",
+    "window_end": "2026-11-01",
     "adapter": "cn_6d0248c0ef07",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -8559,6 +8499,6 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   }
 ]

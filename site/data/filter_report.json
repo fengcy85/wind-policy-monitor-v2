@@ -1,37 +1,17 @@
 {
-  "generated_at": "2026-10-31T05:57:41+00:00",
-  "before": 391,
+  "generated_at": "2026-11-01T06:22:44+00:00",
+  "before": 389,
   "kept": 339,
-  "filtered_out": 52,
+  "filtered_out": 50,
   "tag_counts": {
-    "竞对资讯": 290,
-    "招标采购": 82,
     "审批政策": 43,
+    "招标采购": 82,
+    "竞对资讯": 290,
     "市场机制": 15,
     "电网建设": 28,
     "宏观政策": 3
   },
   "rejected_examples": [
-    {
-      "title": "Vattenfall opens its first wind-solar hybrid park in Germany",
-      "source_name": "Renewables Now",
-      "published_at": "2026-10-30",
-      "url": "https://renewablesnow.com/news/vattenfall-opens-its-first-wind-solar-hybrid-park-in-germany-1304043/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Airborne wind tech firm Kitepower goes bankrupt as trustee seeks buyer",
-      "source_name": "Renewables Now",
-      "published_at": "2026-10-30",
-      "url": "https://renewablesnow.com/news/airborne-wind-tech-firm-kitepower-goes-bankrupt-as-trustee-seeks-buyer-1304042/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
     {
       "title": "Half of Germany's state premiers urge change to offshore wind reform to save sector",
       "source_name": "Recharge",
@@ -367,20 +347,20 @@
       ]
     },
     {
-      "title": "Global wind power capacity to rise by more than 180 GW this year",
+      "title": "Türkiye seeks stronger international cooperation for resilient wind energy supply chains",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-23",
-      "url": "https://www.aa.com.tr/en/energy/wind/global-wind-power-capacity-to-rise-by-more-than-180-gw-this-year/59784",
+      "url": "https://www.aa.com.tr/en/energy/wind/turkiye-seeks-stronger-international-cooperation-for-resilient-wind-energy-supply-chains/59763",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Türkiye seeks stronger international cooperation for resilient wind energy supply chains",
+      "title": "Global wind power capacity to rise by more than 180 GW this year",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-23",
-      "url": "https://www.aa.com.tr/en/energy/wind/turkiye-seeks-stronger-international-cooperation-for-resilient-wind-energy-supply-chains/59763",
+      "url": "https://www.aa.com.tr/en/energy/wind/global-wind-power-capacity-to-rise-by-more-than-180-gw-this-year/59784",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
