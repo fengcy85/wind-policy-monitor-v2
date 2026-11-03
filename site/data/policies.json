@@ -1,5 +1,137 @@
 [
   {
+    "id": "p_93a4bec3768a494139",
+    "title": "贵州省能源局关于贵州盘江精煤股份有限公司火烧铺矿等3处煤矿达到安全生产标准化二级标准的公示",
+    "url": "https://nyj.guizhou.gov.cn/xwzx/gsgg/202611/t20261102_91064517.html",
+    "source_id": "cn_61f329f622c8",
+    "source_name": "贵州省能源局",
+    "region": "中国",
+    "country": "中国",
+    "province": "贵州",
+    "published_at": "2026-11-02",
+    "discovered_at": "2026-11-03T06:53:19+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "安全生产与劳动法规"
+    ],
+    "primary_dimension": "安全生产与劳动法规",
+    "source_excerpt": "按照《国家矿山安全监察局关于印发〈煤矿安全生产标准化定级办法〉和〈煤矿安全生产标准化基本要求及评分方法〉的通知》（矿安〔2026〕79号）等有关规定，经审查，贵州盘江精煤股份有限公司火烧铺矿、贵州水城矿业股份有限公司水城县米箩煤矿（新立一期）、贵州林东矿业集团有限责任公司百里杜鹃风景名胜区金坡乡红林煤矿达到安全生产标准化二级标准，现予以公示，接受社会监督。公示期间，如发现申报煤矿存在瞒报事故、弄虚作假等违法违规行为的，将依规定取消其申报资格。 对公示煤矿有异议的，请于公示之日起3个工作日内将有关书面材料报送到省能源局。单位反映情况要加盖公章，个人反映情况要用真实姓名并提供联系方式，以便联系核实。 联系人：郑力豪；联系电话：0851-86825726。 省能源局 2026年",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "按照《国家矿山安全监察局关于印发〈煤矿安全生产标准化定级办法〉和〈煤矿安全生产标准化基本要求及评分方法〉的通知》（矿安〔2026〕79号）等有关规定，经审查，贵州盘江精煤股份有限公司火烧铺矿、贵州水城矿业股份有限公司水城县米箩煤矿（新立一期）、贵州林东矿业集团有限责任公司百里杜鹃风景名胜区金坡乡红林煤矿达到安全生产标准化二级标准，现予以公示，接受社会监督。公示期间，如发现申报煤矿存在瞒报事故、弄虚作假等违法违规行为的，将依规定取消其申报资格。 对公示煤矿有异议的，请于公示之日起3个工作日内将有关书面材料报送到省能源局。单位反映情况要加盖公章，个人反映情况要用真实姓名并提供联系方式，以便联系核实。 联系人：郑力豪；联系电话：0851-86825726。 省能源局 2026年11月2日"
+      }
+    ],
+    "impact_design": "根据“按照《国家矿山安全监察局关于印发〈煤矿安全生产标准化定级办法〉和〈煤矿安全生产标准化基本要求及评分方法〉的通知》（矿安〔2026〕79号）等有关规定，经审查，贵州盘江精煤…”的文本线索，产品设计核查路径：复核安全联锁、施工检修措施及设备技术文件。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查施工、运维责任划分、人员培训及保险合同。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核安全联锁、施工检修措施及设备技术文件；核查施工、运维责任划分、人员培训及保险合同 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：按照《国家矿山安全监察局关于印发〈煤矿安全生产标准化定级办法〉和〈煤矿安全生产标准化基本要求及评分方法〉的通知》（矿安〔2026〕79号）等有关规定，经审查，贵州盘江精煤股份有限公司火烧铺矿、贵州水城矿业股份有限公司水城县米箩煤矿（新立一期）、贵州林东矿业集团有限责任公司百里杜鹃风景名胜区金坡乡红林煤矿达到安全生产标准化二级标准，现予以公示，接受社会监督。公示期间，如发现申报煤矿存在瞒报事故、弄虚",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、运维服务、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "按照《国家矿山安全监察局关于印发〈煤矿安全生产标准化定级办法〉和〈煤矿安全生产标准化基本要求及评分方法〉的通知》（矿安〔2026〕79号）等有关规定，经审查，贵州盘江精煤股份有限公司火烧铺矿、贵州水城矿业股份有限公司水城县米箩煤矿（新立一期）、贵州林东矿业集团有限责任公司百里杜鹃风景名胜区金坡乡红林煤矿达到安全生产标准化二级标准，现予以公示，接受社会监督。公示期间，如发现申报煤矿存在瞒报事故、弄虚作假等违法违规行为的，将依规定取消其申报资格。 对公示煤矿有异议的，请于公示之日起3个工作日内将有关书面材料报送到省能源局。单位反映情况要加盖公章，个人反映情况要用真实姓名并提供联系方式，以便联系核实。 联系人：郑力豪；联系电话：0851-86825726。 省能源局 2026年11月2日",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "afb7d44f0668d83d7ac81c8092d87f782e685217cd4213d44b802c18dd69f6ec",
+    "originally_discovered_at": "2026-11-03T06:53:19+00:00"
+  },
+  {
+    "id": "p_ac7255210d62fbddac",
+    "title": "北京市商务局关于做好本市2027年货物出口配额申请工作的通知",
+    "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/W020261102594006578082.pdf",
+    "source_id": "cn_8101686d3883",
+    "source_name": "北京市人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "北京市",
+    "published_at": "2026-11-02",
+    "discovered_at": "2026-11-03T06:41:10+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "招投标与政府采购"
+    ],
+    "primary_dimension": "招投标与政府采购",
+    "source_excerpt": "2 万头 5 活鸡 300 万只 其中：香港 300 万只 6 锯材 15 万立方米 7 蔺草及蔺草制品 1400 万千克 说明：甘草及甘草制品、蔺草及蔺草制品出口配额通过招标的方式分配。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "2 万头 5 活鸡 300 万只 其中：香港 300 万只 6 锯材 15 万立方米 7 蔺草及蔺草制品 1400 万千克 说明：甘草及甘草制品、蔺草及蔺草制品出口配额通过招标的方式分配。"
+      }
+    ],
+    "impact_design": "根据“2 万头 5 活鸡 300 万只 其中：香港 300 万只 6 锯材 15 万立方米 7 蔺草及蔺草制品 1400 万千克 说明：甘草及甘草制品、蔺草及蔺草制品出口配额通…”的文本线索，产品设计核查路径：核对投标技术规范、质保测试证明及适用认证要求。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查供应商资格、评标条件、价格及交付承诺。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对投标技术规范、质保测试证明及适用认证要求；核查供应商资格、评标条件、价格及交付承诺 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：2 万头 5 活鸡 300 万只 其中：香港 300 万只 6 锯材 15 万立方米 7 蔺草及蔺草制品 1400 万千克 说明：甘草及甘草制品、蔺草及蔺草制品出口配额通过招标的方式分配。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "国际销售、市场战略、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "2 万头 5 活鸡 300 万只 其中：香港 300 万只 6 锯材 15 万立方米 7 蔺草及蔺草制品 1400 万千克 说明：甘草及甘草制品、蔺草及蔺草制品出口配额通过招标的方式分配。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "3492ff1f9a77d2c57e3781efe76121ae228b9240384401fcd120e4dfa8914c29",
+    "originally_discovered_at": "2026-11-03T06:41:10+00:00"
+  },
+  {
     "id": "p_b66e8bda3566864be3",
     "title": "统筹消费投资 畅通经济循环——从“十五五”专项规划看扩大内需着力点",
     "url": "https://www.gov.cn/zhengce/202611/content_7084706.htm",
@@ -121,6 +253,73 @@
     "article_evidence_available": true,
     "content_hash": "2b290fe52fec0307debfe182e0fab524311f72af56be73e0396f32e9aea9b48e",
     "originally_discovered_at": "2026-11-02T05:56:06+00:00"
+  },
+  {
+    "id": "p_9bdf52d7e560a39129",
+    "title": "广东省工业和信息化厅关于广东省无线电管理业务云平台运维服务（2026年）项目采购结果的公示",
+    "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4974199.html",
+    "source_id": "cn_e290654fb72d",
+    "source_name": "广东省工信厅",
+    "region": "中国",
+    "country": "中国",
+    "province": "广东",
+    "published_at": "2026-10-30",
+    "discovered_at": "2026-11-03T06:48:14+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "招投标与政府采购",
+      "运维、质保及退役"
+    ],
+    "primary_dimension": "招投标与政府采购",
+    "source_excerpt": "根据《广东省工业和信息化厅关于公开遴选广东省无线电管理业务云平台运维服务（2026年）项目服务机构的通告》（通告〔2026〕77号），经广东广招国际招标有限公司代理我厅以公开遴选方式进行本项目采购评审，拟确定“北京波尔通信技术股份有限公司”为广东省无线电管理业务云平台运维服务（2026年）项目服务机构。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "根据《广东省工业和信息化厅关于公开遴选广东省无线电管理业务云平台运维服务（2026年）项目服务机构的通告》（通告〔2026〕77号），经广东广招国际招标有限公司代理我厅以公开遴选方式进行本项目采购评审，拟确定“北京波尔通信技术股份有限公司”为广东省无线电管理业务云平台运维服务（2026年）项目服务机构。"
+      }
+    ],
+    "impact_design": "根据“根据《广东省工业和信息化厅关于公开遴选广东省无线电管理业务云平台运维服务（2026年）项目服务机构的通告》（通告〔2026〕77号），经广东广招国际招标有限公司代理我厅以…”的文本线索，产品设计核查路径：核对投标技术规范、质保测试证明及适用认证要求。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查供应商资格、评标条件、价格及交付承诺。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对投标技术规范、质保测试证明及适用认证要求；核查供应商资格、评标条件、价格及交付承诺 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：根据《广东省工业和信息化厅关于公开遴选广东省无线电管理业务云平台运维服务（2026年）项目服务机构的通告》（通告〔2026〕77号），经广东广招国际招标有限公司代理我厅以公开遴选方式进行本项目采购评审，拟确定“北京波尔通信技术股份有限公司”为广东省无线电管理业务云平台运维服务（2026年）项目服务机构。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "国际销售、市场战略、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "根据《广东省工业和信息化厅关于公开遴选广东省无线电管理业务云平台运维服务（2026年）项目服务机构的通告》（通告〔2026〕77号），经广东广招国际招标有限公司代理我厅以公开遴选方式进行本项目采购评审，拟确定“北京波尔通信技术股份有限公司”为广东省无线电管理业务云平台运维服务（2026年）项目服务机构。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "0320afeea8931bc498a256a1dfe78a5c1483fc40788ffa81e96f688da789ca93",
+    "originally_discovered_at": "2026-11-03T06:48:14+00:00"
   },
   {
     "id": "p_466a607f955a0eb691",
@@ -499,6 +698,72 @@
     "article_evidence_available": true,
     "content_hash": "02b7d1f7ea7cd210ed0e91c98dd07a5f89efffb1d8d4eeb01788776964a3133f",
     "originally_discovered_at": "2026-10-30T05:39:45+00:00"
+  },
+  {
+    "id": "p_e41cd07366755b7eec",
+    "title": "福建省工业和信息化厅关于渠梁电子有限公司高性能逻辑芯片及高带宽内存芯片封装改扩建项目节能报告的审查意见",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/bszn/202611/t20261103_7243878.htm",
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "region": "中国",
+    "country": "中国",
+    "province": "福建",
+    "published_at": "2026-10-28",
+    "discovered_at": "2026-11-03T06:44:23+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "供应链、ESG及碳足迹"
+    ],
+    "primary_dimension": "供应链、ESG及碳足迹",
+    "source_excerpt": "根据《中华人民共和国节约能源法》第十五条和《固定资产投资项目节能审查和碳排放评价办法》（国家发展和改革委员会令2025年第31号）等有关法律法规规章，经审查，具体意见如下： 一、根据你公司提供的节能报告，该项目为改扩建项目，内容符合《福建省固定资产投资项目节能审查实施办法》（闽发改规〔2023〕9号）等相关要求。",
+    "clauses": [
+      {
+        "clause": "第十五条",
+        "excerpt": "根据《中华人民共和国节约能源法》第十五条和《固定资产投资项目节能审查和碳排放评价办法》（国家发展和改革委员会令2025年第31号）等有关法律法规规章，经审查，具体意见如下： 一、根据你公司提供的节能报告，该项目为改扩建项目，内容符合《福建省固定资产投资项目节能审查实施办法》（闽发改规〔2023〕9号）等相关要求。"
+      }
+    ],
+    "impact_design": "根据“根据《中华人民共和国节约能源法》第十五条和《固定资产投资项目节能审查和碳排放评价办法》（国家发展和改革委员会令2025年第31号）等有关法律法规规章，经审查，具体意见如下…”的文本线索，产品设计核查路径：复核碳足迹、物料追溯、供应链披露和LCA文档。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查绿色采购、供应商披露及产品碳足迹对招投标的影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核碳足迹、物料追溯、供应链披露和LCA文档；核查绿色采购、供应商披露及产品碳足迹对招投标的影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：根据《中华人民共和国节约能源法》第十五条和《固定资产投资项目节能审查和碳排放评价办法》（国家发展和改革委员会令2025年第31号）等有关法律法规规章，经审查，具体意见如下： 一、根据你公司提供的节能报告，该项目为改扩建项目，内容符合《福建省固定资产投资项目节能审查实施办法》（闽发改规〔2023〕9号）等相关要求。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "供应链与采购、法务与合规、国际销售",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "第十五条",
+        "excerpt": "根据《中华人民共和国节约能源法》第十五条和《固定资产投资项目节能审查和碳排放评价办法》（国家发展和改革委员会令2025年第31号）等有关法律法规规章，经审查，具体意见如下： 一、根据你公司提供的节能报告，该项目为改扩建项目，内容符合《福建省固定资产投资项目节能审查实施办法》（闽发改规〔2023〕9号）等相关要求。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "797164a61c7c18e93b77817d5eaf0ef64d586e2e25b0a5ee09ab06d998ca7b7b",
+    "originally_discovered_at": "2026-11-03T06:44:23+00:00"
   },
   {
     "id": "p_44549345f6cdfcb534",
@@ -1287,6 +1552,214 @@
     "originally_discovered_at": "2026-10-27T04:57:29+00:00"
   },
   {
+    "id": "p_4a0eb6a9fe070177ea",
+    "title": "广东省工业和信息化厅关于印发《广东省电子信息制造业高质量发展“十五五”规划》的通知",
+    "url": "https://gdii.gd.gov.cn/attachment/0/628/628961/4974487.pdf",
+    "source_id": "cn_e290654fb72d",
+    "source_name": "广东省工信厅",
+    "region": "中国",
+    "country": "中国",
+    "province": "广东",
+    "published_at": "2026-10-25",
+    "discovered_at": "2026-11-03T06:48:22+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "运维、质保及退役"
+    ],
+    "primary_dimension": "运维、质保及退役",
+    "source_excerpt": "— 1 — 广东省电子信息制造业高质量发展 “十五五”规划 电子信息制造业是国民经济战略性、基础性和先导性产业， 是培育新质生产力、推动经济高质量发展的核心引擎。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "— 1 — 广东省电子信息制造业高质量发展 “十五五”规划 电子信息制造业是国民经济战略性、基础性和先导性产业， 是培育新质生产力、推动经济高质量发展的核心引擎。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "为深入贯彻落实《广东省国民经济和社会发展第十 五个五年规划纲要》，进一步提升电子信息制造业创新能力、核 心竞争力与国际影响力，助力构建以先进制造业为骨干的现代化 产业体系，特编制本规划。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "一、总体要求 坚持以习近平新时代中国特色社会主义思想为指导，全面贯 彻党的二十大和二十届历次全会精神，深入贯彻落实习近平总书 记对广东系列重要讲话和重要指示精神，完整、准确、全面贯彻 新发展理念，积极服务和融入新发展格局，坚持稳中求进工作总 基调，落实省委“1310”具体部署，积极抢抓人工智能发展的战 略机遇，加快推进新型工业化，大力发展新型机电一体化，夯实 电子信息制造业发展基础，强化科技自立自强，加强原始创新和 关键核心技术攻关，推进产业智能化、绿色化、融合化，加快产 业提质升级，支撑建设具有完整性、先进性、安全性的现代化产 业体系，为广东在推进中国式现代化建设中走在前列注入强劲动 能。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "— 3 — （二）夯实整机制造和产业链配套能力 大力发展新一代智能制造，深入实施“人工智能+制造”行 动，推动人工智能技术与电子信息制造业全链条深度融合，赋能 电子整机研发设计、生产制造及运维管理，推动产业向智能化、 绿色化、融合化方向跃升。"
+      }
+    ],
+    "impact_design": "根据“— 1 — 广东省电子信息制造业高质量发展 “十五五”规划 电子信息制造业是国民经济战略性、基础性和先导性产业， 是培育新质生产力、推动经济高质量发展的核心引擎。…”的文本线索，产品设计核查路径：复核运维手册、备件、质保周期及退役回收设计。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查长期运维合同、备件本地化和退役成本承担。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核运维手册、备件、质保周期及退役回收设计；核查长期运维合同、备件本地化和退役成本承担 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：— 1 — 广东省电子信息制造业高质量发展 “十五五”规划 电子信息制造业是国民经济战略性、基础性和先导性产业， 是培育新质生产力、推动经济高质量发展的核心引擎。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "运维服务、产品研发、国际销售",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "— 1 — 广东省电子信息制造业高质量发展 “十五五”规划 电子信息制造业是国民经济战略性、基础性和先导性产业， 是培育新质生产力、推动经济高质量发展的核心引擎。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "为深入贯彻落实《广东省国民经济和社会发展第十 五个五年规划纲要》，进一步提升电子信息制造业创新能力、核 心竞争力与国际影响力，助力构建以先进制造业为骨干的现代化 产业体系，特编制本规划。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "一、总体要求 坚持以习近平新时代中国特色社会主义思想为指导，全面贯 彻党的二十大和二十届历次全会精神，深入贯彻落实习近平总书 记对广东系列重要讲话和重要指示精神，完整、准确、全面贯彻 新发展理念，积极服务和融入新发展格局，坚持稳中求进工作总 基调，落实省委“1310”具体部署，积极抢抓人工智能发展的战 略机遇，加快推进新型工业化，大力发展新型机电一体化，夯实 电子信息制造业发展基础，强化科技自立自强，加强原始创新和 关键核心技术攻关，推进产业智能化、绿色化、融合化，加快产 业提质升级，支撑建设具有完整性、先进性、安全性的现代化产 业体系，为广东在推进中国式现代化建设中走在前列注入强劲动 能。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "— 3 — （二）夯实整机制造和产业链配套能力 大力发展新一代智能制造，深入实施“人工智能+制造”行 动，推动人工智能技术与电子信息制造业全链条深度融合，赋能 电子整机研发设计、生产制造及运维管理，推动产业向智能化、 绿色化、融合化方向跃升。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "e24c5c1abeb8bad72bd2931d0ee3bcf6a1ac476f01a950b2af1c4da7e251d7e0",
+    "originally_discovered_at": "2026-11-03T06:48:22+00:00"
+  },
+  {
+    "id": "p_63e04da570fe1c774f",
+    "title": "青海省人民政府办公厅 关于印发《青海省残疾人保障和发展 “十五五”规划》的通知",
+    "url": "http://www.qinghai.gov.cn/xxgk/xxgk/fd/zfwj/202611/t20261102_449433.html",
+    "source_id": "cn_5cc7c12757b9",
+    "source_name": "青海省人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "青海",
+    "published_at": "2026-10-23",
+    "discovered_at": "2026-11-03T06:55:19+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "招投标与政府采购"
+    ],
+    "primary_dimension": "招投标与政府采购",
+    "source_excerpt": "落实福利企 业专产专营、政府采购优先采购助残产品服务政策，依托辅助性就业平台对接用工需求安置残疾人就业。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "落实福利企 业专产专营、政府采购优先采购助残产品服务政策，依托辅助性就业平台对接用工需求安置残疾人就业。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "规范助残社会组织发展，建强残疾人社工队伍，鼓励政府投资建设的残疾人服务设施无偿或低价提供给公益性、普惠性残疾人服务机构使用。"
+      }
+    ],
+    "impact_design": "根据“落实福利企 业专产专营、政府采购优先采购助残产品服务政策，依托辅助性就业平台对接用工需求安置残疾人就业。…”的文本线索，产品设计核查路径：核对投标技术规范、质保测试证明及适用认证要求。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查供应商资格、评标条件、价格及交付承诺。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对投标技术规范、质保测试证明及适用认证要求；核查供应商资格、评标条件、价格及交付承诺 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：落实福利企 业专产专营、政府采购优先采购助残产品服务政策，依托辅助性就业平台对接用工需求安置残疾人就业。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "国际销售、市场战略、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "落实福利企 业专产专营、政府采购优先采购助残产品服务政策，依托辅助性就业平台对接用工需求安置残疾人就业。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "规范助残社会组织发展，建强残疾人社工队伍，鼓励政府投资建设的残疾人服务设施无偿或低价提供给公益性、普惠性残疾人服务机构使用。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "398e9ad5569ac9cfa4143a7c84da3b5d91bf226c1dc1e44aa92186a32d3c4eb1",
+    "originally_discovered_at": "2026-11-03T06:55:19+00:00"
+  },
+  {
     "id": "p_e6b9b39a4ef19df37f",
     "title": "北京市农业农村局关于印发《北京市高标准农田建设项目质量管理实施办法》的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202610/t20261026_4918219.html",
@@ -2072,6 +2545,72 @@
     "article_evidence_available": true,
     "content_hash": "3450b3f2f38ca340a6d282cdde444f7d26ef576a1451afefaeaf6cab79b78bad",
     "originally_discovered_at": "2026-10-23T04:55:53+00:00"
+  },
+  {
+    "id": "p_ec39c28b4dc86b8cc0",
+    "title": "福建省工业和信息化厅关于福建贝莱特生物科技有限公司贝莱特对氯苯甲醛、2-氯-1-（1-氯环丙基）乙酮扩产及新建对氯苯甘氨酸、2-氯丙烯腈项目节能报告的审查意见",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/bszn/202611/t20261103_7243876.htm",
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "region": "中国",
+    "country": "中国",
+    "province": "福建",
+    "published_at": "2026-10-22",
+    "discovered_at": "2026-11-03T06:44:23+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "供应链、ESG及碳足迹"
+    ],
+    "primary_dimension": "供应链、ESG及碳足迹",
+    "source_excerpt": "根据《中华人民共和国节约能源法》第十五条和《固定资产投资项目节能审查和碳排放评价办法》（国家发展和改革委员会令2025年第31号）等有关法律法规规章，经审查，具体意见如下： 一、根据你公司提供的节能报告，该项目为改扩建项目，内容符合《福建省固定资产投资项目节能审查实施办法》（闽发改规〔2023〕9号）等相关要求。",
+    "clauses": [
+      {
+        "clause": "第十五条",
+        "excerpt": "根据《中华人民共和国节约能源法》第十五条和《固定资产投资项目节能审查和碳排放评价办法》（国家发展和改革委员会令2025年第31号）等有关法律法规规章，经审查，具体意见如下： 一、根据你公司提供的节能报告，该项目为改扩建项目，内容符合《福建省固定资产投资项目节能审查实施办法》（闽发改规〔2023〕9号）等相关要求。"
+      }
+    ],
+    "impact_design": "根据“根据《中华人民共和国节约能源法》第十五条和《固定资产投资项目节能审查和碳排放评价办法》（国家发展和改革委员会令2025年第31号）等有关法律法规规章，经审查，具体意见如下…”的文本线索，产品设计核查路径：复核碳足迹、物料追溯、供应链披露和LCA文档。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查绿色采购、供应商披露及产品碳足迹对招投标的影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核碳足迹、物料追溯、供应链披露和LCA文档；核查绿色采购、供应商披露及产品碳足迹对招投标的影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：根据《中华人民共和国节约能源法》第十五条和《固定资产投资项目节能审查和碳排放评价办法》（国家发展和改革委员会令2025年第31号）等有关法律法规规章，经审查，具体意见如下： 一、根据你公司提供的节能报告，该项目为改扩建项目，内容符合《福建省固定资产投资项目节能审查实施办法》（闽发改规〔2023〕9号）等相关要求。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "供应链与采购、法务与合规、国际销售",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "第十五条",
+        "excerpt": "根据《中华人民共和国节约能源法》第十五条和《固定资产投资项目节能审查和碳排放评价办法》（国家发展和改革委员会令2025年第31号）等有关法律法规规章，经审查，具体意见如下： 一、根据你公司提供的节能报告，该项目为改扩建项目，内容符合《福建省固定资产投资项目节能审查实施办法》（闽发改规〔2023〕9号）等相关要求。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "ababb4fc961ae182e96a51635d017cf9eb99ac8da164a4b6d44e7676463c67d5",
+    "originally_discovered_at": "2026-11-03T06:44:23+00:00"
   },
   {
     "id": "p_1d78541e55af995760",
@@ -7196,23 +7735,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-10-09",
-    "discovered_at": "2026-11-02T06:12:08+00:00",
+    "discovered_at": "2026-11-03T06:57:45+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "并网技术规范"
     ],
     "primary_dimension": "并网技术规范",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"4f8358fb299a6dbdfbd9fb74bd1dd02a\",\"traceid\":\"276077fe17935999283495578e3968\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"44dfcc5dd449be538d2b6d48666a5bf8\",\"traceid\":\"276077e817936890649974728e230c\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"4f8358fb299a6dbdfbd9fb74bd1dd02a\",\"traceid\":\"276077fe17935999283495578e3968\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-9"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"44dfcc5dd449be538d2b6d48666a5bf8\",\"traceid\":\"276077e817936890649974728e230c\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-N"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核对并网测试责任、接入确认、认证时间及合同里程碑。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核故障穿越、无功、频率响应及控制软件是否需适配；核对并网测试责任、接入确认、认证时间及合同里程碑 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"4f8358fb299a6dbdfbd9fb74bd1dd02a\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"44dfcc5dd449be538d2b6d48666a5bf8\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -7233,7 +7772,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"4f8358fb299a6dbdfbd9fb74bd1dd02a\",\"traceid\":\"276077fe17935999283495578e3968\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-9",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"44dfcc5dd449be538d2b6d48666a5bf8\",\"traceid\":\"276077e817936890649974728e230c\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-N",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -7249,9 +7788,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "dffe687d0428339c5f9b69dd95b5f5ab4896edf6e4bbb2cc536833b48ad9a89e",
+    "content_hash": "fb3ecefab4cfa1a81d2fb131b68ef7a8036df711ffebbfabc8c9b708ac9557a6",
     "originally_discovered_at": "2026-10-15T07:58:14+00:00",
-    "updated_at": "2026-11-02T06:13:34+00:00"
+    "updated_at": "2026-11-03T06:58:50+00:00"
   },
   {
     "id": "p_f83c69d35a9d682cd7",
@@ -10336,23 +10875,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-09-16",
-    "discovered_at": "2026-11-02T06:12:09+00:00",
+    "discovered_at": "2026-11-03T06:57:45+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "可再生能源开发与电价"
     ],
     "primary_dimension": "可再生能源开发与电价",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"ebc84ad2abb31eb3b4ad4b8a62de4757\",\"traceid\":\"276077fe17935999292885603e3968\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"c9cee689909c0821333780d599dcaa7c\",\"traceid\":\"276077e817936890656964748e230c\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"ebc84ad2abb31eb3b4ad4b8a62de4757\",\"traceid\":\"276077fe17935999292885603e3968\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-n"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"c9cee689909c0821333780d599dcaa7c\",\"traceid\":\"276077e817936890656964748e230c\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-Y"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"ebc84ad2abb31eb3b4ad4b8a62de4757\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"c9cee689909c0821333780d599dcaa7c\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -10373,7 +10912,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"ebc84ad2abb31eb3b4ad4b8a62de4757\",\"traceid\":\"276077fe17935999292885603e3968\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-n",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"c9cee689909c0821333780d599dcaa7c\",\"traceid\":\"276077e817936890656964748e230c\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-Y",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -10389,9 +10928,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "e5398a580e266d8c5d6221183a4b60195b89719fe05e2462904566ae7bcd96cc",
+    "content_hash": "5c652452eda2314266d7123a3f36da6de03fef6c2bf4f99cea7a2cb48436444a",
     "originally_discovered_at": "2026-10-15T07:58:15+00:00",
-    "updated_at": "2026-11-02T06:13:34+00:00"
+    "updated_at": "2026-11-03T06:58:50+00:00"
   },
   {
     "id": "p_5bce90bf594d95cb32",
