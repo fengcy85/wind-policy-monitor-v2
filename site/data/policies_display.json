@@ -1,5 +1,30 @@
 [
   {
+    "id": "p_e63c0a1badb6782788",
+    "title": "省能源局关于下达黔西市甘棠风电场等4个风电光伏发电项目建设计划的通知",
+    "url": "https://nyj.guizhou.gov.cn/zwgk/xxgkml/zcwj_2/jnwj/ptwj_2/202611/t20261105_91076847.html",
+    "published_at": "2026-11-05",
+    "date_evidence": "来源公开列表日期",
+    "region": "国内",
+    "country": "贵州",
+    "source_name": "贵州省能源局",
+    "doc_type": "官方政策发布线索（待核验正文）",
+    "validity_status": "效力待核验",
+    "verification_status": "目录级线索：无任何18维度的条款证据；不是完整法规正文",
+    "source_excerpt": "政策发布线索：省能源局关于下达黔西市甘棠风电场等4个风电光伏发电项目建设计划的通知。公开目录标注发布日期：2026-11-05；详细条文未取得，禁止据此认定法律效力、适用义务或产品技术要求。",
+    "dimensions": [],
+    "impact_design": "只确认公开目录标题及发布日期；没有完整法规条文，不能判断产品设计义务。",
+    "impact_business": "只确认公开目录标题及发布日期；应核对政策原文与适用范围。",
+    "next_step": "访问主管机关政策详情，核对法规全文、法律效力及企业适用范围。",
+    "analysis_method": "规则辅助初筛·待人工核验",
+    "ai_application_note": "",
+    "content_hash": "fd6160aecc69cf128e3dd16bb0b615f2aad3b6cbdea3234917d57556fe4dafe3",
+    "importance_score": null,
+    "importance_level": "",
+    "design_relevance": 0,
+    "clauses": []
+  },
+  {
     "id": "p_c81a26b5c4e46e30d3",
     "title": "风电并网新规！国家能源局征求意见稿发布",
     "url": "https://news.bjx.com.cn/html/20261009/1515366.shtml",
@@ -11,7 +36,7 @@
     "doc_type": "行业政策线索（待官方原文核验）",
     "validity_status": "效力待核验",
     "verification_status": "行业转载线索，需核对官方政策原文",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8183504adad3d0a8a41adb7525379412\",\"traceid\":\"276077e517938615342546147e7f67\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"33ab6de7439416ae569aa0c16bee98f8\",\"traceid\":\"276082bd17939478537338453e062c\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "dimensions": [
       "并网技术规范"
     ],
@@ -20,14 +45,14 @@
     "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
     "analysis_method": "规则辅助初筛·待人工核验",
     "ai_application_note": "",
-    "content_hash": "74b8644bba27ccbeec326f17ccf4b40cb70db86fc68a9ae09b82bb9af2f9bbcb",
+    "content_hash": "757a58e7e2caa0a139ef123f25ef3ef9956811c95530a2c576923a1c5f88f3ab",
     "importance_score": null,
     "importance_level": "",
     "design_relevance": 1,
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8183504adad3d0a8a41adb7525379412\",\"traceid\":\"276077e517938615342546147e7f67\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-j"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"33ab6de7439416ae569aa0c16bee98f8\",\"traceid\":\"276082bd17939478537338453e062c\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-N"
       }
     ]
   },

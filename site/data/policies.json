@@ -1,5 +1,258 @@
 [
   {
+    "id": "p_6966b3f51580b2958c",
+    "title": "关于采购公务用车社会车辆租赁服务项目的公告",
+    "url": "https://nyj.guizhou.gov.cn/xwzx/gsgg/202611/t20261106_91080301.html",
+    "source_id": "cn_61f329f622c8",
+    "source_name": "贵州省能源局",
+    "region": "中国",
+    "country": "中国",
+    "province": "贵州",
+    "published_at": "2026-11-06",
+    "discovered_at": "2026-11-06T06:46:15+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "电网建设与接入",
+      "招投标与政府采购"
+    ],
+    "primary_dimension": "电网建设与接入",
+    "source_excerpt": "按照“公开、公平、公正”原则，根据政府采购有关规定，现将有关事项公告如下： 一、采购人：贵州省能源监测监控中心、贵州省能源安全技术中心、贵州省能源发展中心 二、采购项目：公务用车社会车辆租赁服务 三、采购预算：本项目不设固定预算金额。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "按照“公开、公平、公正”原则，根据政府采购有关规定，现将有关事项公告如下： 一、采购人：贵州省能源监测监控中心、贵州省能源安全技术中心、贵州省能源发展中心 二、采购项目：公务用车社会车辆租赁服务 三、采购预算：本项目不设固定预算金额。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "六、采购需求及价格上限 采购需求：供应商应提供满足采购人正常公务出行需要的车辆及驾驶服务，按采购人调度要求准时接送出行人员；"
+      }
+    ],
+    "impact_design": "根据“按照“公开、公平、公正”原则，根据政府采购有关规定，现将有关事项公告如下： 一、采购人：贵州省能源监测监控中心、贵州省能源安全技术中心、贵州省能源发展中心 二、采购项目：…”的文本线索，产品设计核查路径：确认并网配套设备、线路接口及投运条件是否影响交付。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核对电网建设节点对销售回款、施工与交付计划的影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认并网配套设备、线路接口及投运条件是否影响交付；核对电网建设节点对销售回款、施工与交付计划的影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：按照“公开、公平、公正”原则，根据政府采购有关规定，现将有关事项公告如下： 一、采购人：贵州省能源监测监控中心、贵州省能源安全技术中心、贵州省能源发展中心 二、采购项目：公务用车社会车辆租赁服务 三、采购预算：本项目不设固定预算金额。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "电气与控制、项目开发、项目交付",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "按照“公开、公平、公正”原则，根据政府采购有关规定，现将有关事项公告如下： 一、采购人：贵州省能源监测监控中心、贵州省能源安全技术中心、贵州省能源发展中心 二、采购项目：公务用车社会车辆租赁服务 三、采购预算：本项目不设固定预算金额。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "六、采购需求及价格上限 采购需求：供应商应提供满足采购人正常公务出行需要的车辆及驾驶服务，按采购人调度要求准时接送出行人员；",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "b1fe14338b391eb3f84731344dcc202f746e0e03c95cd3423151feb6509a61c1",
+    "originally_discovered_at": "2026-11-06T06:46:15+00:00"
+  },
+  {
+    "id": "p_e63c0a1badb6782788",
+    "title": "省能源局关于下达黔西市甘棠风电场等4个风电光伏发电项目建设计划的通知",
+    "url": "https://nyj.guizhou.gov.cn/zwgk/xxgkml/zcwj_2/jnwj/ptwj_2/202611/t20261105_91076847.html",
+    "source_id": "cn_61f329f622c8",
+    "source_name": "贵州省能源局",
+    "region": "中国",
+    "country": "中国",
+    "province": "贵州",
+    "published_at": "2026-11-05",
+    "date_evidence": "来源公开列表日期",
+    "discovered_at": "2026-11-06T06:46:09+00:00",
+    "doc_type": "官方政策发布线索（待核验正文）",
+    "source_excerpt": "政策发布线索：省能源局关于下达黔西市甘棠风电场等4个风电光伏发电项目建设计划的通知。公开目录标注发布日期：2026-11-05；详细条文未取得，禁止据此认定法律效力、适用义务或产品技术要求。",
+    "clauses": [],
+    "dimensions": [],
+    "impact_design": "只确认公开目录标题及发布日期；没有完整法规条文，不能判断产品设计义务。",
+    "impact_business": "只确认公开目录标题及发布日期；应核对政策原文与适用范围。",
+    "verification_status": "目录级线索：无任何18维度的条款证据；不是完整法规正文",
+    "article_evidence_available": false,
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "next_step": "访问主管机关政策详情，核对法规全文、法律效力及企业适用范围。",
+    "content_hash": "fd6160aecc69cf128e3dd16bb0b615f2aad3b6cbdea3234917d57556fe4dafe3",
+    "originally_discovered_at": "2026-11-06T06:46:09+00:00"
+  },
+  {
+    "id": "p_68ab9901ec790bfeeb",
+    "title": "北京市经济和信息化局 北京市生态环境局 关于公开发布2026年度北京市美丽工厂案例的通知",
+    "url": "https://jxj.beijing.gov.cn/zwgk/2024zcwj/202611/W020261105648329666642.pdf",
+    "source_id": "cn_1003b870a030",
+    "source_name": "北京市经济和信息化局",
+    "region": "中国",
+    "country": "中国",
+    "province": "北京市",
+    "published_at": "2026-11-05",
+    "discovered_at": "2026-11-06T06:33:08+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "产品认证与技术标准"
+    ],
+    "primary_dimension": "产品认证与技术标准",
+    "source_excerpt": "工厂取得了德国 TUV 机构 ISO14001 环境管理体系与 ISO45001 职业健康安全 管理体系认证，工厂能源、质量管理体系分别满足 GB/T23331 与GB/T19001要求，并严格执行《小米汽车碳管理体系制度》。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "工厂取得了德国 TUV 机构 ISO14001 环境管理体系与 ISO45001 职业健康安全 管理体系认证，工厂能源、质量管理体系分别满足 GB/T23331 与GB/T19001要求，并严格执行《小米汽车碳管理体系制度》。"
+      }
+    ],
+    "impact_design": "根据“工厂取得了德国 TUV 机构 ISO14001 环境管理体系与 ISO45001 职业健康安全 管理体系认证，工厂能源、质量管理体系分别满足 GB/T23331 与GB/…”的文本线索，产品设计核查路径：比对机组设计载荷、部件标准、型式试验报告和认证文件。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：复核认证周期、第三方检测费用及客户准入要求。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 比对机组设计载荷、部件标准、型式试验报告和认证文件；复核认证周期、第三方检测费用及客户准入要求 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：工厂取得了德国 TUV 机构 ISO14001 环境管理体系与 ISO45001 职业健康安全 管理体系认证，工厂能源、质量管理体系分别满足 GB/T23331 与GB/T19001要求，并严格执行《小米汽车碳管理体系制度》。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、认证与测试、国际销售",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "工厂取得了德国 TUV 机构 ISO14001 环境管理体系与 ISO45001 职业健康安全 管理体系认证，工厂能源、质量管理体系分别满足 GB/T23331 与GB/T19001要求，并严格执行《小米汽车碳管理体系制度》。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "07a53f388c1444fd7b49f23450735f1d62fd6955958dc1a11b55b1e798be889c",
+    "originally_discovered_at": "2026-11-06T06:33:08+00:00"
+  },
+  {
+    "id": "p_86b779ccf3f340d8f5",
+    "title": "北京市经济和信息化局 北京市生态环境局关于公开发布2026年度北京市美丽工厂案例的通知",
+    "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/W020261105654029491444.pdf",
+    "source_id": "cn_8101686d3883",
+    "source_name": "北京市人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "北京市",
+    "published_at": "2026-11-05",
+    "discovered_at": "2026-11-06T06:33:07+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "产品认证与技术标准"
+    ],
+    "primary_dimension": "产品认证与技术标准",
+    "source_excerpt": "工厂取得了德国 TUV 机构 ISO14001 环境管理体系与 ISO45001 职业健康安全 管理体系认证，工厂能源、质量管理体系分别满足 GB/T23331 与GB/T19001要求，并严格执行《小米汽车碳管理体系制度》。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "工厂取得了德国 TUV 机构 ISO14001 环境管理体系与 ISO45001 职业健康安全 管理体系认证，工厂能源、质量管理体系分别满足 GB/T23331 与GB/T19001要求，并严格执行《小米汽车碳管理体系制度》。"
+      }
+    ],
+    "impact_design": "根据“工厂取得了德国 TUV 机构 ISO14001 环境管理体系与 ISO45001 职业健康安全 管理体系认证，工厂能源、质量管理体系分别满足 GB/T23331 与GB/…”的文本线索，产品设计核查路径：比对机组设计载荷、部件标准、型式试验报告和认证文件。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：复核认证周期、第三方检测费用及客户准入要求。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 比对机组设计载荷、部件标准、型式试验报告和认证文件；复核认证周期、第三方检测费用及客户准入要求 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：工厂取得了德国 TUV 机构 ISO14001 环境管理体系与 ISO45001 职业健康安全 管理体系认证，工厂能源、质量管理体系分别满足 GB/T23331 与GB/T19001要求，并严格执行《小米汽车碳管理体系制度》。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、认证与测试、国际销售",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "工厂取得了德国 TUV 机构 ISO14001 环境管理体系与 ISO45001 职业健康安全 管理体系认证，工厂能源、质量管理体系分别满足 GB/T23331 与GB/T19001要求，并严格执行《小米汽车碳管理体系制度》。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "0f60955c8aa27b879cdcad208b08261dbbec5f1c839343f0cbd66b7b2a7f1354",
+    "originally_discovered_at": "2026-11-06T06:33:07+00:00"
+  },
+  {
     "id": "p_975964b9933c2b553e",
     "title": "持续改善环境质量 推进和实现碳达峰——从“十五五”专项规划看绿色发展新气象",
     "url": "https://www.gov.cn/zhengce/202611/content_7085062.htm",
@@ -122,6 +375,130 @@
     "article_evidence_available": true,
     "content_hash": "311a83454f28a6c00ecd0976fb03514c9eff9f6aa623eaecfaef064eb7a611c4",
     "originally_discovered_at": "2026-11-05T06:36:50+00:00"
+  },
+  {
+    "id": "p_ee3c623c8c97a95bfb",
+    "title": "广东省工业和信息化厅关于2026年广东省制造业企业质量管理能力评价项目公开招标的通告",
+    "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4976011.html",
+    "source_id": "cn_e290654fb72d",
+    "source_name": "广东省工信厅",
+    "region": "中国",
+    "country": "中国",
+    "province": "广东",
+    "published_at": "2026-11-04",
+    "discovered_at": "2026-11-06T06:39:21+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "招投标与政府采购",
+      "关税、税收与贸易救济"
+    ],
+    "primary_dimension": "招投标与政府采购",
+    "source_excerpt": "根据工作需要，现采用公开招标方式组织采购2026年广东省制造业企业质量管理能力评价项目。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "根据工作需要，现采用公开招标方式组织采购2026年广东省制造业企业质量管理能力评价项目。"
+      },
+      {
+        "clause": "第二十二条",
+        "excerpt": "二、服务供应商资格要求 （一）投标人应具备《中华人民共和国政府采购法》第二十二条规定的条件，提供下列材料： 1."
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "（如以联合体形式参与投标，联合体各方均须满足） （二）落实政府采购政策需满足的资格要求：无。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "cn)“记录失信被执行人或重大税收违法失信主体或政府采购严重违法失信行为”记录名单；"
+      }
+    ],
+    "impact_design": "根据“根据工作需要，现采用公开招标方式组织采购2026年广东省制造业企业质量管理能力评价项目。…”的文本线索，产品设计核查路径：核对投标技术规范、质保测试证明及适用认证要求。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查供应商资格、评标条件、价格及交付承诺。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对投标技术规范、质保测试证明及适用认证要求；核查供应商资格、评标条件、价格及交付承诺 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：根据工作需要，现采用公开招标方式组织采购2026年广东省制造业企业质量管理能力评价项目。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "国际销售、市场战略、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "根据工作需要，现采用公开招标方式组织采购2026年广东省制造业企业质量管理能力评价项目。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "第二十二条",
+        "excerpt": "二、服务供应商资格要求 （一）投标人应具备《中华人民共和国政府采购法》第二十二条规定的条件，提供下列材料： 1.",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "（如以联合体形式参与投标，联合体各方均须满足） （二）落实政府采购政策需满足的资格要求：无。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "cn)“记录失信被执行人或重大税收违法失信主体或政府采购严重违法失信行为”记录名单；",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "f7b2c663c6eb3b8d27e7d09cac3c3face2d0621cd9dbda2cf414b15e9d9e53ca",
+    "originally_discovered_at": "2026-11-06T06:39:21+00:00"
   },
   {
     "id": "p_75c8dd47ec528f4406",
@@ -9867,23 +10244,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-10-09",
-    "discovered_at": "2026-11-05T06:52:14+00:00",
+    "discovered_at": "2026-11-06T06:50:53+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "并网技术规范"
     ],
     "primary_dimension": "并网技术规范",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8183504adad3d0a8a41adb7525379412\",\"traceid\":\"276077e517938615342546147e7f67\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"33ab6de7439416ae569aa0c16bee98f8\",\"traceid\":\"276082bd17939478537338453e062c\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8183504adad3d0a8a41adb7525379412\",\"traceid\":\"276077e517938615342546147e7f67\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-j"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"33ab6de7439416ae569aa0c16bee98f8\",\"traceid\":\"276082bd17939478537338453e062c\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-N"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核对并网测试责任、接入确认、认证时间及合同里程碑。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核故障穿越、无功、频率响应及控制软件是否需适配；核对并网测试责任、接入确认、认证时间及合同里程碑 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8183504adad3d0a8a41adb7525379412\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"33ab6de7439416ae569aa0c16bee98f8\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -9904,7 +10281,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8183504adad3d0a8a41adb7525379412\",\"traceid\":\"276077e517938615342546147e7f67\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-j",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"33ab6de7439416ae569aa0c16bee98f8\",\"traceid\":\"276082bd17939478537338453e062c\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-N",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -9920,9 +10297,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "74b8644bba27ccbeec326f17ccf4b40cb70db86fc68a9ae09b82bb9af2f9bbcb",
+    "content_hash": "757a58e7e2caa0a139ef123f25ef3ef9956811c95530a2c576923a1c5f88f3ab",
     "originally_discovered_at": "2026-10-15T07:58:14+00:00",
-    "updated_at": "2026-11-05T06:54:21+00:00"
+    "updated_at": "2026-11-06T06:54:02+00:00"
   },
   {
     "id": "p_f83c69d35a9d682cd7",
@@ -13667,23 +14044,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-09-16",
-    "discovered_at": "2026-11-05T06:52:15+00:00",
+    "discovered_at": "2026-11-06T06:50:54+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "可再生能源开发与电价"
     ],
     "primary_dimension": "可再生能源开发与电价",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"1e468db73f3641dd2e0784eb7f4b9a5b\",\"traceid\":\"276077e517938615353226175e7f67\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"b91b8c032f3ebb893227722067c9c4de\",\"traceid\":\"276082bd17939478547908473e062c\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"1e468db73f3641dd2e0784eb7f4b9a5b\",\"traceid\":\"276077e517938615353226175e7f67\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-Y"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"b91b8c032f3ebb893227722067c9c4de\",\"traceid\":\"276082bd17939478547908473e062c\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-b"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"1e468db73f3641dd2e0784eb7f4b9a5b\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"b91b8c032f3ebb893227722067c9c4de\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -13704,7 +14081,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"1e468db73f3641dd2e0784eb7f4b9a5b\",\"traceid\":\"276077e517938615353226175e7f67\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-Y",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"b91b8c032f3ebb893227722067c9c4de\",\"traceid\":\"276082bd17939478547908473e062c\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-b",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -13720,9 +14097,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "a008d82aead24546470f799c6d5f544df761639c9dc4adc646cce97eec31dd58",
+    "content_hash": "906c9bc006eccff00b1c43b9d4a9bd62a75ca295f3e197e06c965b51d3596a00",
     "originally_discovered_at": "2026-10-15T07:58:15+00:00",
-    "updated_at": "2026-11-05T06:54:21+00:00"
+    "updated_at": "2026-11-06T06:54:02+00:00"
   },
   {
     "id": "p_5bce90bf594d95cb32",
