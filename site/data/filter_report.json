@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-06T08:02:05+00:00",
-  "before": 413,
-  "kept": 360,
-  "filtered_out": 53,
+  "generated_at": "2026-11-07T07:18:26+00:00",
+  "before": 417,
+  "kept": 365,
+  "filtered_out": 52,
   "tag_counts": {
-    "竞对资讯": 308,
+    "竞对资讯": 313,
     "招标采购": 87,
     "市场机制": 16,
     "电网建设": 28,
@@ -13,21 +13,42 @@
   },
   "rejected_examples": [
     {
-      "title": "Onshore Wind",
-      "source_name": "Renewables Now",
+      "title": "'Crucial' project delay sparks funding crunch at major offshore wind player: shares plunge 20%",
+      "source_name": "Recharge",
       "published_at": "2026-11-06",
-      "url": "https://renewablesnow.com/news/wind/",
+      "url": "https://www.rechargenews.com/offshore-wind/crucial-project-delay-sparks-funding-crunch-at-major-offshore-wind-player-shares-plunge-20-/2-1-2070686",
       "reasons": [
-        "标题无效/栏目标题"
+        "无六类监测标签",
+        "标题明确风电"
       ]
     },
     {
-      "title": "Offshore Wind",
-      "source_name": "Renewables Now",
+      "title": "Floating wind pioneer that sold project for £1 faces liquidation threat",
+      "source_name": "Recharge",
       "published_at": "2026-11-06",
-      "url": "https://renewablesnow.com/news/offshore-wind/",
+      "url": "https://www.rechargenews.com/offshore-wind/floating-wind-pioneer-that-sold-project-for-1-faces-liquidation-threat/2-1-2070994",
       "reasons": [
-        "标题无效/栏目标题"
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Pentagon clears 11 wind projects, but signs only a single mitigation deal",
+      "source_name": "Recharge",
+      "published_at": "2026-11-06",
+      "url": "https://www.rechargenews.com/onshore-wind/pentagon-clears-11-wind-projects-but-signs-only-a-single-mitigation-deal/2-1-2071024",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "29.10.2026 Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-11-06",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
+      "reasons": [
+        "标题明确风电"
       ]
     },
     {
@@ -54,35 +75,6 @@
       "source_name": "Recharge",
       "published_at": "2026-11-05",
       "url": "https://www.rechargenews.com/onshore-wind/us-wind-industry-sees-opening-for-recovery-as-democrats-sweep-congress/2-1-2069427",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "TouchWind’s floating turbine tilts its rotor in strong winds",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-11-05",
-      "url": "https://qazaqgreen.com/en/news/world/3961/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-11-05",
-      "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
-      "reasons": [
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Democrats' landslide pushes wind stocks higher but Trump vetoes could spoil party",
-      "source_name": "Recharge",
-      "published_at": "2026-11-04",
-      "url": "https://www.rechargenews.com/policy/democrats-landslide-pushes-wind-stocks-higher-but-trump-vetoes-could-spoil-party/2-1-2068858",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -146,20 +138,20 @@
       ]
     },
     {
-      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
+      "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=390",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
+      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=390",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -186,20 +178,20 @@
       ]
     },
     {
-      "title": "Vietnam–Norway Cooperation Opens New Opportunities for the Offshore Wind Industry",
+      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=425",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
+      "title": "Vietnam–Norway Cooperation Opens New Opportunities for the Offshore Wind Industry",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=425",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -313,6 +305,15 @@
       ]
     },
     {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-05",
+      "url": "https://www.aa.com.tr/en/energy/renewable",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Turbine blades find second life beyond wind, turning waste into infrastructure",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-05",
@@ -320,15 +321,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-05",
-      "url": "https://www.aa.com.tr/en/energy/renewable",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -371,7 +363,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-30",
-      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
+      "url": "https://www.aa.com.tr/en/energy/finance",
       "reasons": [
         "风电相关性不足"
       ]
@@ -380,7 +372,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-30",
-      "url": "https://www.aa.com.tr/en/energy/finance",
+      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
       "reasons": [
         "风电相关性不足"
       ]

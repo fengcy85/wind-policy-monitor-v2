@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T08:02:05+00:00",
+  "generated_at": "2026-11-07T07:18:26+00:00",
   "period": {
     "days": 7,
-    "start": "2026-10-31",
-    "end": "2026-11-06"
+    "start": "2026-11-01",
+    "end": "2026-11-07"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -37,17 +37,16 @@
         "市场机制"
       ],
       "competitors": [
-        "Orsted",
         "Brookfield"
       ],
       "monitor_reason": "正文含招标/采购 · 电价/市场机制 · 竞对项目动态 · 标题明确风电",
       "signals": [
         "竞对资讯",
         "招标采购",
-        "Orsted"
+        "Brookfield"
       ],
       "rank": 1,
-      "importance_reason": "竞对资讯 · 招标采购 · Orsted"
+      "importance_reason": "竞对资讯 · 招标采购 · Brookfield"
     },
     {
       "country": "全球",
@@ -161,7 +160,7 @@
       "source_name": "乌兹别克斯坦能源部",
       "title": "Gijduvan Wind Power Plant — 500 MW",
       "translated_title": "Gijduvan风能发电厂——500兆瓦",
-      "published_at": "2026-11-04",
+      "published_at": "2026-11-05",
       "url": "https://gov.uz/en/minenergy/news/view/238689",
       "tags": [
         "竞对资讯"
