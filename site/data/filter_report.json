@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T07:18:26+00:00",
-  "before": 417,
+  "generated_at": "2026-11-08T07:25:09+00:00",
+  "before": 418,
   "kept": 365,
-  "filtered_out": 52,
+  "filtered_out": 53,
   "tag_counts": {
     "竞对资讯": 313,
     "招标采购": 87,
@@ -12,6 +12,16 @@
     "宏观政策": 3
   },
   "rejected_examples": [
+    {
+      "title": "Khởi công dự án Nhà máy Điện gió Vân Canh 2 (tỉnh Gia Lai)",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-11-07",
+      "url": "https://nangluongvietnam.vn/khoi-cong-du-an-nha-may-dien-gio-van-canh-2-tinh-gia-lai-36884.html",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
     {
       "title": "'Crucial' project delay sparks funding crunch at major offshore wind player: shares plunge 20%",
       "source_name": "Recharge",
@@ -43,7 +53,7 @@
       ]
     },
     {
-      "title": "29.10.2026 Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
+      "title": "Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
       "source_name": "QazaqGreen",
       "published_at": "2026-11-06",
       "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
@@ -138,20 +148,20 @@
       ]
     },
     {
-      "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
+      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=390",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
+      "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=390",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -168,20 +178,20 @@
       ]
     },
     {
-      "title": "From Guangzhou to Bangkok: Bringing the Global Wind Industry to Southeast Asia",
+      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=402",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
+      "title": "From Guangzhou to Bangkok: Bringing the Global Wind Industry to Southeast Asia",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=402",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -195,6 +205,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "post image",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-11-02",
+      "url": "https://renewablewatch.in/2026/07/10/unlocking-potential-can-indias-cbg-ambitions-go-beyond-policy-targets/",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -351,6 +370,15 @@
       ]
     },
     {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-30",
+      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "WindEurope backs Türkiye's focus on electrification at COP31",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-30",
@@ -364,15 +392,6 @@
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-30",
       "url": "https://www.aa.com.tr/en/energy/finance",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-30",
-      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
       "reasons": [
         "风电相关性不足"
       ]
@@ -444,20 +463,20 @@
       ]
     },
     {
-      "title": "Türkiye seeks stronger international cooperation for resilient wind energy supply chains",
+      "title": "Global wind power capacity to rise by more than 180 GW this year",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-23",
-      "url": "https://www.aa.com.tr/en/energy/wind/turkiye-seeks-stronger-international-cooperation-for-resilient-wind-energy-supply-chains/59763",
+      "url": "https://www.aa.com.tr/en/energy/wind/global-wind-power-capacity-to-rise-by-more-than-180-gw-this-year/59784",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Global wind power capacity to rise by more than 180 GW this year",
+      "title": "Türkiye seeks stronger international cooperation for resilient wind energy supply chains",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-23",
-      "url": "https://www.aa.com.tr/en/energy/wind/global-wind-power-capacity-to-rise-by-more-than-180-gw-this-year/59784",
+      "url": "https://www.aa.com.tr/en/energy/wind/turkiye-seeks-stronger-international-cooperation-for-resilient-wind-energy-supply-chains/59763",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -497,15 +516,6 @@
       "source_name": "ANEV",
       "published_at": "2026-08-03",
       "url": "https://www.anev.org/2026/08/03/om-e-asset-management-corso-di-formazione-3-2026/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Unlocking Potential: Can CBG ambitions go beyond targets?",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-07-10",
-      "url": "https://renewablewatch.in/2026/07/10/unlocking-potential-can-indias-cbg-ambitions-go-beyond-policy-targets/",
       "reasons": [
         "风电相关性不足"
       ]

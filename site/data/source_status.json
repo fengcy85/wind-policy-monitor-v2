@@ -7,7 +7,7 @@
     "adapter": "Wind Power 专栏 + RSS + 站内搜索",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-07T06:11:12+00:00",
+    "checked_at": "2026-11-08T06:17:41+00:00",
     "error": "",
     "attempts": [
       {
@@ -45,7 +45,7 @@
     "adapter": "Wind Power 专栏 + 链接纠正",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-07T06:11:22+00:00",
+    "checked_at": "2026-11-08T06:17:51+00:00",
     "error": "",
     "attempts": [
       {
@@ -65,7 +65,7 @@
     "adapter": "News 列表 + 详情页核验 + 标题过滤",
     "status": "success",
     "found_count": 1,
-    "checked_at": "2026-11-07T06:11:39+00:00",
+    "checked_at": "2026-11-08T06:18:08+00:00",
     "error": "",
     "attempts": [
       {
@@ -85,7 +85,7 @@
     "adapter": "All News + Chromium 强制渲染 + 详情页风电过滤",
     "status": "success",
     "found_count": 1,
-    "checked_at": "2026-11-07T06:12:59+00:00",
+    "checked_at": "2026-11-08T06:19:28+00:00",
     "error": "",
     "attempts": [
       {
@@ -118,7 +118,7 @@
     "adapter": "News + RSS + 站内搜索",
     "status": "no_news",
     "found_count": 0,
-    "checked_at": "2026-11-07T06:13:03+00:00",
+    "checked_at": "2026-11-08T06:19:34+00:00",
     "error": "",
     "attempts": [
       {
@@ -155,8 +155,8 @@
     "role": "政策/规划/项目",
     "adapter": "可再生能源栏目 + 越南语关键词 + 单层文章链接识别",
     "status": "success",
-    "found_count": 6,
-    "checked_at": "2026-11-07T06:13:21+00:00",
+    "found_count": 7,
+    "checked_at": "2026-11-08T06:19:54+00:00",
     "error": "",
     "attempts": [
       {
@@ -176,7 +176,7 @@
     "adapter": "MME Notícias + 葡语站内搜索 + 浏览器兜底",
     "status": "success",
     "found_count": 1,
-    "checked_at": "2026-11-07T06:13:41+00:00",
+    "checked_at": "2026-11-08T06:20:15+00:00",
     "error": "",
     "attempts": [
       {
@@ -208,7 +208,7 @@
     "adapter": "首页 + RSS + 站内搜索",
     "status": "no_news",
     "found_count": 0,
-    "checked_at": "2026-11-07T06:14:05+00:00",
+    "checked_at": "2026-11-08T06:20:51+00:00",
     "error": "",
     "attempts": [
       {
@@ -246,7 +246,7 @@
     "adapter": "News + RSS + 站内搜索",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-07T06:14:18+00:00",
+    "checked_at": "2026-11-08T06:21:03+00:00",
     "error": "",
     "attempts": [
       {
@@ -284,7 +284,7 @@
     "adapter": "Media & News 列表 + 日期提示 + 详情页兜底",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-07T06:14:28+00:00",
+    "checked_at": "2026-11-08T06:21:13+00:00",
     "error": "",
     "attempts": [
       {
@@ -304,7 +304,7 @@
     "adapter": "News + Chromium 动态渲染 + 宽入口详情核验",
     "status": "no_news",
     "found_count": 0,
-    "checked_at": "2026-11-07T06:14:49+00:00",
+    "checked_at": "2026-11-08T06:21:34+00:00",
     "error": "",
     "attempts": [
       {
@@ -330,7 +330,7 @@
     "adapter": "Wind 专栏",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-07T06:15:02+00:00",
+    "checked_at": "2026-11-08T06:21:47+00:00",
     "error": "",
     "attempts": [
       {
@@ -350,7 +350,7 @@
     "adapter": "NEWS + Comunicati Stampa + 意大利语搜索",
     "status": "success",
     "found_count": 6,
-    "checked_at": "2026-11-07T06:15:27+00:00",
+    "checked_at": "2026-11-08T06:22:13+00:00",
     "error": "",
     "attempts": [
       {
@@ -393,8 +393,8 @@
     "role": "全球风电专业媒体",
     "adapter": "Latest + 首页 + 浏览器兜底（不绕过付费墙）",
     "status": "success",
-    "found_count": 10,
-    "checked_at": "2026-11-07T06:16:42+00:00",
+    "found_count": 9,
+    "checked_at": "2026-11-08T06:23:24+00:00",
     "error": "",
     "attempts": [
       {
@@ -413,7 +413,7 @@
         "strategy": "budget",
         "url": "",
         "ok": true,
-        "candidates": 10,
+        "candidates": 9,
         "note": "单站达到时间上限，已停止继续深挖。"
       }
     ],
@@ -427,7 +427,7 @@
     "adapter": "News 专页 + 详情页",
     "status": "no_news",
     "found_count": 0,
-    "checked_at": "2026-11-07T07:16:42+00:00",
+    "checked_at": "2026-11-08T07:23:25+00:00",
     "error": "",
     "attempts": [
       {
@@ -454,7 +454,7 @@
     "adapter": "月度归档 → 日期归档 → 风电文章（403 时使用列表信息）",
     "status": "success",
     "found_count": 7,
-    "checked_at": "2026-11-07T07:17:59+00:00",
+    "checked_at": "2026-11-08T07:24:42+00:00",
     "error": "",
     "attempts": [
       {
