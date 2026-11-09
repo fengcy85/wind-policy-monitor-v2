@@ -1,5 +1,158 @@
 [
   {
+    "id": "p_b6c336b6cecbe9965f",
+    "title": "宁夏回族自治区人工影响天气管理办法",
+    "url": "https://www.nx.gov.cn/zwgk/qzfwj/202611/t20261109_5394079.html",
+    "source_id": "cn_7c77b32d80d0",
+    "source_name": "宁夏人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "宁夏",
+    "published_at": "2026-11-09",
+    "discovered_at": "2026-11-09T06:27:38+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "招投标与政府采购"
+    ],
+    "primary_dimension": "招投标与政府采购",
+    "source_excerpt": "第二十 四 条 人工影响天气作业装备由自治区气象主管机构按照国家有关政府采购的规定组织采购。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "第二十 四 条 人工影响天气作业装备由自治区气象主管机构按照国家有关政府采购的规定组织采购。"
+      }
+    ],
+    "impact_design": "根据“第二十 四 条 人工影响天气作业装备由自治区气象主管机构按照国家有关政府采购的规定组织采购。…”的文本线索，产品设计核查路径：核对投标技术规范、质保测试证明及适用认证要求。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查供应商资格、评标条件、价格及交付承诺。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对投标技术规范、质保测试证明及适用认证要求；核查供应商资格、评标条件、价格及交付承诺 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：第二十 四 条 人工影响天气作业装备由自治区气象主管机构按照国家有关政府采购的规定组织采购。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "国际销售、市场战略、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "第二十 四 条 人工影响天气作业装备由自治区气象主管机构按照国家有关政府采购的规定组织采购。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "08d1addeeb44bb6f15b0504c2f6407c09eb7fedc21fe855f2707cf7335259e16",
+    "originally_discovered_at": "2026-11-09T06:27:38+00:00"
+  },
+  {
+    "id": "p_b905d37e17da0a81ed",
+    "title": "北京市经济和信息化局 北京市发展和改革委员会关于组织开展2026年度国家绿色算力设施征集工作的通知",
+    "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261106_4935841.html",
+    "source_id": "cn_8101686d3883",
+    "source_name": "北京市人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "北京市",
+    "published_at": "2026-11-06",
+    "discovered_at": "2026-11-09T06:13:46+00:00",
+    "doc_type": "历史版本／失效",
+    "dimensions": [
+      "供应链、ESG及碳足迹",
+      "招投标与政府采购",
+      "运维、质保及退役"
+    ],
+    "primary_dimension": "供应链、ESG及碳足迹",
+    "source_excerpt": "建立并实施绿色采购制度，提供绿色公共服务，开展绿色运维，能够协同带动产业链供应链绿色低碳发展水平提升。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "建立并实施绿色采购制度，提供绿色公共服务，开展绿色运维，能够协同带动产业链供应链绿色低碳发展水平提升。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "（三）工业和信息化部将持续加强对国家绿色算力设施的监督指导，对上一年度电能利用效率、碳利用效率、水资源利用效率、可再生能源电量占比、机柜资源利用（上架率）水平等关键指标达不到相关要求的，或存在其他不符合国家绿色算力设施要求的单位，将联合相关部门动态调整出国家绿色算力设施名单。"
+      }
+    ],
+    "impact_design": "根据“建立并实施绿色采购制度，提供绿色公共服务，开展绿色运维，能够协同带动产业链供应链绿色低碳发展水平提升。…”的文本线索，产品设计核查路径：复核碳足迹、物料追溯、供应链披露和LCA文档。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查绿色采购、供应商披露及产品碳足迹对招投标的影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核碳足迹、物料追溯、供应链披露和LCA文档；核查绿色采购、供应商披露及产品碳足迹对招投标的影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：建立并实施绿色采购制度，提供绿色公共服务，开展绿色运维，能够协同带动产业链供应链绿色低碳发展水平提升。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "供应链与采购、法务与合规、国际销售",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "建立并实施绿色采购制度，提供绿色公共服务，开展绿色运维，能够协同带动产业链供应链绿色低碳发展水平提升。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "（三）工业和信息化部将持续加强对国家绿色算力设施的监督指导，对上一年度电能利用效率、碳利用效率、水资源利用效率、可再生能源电量占比、机柜资源利用（上架率）水平等关键指标达不到相关要求的，或存在其他不符合国家绿色算力设施要求的单位，将联合相关部门动态调整出国家绿色算力设施名单。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "2ed5f7d52e96cf2bb4a92900be7a1e1d5be8ed00bf95ecaf1b862462e873731e",
+    "originally_discovered_at": "2026-11-09T06:13:46+00:00"
+  },
+  {
     "id": "p_b86a3b421df86909fe",
     "title": "贵州省能源局关于遴选2026年电煤供应清算核查第三方服务项目...",
     "url": "https://nyj.guizhou.gov.cn/xwzx/gsgg/202611/t20261106_91082596.html",
@@ -8695,6 +8848,111 @@
     "originally_discovered_at": "2026-10-15T07:44:37+00:00"
   },
   {
+    "id": "p_e213973b73210f4666",
+    "title": "宁夏回族自治区药品和医疗器械流通监督管理办法",
+    "url": "https://www.nx.gov.cn/zwgk/qzfwj/202611/t20261109_5394072.html",
+    "source_id": "cn_7c77b32d80d0",
+    "source_name": "宁夏人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "宁夏",
+    "published_at": "2026-10-14",
+    "discovered_at": "2026-11-09T06:27:38+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "招投标与政府采购",
+      "供应链、ESG及碳足迹"
+    ],
+    "primary_dimension": "招投标与政府采购",
+    "source_excerpt": "从事药品零售连锁经营活动的企业总部，应当建立健全覆盖企业总部、配送中心和连锁门店的药品质量管理体系，统一企业标识、规章制度、计算机系统、人员培训、采购配送、票据管理、药学服务标准规范等，并对所属零售门店的经营活动履行管理责任。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "从事药品零售连锁经营活动的企业总部，应当建立健全覆盖企业总部、配送中心和连锁门店的药品质量管理体系，统一企业标识、规章制度、计算机系统、人员培训、采购配送、票据管理、药学服务标准规范等，并对所属零售门店的经营活动履行管理责任。"
+      },
+      {
+        "clause": "第十条",
+        "excerpt": "第十条 同一法人主体的药品批发和零售连锁企业开展一体化经营的，在符合药品经营质量管理规范的前提下，可以共用仓库、运输等资源，强化药品批发、零售质量管理体系协同以及全流程信息追溯，提升药品供应链效率。"
+      },
+      {
+        "clause": "第十四条",
+        "excerpt": "第三章 医疗器械经营管理 第十四条 从事医疗器械经营活动，应当按照医疗器械经营质量管理规范的要求，采取相应质量控制措施开展采购、验收、贮存、销售、运输、售后服务等，并做好相关记录，保证医疗器械的安全、有效。"
+      }
+    ],
+    "impact_design": "根据“从事药品零售连锁经营活动的企业总部，应当建立健全覆盖企业总部、配送中心和连锁门店的药品质量管理体系，统一企业标识、规章制度、计算机系统、人员培训、采购配送、票据管理、药学…”的文本线索，产品设计核查路径：核对投标技术规范、质保测试证明及适用认证要求。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查供应商资格、评标条件、价格及交付承诺。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对投标技术规范、质保测试证明及适用认证要求；核查供应商资格、评标条件、价格及交付承诺 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：从事药品零售连锁经营活动的企业总部，应当建立健全覆盖企业总部、配送中心和连锁门店的药品质量管理体系，统一企业标识、规章制度、计算机系统、人员培训、采购配送、票据管理、药学服务标准规范等，并对所属零售门店的经营活动履行管理责任。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "国际销售、市场战略、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "从事药品零售连锁经营活动的企业总部，应当建立健全覆盖企业总部、配送中心和连锁门店的药品质量管理体系，统一企业标识、规章制度、计算机系统、人员培训、采购配送、票据管理、药学服务标准规范等，并对所属零售门店的经营活动履行管理责任。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "第十条",
+        "excerpt": "第十条 同一法人主体的药品批发和零售连锁企业开展一体化经营的，在符合药品经营质量管理规范的前提下，可以共用仓库、运输等资源，强化药品批发、零售质量管理体系协同以及全流程信息追溯，提升药品供应链效率。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "第十四条",
+        "excerpt": "第三章 医疗器械经营管理 第十四条 从事医疗器械经营活动，应当按照医疗器械经营质量管理规范的要求，采取相应质量控制措施开展采购、验收、贮存、销售、运输、售后服务等，并做好相关记录，保证医疗器械的安全、有效。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "1c6cfe48d32541813b4c8bb9e91a362c01b195cc5b05bb46404b1fb54ef3f7ce",
+    "originally_discovered_at": "2026-11-09T06:27:38+00:00"
+  },
+  {
     "id": "p_a9427265ffe7bf3b53",
     "title": "广东省工业和信息化厅关于公开遴选广东省制造业单项冠军企业主动发现机制与实现路径研究课题支撑服务机构的通告",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4966369.html",
@@ -10792,23 +11050,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-10-09",
-    "discovered_at": "2026-11-08T06:12:12+00:00",
+    "discovered_at": "2026-11-09T06:29:30+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "并网技术规范"
     ],
     "primary_dimension": "并网技术规范",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"9fdde5fc65d8e96bc84f9c8019ec730f\",\"traceid\":\"276082bc17941183328014907e3db9\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"e44df0065ce063f6336edf8a1a389943\",\"traceid\":\"276082bd17942057706582477e0631\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"9fdde5fc65d8e96bc84f9c8019ec730f\",\"traceid\":\"276082bc17941183328014907e3db9\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-g"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"e44df0065ce063f6336edf8a1a389943\",\"traceid\":\"276082bd17942057706582477e0631\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-+"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核对并网测试责任、接入确认、认证时间及合同里程碑。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核故障穿越、无功、频率响应及控制软件是否需适配；核对并网测试责任、接入确认、认证时间及合同里程碑 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"9fdde5fc65d8e96bc84f9c8019ec730f\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"e44df0065ce063f6336edf8a1a389943\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -10829,7 +11087,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"9fdde5fc65d8e96bc84f9c8019ec730f\",\"traceid\":\"276082bc17941183328014907e3db9\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-g",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"e44df0065ce063f6336edf8a1a389943\",\"traceid\":\"276082bd17942057706582477e0631\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-+",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -10845,9 +11103,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "7acfc35751fbba4fdfd11cad3b5da8822e402a74c8bbf847d570420b1f9c9f4e",
+    "content_hash": "cb55db3a89bfd8d4a03911769250200b5eac124046a9a9f3081340086f136d74",
     "originally_discovered_at": "2026-10-15T07:58:14+00:00",
-    "updated_at": "2026-11-08T06:17:28+00:00"
+    "updated_at": "2026-11-09T06:31:06+00:00"
   },
   {
     "id": "p_f83c69d35a9d682cd7",
@@ -14592,23 +14850,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-09-16",
-    "discovered_at": "2026-11-08T06:12:13+00:00",
+    "discovered_at": "2026-11-09T06:29:31+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "可再生能源开发与电价"
     ],
     "primary_dimension": "可再生能源开发与电价",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"842bcb31da9e04cd1a75c679a1221479\",\"traceid\":\"276082bc17941183338354932e3db9\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8a1453feb4241c239ab2c1e74df75a0a\",\"traceid\":\"276082bd17942057715402497e0631\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"842bcb31da9e04cd1a75c679a1221479\",\"traceid\":\"276082bc17941183338354932e3db9\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-O"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8a1453feb4241c239ab2c1e74df75a0a\",\"traceid\":\"276082bd17942057715402497e0631\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-O"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"842bcb31da9e04cd1a75c679a1221479\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8a1453feb4241c239ab2c1e74df75a0a\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -14629,7 +14887,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"842bcb31da9e04cd1a75c679a1221479\",\"traceid\":\"276082bc17941183338354932e3db9\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-O",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8a1453feb4241c239ab2c1e74df75a0a\",\"traceid\":\"276082bd17942057715402497e0631\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-O",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -14645,9 +14903,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "2b4326c5ac29dff7a344ae1cb091ee498bac20c6df4699d3ffb9ea61f37a0ca1",
+    "content_hash": "44d71f3b68c87623f1de3bd249991cedace35b61be4844ef8effd8e061a07de3",
     "originally_discovered_at": "2026-10-15T07:58:15+00:00",
-    "updated_at": "2026-11-08T06:17:28+00:00"
+    "updated_at": "2026-11-09T06:31:06+00:00"
   },
   {
     "id": "p_5bce90bf594d95cb32",
