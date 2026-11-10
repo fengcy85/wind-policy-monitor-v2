@@ -1,5 +1,347 @@
 [
   {
+    "id": "p_4b8f4e04b460ca414e",
+    "title": "山西启动2027机制电价竞价：风电0.2-0.3元/度",
+    "url": "https://news.bjx.com.cn/html/20261110/1519568.shtml",
+    "source_id": "cn_5555c1d4376e",
+    "source_name": "北极星风力发电网｜风电政策",
+    "region": "中国",
+    "country": "中国",
+    "province": "",
+    "published_at": "2026-11-10",
+    "discovered_at": "2026-11-10T07:28:23+00:00",
+    "doc_type": "行业政策线索（待官方原文核验）",
+    "dimensions": [
+      "可再生能源开发与电价"
+    ],
+    "primary_dimension": "可再生能源开发与电价",
+    "source_excerpt": "为了更好的访问体验，请进行验证 appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"2544f3a4b8f291bc07cbcbc4b532304e\",\"traceid\":\"276077fe17942957037146138edbd5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "为了更好的访问体验，请进行验证 appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"2544f3a4b8f291bc07cbcbc4b532304e\",\"traceid\":\"276077fe17942957037146138edbd5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_wa"
+      }
+    ],
+    "impact_design": "根据“为了更好的访问体验，请进行验证 appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.us…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：为了更好的访问体验，请进行验证 appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"2544f3a4b8f291bc07cbcbc4b532304e\"",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "市场战略、国际销售、项目开发",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "为了更好的访问体验，请进行验证 appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"2544f3a4b8f291bc07cbcbc4b532304e\",\"traceid\":\"276077fe17942957037146138edbd5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_wa",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "行业转载线索，需核对官方政策原文",
+    "article_evidence_available": false,
+    "content_hash": "dcf78c7c22108c1497cd2d20aa498a50c44a943ca150fb9b1e902c190704513e",
+    "originally_discovered_at": "2026-11-10T07:28:23+00:00"
+  },
+  {
+    "id": "p_ad51b3068975375372",
+    "title": "宁夏回族自治区人民政府关于印发《宁夏贺兰山东麓葡萄酒产业发展“十五五”规划》的通知",
+    "url": "https://www.nx.gov.cn/zwgk/qzfwj/202611/t20261110_5394998.html",
+    "source_id": "cn_7c77b32d80d0",
+    "source_name": "宁夏人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "宁夏",
+    "published_at": "2026-11-10",
+    "discovered_at": "2026-11-10T07:26:29+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "产品认证与技术标准",
+      "供应链、ESG及碳足迹"
+    ],
+    "primary_dimension": "产品认证与技术标准",
+    "source_excerpt": "争取设立宁夏国家级葡萄及葡萄酒技术性贸易措施评议基地， 强化 “ 经认证的经营者 ” （ AEO ） 信用培育，持续释放政策红利 。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "争取设立宁夏国家级葡萄及葡萄酒技术性贸易措施评议基地， 强化 “ 经认证的经营者 ” （ AEO ） 信用培育，持续释放政策红利 。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "培育 产区 综合服务 供应链 主体 ，整合餐饮住宿 等 资源，提供托管运营服务，提升服务标准化水平。"
+      }
+    ],
+    "impact_design": "根据“争取设立宁夏国家级葡萄及葡萄酒技术性贸易措施评议基地， 强化 “ 经认证的经营者 ” （ AEO ） 信用培育，持续释放政策红利 。…”的文本线索，产品设计核查路径：比对机组设计载荷、部件标准、型式试验报告和认证文件。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：复核认证周期、第三方检测费用及客户准入要求。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 比对机组设计载荷、部件标准、型式试验报告和认证文件；复核认证周期、第三方检测费用及客户准入要求 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：争取设立宁夏国家级葡萄及葡萄酒技术性贸易措施评议基地， 强化 “ 经认证的经营者 ” （ AEO ） 信用培育，持续释放政策红利 。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、认证与测试、国际销售",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "争取设立宁夏国家级葡萄及葡萄酒技术性贸易措施评议基地， 强化 “ 经认证的经营者 ” （ AEO ） 信用培育，持续释放政策红利 。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "培育 产区 综合服务 供应链 主体 ，整合餐饮住宿 等 资源，提供托管运营服务，提升服务标准化水平。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "7e09ec54b49ef7d55bd5bb09bea1c1beca32815ef0550e5d63959b6a048fc9a8",
+    "originally_discovered_at": "2026-11-10T07:26:29+00:00"
+  },
+  {
+    "id": "p_73c8d38aba6afa0ee5",
+    "title": "关于建立发电侧可靠容量补偿机制的通知",
+    "url": "https://fgw.ln.gov.cn/fgw/zc/zxzc/2026110915280075305/index.shtml",
+    "source_id": "cn_c9be69562225",
+    "source_name": "辽宁省发改委",
+    "region": "中国",
+    "country": "中国",
+    "province": "辽宁",
+    "published_at": "2026-11-09",
+    "discovered_at": "2026-11-10T07:12:59+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "可再生能源开发与电价",
+      "运维、质保及退役"
+    ],
+    "primary_dimension": "可再生能源开发与电价",
+    "source_excerpt": "各市发展改革委、工业和信息化局，国网辽宁省电力有限公司、国网东北分部、辽宁电力交易中心有限公司，有关经营主体： 为适应新型电力系统和电力市场体系建设需要，引导调节性电源平稳有序建设，保障电力安全稳定运行，加快构建适应新型能源体系的价格机制，按照国家发展改革委、国家能源局《关于完善发电侧容量电价机制的通知》（发改价格〔2026〕114号）等部署要求，结合我省电力市场运行情况，建立发电侧可靠容量补偿机制，现将有关事项通知如下。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "各市发展改革委、工业和信息化局，国网辽宁省电力有限公司、国网东北分部、辽宁电力交易中心有限公司，有关经营主体： 为适应新型电力系统和电力市场体系建设需要，引导调节性电源平稳有序建设，保障电力安全稳定运行，加快构建适应新型能源体系的价格机制，按照国家发展改革委、国家能源局《关于完善发电侧容量电价机制的通知》（发改价格〔2026〕114号）等部署要求，结合我省电力市场运行情况，建立发电侧可靠容量补偿机制，现将有关事项通知如下。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "一、实施范围 本通知实施范围现阶段包括合规在运的公用煤电机组、电网侧独立新型储能电站及省间外购电（目前暂仅考虑直流通道送电方式及纳入我省电力电量平衡的省外机组）。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "省发展改革委（能源局）对纳入可靠容量补偿机制实施范围的主体清单进行认定后，书面告知省电力公司和相关主体，定期对清单进行动态调整。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "三、可靠容量补偿标准 统筹考虑电力供需关系、用户承受能力、电力市场建设进展等因素，以弥补市场边际机组在电能量和辅助服务市场不能回收的固定成本为基础，按年度确定可靠容量补偿标准。"
+      }
+    ],
+    "impact_design": "根据“各市发展改革委、工业和信息化局，国网辽宁省电力有限公司、国网东北分部、辽宁电力交易中心有限公司，有关经营主体： 为适应新型电力系统和电力市场体系建设需要，引导调节性电源平…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：各市发展改革委、工业和信息化局，国网辽宁省电力有限公司、国网东北分部、辽宁电力交易中心有限公司，有关经营主体： 为适应新型电力系统和电力市场体系建设需要，引导调节性电源平稳有序建设，保障电力安全稳定运行，加快构建适应新型能源体系的价格机制，按照国家发展改革委、国家能源局《关于完善发电侧容量电价机制的通知》（发改价格〔2026〕114号）等部署要求，结合我省电力市场运行情况，建立发电侧可靠容量补偿机",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "市场战略、国际销售、项目开发",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "各市发展改革委、工业和信息化局，国网辽宁省电力有限公司、国网东北分部、辽宁电力交易中心有限公司，有关经营主体： 为适应新型电力系统和电力市场体系建设需要，引导调节性电源平稳有序建设，保障电力安全稳定运行，加快构建适应新型能源体系的价格机制，按照国家发展改革委、国家能源局《关于完善发电侧容量电价机制的通知》（发改价格〔2026〕114号）等部署要求，结合我省电力市场运行情况，建立发电侧可靠容量补偿机制，现将有关事项通知如下。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "一、实施范围 本通知实施范围现阶段包括合规在运的公用煤电机组、电网侧独立新型储能电站及省间外购电（目前暂仅考虑直流通道送电方式及纳入我省电力电量平衡的省外机组）。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "省发展改革委（能源局）对纳入可靠容量补偿机制实施范围的主体清单进行认定后，书面告知省电力公司和相关主体，定期对清单进行动态调整。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "三、可靠容量补偿标准 统筹考虑电力供需关系、用户承受能力、电力市场建设进展等因素，以弥补市场边际机组在电能量和辅助服务市场不能回收的固定成本为基础，按年度确定可靠容量补偿标准。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "e497413b05548e702b9dc1248b948d17a5faad9d03ec7a4a2ce245625a3f549f",
+    "originally_discovered_at": "2026-11-10T07:12:59+00:00"
+  },
+  {
+    "id": "p_ee4653b76bf8e18116",
+    "title": "北京市知识产权局关于开展《北京市知识产权金融扶持资金实施办法》知识产权保险产品征集的通知",
+    "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261110_4939689.html",
+    "source_id": "cn_8101686d3883",
+    "source_name": "北京市人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "北京市",
+    "published_at": "2026-11-09",
+    "discovered_at": "2026-11-10T07:10:59+00:00",
+    "doc_type": "历史版本／失效",
+    "dimensions": [
+      "招投标与政府采购"
+    ],
+    "primary_dimension": "招投标与政府采购",
+    "source_excerpt": "若保险条款中限定律师服务团队，保险公司须通过公开采购程序遴选合作机构，向被保险人开放自主选择的合作律师事务所。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "若保险条款中限定律师服务团队，保险公司须通过公开采购程序遴选合作机构，向被保险人开放自主选择的合作律师事务所。"
+      }
+    ],
+    "impact_design": "根据“若保险条款中限定律师服务团队，保险公司须通过公开采购程序遴选合作机构，向被保险人开放自主选择的合作律师事务所。…”的文本线索，产品设计核查路径：核对投标技术规范、质保测试证明及适用认证要求。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查供应商资格、评标条件、价格及交付承诺。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对投标技术规范、质保测试证明及适用认证要求；核查供应商资格、评标条件、价格及交付承诺 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：若保险条款中限定律师服务团队，保险公司须通过公开采购程序遴选合作机构，向被保险人开放自主选择的合作律师事务所。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "国际销售、市场战略、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "若保险条款中限定律师服务团队，保险公司须通过公开采购程序遴选合作机构，向被保险人开放自主选择的合作律师事务所。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "8f99d482a264bacb4801b82bb4c1ec3c67353cebccfe9e716b7bf41f6873c9d1",
+    "originally_discovered_at": "2026-11-10T07:10:59+00:00"
+  },
+  {
     "id": "p_b6c336b6cecbe9965f",
     "title": "宁夏回族自治区人工影响天气管理办法",
     "url": "https://www.nx.gov.cn/zwgk/qzfwj/202611/t20261109_5394079.html",
@@ -3198,6 +3540,129 @@
     "originally_discovered_at": "2026-11-02T05:56:06+00:00"
   },
   {
+    "id": "p_1a1a0c30b6027690d3",
+    "title": "福建省工业和信息化厅 福建省发展和改革委员会 福建省财政厅关于印发《福建省钢铁行业差别电价资金使用规定》的通知",
+    "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gfxwj/202611/t20261109_7246666.htm",
+    "source_id": "cn_18e109d08abf",
+    "source_name": "福建省工信厅",
+    "region": "中国",
+    "country": "中国",
+    "province": "福建",
+    "published_at": "2026-10-30",
+    "discovered_at": "2026-11-10T07:14:13+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "可再生能源开发与电价"
+    ],
+    "primary_dimension": "可再生能源开发与电价",
+    "source_excerpt": "福建省工业和信息化厅 福建省发展和改革委员会 福建省财政厅 2026年10月30日 （此件主动公开） 福建省钢铁行业差别电价资金使用规定 第 一 条 为持续落实国家和我省关于运用价格手段促进钢铁行业供给侧结构性改革有关要求，加快促进我省钢铁行业技术进步，提高资源能源利用效率，推动钢铁行业高质量发展，规范我省钢铁行业差别电价资金使用，结合本省实际，制定本规定。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "福建省工业和信息化厅 福建省发展和改革委员会 福建省财政厅 2026年10月30日 （此件主动公开） 福建省钢铁行业差别电价资金使用规定 第 一 条 为持续落实国家和我省关于运用价格手段促进钢铁行业供给侧结构性改革有关要求，加快促进我省钢铁行业技术进步，提高资源能源利用效率，推动钢铁行业高质量发展，规范我省钢铁行业差别电价资金使用，结合本省实际，制定本规定。"
+      },
+      {
+        "clause": "第三条",
+        "excerpt": "第三条 钢铁行业差别电价资金按照以收入为上限，以收定支的原则，建立收支平衡机制，纳入省制造业高质量发展专项资金管理。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "钢铁行业差别电价资金总额的90%主要用于支持奖励钢铁行业企业节能技术改造、淘汰落后和转型升级，10%用于弥补电网企业执行差别电价增加成本。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "第 九 条 对资金使用管理中存在虚报、冒领、截留、挪用等违法违规行为的，按照省制造业高质量发展专项资金管理办法有关规定处理，并依法依规追究其责任。"
+      }
+    ],
+    "impact_design": "根据“福建省工业和信息化厅 福建省发展和改革委员会 福建省财政厅 2026年10月30日 （此件主动公开） 福建省钢铁行业差别电价资金使用规定 第 一 条 为持续落实国家和我省…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：福建省工业和信息化厅 福建省发展和改革委员会 福建省财政厅 2026年10月30日 （此件主动公开） 福建省钢铁行业差别电价资金使用规定 第 一 条 为持续落实国家和我省关于运用价格手段促进钢铁行业供给侧结构性改革有关要求，加快促进我省钢铁行业技术进步，提高资源能源利用效率，推动钢铁行业高质量发展，规范我省钢铁行业差别电价资金使用，结合本省实际，制定本规定。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "市场战略、国际销售、项目开发",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "福建省工业和信息化厅 福建省发展和改革委员会 福建省财政厅 2026年10月30日 （此件主动公开） 福建省钢铁行业差别电价资金使用规定 第 一 条 为持续落实国家和我省关于运用价格手段促进钢铁行业供给侧结构性改革有关要求，加快促进我省钢铁行业技术进步，提高资源能源利用效率，推动钢铁行业高质量发展，规范我省钢铁行业差别电价资金使用，结合本省实际，制定本规定。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "第三条",
+        "excerpt": "第三条 钢铁行业差别电价资金按照以收入为上限，以收定支的原则，建立收支平衡机制，纳入省制造业高质量发展专项资金管理。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "钢铁行业差别电价资金总额的90%主要用于支持奖励钢铁行业企业节能技术改造、淘汰落后和转型升级，10%用于弥补电网企业执行差别电价增加成本。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "第 九 条 对资金使用管理中存在虚报、冒领、截留、挪用等违法违规行为的，按照省制造业高质量发展专项资金管理办法有关规定处理，并依法依规追究其责任。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "39a8d06e7d832ea6517e65f193f57a79cb554d72840800c47cc9e1800f6e0423",
+    "originally_discovered_at": "2026-11-10T07:14:13+00:00"
+  },
+  {
     "id": "p_9bdf52d7e560a39129",
     "title": "广东省工业和信息化厅关于广东省无线电管理业务云平台运维服务（2026年）项目采购结果的公示",
     "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4974199.html",
@@ -3641,6 +4106,72 @@
     "article_evidence_available": true,
     "content_hash": "02b7d1f7ea7cd210ed0e91c98dd07a5f89efffb1d8d4eeb01788776964a3133f",
     "originally_discovered_at": "2026-10-30T05:39:45+00:00"
+  },
+  {
+    "id": "p_970bd1193604421ffd",
+    "title": "宁夏回族自治区人民政府关于印发《宁夏城市更新“十五五”规划》的通知",
+    "url": "https://www.nx.gov.cn/zwgk/qzfwj/202611/t20261110_5395008.html",
+    "source_id": "cn_7c77b32d80d0",
+    "source_name": "宁夏人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "宁夏",
+    "published_at": "2026-10-28",
+    "discovered_at": "2026-11-10T07:26:29+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "融资与项目担保"
+    ],
+    "primary_dimension": "融资与项目担保",
+    "source_excerpt": "拓展可持续投融资渠道，引导金融机构创新信贷产品，规范运用基础设施领域不动产投资信托基金（REITs）等市场化工具，发行绿色金融债券、设立绿色信贷专项产品，支持节能降碳、生态修复、海绵城市等绿色更新项目。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "拓展可持续投融资渠道，引导金融机构创新信贷产品，规范运用基础设施领域不动产投资信托基金（REITs）等市场化工具，发行绿色金融债券、设立绿色信贷专项产品，支持节能降碳、生态修复、海绵城市等绿色更新项目。"
+      }
+    ],
+    "impact_design": "根据“拓展可持续投融资渠道，引导金融机构创新信贷产品，规范运用基础设施领域不动产投资信托基金（REITs）等市场化工具，发行绿色金融债券、设立绿色信贷专项产品，支持节能降碳、生…”的文本线索，产品设计核查路径：确认绿色融资是否要求技术认证或产品信息披露。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查银行担保、融资条件和项目现金流对客户采购的影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认绿色融资是否要求技术认证或产品信息披露；核查银行担保、融资条件和项目现金流对客户采购的影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：拓展可持续投融资渠道，引导金融机构创新信贷产品，规范运用基础设施领域不动产投资信托基金（REITs）等市场化工具，发行绿色金融债券、设立绿色信贷专项产品，支持节能降碳、生态修复、海绵城市等绿色更新项目。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "财务与融资、国际销售、市场战略",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "拓展可持续投融资渠道，引导金融机构创新信贷产品，规范运用基础设施领域不动产投资信托基金（REITs）等市场化工具，发行绿色金融债券、设立绿色信贷专项产品，支持节能降碳、生态修复、海绵城市等绿色更新项目。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "09282608d4ada6191d45536654635dd19acd7d8abfe09e97dc56138d56a28a3f",
+    "originally_discovered_at": "2026-11-10T07:26:29+00:00"
   },
   {
     "id": "p_e41cd07366755b7eec",
@@ -5577,6 +6108,129 @@
     "article_evidence_available": true,
     "content_hash": "3450b3f2f38ca340a6d282cdde444f7d26ef576a1451afefaeaf6cab79b78bad",
     "originally_discovered_at": "2026-10-23T04:55:53+00:00"
+  },
+  {
+    "id": "p_1d5632fab78e9dc62b",
+    "title": "青海省人民政府办公厅 关于印发《青海省光热发展 “十五五”规划》的通知",
+    "url": "http://www.qinghai.gov.cn/xxgk/xxgk/fd/zfwj/202611/t20261109_450075.html",
+    "source_id": "cn_5cc7c12757b9",
+    "source_name": "青海省人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "青海",
+    "published_at": "2026-10-22",
+    "discovered_at": "2026-11-10T07:25:50+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "土地、环境与生态许可"
+    ],
+    "primary_dimension": "土地、环境与生态许可",
+    "source_excerpt": "青海省人民政府办公厅 2026年10月22日 （此件公开发布） 青海省光热发展“十五五”规划 为支撑构建新型电力系统、服务国家清洁能源产业高地建设战略落地，根据《青海省国民经济和社会发展第十五个五年规划纲要》《国家发展改革委国家能源局关于促进光热发电规模化发展的若干意见》等文件，制定本规划。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "青海省人民政府办公厅 2026年10月22日 （此件公开发布） 青海省光热发展“十五五”规划 为支撑构建新型电力系统、服务国家清洁能源产业高地建设战略落地，根据《青海省国民经济和社会发展第十五个五年规划纲要》《国家发展改革委国家能源局关于促进光热发电规模化发展的若干意见》等文件，制定本规划。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "一、总体要求 深入贯彻习近平总书记对青海工作的重要讲话指示批示精神，立足青海“三个最大”省情定位和“三个更加重要”战略地位，紧扣国家清洁能源产业高地建设目标，推动光热产业高质量发展，聚力提升光热技术创新能力，壮大产业发展动能，有序推进规模化开发，全力打造“中国光热之都”。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "鼓励在沙漠、戈壁、荒漠等未利用土地及基本草原以外的草地选址布局光热发电项目，确保符合生态环境分区管控要求，推动项目开发建设集中连片，统筹规划建设园区电网、路网、水网等基础设施。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "(二)统筹优化光热布局 坚持集约化、规范化、科学化开发原则，统筹优化新能源基地内光热与风电、光伏的空间布局，实现各类电源资源互补、空间高效利用。"
+      }
+    ],
+    "impact_design": "根据“青海省人民政府办公厅 2026年10月22日 （此件公开发布） 青海省光热发展“十五五”规划 为支撑构建新型电力系统、服务国家清洁能源产业高地建设战略落地，根据《青海省国…”的文本线索，产品设计核查路径：核对噪声、叶片生态影响和环境监测的设计接口。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核实环评、用地海域和环境许可对项目选址及交付节点的影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对噪声、叶片生态影响和环境监测的设计接口；核实环评、用地海域和环境许可对项目选址及交付节点的影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：青海省人民政府办公厅 2026年10月22日 （此件公开发布） 青海省光热发展“十五五”规划 为支撑构建新型电力系统、服务国家清洁能源产业高地建设战略落地，根据《青海省国民经济和社会发展第十五个五年规划纲要》《国家发展改革委国家能源局关于促进光热发电规模化发展的若干意见》等文件，制定本规划。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、项目开发、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "青海省人民政府办公厅 2026年10月22日 （此件公开发布） 青海省光热发展“十五五”规划 为支撑构建新型电力系统、服务国家清洁能源产业高地建设战略落地，根据《青海省国民经济和社会发展第十五个五年规划纲要》《国家发展改革委国家能源局关于促进光热发电规模化发展的若干意见》等文件，制定本规划。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "一、总体要求 深入贯彻习近平总书记对青海工作的重要讲话指示批示精神，立足青海“三个最大”省情定位和“三个更加重要”战略地位，紧扣国家清洁能源产业高地建设目标，推动光热产业高质量发展，聚力提升光热技术创新能力，壮大产业发展动能，有序推进规模化开发，全力打造“中国光热之都”。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "鼓励在沙漠、戈壁、荒漠等未利用土地及基本草原以外的草地选址布局光热发电项目，确保符合生态环境分区管控要求，推动项目开发建设集中连片，统筹规划建设园区电网、路网、水网等基础设施。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "(二)统筹优化光热布局 坚持集约化、规范化、科学化开发原则，统筹优化新能源基地内光热与风电、光伏的空间布局，实现各类电源资源互补、空间高效利用。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "f8ce5228140e09920d4911b93881516228430bc5c8e558611ad34f462f29d5ea",
+    "originally_discovered_at": "2026-11-10T07:25:50+00:00"
   },
   {
     "id": "p_914a28f05024ecff4c",
@@ -11050,23 +11704,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-10-09",
-    "discovered_at": "2026-11-09T06:29:30+00:00",
+    "discovered_at": "2026-11-10T07:28:27+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "并网技术规范"
     ],
     "primary_dimension": "并网技术规范",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"e44df0065ce063f6336edf8a1a389943\",\"traceid\":\"276082bd17942057706582477e0631\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "为了更好的访问体验，请进行验证 appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"b36e59cc4514ac32db55576e4cf96e94\",\"traceid\":\"276077fe17942957071436249edbd5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"e44df0065ce063f6336edf8a1a389943\",\"traceid\":\"276082bd17942057706582477e0631\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-+"
+        "excerpt": "为了更好的访问体验，请进行验证 appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"b36e59cc4514ac32db55576e4cf96e94\",\"traceid\":\"276077fe17942957071436249edbd5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_wa"
       }
     ],
-    "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
+    "impact_design": "根据“为了更好的访问体验，请进行验证 appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.us…”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核对并网测试责任、接入确认、认证时间及合同里程碑。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核故障穿越、无功、频率响应及控制软件是否需适配；核对并网测试责任、接入确认、认证时间及合同里程碑 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"e44df0065ce063f6336edf8a1a389943\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：为了更好的访问体验，请进行验证 appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"b36e59cc4514ac32db55576e4cf96e94\"",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -11087,7 +11741,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"e44df0065ce063f6336edf8a1a389943\",\"traceid\":\"276082bd17942057706582477e0631\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-+",
+        "excerpt": "为了更好的访问体验，请进行验证 appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"b36e59cc4514ac32db55576e4cf96e94\",\"traceid\":\"276077fe17942957071436249edbd5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_wa",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -11103,9 +11757,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "cb55db3a89bfd8d4a03911769250200b5eac124046a9a9f3081340086f136d74",
+    "content_hash": "4c6e11bf2ca8c0aeff3c6f8c63b84760203de150b468215fe7339c16e3d0e8dd",
     "originally_discovered_at": "2026-10-15T07:58:14+00:00",
-    "updated_at": "2026-11-09T06:31:06+00:00"
+    "updated_at": "2026-11-10T07:31:38+00:00"
   },
   {
     "id": "p_f83c69d35a9d682cd7",
@@ -14850,23 +15504,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-09-16",
-    "discovered_at": "2026-11-09T06:29:31+00:00",
+    "discovered_at": "2026-11-10T07:28:28+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "可再生能源开发与电价"
     ],
     "primary_dimension": "可再生能源开发与电价",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8a1453feb4241c239ab2c1e74df75a0a\",\"traceid\":\"276082bd17942057715402497e0631\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "为了更好的访问体验，请进行验证 appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"4253dc84e1a692d7ce57878da5d5828c\",\"traceid\":\"276077fe17942957082036276edbd5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8a1453feb4241c239ab2c1e74df75a0a\",\"traceid\":\"276082bd17942057715402497e0631\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-O"
+        "excerpt": "为了更好的访问体验，请进行验证 appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"4253dc84e1a692d7ce57878da5d5828c\",\"traceid\":\"276077fe17942957082036276edbd5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_wa"
       }
     ],
-    "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
+    "impact_design": "根据“为了更好的访问体验，请进行验证 appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.us…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8a1453feb4241c239ab2c1e74df75a0a\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：为了更好的访问体验，请进行验证 appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"4253dc84e1a692d7ce57878da5d5828c\"",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -14887,7 +15541,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8a1453feb4241c239ab2c1e74df75a0a\",\"traceid\":\"276082bd17942057715402497e0631\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-O",
+        "excerpt": "为了更好的访问体验，请进行验证 appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"4253dc84e1a692d7ce57878da5d5828c\",\"traceid\":\"276077fe17942957082036276edbd5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_wa",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -14903,9 +15557,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "44d71f3b68c87623f1de3bd249991cedace35b61be4844ef8effd8e061a07de3",
+    "content_hash": "682504f8ab738c1e42842c167fc52508e8fa0f87b446c20a8c9c7b55d587694f",
     "originally_discovered_at": "2026-10-15T07:58:15+00:00",
-    "updated_at": "2026-11-09T06:31:06+00:00"
+    "updated_at": "2026-11-10T07:31:38+00:00"
   },
   {
     "id": "p_5bce90bf594d95cb32",

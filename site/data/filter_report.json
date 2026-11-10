@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09T07:38:44+00:00",
-  "before": 421,
-  "kept": 367,
-  "filtered_out": 54,
+  "generated_at": "2026-11-10T08:39:22+00:00",
+  "before": 431,
+  "kept": 372,
+  "filtered_out": 59,
   "tag_counts": {
-    "竞对资讯": 315,
-    "招标采购": 86,
+    "竞对资讯": 319,
+    "招标采购": 87,
     "市场机制": 16,
     "电网建设": 28,
     "审批政策": 43,
@@ -13,19 +13,67 @@
   },
   "rejected_examples": [
     {
-      "title": "Onshore Wind",
-      "source_name": "Renewables Now",
-      "published_at": "2026-11-09",
-      "url": "https://renewablesnow.com/news/wind/",
+      "title": "The newest player in offshore wind vessels just got bigger again",
+      "source_name": "Recharge",
+      "published_at": "2026-11-10",
+      "url": "https://www.rechargenews.com/offshore-wind/the-newest-player-in-offshore-wind-vessels-just-got-bigger-again/2-1-2071361",
       "reasons": [
-        "标题无效/栏目标题"
+        "无六类监测标签",
+        "标题明确风电"
       ]
     },
     {
-      "title": "New Chapter – International Promotion of ASEE 2027–Australia",
-      "source_name": "ASEAN Wind Energy Expo",
-      "published_at": "2026-11-09",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=426",
+      "title": "TTVN Group và Tokyo Gas (Nhật Bản) hợp tác phát triển hơn 500MW điện gió gần bờ tại Vĩnh Long",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-11-10",
+      "url": "https://nangluongvietnam.vn/ttvn-group-va-tokyo-gas-nhat-ban-hop-tac-phat-trien-hon-500mw-dien-gio-gan-bo-tai-vinh-long-36898.html",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "29.10.2026 Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-11-10",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
+      "reasons": [
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Ember: Kazakhstan can use wind to meet its growing power demand",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-11-10",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/3996/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Free subscription magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-10",
+      "url": "https://www.energetica-india.net/news/renewable-energy/subscriptions/printed-magazine",
+      "reasons": [
+        "正文明确涉及风电"
+      ]
+    },
+    {
+      "title": "post image",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-11-10",
+      "url": "https://renewablewatch.in/2026/10/09/aerem-addressing-financing-challenges-in-distributed-solar/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "post image",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-11-10",
+      "url": "https://renewablewatch.in/2026/07/23/truere-oriana-power-strengthening-its-bess-portfolio/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -47,6 +95,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "New Chapter – International Promotion of ASEE 2027–Australia",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-09",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=426",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -110,6 +167,26 @@
       ]
     },
     {
+      "title": "Egypt signs $42mn gas exploration deal with Cheiron for East Alexandria offshore block",
+      "source_name": "Daily News Egypt",
+      "published_at": "2026-11-09",
+      "url": "https://dailynewsegypt.com/2026/11/09/egypt-signs-42mn-gas-exploration-deal-with-cheiron-for-east-alexandria-offshore-block/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Datta Infra Group Signs 100 MW Wind PPA with SJVN - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-09",
+      "url": "https://www.energetica-india.net/news/datta-infra-group-signs-100-mw-wind-ppa-with-sjvn",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
       "title": "Khởi công dự án Nhà máy Điện gió Vân Canh 2 (tỉnh Gia Lai)",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-11-07",
@@ -150,24 +227,6 @@
       ]
     },
     {
-      "title": "29.10.2026 Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-11-06",
-      "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
-      "reasons": [
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Free subscription magazine",
-      "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-11-06",
-      "url": "https://www.energetica-india.net/news/renewable-energy/subscriptions/printed-magazine",
-      "reasons": [
-        "正文明确涉及风电"
-      ]
-    },
-    {
       "title": "Datta Infra Signs 110 MW Wind PPA with SJVN - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-06",
@@ -197,16 +256,6 @@
       ]
     },
     {
-      "title": "TERI Estimates India's Onshore Wind Potential at 2,933.9 GW at 200 m - Asia Pacific | Energetica India Magazine",
-      "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-11-03",
-      "url": "https://www.energetica-india.net/news/teri-estimates-indias-onshore-wind-potential-at-29339-gw-at-200-m",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "KPI Green Energy Signs 300 MW Wind Power PPA with SJVN - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-03",
@@ -217,12 +266,13 @@
       ]
     },
     {
-      "title": "post image",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-11-02",
-      "url": "https://renewablewatch.in/2026/07/10/unlocking-potential-can-indias-cbg-ambitions-go-beyond-policy-targets/",
+      "title": "TERI Estimates India's Onshore Wind Potential at 2,933.9 GW at 200 m - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-03",
+      "url": "https://www.energetica-india.net/news/teri-estimates-indias-onshore-wind-potential-at-29339-gw-at-200-m",
       "reasons": [
-        "风电相关性不足"
+        "无六类监测标签",
+        "标题明确风电"
       ]
     },
     {
@@ -233,15 +283,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "post image",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-30",
-      "url": "https://renewablewatch.in/2026/08/07/can-white-hydrogen-accelerate-indias-energy-transition/",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -285,29 +326,10 @@
       ]
     },
     {
-      "title": "Telangana issues 2 GW FDRE-RTC tender",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-15",
-      "url": "https://renewablewatch.in/2026/10/15/telangana-issues-2-gw-fdre-rtc-tender/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "T&T Group tiếp tục đầu tư dự án Nhà máy điện gió Savan 2 (gần 500 MW) tại Lào",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-10-10",
       "url": "https://nangluongvietnam.vn/tt-group-tiep-tuc-dau-tu-du-an-nha-may-dien-gio-savan-2-gan-500-mw-tai-lao-36748.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "DEE Fabricom Secures INR 55 Crore Wind Tower Supply Intent - Asia Pacific | Energetica India Magazine",
-      "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-10-09",
-      "url": "https://www.energetica-india.net/news/dee-fabricom-secures-inr-55-crore-wind-tower-supply-intent",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -333,6 +355,15 @@
       ]
     },
     {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-05",
+      "url": "https://www.aa.com.tr/en/energy/renewable",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Turbine blades find second life beyond wind, turning waste into infrastructure",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-05",
@@ -343,19 +374,19 @@
       ]
     },
     {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
+      "title": "“India needs to improve its design capabilities”: Interview with Gurit’s Jesper Sloth",
+      "source_name": "Renewable Watch",
       "published_at": "2026-10-05",
-      "url": "https://www.aa.com.tr/en/energy/renewable",
+      "url": "https://renewablewatch.in/2026/10/05/india-needs-to-improve-its-design-capabilities-interview-with-gurits-jesper-sloth/",
       "reasons": [
-        "风电相关性不足"
+        "正文明确涉及风电"
       ]
     },
     {
-      "title": "Renewable Roadblocks: Regulatory and legal challenges in land acquisition",
+      "title": "“Our aim is to digitise the project lifecycle”: Interview with Aditya Birla Renewables’ Narendra Somoshi",
       "source_name": "Renewable Watch",
       "published_at": "2026-10-01",
-      "url": "https://renewablewatch.in/2026/10/15/renewable-roadblocks-regulatory-and-legal-challenges-in-land-acquisition/",
+      "url": "https://renewablewatch.in/2026/10/01/our-aim-is-to-digitise-the-project-lifecycle-interview-with-aditya-birla-renewables-narendra-somoshi/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -365,15 +396,6 @@
       "source_name": "Renewable Watch",
       "published_at": "2026-10-01",
       "url": "https://renewablewatch.in/2026/10/13/beyond-boundaries-indias-cross-border-grid-ambitions/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Strengthening Discom Finances: Privatisation, debt relief, market access emerge as long-term solutions",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-01",
-      "url": "https://renewablewatch.in/2026/10/05/strengthening-discom-finances-privatisation-debt-relief-market-access-emerge-as-long-term-solutions/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -397,15 +419,6 @@
       ]
     },
     {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-30",
-      "url": "https://www.aa.com.tr/en/energy/finance",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "Denmark eyes new cooperation with Türkiye in wind energy, efficiency and water management",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-30",
@@ -413,6 +426,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-30",
+      "url": "https://www.aa.com.tr/en/energy/finance",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -453,15 +475,6 @@
       ]
     },
     {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-25",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "Türkiye's first offshore wind YEKA project expected to draw $3B investment",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-25",
@@ -469,6 +482,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-25",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -521,10 +543,37 @@
       ]
     },
     {
+      "title": "Clean Growth: Telangana’s diversified renewable energy approach critical to the 2047 vision",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-09-04",
+      "url": "https://renewablewatch.in/2026/09/04/clean-growth-telanganas-diversified-renewable-energy-approach-critical-to-the-2047-vision/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "SWELECT Energy Systems: Focus on building a more balanced portfolio",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-09-03",
+      "url": "https://renewablewatch.in/2026/09/03/swelect-energy-systems-focus-on-building-a-more-balanced-portfolio/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "O&M e Asset Management - CORSO DI FORMAZIONE 3/2026 - ANEV",
       "source_name": "ANEV",
       "published_at": "2026-08-03",
       "url": "https://www.anev.org/2026/08/03/om-e-asset-management-corso-di-formazione-3-2026/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Changing Demand Trends: Shift towards RTC and storage-backed solutions in the C&I market",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-07-28",
+      "url": "https://renewablewatch.in/2026/07/28/changing-demand-trends-shift-towards-rtc-and-storage-backed-solutions-in-the-ci-market/",
       "reasons": [
         "风电相关性不足"
       ]
