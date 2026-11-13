@@ -1,5 +1,228 @@
 [
   {
+    "id": "p_9e3dde341fd01e5035",
+    "title": "云南省人民政府关于印发《云南省教育发展“十五五”规划》的通知",
+    "url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261111_4383583.html",
+    "source_id": "cn_ec89e3d97259",
+    "source_name": "云南省人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "云南",
+    "published_at": "2026-11-12",
+    "discovered_at": "2026-11-13T06:47:12+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "航空、雷达及国防限制",
+      "产品认证与技术标准",
+      "招投标与政府采购",
+      "安全生产与劳动法规",
+      "运维、质保及退役"
+    ],
+    "primary_dimension": "航空、雷达及国防限制",
+    "source_excerpt": "智能问答 (试运行) 长者模式 首页 省政府 政务公开 政务服务 互动交流 彩云之南 中央人民政府门户网站 简 | 繁 数字人播报 × 无障碍浏览 长者模式 | 个人中心登录 首页 省政府 省政府领导 省政府机构 省政府会议 常务会议日历 政府工作报告 政务公开 政府信息公开平台 政策文件 政策解读 省政府公报 云南省政策文件库 政务服务 互动交流 省长信箱 建议提案 意见征集 问卷调查 在线访谈 彩云之南 印象云南 投资云南 旅游云南 人文风情 州市名片 首页 > 政务公开 > 政策文件 > 最新文件 最新文件 索引号 530000001001/2026-02333 文号 云政发〔2026〕27号 来源 云南省人民政府办公厅 公开日期 2026-11-12 有效性 有效",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "智能问答 (试运行) 长者模式 首页 省政府 政务公开 政务服务 互动交流 彩云之南 中央人民政府门户网站 简 | 繁 数字人播报 × 无障碍浏览 长者模式 | 个人中心登录 首页 省政府 省政府领导 省政府机构 省政府会议 常务会议日历 政府工作报告 政务公开 政府信息公开平台 政策文件 政策解读 省政府公报 云南省政策文件库 政务服务 互动交流 省长信箱 建议提案 意见征集 问卷调查 在线访谈 彩云之南 印象云南 投资云南 旅游云南 人文风情 州市名片 首页 > 政务公开 > 政策文件 > 最新文件 最新文件 索引号 530000001001/2026-02333 文号 云政发〔2026〕27号 来源 云南省人民政府办公厅 公开日期 2026-11-12 有效性 有效 云南省人民政府关于印发《云南省教育发展 “十五五”规划》的通知 各州（市）人民"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "| 分享到: 分享到微信 × 相关文档： 中国政府网 国务院部门 省市政府 省政府部门 州市政府 微信 微博 电脑版 主办单位：云南省人民政府办公厅 运行维护：云南网 政务服务便民热线：12345 滇ICP备05000002号 政府网站标识码：5300000033 滇公网安备 53010202000476号 网站支持IPv6 云南省人大常委会 | 政协云南省委员会 | 云南省监察委员会 | 云南省高级人民法院 | 云南省检察院 国务院部门网站 外交部 国防部 国家发展和改革委员会 教育部 科学技术部 工业和信息化部 国家民族事务委员会 公安部 国家安全部 民政部 司法部 财政部 人力资源和社会保障部 自然资源部 生态环境部 住房和城乡建设部 交通运输部 水利部 农业农村部 商务部 文化和旅游部 国家卫生健康委员会 退役军人事务部 应急管理部 人民银行"
+      }
+    ],
+    "impact_design": "根据“智能问答 (试运行) 长者模式 首页 省政府 政务公开 政务服务 互动交流 彩云之南 中央人民政府门户网站 简 | 繁 数字人播报 × 无障碍浏览 长者模式 | 个人中心…”的文本线索，产品设计核查路径：核查塔高、航标灯、雷达兼容及工程布置需求。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核实航空净空、雷达审批是否限制可销售机型或项目选址。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核查塔高、航标灯、雷达兼容及工程布置需求；核实航空净空、雷达审批是否限制可销售机型或项目选址 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：智能问答 (试运行) 长者模式 首页 省政府 政务公开 政务服务 互动交流 彩云之南 中央人民政府门户网站 简 | 繁 数字人播报 × 无障碍浏览 长者模式 | 个人中心登录 首页 省政府 省政府领导 省政府机构 省政府会议 常务会议日历 政府工作报告 政务公开 政府信息公开平台 政策文件 政策解读 省政府公报 云南省政策文件库 政务服务 互动交流 省长信箱 建议提案 意见征集 问卷调查 在线访谈",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、电气与控制、项目开发",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "智能问答 (试运行) 长者模式 首页 省政府 政务公开 政务服务 互动交流 彩云之南 中央人民政府门户网站 简 | 繁 数字人播报 × 无障碍浏览 长者模式 | 个人中心登录 首页 省政府 省政府领导 省政府机构 省政府会议 常务会议日历 政府工作报告 政务公开 政府信息公开平台 政策文件 政策解读 省政府公报 云南省政策文件库 政务服务 互动交流 省长信箱 建议提案 意见征集 问卷调查 在线访谈 彩云之南 印象云南 投资云南 旅游云南 人文风情 州市名片 首页 > 政务公开 > 政策文件 > 最新文件 最新文件 索引号 530000001001/2026-02333 文号 云政发〔2026〕27号 来源 云南省人民政府办公厅 公开日期 2026-11-12 有效性 有效 云南省人民政府关于印发《云南省教育发展 “十五五”规划》的通知 各州（市）人民",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "| 分享到: 分享到微信 × 相关文档： 中国政府网 国务院部门 省市政府 省政府部门 州市政府 微信 微博 电脑版 主办单位：云南省人民政府办公厅 运行维护：云南网 政务服务便民热线：12345 滇ICP备05000002号 政府网站标识码：5300000033 滇公网安备 53010202000476号 网站支持IPv6 云南省人大常委会 | 政协云南省委员会 | 云南省监察委员会 | 云南省高级人民法院 | 云南省检察院 国务院部门网站 外交部 国防部 国家发展和改革委员会 教育部 科学技术部 工业和信息化部 国家民族事务委员会 公安部 国家安全部 民政部 司法部 财政部 人力资源和社会保障部 自然资源部 生态环境部 住房和城乡建设部 交通运输部 水利部 农业农村部 商务部 文化和旅游部 国家卫生健康委员会 退役军人事务部 应急管理部 人民银行",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "c46f4b20b526eb27ded5b52e96e137e213b08474ea87ec8f1ade76f6b41db491",
+    "originally_discovered_at": "2026-11-13T06:47:12+00:00"
+  },
+  {
+    "id": "p_4e61875f42a6a03390",
+    "title": "[现行有效] 北京市发展和改革委员会关于征集智能电网国家科技重大专项专题攻关公开项目的通知",
+    "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261112_4943458.htm",
+    "source_id": "cn_24e54ba38a1a",
+    "source_name": "北京市发展和改革委员会",
+    "region": "中国",
+    "country": "中国",
+    "province": "北京市",
+    "published_at": "2026-11-12",
+    "discovered_at": "2026-11-13T06:33:38+00:00",
+    "doc_type": "历史版本／失效",
+    "dimensions": [
+      "电网建设与接入",
+      "海上风电专项政策"
+    ],
+    "primary_dimension": "电网建设与接入",
+    "source_excerpt": "[主题分类] 其他 [发文机构] 北京市发展和改革委员会 [实施日期] 2026-11-10 [成文日期] 2026-11-10 [发文字号] 京发改 〔2026〕 1859号 [废止日期] [发布日期] 2026-11-12 [有效性] 现行有效 北京市发展和改革委员会关于征集智能电网国家科技重大专项专题攻关公开项目的通知 分享: X 各有关单位： 为落实智能电网国家科技重大专项有关部署要求，国家能源局印发了《关于发布智能电网国家科技重大专项专题攻关公开项目申报指南的通知》（国能发科技〔2026〕87号），围绕“海上风电汇集与送出系统构建”等六大专题19项指南任务组织项目申报工作，现就有关事项通知如下： 一、请各项目申报单位自行登录国家科技管理信息系统公共服务平台（ht",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "[主题分类] 其他 [发文机构] 北京市发展和改革委员会 [实施日期] 2026-11-10 [成文日期] 2026-11-10 [发文字号] 京发改 〔2026〕 1859号 [废止日期] [发布日期] 2026-11-12 [有效性] 现行有效 北京市发展和改革委员会关于征集智能电网国家科技重大专项专题攻关公开项目的通知 分享: X 各有关单位： 为落实智能电网国家科技重大专项有关部署要求，国家能源局印发了《关于发布智能电网国家科技重大专项专题攻关公开项目申报指南的通知》（国能发科技〔2026〕87号），围绕“海上风电汇集与送出系统构建”等六大专题19项指南任务组织项目申报工作，现就有关事项通知如下： 一、请各项目申报单位自行登录国家科技管理信息系统公共服务平台（http://service."
+      }
+    ],
+    "impact_design": "根据“[主题分类] 其他 [发文机构] 北京市发展和改革委员会 [实施日期] 2026-11-10 [成文日期] 2026-11-10 [发文字号] 京发改 〔2026〕 18…”的文本线索，产品设计核查路径：确认并网配套设备、线路接口及投运条件是否影响交付。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核对电网建设节点对销售回款、施工与交付计划的影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认并网配套设备、线路接口及投运条件是否影响交付；核对电网建设节点对销售回款、施工与交付计划的影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：[主题分类] 其他 [发文机构] 北京市发展和改革委员会 [实施日期] 2026-11-10 [成文日期] 2026-11-10 [发文字号] 京发改 〔2026〕 1859号 [废止日期] [发布日期] 2026-11-12 [有效性] 现行有效 北京市发展和改革委员会关于征集智能电网国家科技重大专项专题攻关公开项目的通知 分享: X 各有关单位： 为落实智能电网国家科技重大专项有关部署要求，国",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "电气与控制、项目开发、项目交付",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "[主题分类] 其他 [发文机构] 北京市发展和改革委员会 [实施日期] 2026-11-10 [成文日期] 2026-11-10 [发文字号] 京发改 〔2026〕 1859号 [废止日期] [发布日期] 2026-11-12 [有效性] 现行有效 北京市发展和改革委员会关于征集智能电网国家科技重大专项专题攻关公开项目的通知 分享: X 各有关单位： 为落实智能电网国家科技重大专项有关部署要求，国家能源局印发了《关于发布智能电网国家科技重大专项专题攻关公开项目申报指南的通知》（国能发科技〔2026〕87号），围绕“海上风电汇集与送出系统构建”等六大专题19项指南任务组织项目申报工作，现就有关事项通知如下： 一、请各项目申报单位自行登录国家科技管理信息系统公共服务平台（http://service.",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "642d50a932f7a31439cc9403c28ac525f673d2aa494d011f75873bd7347e5f90",
+    "originally_discovered_at": "2026-11-13T06:33:38+00:00"
+  },
+  {
+    "id": "p_4f4faaee6c14786d0e",
+    "title": "北京市发展和改革委员会关于征集智能电网国家科技重大专项专题攻关公开项目的通知",
+    "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261112_4943516.html",
+    "source_id": "cn_8101686d3883",
+    "source_name": "北京市人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "北京市",
+    "published_at": "2026-11-12",
+    "discovered_at": "2026-11-13T06:33:32+00:00",
+    "doc_type": "历史版本／失效",
+    "dimensions": [
+      "电网建设与接入",
+      "海上风电专项政策"
+    ],
+    "primary_dimension": "电网建设与接入",
+    "source_excerpt": "政务公开 > 政策服务 > 政策文件 [主题分类] 其他 [发文机构] 北京市发展和改革委员会 [联合发文单位] [实施日期] [成文日期] 2026-11-10 [发文字号] 京发改 〔2026〕 1859号 [废止日期] [发布日期] 2026-11-12 [有效性] 是 [文件来源] 政府公报 年 第期(总第期) 北京市发展和改革委员会关于征集智能电网国家科技重大专项专题攻关公开项目的通知 PDF格式下载 收藏 取消收藏 打印 字号： 大 中 小 京发改〔2026〕1859号 各有关单位： 为落实智能电网国家科技重大专项有关部署要求，国家能源局印发了《关于发布智能电网国家科技重大专项专题攻关公开项目申报指南的通知》（国能发科技〔2026〕87号），围绕“海上风电汇集",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "政务公开 > 政策服务 > 政策文件 [主题分类] 其他 [发文机构] 北京市发展和改革委员会 [联合发文单位] [实施日期] [成文日期] 2026-11-10 [发文字号] 京发改 〔2026〕 1859号 [废止日期] [发布日期] 2026-11-12 [有效性] 是 [文件来源] 政府公报 年 第期(总第期) 北京市发展和改革委员会关于征集智能电网国家科技重大专项专题攻关公开项目的通知 PDF格式下载 收藏 取消收藏 打印 字号： 大 中 小 京发改〔2026〕1859号 各有关单位： 为落实智能电网国家科技重大专项有关部署要求，国家能源局印发了《关于发布智能电网国家科技重大专项专题攻关公开项目申报指南的通知》（国能发科技〔2026〕87号），围绕“海上风电汇集与送出系统构建”等六大专题19项指南任务组织项目申报工作，现就有关事项通知如下："
+      }
+    ],
+    "impact_design": "根据“政务公开 > 政策服务 > 政策文件 [主题分类] 其他 [发文机构] 北京市发展和改革委员会 [联合发文单位] [实施日期] [成文日期] 2026-11-10 [发文…”的文本线索，产品设计核查路径：确认并网配套设备、线路接口及投运条件是否影响交付。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核对电网建设节点对销售回款、施工与交付计划的影响。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认并网配套设备、线路接口及投运条件是否影响交付；核对电网建设节点对销售回款、施工与交付计划的影响 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：政务公开 > 政策服务 > 政策文件 [主题分类] 其他 [发文机构] 北京市发展和改革委员会 [联合发文单位] [实施日期] [成文日期] 2026-11-10 [发文字号] 京发改 〔2026〕 1859号 [废止日期] [发布日期] 2026-11-12 [有效性] 是 [文件来源] 政府公报 年 第期(总第期) 北京市发展和改革委员会关于征集智能电网国家科技重大专项专题攻关公开项目的通知 ",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "电气与控制、项目开发、项目交付",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "政务公开 > 政策服务 > 政策文件 [主题分类] 其他 [发文机构] 北京市发展和改革委员会 [联合发文单位] [实施日期] [成文日期] 2026-11-10 [发文字号] 京发改 〔2026〕 1859号 [废止日期] [发布日期] 2026-11-12 [有效性] 是 [文件来源] 政府公报 年 第期(总第期) 北京市发展和改革委员会关于征集智能电网国家科技重大专项专题攻关公开项目的通知 PDF格式下载 收藏 取消收藏 打印 字号： 大 中 小 京发改〔2026〕1859号 各有关单位： 为落实智能电网国家科技重大专项有关部署要求，国家能源局印发了《关于发布智能电网国家科技重大专项专题攻关公开项目申报指南的通知》（国能发科技〔2026〕87号），围绕“海上风电汇集与送出系统构建”等六大专题19项指南任务组织项目申报工作，现就有关事项通知如下：",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "1024cef5d764653659c588f9ec3b267b8b058b83a343b3b4cf6b2b53e3f56349",
+    "originally_discovered_at": "2026-11-13T06:33:32+00:00"
+  },
+  {
     "id": "p_23a9310e9099d48276",
     "title": "北京市农业农村局 北京市档案局关于印发《北京市第二轮土地承包到期后再延长30年试点工作档案管理实施细则》的通知",
     "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261112_4943457.html",
@@ -64,6 +287,111 @@
     "article_evidence_available": true,
     "content_hash": "2476ae13b57b6afd386c1e88f02febd259e7158c3b5063f4359a88a4cf425f61",
     "originally_discovered_at": "2026-11-12T07:04:50+00:00"
+  },
+  {
+    "id": "p_1ec1ef3b54f54249df",
+    "title": "辽宁省人民政府办公厅关于印发 《辽宁省“十五五”服务业发展规划》的通知",
+    "url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfbgtwj/2026n/2026111216243141103/index.shtml",
+    "source_id": "cn_e8b37b376677",
+    "source_name": "辽宁省政府｜辽政办发",
+    "region": "中国",
+    "country": "中国",
+    "province": "辽宁省",
+    "published_at": "2026-11-11",
+    "discovered_at": "2026-11-13T06:51:22+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "运输与物流准入",
+      "供应链、ESG及碳足迹"
+    ],
+    "primary_dimension": "运输与物流准入",
+    "source_excerpt": "实施老旧物流仓储设施升级改造，普及智能分拣、全程溯源、自动温控装备，大力发展绿色低碳仓储，分类建设粮食储备仓、保税仓、海外仓等专业仓储载体，延伸仓储加工、分拨、供应链金融等增值服务。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "实施老旧物流仓储设施升级改造，普及智能分拣、全程溯源、自动温控装备，大力发展绿色低碳仓储，分类建设粮食储备仓、保税仓、海外仓等专业仓储载体，延伸仓储加工、分拨、供应链金融等增值服务。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "推动服务业内部跨界融合，培育数字创意、智慧康养、法律科技、供应链金融等新业态，充分释放融合型消费潜力。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "（四）拓展服务业国际合作 稳步扩大服务业制度型开放，加快沈阳、大连服务业扩大开放综合试点建设，落实跨境服务贸易负面清单，主动对接国际高标准经贸规则，深化跨境贸易便利化改革，推进“跨境电商+产业带”建设，拓展公共海外仓布局，支持文化、中医药等特色服务出口。"
+      }
+    ],
+    "impact_design": "根据“实施老旧物流仓储设施升级改造，普及智能分拣、全程溯源、自动温控装备，大力发展绿色低碳仓储，分类建设粮食储备仓、保税仓、海外仓等专业仓储载体，延伸仓储加工、分拨、供应链金融…”的文本线索，产品设计核查路径：核对风机叶片、塔筒及运输包装的尺寸重量边界。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查超限运输许可、港口与道路路线、保险及交期。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对风机叶片、塔筒及运输包装的尺寸重量边界；核查超限运输许可、港口与道路路线、保险及交期 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：实施老旧物流仓储设施升级改造，普及智能分拣、全程溯源、自动温控装备，大力发展绿色低碳仓储，分类建设粮食储备仓、保税仓、海外仓等专业仓储载体，延伸仓储加工、分拨、供应链金融等增值服务。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "物流与交付、产品研发、项目开发",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "实施老旧物流仓储设施升级改造，普及智能分拣、全程溯源、自动温控装备，大力发展绿色低碳仓储，分类建设粮食储备仓、保税仓、海外仓等专业仓储载体，延伸仓储加工、分拨、供应链金融等增值服务。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "推动服务业内部跨界融合，培育数字创意、智慧康养、法律科技、供应链金融等新业态，充分释放融合型消费潜力。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "（四）拓展服务业国际合作 稳步扩大服务业制度型开放，加快沈阳、大连服务业扩大开放综合试点建设，落实跨境服务贸易负面清单，主动对接国际高标准经贸规则，深化跨境贸易便利化改革，推进“跨境电商+产业带”建设，拓展公共海外仓布局，支持文化、中医药等特色服务出口。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "d9c6c03916dc6d1b08cb413087d8ab1ed539896b4d50a50e80b204de99c69bf9",
+    "originally_discovered_at": "2026-11-13T06:51:22+00:00"
   },
   {
     "id": "p_3504773f4ffb7473db",
@@ -656,23 +984,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-11-10",
-    "discovered_at": "2026-11-12T07:21:25+00:00",
+    "discovered_at": "2026-11-13T06:51:39+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "可再生能源开发与电价"
     ],
     "primary_dimension": "可再生能源开发与电价",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"0a851364d76571f8c3b99e4e6ebb9c05\",\"traceid\":\"276077c017944680850166197e82a9\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"155676358b0a610c0e723372058c4a94\",\"traceid\":\"276082ab17945526990716530efcf5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"0a851364d76571f8c3b99e4e6ebb9c05\",\"traceid\":\"276077c017944680850166197e82a9\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-n"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"155676358b0a610c0e723372058c4a94\",\"traceid\":\"276082ab17945526990716530efcf5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-M"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"0a851364d76571f8c3b99e4e6ebb9c05\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"155676358b0a610c0e723372058c4a94\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -693,7 +1021,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"0a851364d76571f8c3b99e4e6ebb9c05\",\"traceid\":\"276077c017944680850166197e82a9\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-n",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"155676358b0a610c0e723372058c4a94\",\"traceid\":\"276082ab17945526990716530efcf5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-M",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -709,9 +1037,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "68f382ee7f8fc858a0fd6982cd11431b93d663b76fac91d22b943937ff87a3f3",
+    "content_hash": "cdc3da74bb4d6a3851d837254f6111ccce7aa90c1b2450f03276cde7138ab35d",
     "originally_discovered_at": "2026-11-10T07:28:23+00:00",
-    "updated_at": "2026-11-12T07:25:40+00:00"
+    "updated_at": "2026-11-13T06:54:36+00:00"
   },
   {
     "id": "p_47c7d1bbcb6de45632",
@@ -12779,23 +13107,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-10-09",
-    "discovered_at": "2026-11-12T07:21:29+00:00",
+    "discovered_at": "2026-11-13T06:51:42+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "并网技术规范"
     ],
     "primary_dimension": "并网技术规范",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"cd5761679834db21bbd7fd4b5590a3eb\",\"traceid\":\"276077c017944680895746300e82a9\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"56b67aa81295e3a0799145a01b2ffa01\",\"traceid\":\"276082ab17945527023426634efcf5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"cd5761679834db21bbd7fd4b5590a3eb\",\"traceid\":\"276077c017944680895746300e82a9\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-S"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"56b67aa81295e3a0799145a01b2ffa01\",\"traceid\":\"276082ab17945527023426634efcf5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-9"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核对并网测试责任、接入确认、认证时间及合同里程碑。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核故障穿越、无功、频率响应及控制软件是否需适配；核对并网测试责任、接入确认、认证时间及合同里程碑 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"cd5761679834db21bbd7fd4b5590a3eb\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"56b67aa81295e3a0799145a01b2ffa01\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -12816,7 +13144,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"cd5761679834db21bbd7fd4b5590a3eb\",\"traceid\":\"276077c017944680895746300e82a9\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-S",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"56b67aa81295e3a0799145a01b2ffa01\",\"traceid\":\"276082ab17945527023426634efcf5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-9",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -12832,9 +13160,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "91eb1ad6450999620b5c626cd480ddae756eed732d42647b4a832808255e86e5",
+    "content_hash": "140a5336a3a95529173fdeee5ec4491a72d8782795c637b06520e8179563ad1f",
     "originally_discovered_at": "2026-10-15T07:58:14+00:00",
-    "updated_at": "2026-11-12T07:25:40+00:00"
+    "updated_at": "2026-11-13T06:54:36+00:00"
   },
   {
     "id": "p_f83c69d35a9d682cd7",
@@ -16579,23 +16907,23 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-09-16",
-    "discovered_at": "2026-11-12T07:21:30+00:00",
+    "discovered_at": "2026-11-13T06:51:43+00:00",
     "doc_type": "行业政策线索（待官方原文核验）",
     "dimensions": [
       "可再生能源开发与电价"
     ],
     "primary_dimension": "可再生能源开发与电价",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"bb9321ab97320deb86cfe9524ce65edc\",\"traceid\":\"276077c017944680906626340e82a9\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"43cb565b40d64819569f1ee938fe561e\",\"traceid\":\"276082ab17945527032616666efcf5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"bb9321ab97320deb86cfe9524ce65edc\",\"traceid\":\"276077c017944680906626340e82a9\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-D"
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"43cb565b40d64819569f1ee938fe561e\",\"traceid\":\"276082ab17945527032616666efcf5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-L"
       }
     ],
     "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
     "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
     "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"bb9321ab97320deb86cfe9524ce65edc\",\"traceid\":\"2760",
+    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"43cb565b40d64819569f1ee938fe561e\",\"traceid\":\"2760",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
@@ -16616,7 +16944,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"bb9321ab97320deb86cfe9524ce65edc\",\"traceid\":\"276077c017944680906626340e82a9\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-D",
+        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"43cb565b40d64819569f1ee938fe561e\",\"traceid\":\"276082ab17945527032616666efcf5\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-L",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -16632,9 +16960,9 @@
     ],
     "verification_status": "行业转载线索，需核对官方政策原文",
     "article_evidence_available": false,
-    "content_hash": "c01068a10fda748f39a35244078fb51547681d03bbba66db1c44dbd40204f967",
+    "content_hash": "83b3403daa62c731eb6a96a05c12020f113d48b6593ed9c23f8c6cb13f3ff12f",
     "originally_discovered_at": "2026-10-15T07:58:15+00:00",
-    "updated_at": "2026-11-12T07:25:40+00:00"
+    "updated_at": "2026-11-13T06:54:36+00:00"
   },
   {
     "id": "p_5bce90bf594d95cb32",

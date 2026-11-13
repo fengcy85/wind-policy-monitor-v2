@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-12T07:33:17+00:00",
-  "before": 449,
-  "kept": 386,
-  "filtered_out": 63,
+  "generated_at": "2026-11-13T07:02:34+00:00",
+  "before": 454,
+  "kept": 392,
+  "filtered_out": 62,
   "tag_counts": {
-    "竞对资讯": 331,
-    "电网建设": 29,
+    "竞对资讯": 337,
+    "电网建设": 30,
     "审批政策": 45,
     "招标采购": 87,
     "市场机制": 16,
@@ -13,18 +13,28 @@
   },
   "rejected_examples": [
     {
-      "title": "Onshore Wind",
-      "source_name": "Renewables Now",
+      "title": "Closer alignment between UK and EU on energy policy will cut bills and boost energy security",
+      "source_name": "WindEurope",
       "published_at": "2026-11-12",
-      "url": "https://renewablesnow.com/news/wind/",
+      "url": "https://windeurope.org/news/closer-alignment-between-uk-and-eu-on-energy-policy-will-cut-bills-and-boost-energy-security/",
       "reasons": [
-        "标题无效/栏目标题"
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Offshore wind deals can't spark sluggish PPA market",
+      "source_name": "Recharge",
+      "published_at": "2026-11-12",
+      "url": "https://www.rechargenews.com/corporate-power/offshore-wind-deals-cant-spark-sluggish-ppa-market/2-1-2071538",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
       ]
     },
     {
       "title": "09.11.2026 Ember: Kazakhstan can use wind to meet its growing power demand",
       "source_name": "QazaqGreen",
-      "published_at": "2026-11-11",
+      "published_at": "2026-11-12",
       "url": "https://qazaqgreen.com/en/news/kazakhstan/3996/",
       "reasons": [
         "无六类监测标签",
@@ -32,9 +42,9 @@
       ]
     },
     {
-      "title": "11.11.2026 Russia’s Omsk region plans to build its first wind farm",
+      "title": "Russia’s Omsk region plans to build its first wind farm",
       "source_name": "QazaqGreen",
-      "published_at": "2026-11-11",
+      "published_at": "2026-11-12",
       "url": "https://qazaqgreen.com/en/news/sng/4006/",
       "reasons": [
         "无六类监测标签",
@@ -57,26 +67,6 @@
       "url": "https://windeurope.org/news/re-source-2026-europe-needs-stronger-corporate-ppa-market-to-deliver-on-electrification-ambitions/",
       "reasons": [
         "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Energy security push 'can cut emissions' as wind and solar win both ways: WoodMac",
-      "source_name": "Recharge",
-      "published_at": "2026-11-10",
-      "url": "https://www.rechargenews.com/policy/energy-security-push-can-cut-emissions-as-wind-and-solar-win-both-ways-woodmac/2-1-2071907",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "EU greenlights €2bn in state aid for Belgian offshore wind",
-      "source_name": "Recharge",
-      "published_at": "2026-11-10",
-      "url": "https://www.rechargenews.com/offshore-wind/eu-greenlights-2bn-in-state-aid-for-belgian-offshore-wind/2-1-2072166",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
       ]
     },
     {
@@ -126,15 +116,6 @@
       ]
     },
     {
-      "title": "New Chapter – International Promotion of ASEE 2027–Australia",
-      "source_name": "ASEAN Wind Energy Expo",
-      "published_at": "2026-11-09",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=426",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-09",
@@ -142,6 +123,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "New Chapter – International Promotion of ASEE 2027–Australia",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-09",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=426",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -244,20 +234,20 @@
       ]
     },
     {
-      "title": "TERI Estimates India's Onshore Wind Potential at 2,933.9 GW at 200 m - Asia Pacific | Energetica India Magazine",
+      "title": "KPI Green Energy Signs 300 MW Wind Power PPA with SJVN - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-03",
-      "url": "https://www.energetica-india.net/news/teri-estimates-indias-onshore-wind-potential-at-29339-gw-at-200-m",
+      "url": "https://www.energetica-india.net/news/kpi-green-energy-signs-300-mw-wind-power-ppa-with-sjvn",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "KPI Green Energy Signs 300 MW Wind Power PPA with SJVN - Asia Pacific | Energetica India Magazine",
+      "title": "TERI Estimates India's Onshore Wind Potential at 2,933.9 GW at 200 m - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-03",
-      "url": "https://www.energetica-india.net/news/kpi-green-energy-signs-300-mw-wind-power-ppa-with-sjvn",
+      "url": "https://www.energetica-india.net/news/teri-estimates-indias-onshore-wind-potential-at-29339-gw-at-200-m",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -344,15 +334,6 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-14",
       "url": "https://www.aa.com.tr/en/energy/renewable",
       "reasons": [
         "风电相关性不足"
@@ -366,6 +347,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-14",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -436,19 +426,19 @@
       ]
     },
     {
-      "title": "Interview with Efectis' Dr Daniel Joyeux",
+      "title": "Beyond Boundaries: India’s cross-border grid ambitions",
       "source_name": "Renewable Watch",
       "published_at": "2026-10-01",
-      "url": "https://renewablewatch.in/2026/10/01/interview-with-efectis-dr-daniel-joyeux/",
+      "url": "https://renewablewatch.in/2026/10/13/beyond-boundaries-indias-cross-border-grid-ambitions/",
       "reasons": [
         "风电相关性不足"
       ]
     },
     {
-      "title": "Beyond Boundaries: India’s cross-border grid ambitions",
+      "title": "Interview with Efectis' Dr Daniel Joyeux",
       "source_name": "Renewable Watch",
       "published_at": "2026-10-01",
-      "url": "https://renewablewatch.in/2026/10/13/beyond-boundaries-indias-cross-border-grid-ambitions/",
+      "url": "https://renewablewatch.in/2026/10/01/interview-with-efectis-dr-daniel-joyeux/",
       "reasons": [
         "风电相关性不足"
       ]

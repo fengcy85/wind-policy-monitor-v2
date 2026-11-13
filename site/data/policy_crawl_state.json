@@ -1,6 +1,6 @@
 {
   "version": "V6.1",
-  "last_run": "2026-11-12T07:25:40+00:00",
+  "last_run": "2026-11-13T06:54:36+00:00",
   "configured_source_count": 138,
   "attempted_source_count": 138,
   "initial_phase_count": 121,
@@ -13,14 +13,14 @@
     "blocked": 12,
     "connection_error": 41,
     "error": 6,
-    "needs_adapter": 21,
+    "needs_adapter": 19,
     "ok_no_recent": 11,
     "ok_with_results": 2,
-    "partial_coverage": 45
+    "partial_coverage": 47
   },
   "change_counts": {
-    "inserted": 8,
+    "inserted": 4,
     "updated": 3,
-    "unchanged": 82
+    "unchanged": 85
   }
 }
