@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-14T06:40:36+00:00",
+  "generated_at": "2026-11-15T06:44:34+00:00",
   "before": 461,
-  "kept": 397,
-  "filtered_out": 64,
+  "kept": 398,
+  "filtered_out": 63,
   "tag_counts": {
     "竞对资讯": 342,
     "审批政策": 46,
     "电网建设": 30,
-    "招标采购": 87,
+    "招标采购": 88,
     "市场机制": 16,
     "宏观政策": 3
   },
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "title": "Russia’s Omsk region plans to build its first wind farm",
+      "title": "11.11.2026 Russia’s Omsk region plans to build its first wind farm",
       "source_name": "QazaqGreen",
       "published_at": "2026-11-13",
       "url": "https://qazaqgreen.com/en/news/sng/4006/",
@@ -59,6 +59,15 @@
       "url": "https://renewablewatch.in/2025/10/28/interview-with-pratik-agarwal-the-sector-is-set-to-become-greener-smarter-and-more-resilient/",
       "reasons": [
         "风电相关性不足"
+      ]
+    },
+    {
+      "title": "17 July 2026 Europe’s plan to double down on electricity will require a more robust ETS",
+      "source_name": "WindEurope",
+      "published_at": "2026-11-12",
+      "url": "https://windeurope.org/news/europes-plan-to-double-down-on-electricity-will-require-a-more-robust-ets/",
+      "reasons": [
+        "正文明确涉及风电"
       ]
     },
     {
@@ -185,20 +194,20 @@
       ]
     },
     {
-      "title": "Vietnam–Norway Cooperation Opens New Opportunities for the Offshore Wind Industry",
+      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-09",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=425",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
+      "title": "Vietnam–Norway Cooperation Opens New Opportunities for the Offshore Wind Industry",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-09",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=425",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -254,13 +263,21 @@
       ]
     },
     {
-      "title": "KPI Green Energy Signs 300 MW Wind Power PPA with SJVN - Asia Pacific | Energetica India Magazine",
-      "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-11-03",
-      "url": "https://www.energetica-india.net/news/kpi-green-energy-signs-300-mw-wind-power-ppa-with-sjvn",
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-11-04",
+      "url": "https://www.aa.com.tr/en/energy/renewable",
       "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-11-04",
+      "url": "https://www.aa.com.tr/en/energy/finance",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -268,6 +285,16 @@
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-03",
       "url": "https://www.energetica-india.net/news/teri-estimates-indias-onshore-wind-potential-at-29339-gw-at-200-m",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "KPI Green Energy Signs 300 MW Wind Power PPA with SJVN - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-03",
+      "url": "https://www.energetica-india.net/news/kpi-green-energy-signs-300-mw-wind-power-ppa-with-sjvn",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -327,15 +354,6 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-14",
       "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
       "reasons": [
         "风电相关性不足"
@@ -345,7 +363,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/finance",
+      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
       "reasons": [
         "风电相关性不足"
       ]
@@ -355,15 +373,6 @@
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
       "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/renewable",
       "reasons": [
         "风电相关性不足"
       ]
@@ -493,19 +502,19 @@
       ]
     },
     {
-      "title": "SEMINARIO VIA - ANEV",
+      "title": "28 Ottobre 2026 - SEMINARIO 4 - Power Purchase Agreement per le Rinnovabili per supportare gli obiettivi di crescita del PNIEC - ANEV",
       "source_name": "ANEV",
       "published_at": "2026-09-28",
-      "url": "https://www.anev.org/2026/09/28/seminario-via/",
+      "url": "https://www.anev.org/2026/09/28/seminario-4-2026-power-purchase-agreement-per-le-rinnovabili-per-supportare-gli-obiettivi-di-crescita-del-pniec/",
       "reasons": [
         "风电相关性不足"
       ]
     },
     {
-      "title": "28 Ottobre 2026 - SEMINARIO 4 - Power Purchase Agreement per le Rinnovabili per supportare gli obiettivi di crescita del PNIEC - ANEV",
+      "title": "SEMINARIO VIA - ANEV",
       "source_name": "ANEV",
       "published_at": "2026-09-28",
-      "url": "https://www.anev.org/2026/09/28/seminario-4-2026-power-purchase-agreement-per-le-rinnovabili-per-supportare-gli-obiettivi-di-crescita-del-pniec/",
+      "url": "https://www.anev.org/2026/09/28/seminario-via/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -517,16 +526,6 @@
       "url": "https://www.anev.org/2026/09/27/seminario-3-2026-impianti-eolici-interventi-sugli-impianti-in-esercizio-e-nuove-opportunita-del-dm-fer-x-definitivo/",
       "reasons": [
         "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Türkiye's first offshore wind YEKA project expected to draw $3B investment",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-25",
-      "url": "https://www.aa.com.tr/en/energy/electricity/turkiyes-first-offshore-wind-yeka-project-expected-to-draw-3b-investment/59836",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
       ]
     },
     {
@@ -610,15 +609,6 @@
       "source_name": "Renewable Watch",
       "published_at": "2026-07-28",
       "url": "https://renewablewatch.in/2026/07/28/changing-demand-trends-shift-towards-rtc-and-storage-backed-solutions-in-the-ci-market/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Europe’s plan to double down on electricity will require a more robust ETS",
-      "source_name": "WindEurope",
-      "published_at": "2026-07-17",
-      "url": "https://windeurope.org/news/europes-plan-to-double-down-on-electricity-will-require-a-more-robust-ets/",
       "reasons": [
         "风电相关性不足"
       ]

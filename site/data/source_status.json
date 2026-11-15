@@ -7,7 +7,7 @@
     "adapter": "Wind Power 专栏 + RSS + 站内搜索",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-14T06:32:57+00:00",
+    "checked_at": "2026-11-15T06:37:22+00:00",
     "error": "",
     "attempts": [
       {
@@ -45,7 +45,7 @@
     "adapter": "Wind Power 专栏 + 链接纠正",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-14T06:33:07+00:00",
+    "checked_at": "2026-11-15T06:37:33+00:00",
     "error": "",
     "attempts": [
       {
@@ -65,7 +65,7 @@
     "adapter": "News 列表 + 详情页核验 + 标题过滤",
     "status": "success",
     "found_count": 4,
-    "checked_at": "2026-11-14T06:33:24+00:00",
+    "checked_at": "2026-11-15T06:37:50+00:00",
     "error": "",
     "attempts": [
       {
@@ -85,7 +85,7 @@
     "adapter": "All News + Chromium 强制渲染 + 详情页风电过滤",
     "status": "no_news",
     "found_count": 0,
-    "checked_at": "2026-11-14T06:34:41+00:00",
+    "checked_at": "2026-11-15T06:39:07+00:00",
     "error": "",
     "attempts": [
       {
@@ -118,7 +118,7 @@
     "adapter": "News + RSS + 站内搜索",
     "status": "no_news",
     "found_count": 0,
-    "checked_at": "2026-11-14T06:34:46+00:00",
+    "checked_at": "2026-11-15T06:39:10+00:00",
     "error": "",
     "attempts": [
       {
@@ -156,7 +156,7 @@
     "adapter": "可再生能源栏目 + 越南语关键词 + 单层文章链接识别",
     "status": "success",
     "found_count": 7,
-    "checked_at": "2026-11-14T06:35:01+00:00",
+    "checked_at": "2026-11-15T06:39:26+00:00",
     "error": "",
     "attempts": [
       {
@@ -174,28 +174,28 @@
     "name": "MME",
     "role": "政府政策/规划",
     "adapter": "MME Notícias + 葡语站内搜索 + 浏览器兜底",
-    "status": "no_news",
+    "status": "error",
     "found_count": 0,
-    "checked_at": "2026-11-14T06:35:22+00:00",
-    "error": "",
+    "checked_at": "2026-11-15T06:39:31+00:00",
+    "error": "所有配置入口均未成功读取。",
     "attempts": [
       {
-        "strategy": "entry:requests",
+        "strategy": "entry",
         "url": "https://www.gov.br/mme/pt-br/assuntos/noticias",
-        "ok": true,
-        "candidates": 20
+        "ok": false,
+        "error": "RuntimeError: requests=HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mme/pt-br/assuntos/noticias (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))); browser=Page.goto: net::ERR_CONNECTION_RESET at https://www.gov.br/mme/pt-br/assuntos/noticias\nCall log:\n  - navigating to \"https://www.gov.br/mme/pt-br/assuntos/noticias\", waiting until \"domcontentloaded\"\n"
       },
       {
-        "strategy": "search:requests",
+        "strategy": "search",
         "url": "https://www.gov.br/mme/pt-br/@@search?SearchableText=energia+eolica",
-        "ok": true,
-        "candidates": 1
+        "ok": false,
+        "error": "RuntimeError: requests=HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mme/pt-br/@@search?SearchableText=energia+eolica (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))); browser=Page.goto: net::ERR_CONNECTION_RESET at https://www.gov.br/mme/pt-br/@@search?SearchableText=energia+eolica\nCall log:\n  - navigating to \"https://www.gov.br/mme/pt-br/@@search?SearchableText=energia+eolica\", waiting until \"domcontentloaded\"\n"
       },
       {
-        "strategy": "search:requests",
+        "strategy": "search",
         "url": "https://www.gov.br/mme/pt-br/@@search?SearchableText=eolica",
-        "ok": true,
-        "candidates": 1
+        "ok": false,
+        "error": "RuntimeError: requests=HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mme/pt-br/@@search?SearchableText=eolica (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))); browser=Page.goto: net::ERR_CONNECTION_RESET at https://www.gov.br/mme/pt-br/@@search?SearchableText=eolica\nCall log:\n  - navigating to \"https://www.gov.br/mme/pt-br/@@search?SearchableText=eolica\", waiting until \"domcontentloaded\"\n"
       }
     ],
     "strategic_kept_total": 1
@@ -208,7 +208,7 @@
     "adapter": "首页 + RSS + 站内搜索",
     "status": "no_news",
     "found_count": 0,
-    "checked_at": "2026-11-14T06:35:57+00:00",
+    "checked_at": "2026-11-15T06:40:10+00:00",
     "error": "",
     "attempts": [
       {
@@ -246,7 +246,7 @@
     "adapter": "News + RSS + 站内搜索",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-14T06:36:13+00:00",
+    "checked_at": "2026-11-15T06:40:22+00:00",
     "error": "",
     "attempts": [
       {
@@ -284,7 +284,7 @@
     "adapter": "Media & News 列表 + 日期提示 + 详情页兜底",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-14T06:36:23+00:00",
+    "checked_at": "2026-11-15T06:40:32+00:00",
     "error": "",
     "attempts": [
       {
@@ -304,7 +304,7 @@
     "adapter": "News + Chromium 动态渲染 + 宽入口详情核验",
     "status": "no_news",
     "found_count": 0,
-    "checked_at": "2026-11-14T06:36:49+00:00",
+    "checked_at": "2026-11-15T06:40:57+00:00",
     "error": "",
     "attempts": [
       {
@@ -330,7 +330,7 @@
     "adapter": "Wind 专栏",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-14T06:37:02+00:00",
+    "checked_at": "2026-11-15T06:41:10+00:00",
     "error": "",
     "attempts": [
       {
@@ -340,7 +340,7 @@
         "candidates": 20
       }
     ],
-    "strategic_kept_total": 6
+    "strategic_kept_total": 7
   },
   {
     "id": "anev",
@@ -350,7 +350,7 @@
     "adapter": "NEWS + Comunicati Stampa + 意大利语搜索",
     "status": "success",
     "found_count": 6,
-    "checked_at": "2026-11-14T06:37:26+00:00",
+    "checked_at": "2026-11-15T06:41:34+00:00",
     "error": "",
     "attempts": [
       {
@@ -393,8 +393,8 @@
     "role": "全球风电专业媒体",
     "adapter": "Latest + 首页 + 浏览器兜底（不绕过付费墙）",
     "status": "success",
-    "found_count": 7,
-    "checked_at": "2026-11-14T06:38:42+00:00",
+    "found_count": 8,
+    "checked_at": "2026-11-15T06:42:45+00:00",
     "error": "",
     "attempts": [
       {
@@ -413,7 +413,7 @@
         "strategy": "budget",
         "url": "",
         "ok": true,
-        "candidates": 7,
+        "candidates": 8,
         "note": "单站达到时间上限，已停止继续深挖。"
       }
     ],
@@ -427,7 +427,7 @@
     "adapter": "News 专页 + 详情页",
     "status": "success",
     "found_count": 9,
-    "checked_at": "2026-11-14T06:38:59+00:00",
+    "checked_at": "2026-11-15T06:43:01+00:00",
     "error": "",
     "attempts": [
       {
@@ -447,7 +447,7 @@
     "adapter": "月度归档 → 日期归档 → 风电文章（403 时使用列表信息）",
     "status": "success",
     "found_count": 6,
-    "checked_at": "2026-11-14T06:40:16+00:00",
+    "checked_at": "2026-11-15T06:44:18+00:00",
     "error": "",
     "attempts": [
       {
