@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-18T07:47:09+00:00",
+  "generated_at": "2026-11-19T07:41:45+00:00",
   "period": {
     "days": 7,
-    "start": "2026-11-12",
-    "end": "2026-11-18"
+    "start": "2026-11-13",
+    "end": "2026-11-19"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -97,9 +97,9 @@
     {
       "country": "哈萨克斯坦",
       "source_name": "QazaqGreen",
-      "title": "RWE and KKR commit £12 billion to UK offshore wind",
+      "title": "12.11.2026 RWE and KKR commit £12 billion to UK offshore wind",
       "translated_title": "RWE和KKR为英国近海风力公司承诺投入120亿英镑",
-      "published_at": "2026-11-18",
+      "published_at": "2026-11-19",
       "url": "https://qazaqgreen.com/en/news/world/4012/",
       "tags": [
         "竞对资讯",
@@ -122,7 +122,7 @@
       "source_name": "QazaqGreen",
       "title": "Agreements to build two wind farms in Kazakhstan signed at COP31",
       "translated_title": "12.11.2026 COP31签署的在哈萨克斯坦建造两个风电场的协定",
-      "published_at": "2026-11-18",
+      "published_at": "2026-11-19",
       "url": "https://qazaqgreen.com/en/news/kazakhstan/4010/",
       "tags": [
         "竞对资讯"
@@ -163,6 +163,31 @@
       "importance_reason": "竞对资讯 · 招标采购 · ReNew"
     },
     {
+      "country": "全球",
+      "source_name": "Recharge",
+      "title": "Siemens Gamesa bags major new offshore wind turbine order",
+      "translated_title": "Siemens Gamesa 邮袋 大型新的岸外风电机组订单",
+      "published_at": "2026-11-18",
+      "url": "https://www.rechargenews.com/offshore-wind/siemens-gamesa-bags-major-new-offshore-wind-turbine-order/2-1-2075785",
+      "tags": [
+        "竞对资讯",
+        "招标采购"
+      ],
+      "competitors": [
+        "Siemens Gamesa",
+        "Copenhagen Infrastructure Partners",
+        "Vattenfall"
+      ],
+      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 标题明确风电",
+      "signals": [
+        "竞对资讯",
+        "招标采购",
+        "Siemens Gamesa"
+      ],
+      "rank": 7,
+      "importance_reason": "竞对资讯 · 招标采购 · Siemens Gamesa"
+    },
+    {
       "country": "东南亚",
       "source_name": "ASEAN Wind Energy Expo",
       "title": "Vestas Secures 137 MW in New Wind Orders Across Europe and Latin America",
@@ -182,34 +207,8 @@
         "竞对资讯",
         "招标采购"
       ],
-      "rank": 7,
-      "importance_reason": "137 MW · 竞对资讯 · 招标采购"
-    },
-    {
-      "country": "全球",
-      "source_name": "Recharge",
-      "title": "Clearway Energy charts path around renewable tax credit cliff onshore wind 12.11.2026",
-      "translated_title": "环绕可再生税收抵免悬崖的清远能源图示 岸风 12.11. 2026.",
-      "published_at": "2026-11-17",
-      "url": "https://www.rechargenews.com/onshore-wind/clearway-energy-charts-path-around-renewable-tax-credit-cliff/2-1-2072319",
-      "tags": [
-        "竞对资讯",
-        "招标采购"
-      ],
-      "competitors": [
-        "Vestas",
-        "Orsted",
-        "RWE",
-        "ReNew"
-      ],
-      "monitor_reason": "正文含招标/采购 · 竞对项目动态 · 标题明确风电",
-      "signals": [
-        "竞对资讯",
-        "招标采购",
-        "Vestas"
-      ],
       "rank": 8,
-      "importance_reason": "竞对资讯 · 招标采购 · Vestas"
+      "importance_reason": "137 MW · 竞对资讯 · 招标采购"
     }
   ]
 }

@@ -1,24 +1,25 @@
 {
-  "generated_at": "2026-11-18T07:47:09+00:00",
-  "before": 474,
-  "kept": 411,
-  "filtered_out": 63,
+  "generated_at": "2026-11-19T07:41:45+00:00",
+  "before": 476,
+  "kept": 415,
+  "filtered_out": 61,
   "tag_counts": {
-    "竞对资讯": 353,
-    "招标采购": 93,
+    "竞对资讯": 356,
     "电网建设": 30,
-    "审批政策": 47,
+    "招标采购": 95,
+    "审批政策": 48,
     "市场机制": 17,
     "宏观政策": 3
   },
   "rejected_examples": [
     {
-      "title": "Onshore Wind",
-      "source_name": "Renewables Now",
-      "published_at": "2026-11-18",
-      "url": "https://renewablesnow.com/news/wind/",
+      "title": "11.11.2026 Russia’s Omsk region plans to build its first wind farm",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-11-19",
+      "url": "https://qazaqgreen.com/en/news/sng/4006/",
       "reasons": [
-        "标题无效/栏目标题"
+        "无六类监测标签",
+        "标题明确风电"
       ]
     },
     {
@@ -32,20 +33,20 @@
       ]
     },
     {
-      "title": "11.11.2026 Russia’s Omsk region plans to build its first wind farm",
-      "source_name": "QazaqGreen",
+      "title": "Khởi công dự án Điện gió Tây Hồ - Chư Prông và Điện mặt trời nổi Bàu Cạn (tại Gia Lai)",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-11-18",
-      "url": "https://qazaqgreen.com/en/news/sng/4006/",
+      "url": "https://nangluongvietnam.vn/khoi-cong-du-an-dien-gio-tay-ho-chu-prong-va-dien-mat-troi-noi-bau-can-tai-gia-lai-36938.html",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Wind plus solar and batteries slashes costs in 'fundamental shift in energy economics'",
-      "source_name": "Recharge",
-      "published_at": "2026-11-17",
-      "url": "https://www.rechargenews.com/onshore-wind/wind-plus-solar-and-batteries-slashes-costs-in-fundamental-shift-in-energy-economics/2-1-2074953",
+      "title": "Nhà máy Điện gió Công Hải 1 (giai đoạn 2) chính thức hòa lưới điện quốc gia",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-11-18",
+      "url": "https://nangluongvietnam.vn/nha-may-dien-gio-cong-hai-1-giai-doan-2-chinh-thuc-hoa-luoi-dien-quoc-gia-36939.html",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -156,20 +157,20 @@
       ]
     },
     {
-      "title": "Vietnam–Norway Cooperation Opens New Opportunities for the Offshore Wind Industry",
+      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=425",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
+      "title": "Vietnam–Norway Cooperation Opens New Opportunities for the Offshore Wind Industry",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=425",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -359,16 +360,6 @@
       ]
     },
     {
-      "title": "Chấp thuận chủ trương đầu tư, nhà đầu tư dự án Nhà máy Điện gió Đình Lập 5 (tỉnh Lạng Sơn)",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-19",
-      "url": "https://nangluongvietnam.vn/chap-thuan-chu-truong-dau-tu-nha-dau-tu-du-an-nha-may-dien-gio-dinh-lap-5-tinh-lang-son-36783.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "Juniper Green Energy Commissions Additional 65.4 MW Wind Capacity - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-10-19",
@@ -397,15 +388,6 @@
       ]
     },
     {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "Türkiye's wind power capacity could save $4B each year on natural gas imports",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
@@ -416,22 +398,21 @@
       ]
     },
     {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-14",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "WindEurope opposes reopening of Birds and Habitats Directive",
       "source_name": "WindEurope",
       "published_at": "2026-10-12",
       "url": "https://windeurope.org/news/how-wind-energy-supports-biodiversity/",
       "reasons": [
         "正文明确涉及风电"
-      ]
-    },
-    {
-      "title": "T&T Group tiếp tục đầu tư dự án Nhà máy điện gió Savan 2 (gần 500 MW) tại Lào",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-10",
-      "url": "https://nangluongvietnam.vn/tt-group-tiep-tuc-dau-tu-du-an-nha-may-dien-gio-savan-2-gan-500-mw-tai-lao-36748.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
       ]
     },
     {
