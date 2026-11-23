@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-11-22T07:05:43+00:00",
-  "before": 488,
-  "kept": 428,
-  "filtered_out": 60,
+  "generated_at": "2026-11-23T07:56:32+00:00",
+  "before": 491,
+  "kept": 430,
+  "filtered_out": 61,
   "tag_counts": {
-    "竞对资讯": 368,
+    "竞对资讯": 370,
+    "电网建设": 30,
     "招标采购": 98,
     "宏观政策": 4,
-    "电网建设": 30,
     "审批政策": 48,
     "市场机制": 17
   },
   "rejected_examples": [
     {
-      "title": "Dubai to test wind turbines to power traffic lights and street lamps",
+      "title": "Offshore Wind",
+      "source_name": "Renewables Now",
+      "published_at": "2026-11-23",
+      "url": "https://renewablesnow.com/news/offshore-wind/",
+      "reasons": [
+        "标题无效/栏目标题"
+      ]
+    },
+    {
+      "title": "20.11.2026 Dubai to test wind turbines to power traffic lights and street lamps",
       "source_name": "QazaqGreen",
-      "published_at": "2026-11-20",
+      "published_at": "2026-11-23",
       "url": "https://qazaqgreen.com/en/news/world/4025/",
       "reasons": [
         "无六类监测标签",
@@ -65,15 +74,6 @@
       "title": "post image",
       "source_name": "Renewable Watch",
       "published_at": "2026-11-17",
-      "url": "https://renewablewatch.in/2026/08/24/freyr-energy-unveils-solar-inverters-with-sic-technology/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "post image",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-11-17",
       "url": "https://renewablewatch.in/2026/09/10/vsl-powerhive-launches-liquid-cooled-bess-for-ci-applications/",
       "reasons": [
         "风电相关性不足"
@@ -83,7 +83,7 @@
       "title": "post image",
       "source_name": "Renewable Watch",
       "published_at": "2026-11-17",
-      "url": "https://renewablewatch.in/2026/07/23/truere-oriana-power-strengthening-its-bess-portfolio/",
+      "url": "https://renewablewatch.in/2026/08/24/freyr-energy-unveils-solar-inverters-with-sic-technology/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -98,6 +98,15 @@
       ]
     },
     {
+      "title": "post image",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-11-17",
+      "url": "https://renewablewatch.in/2026/07/23/truere-oriana-power-strengthening-its-bess-portfolio/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "New Chapter – International Promotion of ASEE 2027–Australia",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
@@ -107,20 +116,20 @@
       ]
     },
     {
-      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
+      "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=390",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
+      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=390",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -137,20 +146,20 @@
       ]
     },
     {
-      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
+      "title": "From Guangzhou to Bangkok: Bringing the Global Wind Industry to Southeast Asia",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=402",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "From Guangzhou to Bangkok: Bringing the Global Wind Industry to Southeast Asia",
+      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=402",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -491,15 +500,6 @@
       ]
     },
     {
-      "title": "SEMINARIO VIA - 9 Dicembre 2026 - ANEV",
-      "source_name": "ANEV",
-      "published_at": "2026-09-29",
-      "url": "https://www.anev.org/2026/09/29/seminario-via-9-dicembre-2026/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "Wind Offshore - CORSO DI FORMAZIONE 4/2026 - ANEV",
       "source_name": "ANEV",
       "published_at": "2026-09-29",
@@ -507,6 +507,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "SEMINARIO VIA - 9 Dicembre 2026 - ANEV",
+      "source_name": "ANEV",
+      "published_at": "2026-09-29",
+      "url": "https://www.anev.org/2026/09/29/seminario-via-9-dicembre-2026/",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
