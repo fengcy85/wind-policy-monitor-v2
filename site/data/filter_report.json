@@ -1,31 +1,80 @@
 {
-  "generated_at": "2026-11-23T07:56:32+00:00",
-  "before": 491,
-  "kept": 430,
-  "filtered_out": 61,
+  "generated_at": "2026-11-24T10:13:51+00:00",
+  "before": 500,
+  "kept": 434,
+  "filtered_out": 66,
   "tag_counts": {
-    "竞对资讯": 370,
-    "电网建设": 30,
-    "招标采购": 98,
+    "竞对资讯": 372,
+    "审批政策": 49,
+    "电网建设": 31,
+    "招标采购": 99,
     "宏观政策": 4,
-    "审批政策": 48,
     "市场机制": 17
   },
   "rejected_examples": [
     {
+      "title": "Onshore Wind",
+      "source_name": "Renewables Now",
+      "published_at": "2026-11-24",
+      "url": "https://renewablesnow.com/news/wind/",
+      "reasons": [
+        "标题无效/栏目标题"
+      ]
+    },
+    {
       "title": "Offshore Wind",
       "source_name": "Renewables Now",
-      "published_at": "2026-11-23",
+      "published_at": "2026-11-24",
       "url": "https://renewablesnow.com/news/offshore-wind/",
       "reasons": [
         "标题无效/栏目标题"
       ]
     },
     {
-      "title": "20.11.2026 Dubai to test wind turbines to power traffic lights and street lamps",
+      "title": "INTERVIEW - X1 Wind lines up over 85% of funding for 8.5-MW floating platform",
+      "source_name": "Renewables Now",
+      "published_at": "2026-11-24",
+      "url": "https://renewablesnow.com/news/interview-x1-wind-lines-up-over-85-percent-of-funding-for-8-5-mw-floating-platform-1305486/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Europe’s circular Economy Act should build on wind industry’s best practices",
+      "source_name": "WindEurope",
+      "published_at": "2026-11-24",
+      "url": "https://windeurope.org/news/europes-circular-economy-act-should-build-on-wind-industrys-best-practices/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "World's tallest turbine taps into 'offshore winds on land'",
+      "source_name": "Recharge",
+      "published_at": "2026-11-24",
+      "url": "https://www.rechargenews.com/technology/worlds-tallest-turbine-taps-into-offshore-winds-on-land/2-1-2078569",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Dubai to test wind turbines to power traffic lights and street lamps",
       "source_name": "QazaqGreen",
-      "published_at": "2026-11-23",
+      "published_at": "2026-11-24",
       "url": "https://qazaqgreen.com/en/news/world/4025/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "New York doubles down on offshore wind after Trump election rebuke",
+      "source_name": "Recharge",
+      "published_at": "2026-11-23",
+      "url": "https://www.rechargenews.com/offshore-wind/new-york-doubles-down-on-offshore-wind-after-trump-election-rebuke/2-1-2078374",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -42,20 +91,20 @@
       ]
     },
     {
-      "title": "Khởi công dự án Điện gió Tây Hồ - Chư Prông và Điện mặt trời nổi Bàu Cạn (tại Gia Lai)",
+      "title": "Nhà máy Điện gió Công Hải 1 (giai đoạn 2) chính thức hòa lưới điện quốc gia",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-11-18",
-      "url": "https://nangluongvietnam.vn/khoi-cong-du-an-dien-gio-tay-ho-chu-prong-va-dien-mat-troi-noi-bau-can-tai-gia-lai-36938.html",
+      "url": "https://nangluongvietnam.vn/nha-may-dien-gio-cong-hai-1-giai-doan-2-chinh-thuc-hoa-luoi-dien-quoc-gia-36939.html",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Nhà máy Điện gió Công Hải 1 (giai đoạn 2) chính thức hòa lưới điện quốc gia",
+      "title": "Khởi công dự án Điện gió Tây Hồ - Chư Prông và Điện mặt trời nổi Bàu Cạn (tại Gia Lai)",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-11-18",
-      "url": "https://nangluongvietnam.vn/nha-may-dien-gio-cong-hai-1-giai-doan-2-chinh-thuc-hoa-luoi-dien-quoc-gia-36939.html",
+      "url": "https://nangluongvietnam.vn/khoi-cong-du-an-dien-gio-tay-ho-chu-prong-va-dien-mat-troi-noi-bau-can-tai-gia-lai-36938.html",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -92,7 +141,7 @@
       "title": "post image",
       "source_name": "Renewable Watch",
       "published_at": "2026-11-17",
-      "url": "https://renewablewatch.in/2026/10/09/aerem-addressing-financing-challenges-in-distributed-solar/",
+      "url": "https://renewablewatch.in/2026/07/23/truere-oriana-power-strengthening-its-bess-portfolio/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -101,7 +150,7 @@
       "title": "post image",
       "source_name": "Renewable Watch",
       "published_at": "2026-11-17",
-      "url": "https://renewablewatch.in/2026/07/23/truere-oriana-power-strengthening-its-bess-portfolio/",
+      "url": "https://renewablewatch.in/2026/10/09/aerem-addressing-financing-challenges-in-distributed-solar/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -294,7 +343,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-11-04",
-      "url": "https://www.aa.com.tr/en/energy/finance",
+      "url": "https://www.aa.com.tr/en/energy/renewable",
       "reasons": [
         "风电相关性不足"
       ]
@@ -303,7 +352,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-11-04",
-      "url": "https://www.aa.com.tr/en/energy/renewable",
+      "url": "https://www.aa.com.tr/en/energy/finance",
       "reasons": [
         "风电相关性不足"
       ]
@@ -387,6 +436,15 @@
       ]
     },
     {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-14",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Türkiye's wind power capacity could save $4B each year on natural gas imports",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
@@ -394,15 +452,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -500,6 +549,15 @@
       ]
     },
     {
+      "title": "SEMINARIO VIA - 9 Dicembre 2026 - ANEV",
+      "source_name": "ANEV",
+      "published_at": "2026-09-29",
+      "url": "https://www.anev.org/2026/09/29/seminario-via-9-dicembre-2026/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Wind Offshore - CORSO DI FORMAZIONE 4/2026 - ANEV",
       "source_name": "ANEV",
       "published_at": "2026-09-29",
@@ -507,15 +565,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "SEMINARIO VIA - 9 Dicembre 2026 - ANEV",
-      "source_name": "ANEV",
-      "published_at": "2026-09-29",
-      "url": "https://www.anev.org/2026/09/29/seminario-via-9-dicembre-2026/",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
