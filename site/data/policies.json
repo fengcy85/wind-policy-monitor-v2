@@ -1,5 +1,245 @@
 [
   {
+    "id": "p_04808493189a7109a1",
+    "title": "贵州省能源局行政处罚公告（2026年第193号)",
+    "url": "https://nyj.guizhou.gov.cn/xwzx/gsgg/202611/t20261125_91138576.html",
+    "source_id": "cn_61f329f622c8",
+    "source_name": "贵州省能源局",
+    "region": "中国",
+    "country": "中国",
+    "province": "贵州",
+    "published_at": "2026-11-25",
+    "discovered_at": "2026-11-25T08:35:16+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "安全生产与劳动法规"
+    ],
+    "primary_dimension": "安全生产与劳动法规",
+    "source_excerpt": "贵州省能源局行政处罚公告 被处罚单位 贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿） 案件名称 贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿）存在重大隐患被责令停产整顿暂扣安全生产许可证案 处罚决定书文号 黔（能）煤安罚〔2026〕109号 处罚决定时间 2026年11月24日 处罚结果 暂扣贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿）的《安全生产许可证》｛编号：（黔）MK安许证字〔3409〕｝，自决定送达之日起至隐患整改合格并依法申请返还。 处罚事由 2026 年 11 月 13 日，国家矿山安全监察局贵州局对贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿）下达《行政处罚决定书》 ( 矿安监黔煤执四罚〔 2026 〕 1-068 号 ) ，作出责令停产整顿 7 ",
+    "clauses": [
+      {
+        "clause": "第七十三条",
+        "excerpt": "贵州省能源局行政处罚公告 被处罚单位 贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿） 案件名称 贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿）存在重大隐患被责令停产整顿暂扣安全生产许可证案 处罚决定书文号 黔（能）煤安罚〔2026〕109号 处罚决定时间 2026年11月24日 处罚结果 暂扣贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿）的《安全生产许可证》｛编号：（黔）MK安许证字〔3409〕｝，自决定送达之日起至隐患整改合格并依法申请返还。 处罚事由 2026 年 11 月 13 日，国家矿山安全监察局贵州局对贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿）下达《行政处罚决定书》 ( 矿安监黔煤执四罚〔 2026 〕 1-068 号 ) ，作出责令停产整顿 7 日的行政处罚。 处罚依据 《煤矿安全生产条例》第七十三条 救济渠道 行政复议和行"
+      }
+    ],
+    "impact_design": "根据“贵州省能源局行政处罚公告 被处罚单位 贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿） 案件名称 贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿）存在重大隐患被责令停产整…”的文本线索，产品设计核查路径：复核安全联锁、施工检修措施及设备技术文件。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查施工、运维责任划分、人员培训及保险合同。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核安全联锁、施工检修措施及设备技术文件；核查施工、运维责任划分、人员培训及保险合同 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：贵州省能源局行政处罚公告 被处罚单位 贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿） 案件名称 贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿）存在重大隐患被责令停产整顿暂扣安全生产许可证案 处罚决定书文号 黔（能）煤安罚〔2026〕109号 处罚决定时间 2026年11月24日 处罚结果 暂扣贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿）的《安全生产许可证》｛编号：（黔）MK安许证字〔340",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、运维服务、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "第七十三条",
+        "excerpt": "贵州省能源局行政处罚公告 被处罚单位 贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿） 案件名称 贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿）存在重大隐患被责令停产整顿暂扣安全生产许可证案 处罚决定书文号 黔（能）煤安罚〔2026〕109号 处罚决定时间 2026年11月24日 处罚结果 暂扣贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿）的《安全生产许可证》｛编号：（黔）MK安许证字〔3409〕｝，自决定送达之日起至隐患整改合格并依法申请返还。 处罚事由 2026 年 11 月 13 日，国家矿山安全监察局贵州局对贵州织金大雁煤业有限公司（织金县少普乡大雁煤矿）下达《行政处罚决定书》 ( 矿安监黔煤执四罚〔 2026 〕 1-068 号 ) ，作出责令停产整顿 7 日的行政处罚。 处罚依据 《煤矿安全生产条例》第七十三条 救济渠道 行政复议和行",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "92ffecdb2bc3f5e9f537df44ab433f5e46f35a401b34e01b58efc572ffa401d3",
+    "originally_discovered_at": "2026-11-25T08:35:16+00:00"
+  },
+  {
+    "id": "p_e2d091996e18ec65bb",
+    "title": "北京市财政局关于印发《北京市政府采购行政裁决办法》的通知",
+    "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261125_4957397.html",
+    "source_id": "cn_8101686d3883",
+    "source_name": "北京市人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "北京市",
+    "published_at": "2026-11-25",
+    "discovered_at": "2026-11-25T08:22:59+00:00",
+    "doc_type": "历史版本／失效",
+    "dimensions": [
+      "招投标与政府采购"
+    ],
+    "primary_dimension": "招投标与政府采购",
+    "source_excerpt": "政务公开 > 政策服务 > 政策文件 [主题分类] 财政、金融、审计/财政 [发文机构] 北京市财政局 [联合发文单位] [实施日期] [成文日期] 2026-11-25 [发文字号] 京财采购 〔2026〕 1564号 [废止日期] [发布日期] 2026-11-25 [有效性] 是 [文件来源] 政府公报 年 第期(总第期) 北京市财政局关于印发《北京市政府采购行政裁决办法》的通知 附件1：北京市政府采购行政裁决办法 附件2：《北京市政府采购行政裁决办法》政策解读 PDF格式下载 收藏 取消收藏 打印 字号： 大 中 小 京财采购〔2026〕1564号 市属各预算单位，各区财政局： 为落实《财政部办公厅司法部办公厅〈关于确定第二批政府采购行政裁决示范点的通知〉》（财办",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "政务公开 > 政策服务 > 政策文件 [主题分类] 财政、金融、审计/财政 [发文机构] 北京市财政局 [联合发文单位] [实施日期] [成文日期] 2026-11-25 [发文字号] 京财采购 〔2026〕 1564号 [废止日期] [发布日期] 2026-11-25 [有效性] 是 [文件来源] 政府公报 年 第期(总第期) 北京市财政局关于印发《北京市政府采购行政裁决办法》的通知 附件1：北京市政府采购行政裁决办法 附件2：《北京市政府采购行政裁决办法》政策解读 PDF格式下载 收藏 取消收藏 打印 字号： 大 中 小 京财采购〔2026〕1564号 市属各预算单位，各区财政局： 为落实《财政部办公厅司法部办公厅〈关于确定第二批政府采购行政裁决示范点的通知〉》（财办库〔2024〕38号）部署，深入推进我市政府采购行政裁决工作规范化、制度化、法治"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "北京市财政局 2026年11月20日 附件1：北京市政府采购行政裁决办法 附件2：《北京市政府采购行政裁决办法》政策解读 分享： X 相关解读 【文字解读】《北京市政府采购行政裁决办法》政策解读 相关政策 评价 建议 您访问的链接即将离开“首都之窗”门户网站 是否继续？ 放弃"
+      }
+    ],
+    "impact_design": "根据“政务公开 > 政策服务 > 政策文件 [主题分类] 财政、金融、审计/财政 [发文机构] 北京市财政局 [联合发文单位] [实施日期] [成文日期] 2026-11-25…”的文本线索，产品设计核查路径：核对投标技术规范、质保测试证明及适用认证要求。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查供应商资格、评标条件、价格及交付承诺。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对投标技术规范、质保测试证明及适用认证要求；核查供应商资格、评标条件、价格及交付承诺 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：政务公开 > 政策服务 > 政策文件 [主题分类] 财政、金融、审计/财政 [发文机构] 北京市财政局 [联合发文单位] [实施日期] [成文日期] 2026-11-25 [发文字号] 京财采购 〔2026〕 1564号 [废止日期] [发布日期] 2026-11-25 [有效性] 是 [文件来源] 政府公报 年 第期(总第期) 北京市财政局关于印发《北京市政府采购行政裁决办法》的通知 附件1：北",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "国际销售、市场战略、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "政务公开 > 政策服务 > 政策文件 [主题分类] 财政、金融、审计/财政 [发文机构] 北京市财政局 [联合发文单位] [实施日期] [成文日期] 2026-11-25 [发文字号] 京财采购 〔2026〕 1564号 [废止日期] [发布日期] 2026-11-25 [有效性] 是 [文件来源] 政府公报 年 第期(总第期) 北京市财政局关于印发《北京市政府采购行政裁决办法》的通知 附件1：北京市政府采购行政裁决办法 附件2：《北京市政府采购行政裁决办法》政策解读 PDF格式下载 收藏 取消收藏 打印 字号： 大 中 小 京财采购〔2026〕1564号 市属各预算单位，各区财政局： 为落实《财政部办公厅司法部办公厅〈关于确定第二批政府采购行政裁决示范点的通知〉》（财办库〔2024〕38号）部署，深入推进我市政府采购行政裁决工作规范化、制度化、法治",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "北京市财政局 2026年11月20日 附件1：北京市政府采购行政裁决办法 附件2：《北京市政府采购行政裁决办法》政策解读 分享： X 相关解读 【文字解读】《北京市政府采购行政裁决办法》政策解读 相关政策 评价 建议 您访问的链接即将离开“首都之窗”门户网站 是否继续？ 放弃",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "2791cbafa3f38edf731e2c0b3fbccd6eedbe3801c0d379dad6ab83b941754c14",
+    "originally_discovered_at": "2026-11-25T08:22:59+00:00"
+  },
+  {
+    "id": "p_e6642b2f329f7d94ae",
+    "title": "云南省人民政府关于印发《云南省全民健身实施计划（2026—2030年）》的通知",
+    "url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261124_4386736.html",
+    "source_id": "cn_ec89e3d97259",
+    "source_name": "云南省人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "云南",
+    "published_at": "2026-11-24",
+    "discovered_at": "2026-11-25T08:35:22+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "航空、雷达及国防限制",
+      "产品认证与技术标准",
+      "招投标与政府采购",
+      "安全生产与劳动法规",
+      "运维、质保及退役"
+    ],
+    "primary_dimension": "航空、雷达及国防限制",
+    "source_excerpt": "智能问答 (试运行) 长者模式 首页 省政府 政务公开 政务服务 互动交流 彩云之南 中央人民政府门户网站 简 | 繁 数字人播报 × 无障碍浏览 长者模式 | 个人中心登录 首页 省政府 省政府领导 省政府机构 省政府会议 常务会议日历 政府工作报告 政务公开 政府信息公开平台 政策文件 政策解读 省政府公报 云南省政策文件库 政务服务 互动交流 省长信箱 建议提案 意见征集 问卷调查 在线访谈 彩云之南 印象云南 投资云南 旅游云南 人文风情 州市名片 首页 > 政务公开 > 政策文件 > 最新文件 最新文件 索引号 530000001001/2026-02335 文号 云政发〔2026〕44号 来源 云南省人民政府办公厅 公开日期 2026-11-24 有效性 有效",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "智能问答 (试运行) 长者模式 首页 省政府 政务公开 政务服务 互动交流 彩云之南 中央人民政府门户网站 简 | 繁 数字人播报 × 无障碍浏览 长者模式 | 个人中心登录 首页 省政府 省政府领导 省政府机构 省政府会议 常务会议日历 政府工作报告 政务公开 政府信息公开平台 政策文件 政策解读 省政府公报 云南省政策文件库 政务服务 互动交流 省长信箱 建议提案 意见征集 问卷调查 在线访谈 彩云之南 印象云南 投资云南 旅游云南 人文风情 州市名片 首页 > 政务公开 > 政策文件 > 最新文件 最新文件 索引号 530000001001/2026-02335 文号 云政发〔2026〕44号 来源 云南省人民政府办公厅 公开日期 2026-11-24 有效性 有效 云南省人民政府关于印发《云南省全民健身 实施计划（2026—2030年）》的通"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "| 分享到: 分享到微信 × 相关文档： 中国政府网 国务院部门 省市政府 省政府部门 州市政府 微信 微博 电脑版 主办单位：云南省人民政府办公厅 运行维护：云南网 政务服务便民热线：12345 滇ICP备05000002号 政府网站标识码：5300000033 滇公网安备 53010202000476号 网站支持IPv6 云南省人大常委会 | 政协云南省委员会 | 云南省监察委员会 | 云南省高级人民法院 | 云南省检察院 国务院部门网站 外交部 国防部 国家发展和改革委员会 教育部 科学技术部 工业和信息化部 国家民族事务委员会 公安部 国家安全部 民政部 司法部 财政部 人力资源和社会保障部 自然资源部 生态环境部 住房和城乡建设部 交通运输部 水利部 农业农村部 商务部 文化和旅游部 国家卫生健康委员会 退役军人事务部 应急管理部 人民银行"
+      }
+    ],
+    "impact_design": "根据“智能问答 (试运行) 长者模式 首页 省政府 政务公开 政务服务 互动交流 彩云之南 中央人民政府门户网站 简 | 繁 数字人播报 × 无障碍浏览 长者模式 | 个人中心…”的文本线索，产品设计核查路径：核查塔高、航标灯、雷达兼容及工程布置需求。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核实航空净空、雷达审批是否限制可销售机型或项目选址。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核查塔高、航标灯、雷达兼容及工程布置需求；核实航空净空、雷达审批是否限制可销售机型或项目选址 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：智能问答 (试运行) 长者模式 首页 省政府 政务公开 政务服务 互动交流 彩云之南 中央人民政府门户网站 简 | 繁 数字人播报 × 无障碍浏览 长者模式 | 个人中心登录 首页 省政府 省政府领导 省政府机构 省政府会议 常务会议日历 政府工作报告 政务公开 政府信息公开平台 政策文件 政策解读 省政府公报 云南省政策文件库 政务服务 互动交流 省长信箱 建议提案 意见征集 问卷调查 在线访谈",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、电气与控制、项目开发",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "智能问答 (试运行) 长者模式 首页 省政府 政务公开 政务服务 互动交流 彩云之南 中央人民政府门户网站 简 | 繁 数字人播报 × 无障碍浏览 长者模式 | 个人中心登录 首页 省政府 省政府领导 省政府机构 省政府会议 常务会议日历 政府工作报告 政务公开 政府信息公开平台 政策文件 政策解读 省政府公报 云南省政策文件库 政务服务 互动交流 省长信箱 建议提案 意见征集 问卷调查 在线访谈 彩云之南 印象云南 投资云南 旅游云南 人文风情 州市名片 首页 > 政务公开 > 政策文件 > 最新文件 最新文件 索引号 530000001001/2026-02335 文号 云政发〔2026〕44号 来源 云南省人民政府办公厅 公开日期 2026-11-24 有效性 有效 云南省人民政府关于印发《云南省全民健身 实施计划（2026—2030年）》的通",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "| 分享到: 分享到微信 × 相关文档： 中国政府网 国务院部门 省市政府 省政府部门 州市政府 微信 微博 电脑版 主办单位：云南省人民政府办公厅 运行维护：云南网 政务服务便民热线：12345 滇ICP备05000002号 政府网站标识码：5300000033 滇公网安备 53010202000476号 网站支持IPv6 云南省人大常委会 | 政协云南省委员会 | 云南省监察委员会 | 云南省高级人民法院 | 云南省检察院 国务院部门网站 外交部 国防部 国家发展和改革委员会 教育部 科学技术部 工业和信息化部 国家民族事务委员会 公安部 国家安全部 民政部 司法部 财政部 人力资源和社会保障部 自然资源部 生态环境部 住房和城乡建设部 交通运输部 水利部 农业农村部 商务部 文化和旅游部 国家卫生健康委员会 退役军人事务部 应急管理部 人民银行",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "6a828c86ac73ce3721242bd57a5c7d69087ff3f49a92bd1cb884599d9f811469",
+    "originally_discovered_at": "2026-11-25T08:35:22+00:00"
+  },
+  {
     "id": "p_d56195dd456b945878",
     "title": "关于进一步提升城市配电设施防涝能力保障公共用电设施用电安全的通知",
     "url": "https://drc.gd.gov.cn/gfxwj5633/content/post_4984245.html",
@@ -4055,27 +4295,63 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-11-10",
-    "discovered_at": "2026-11-24T10:03:19+00:00",
-    "doc_type": "行业政策线索（待官方原文核验）",
+    "date_evidence": "来源公开列表日期",
+    "discovered_at": "2026-11-25T08:39:15+00:00",
+    "doc_type": "行业政策发布线索（待核对官方原文）",
+    "source_excerpt": "政策发布线索：山西启动2027机制电价竞价：风电0.2-0.3元/度。公开目录标注发布日期：2026-11-10；详细条文未取得，禁止据此认定法律效力、适用义务或产品技术要求。",
+    "clauses": [],
+    "dimensions": [],
+    "impact_design": "只确认公开目录标题及发布日期；没有完整法规条文，不能判断产品设计义务。",
+    "impact_business": "只确认公开目录标题及发布日期；应核对政策原文与适用范围。",
+    "verification_status": "目录级线索：详情请求失败；不是完整法规正文",
+    "article_evidence_available": false,
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "next_step": "访问主管机关政策详情，核对法规全文、法律效力及企业适用范围。",
+    "content_hash": "7c63108a319d5729880ef4bae9b88b83997051d337f0950e1648638d572b9527",
+    "originally_discovered_at": "2026-11-10T07:28:23+00:00",
+    "updated_at": "2026-11-25T08:39:52+00:00"
+  },
+  {
+    "id": "p_e7a27cf1b5c4377d01",
+    "title": "宁夏回族自治区人民政府办公厅关于印发《宁夏消防事业发展“十五五”规划》的通知",
+    "url": "https://www.nx.gov.cn/zwgk/qzfwj/202611/t20261125_5413838.html",
+    "source_id": "cn_7c77b32d80d0",
+    "source_name": "宁夏人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "宁夏",
+    "published_at": "2026-11-10",
+    "discovered_at": "2026-11-25T08:37:38+00:00",
+    "doc_type": "待核验法规候选",
     "dimensions": [
-      "可再生能源开发与电价"
+      "安全生产与劳动法规"
     ],
-    "primary_dimension": "可再生能源开发与电价",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"44ac4ff6cd1cf020c588669daacf4f91\",\"traceid\":\"276077fd17955145992997857eeb9b\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
+    "primary_dimension": "安全生产与劳动法规",
+    "source_excerpt": "推动交通、民航、电力、化工等领域大型企业依法按标准建设企业专职消防队，配齐人员、车辆、装备，确保具备处置初起火灾和特定风险的能力。",
     "clauses": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"44ac4ff6cd1cf020c588669daacf4f91\",\"traceid\":\"276077fd17955145992997857eeb9b\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-T"
+        "excerpt": "推动交通、民航、电力、化工等领域大型企业依法按标准建设企业专职消防队，配齐人员、车辆、装备，确保具备处置初起火灾和特定风险的能力。"
       }
     ],
-    "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
-    "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
-    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"44ac4ff6cd1cf020c588669daacf4f91\",\"traceid\":\"2760",
+    "impact_design": "根据“推动交通、民航、电力、化工等领域大型企业依法按标准建设企业专职消防队，配齐人员、车辆、装备，确保具备处置初起火灾和特定风险的能力。…”的文本线索，产品设计核查路径：复核安全联锁、施工检修措施及设备技术文件。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查施工、运维责任划分、人员培训及保险合同。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核安全联锁、施工检修措施及设备技术文件；核查施工、运维责任划分、人员培训及保险合同 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：推动交通、民航、电力、化工等领域大型企业依法按标准建设企业专职消防队，配齐人员、车辆、装备，确保具备处置初起火灾和特定风险的能力。",
     "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
     "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
     "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
-    "responsible_teams": "市场战略、国际销售、项目开发",
+    "responsible_teams": "产品研发、运维服务、法务与合规",
     "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
     "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
     "importance": {
@@ -4092,7 +4368,7 @@
     "clause_scoring": [
       {
         "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"44ac4ff6cd1cf020c588669daacf4f91\",\"traceid\":\"276077fd17955145992997857eeb9b\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-T",
+        "excerpt": "推动交通、民航、电力、化工等领域大型企业依法按标准建设企业专职消防队，配齐人员、车辆、装备，确保具备处置初起火灾和特定风险的能力。",
         "importance": {
           "status": "证据不足，待条款级评分",
           "D": null,
@@ -4106,11 +4382,10 @@
         }
       }
     ],
-    "verification_status": "行业转载线索，需核对官方政策原文",
-    "article_evidence_available": false,
-    "content_hash": "35d81c73009cb431c3b8b85b8b60b35123e947efb17df193109311fc1be50ac1",
-    "originally_discovered_at": "2026-11-10T07:28:23+00:00",
-    "updated_at": "2026-11-24T10:04:33+00:00"
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "f1cd13c2e89457e0262db9f7277bc9f33541fa4c9047a8dbbd5027e628b35a10",
+    "originally_discovered_at": "2026-11-25T08:37:38+00:00"
   },
   {
     "id": "p_47c7d1bbcb6de45632",
@@ -16376,29 +16651,16 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-10-09",
-    "discovered_at": "2026-11-24T10:03:22+00:00",
-    "doc_type": "行业政策线索（待官方原文核验）",
-    "dimensions": [
-      "并网技术规范"
-    ],
-    "primary_dimension": "并网技术规范",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"09343ea6526d232b3bbe90145174f2f1\",\"traceid\":\"276077fd17955146021157926eeb9b\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
-    "clauses": [
-      {
-        "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"09343ea6526d232b3bbe90145174f2f1\",\"traceid\":\"276077fd17955146021157926eeb9b\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-v"
-      }
-    ],
-    "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
-    "impact_business": "根据同一原文线索，商业模式核查路径：核对并网测试责任、接入确认、认证时间及合同里程碑。市场准入或成本后果不能仅凭关键词认定。",
-    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核故障穿越、无功、频率响应及控制软件是否需适配；核对并网测试责任、接入确认、认证时间及合同里程碑 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"09343ea6526d232b3bbe90145174f2f1\",\"traceid\":\"2760",
-    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
-    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
-    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
-    "responsible_teams": "电气与控制、认证与测试、国际销售",
-    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
-    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "date_evidence": "来源公开列表日期",
+    "discovered_at": "2026-11-25T08:39:18+00:00",
+    "doc_type": "行业政策发布线索（待核对官方原文）",
+    "source_excerpt": "政策发布线索：风电并网新规！国家能源局征求意见稿发布。公开目录标注发布日期：2026-10-09；详细条文未取得，禁止据此认定法律效力、适用义务或产品技术要求。",
+    "clauses": [],
+    "dimensions": [],
+    "impact_design": "只确认公开目录标题及发布日期；没有完整法规条文，不能判断产品设计义务。",
+    "impact_business": "只确认公开目录标题及发布日期；应核对政策原文与适用范围。",
+    "verification_status": "目录级线索：详情请求失败；不是完整法规正文",
+    "article_evidence_available": false,
     "importance": {
       "status": "证据不足，待条款级评分",
       "D": null,
@@ -16408,30 +16670,12 @@
       "U": null,
       "score": null,
       "priority": null,
-      "reason": "缺少经核实的五维分数或出处"
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
     },
-    "clause_scoring": [
-      {
-        "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"09343ea6526d232b3bbe90145174f2f1\",\"traceid\":\"276077fd17955146021157926eeb9b\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-v",
-        "importance": {
-          "status": "证据不足，待条款级评分",
-          "D": null,
-          "B": null,
-          "C": null,
-          "A": null,
-          "U": null,
-          "score": null,
-          "priority": null,
-          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
-        }
-      }
-    ],
-    "verification_status": "行业转载线索，需核对官方政策原文",
-    "article_evidence_available": false,
-    "content_hash": "d06fd6673cb12744f7ec974391142f82e6d4125a57e1bbf7720dac680d01b5a9",
+    "next_step": "访问主管机关政策详情，核对法规全文、法律效力及企业适用范围。",
+    "content_hash": "463921ab4046ce6c8af278c314aaf791acaa74c66d9c789c07df9bfecffba24e",
     "originally_discovered_at": "2026-10-15T07:58:14+00:00",
-    "updated_at": "2026-11-24T10:04:33+00:00"
+    "updated_at": "2026-11-25T08:39:52+00:00"
   },
   {
     "id": "p_f83c69d35a9d682cd7",
@@ -20176,29 +20420,16 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-09-16",
-    "discovered_at": "2026-11-24T10:03:23+00:00",
-    "doc_type": "行业政策线索（待官方原文核验）",
-    "dimensions": [
-      "可再生能源开发与电价"
-    ],
-    "primary_dimension": "可再生能源开发与电价",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f806cbcf2734f873ccb33632a48e6fa1\",\"traceid\":\"276077fd17955146029817941eeb9b\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
-    "clauses": [
-      {
-        "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f806cbcf2734f873ccb33632a48e6fa1\",\"traceid\":\"276077fd17955146029817941eeb9b\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-q"
-      }
-    ],
-    "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
-    "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
-    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f806cbcf2734f873ccb33632a48e6fa1\",\"traceid\":\"2760",
-    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
-    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
-    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
-    "responsible_teams": "市场战略、国际销售、项目开发",
-    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
-    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "date_evidence": "来源公开列表日期",
+    "discovered_at": "2026-11-25T08:39:19+00:00",
+    "doc_type": "行业政策发布线索（待核对官方原文）",
+    "source_excerpt": "政策发布线索：广东启动2026年机制电价竞价：集中光伏和陆上风电不参与。公开目录标注发布日期：2026-09-16；详细条文未取得，禁止据此认定法律效力、适用义务或产品技术要求。",
+    "clauses": [],
+    "dimensions": [],
+    "impact_design": "只确认公开目录标题及发布日期；没有完整法规条文，不能判断产品设计义务。",
+    "impact_business": "只确认公开目录标题及发布日期；应核对政策原文与适用范围。",
+    "verification_status": "目录级线索：详情请求失败；不是完整法规正文",
+    "article_evidence_available": false,
     "importance": {
       "status": "证据不足，待条款级评分",
       "D": null,
@@ -20208,30 +20439,12 @@
       "U": null,
       "score": null,
       "priority": null,
-      "reason": "缺少经核实的五维分数或出处"
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
     },
-    "clause_scoring": [
-      {
-        "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"f806cbcf2734f873ccb33632a48e6fa1\",\"traceid\":\"276077fd17955146029817941eeb9b\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-q",
-        "importance": {
-          "status": "证据不足，待条款级评分",
-          "D": null,
-          "B": null,
-          "C": null,
-          "A": null,
-          "U": null,
-          "score": null,
-          "priority": null,
-          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
-        }
-      }
-    ],
-    "verification_status": "行业转载线索，需核对官方政策原文",
-    "article_evidence_available": false,
-    "content_hash": "45104daf5c2c864ac2f2221f228d390fb0241b3051575c5762f18f7764db34ab",
+    "next_step": "访问主管机关政策详情，核对法规全文、法律效力及企业适用范围。",
+    "content_hash": "ab3f8fbeb07e75fd3a4962330ae53a6b6131b3c930de7ef2858fb224bad020a5",
     "originally_discovered_at": "2026-10-15T07:58:15+00:00",
-    "updated_at": "2026-11-24T10:04:33+00:00"
+    "updated_at": "2026-11-25T08:39:52+00:00"
   },
   {
     "id": "p_5bce90bf594d95cb32",
