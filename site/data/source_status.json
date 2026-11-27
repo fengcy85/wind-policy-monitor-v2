@@ -7,7 +7,7 @@
     "adapter": "Wind Power 专栏 + RSS + 站内搜索",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-26T08:27:24+00:00",
+    "checked_at": "2026-11-27T08:37:41+00:00",
     "error": "",
     "attempts": [
       {
@@ -43,16 +43,16 @@
     "name": "Energetica India – Wind Power",
     "role": "风电行业/项目",
     "adapter": "Wind Power 专栏 + 链接纠正",
-    "status": "success",
-    "found_count": 12,
-    "checked_at": "2026-11-26T08:27:35+00:00",
+    "status": "no_news",
+    "found_count": 0,
+    "checked_at": "2026-11-27T08:37:41+00:00",
     "error": "",
     "attempts": [
       {
         "strategy": "entry:requests",
         "url": "https://www.energetica-india.net/news/renewable-energy/wind-power",
         "ok": true,
-        "candidates": 20
+        "candidates": 0
       }
     ],
     "strategic_kept_total": 24
@@ -65,7 +65,7 @@
     "adapter": "News 列表 + 详情页核验 + 标题过滤",
     "status": "success",
     "found_count": 3,
-    "checked_at": "2026-11-26T08:27:52+00:00",
+    "checked_at": "2026-11-27T08:37:58+00:00",
     "error": "",
     "attempts": [
       {
@@ -85,7 +85,7 @@
     "adapter": "All News + Chromium 强制渲染 + 详情页风电过滤",
     "status": "no_news",
     "found_count": 0,
-    "checked_at": "2026-11-26T08:29:06+00:00",
+    "checked_at": "2026-11-27T08:39:12+00:00",
     "error": "",
     "attempts": [
       {
@@ -118,7 +118,7 @@
     "adapter": "News + RSS + 站内搜索",
     "status": "no_news",
     "found_count": 0,
-    "checked_at": "2026-11-26T08:29:52+00:00",
+    "checked_at": "2026-11-27T08:39:17+00:00",
     "error": "",
     "attempts": [
       {
@@ -140,10 +140,10 @@
         "candidates": 0
       },
       {
-        "strategy": "search",
+        "strategy": "search:requests",
         "url": "https://powerphilippines.com/?s=offshore+wind",
-        "ok": false,
-        "error": "RetryError: HTTPSConnectionPool(host='powerphilippines.com', port=443): Max retries exceeded with url: /?s=offshore+wind (Caused by ResponseError('too many 503 error responses'))"
+        "ok": true,
+        "candidates": 0
       }
     ],
     "strategic_kept_total": 0
@@ -156,7 +156,7 @@
     "adapter": "可再生能源栏目 + 越南语关键词 + 单层文章链接识别",
     "status": "success",
     "found_count": 7,
-    "checked_at": "2026-11-26T08:30:11+00:00",
+    "checked_at": "2026-11-27T08:39:39+00:00",
     "error": "",
     "attempts": [
       {
@@ -176,7 +176,7 @@
     "adapter": "MME Notícias + 葡语站内搜索 + 浏览器兜底",
     "status": "no_news",
     "found_count": 0,
-    "checked_at": "2026-11-26T08:31:34+00:00",
+    "checked_at": "2026-11-27T08:41:01+00:00",
     "error": "",
     "attempts": [
       {
@@ -207,9 +207,9 @@
     "name": "Daily News Egypt",
     "role": "政策/项目/市场",
     "adapter": "首页 + RSS + 站内搜索",
-    "status": "success",
-    "found_count": 2,
-    "checked_at": "2026-11-26T08:32:09+00:00",
+    "status": "no_news",
+    "found_count": 0,
+    "checked_at": "2026-11-27T08:41:37+00:00",
     "error": "",
     "attempts": [
       {
@@ -247,7 +247,7 @@
     "adapter": "News + RSS + 站内搜索",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-26T08:32:21+00:00",
+    "checked_at": "2026-11-27T08:41:48+00:00",
     "error": "",
     "attempts": [
       {
@@ -285,7 +285,7 @@
     "adapter": "Media & News 列表 + 日期提示 + 详情页兜底",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-26T08:32:31+00:00",
+    "checked_at": "2026-11-27T08:41:58+00:00",
     "error": "",
     "attempts": [
       {
@@ -305,7 +305,7 @@
     "adapter": "News + Chromium 动态渲染 + 宽入口详情核验",
     "status": "no_news",
     "found_count": 0,
-    "checked_at": "2026-11-26T08:32:52+00:00",
+    "checked_at": "2026-11-27T08:42:19+00:00",
     "error": "",
     "attempts": [
       {
@@ -331,7 +331,7 @@
     "adapter": "Wind 专栏",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-26T08:33:04+00:00",
+    "checked_at": "2026-11-27T08:42:31+00:00",
     "error": "",
     "attempts": [
       {
@@ -349,40 +349,40 @@
     "name": "ANEV",
     "role": "风电行业/政策",
     "adapter": "NEWS + Comunicati Stampa + 意大利语搜索",
-    "status": "success",
-    "found_count": 6,
-    "checked_at": "2026-11-26T08:33:29+00:00",
+    "status": "no_news",
+    "found_count": 0,
+    "checked_at": "2026-11-27T08:42:35+00:00",
     "error": "",
     "attempts": [
       {
         "strategy": "rss",
         "url": "https://www.anev.org/feed/",
         "ok": true,
-        "candidates": 10
+        "candidates": 0
       },
       {
         "strategy": "entry:requests",
         "url": "https://www.anev.org/category/notizie/",
         "ok": true,
-        "candidates": 13
+        "candidates": 0
       },
       {
         "strategy": "entry:requests",
         "url": "https://www.anev.org/category/comunicati-stampa/",
         "ok": true,
-        "candidates": 13
+        "candidates": 0
       },
       {
         "strategy": "search:requests",
         "url": "https://www.anev.org/?s=eolico",
         "ok": true,
-        "candidates": 11
+        "candidates": 0
       },
       {
         "strategy": "search:requests",
         "url": "https://www.anev.org/?s=eolica",
         "ok": true,
-        "candidates": 13
+        "candidates": 0
       }
     ],
     "strategic_kept_total": 0
@@ -394,8 +394,8 @@
     "role": "全球风电专业媒体",
     "adapter": "Latest + 首页 + 浏览器兜底（不绕过付费墙）",
     "status": "success",
-    "found_count": 7,
-    "checked_at": "2026-11-26T08:34:48+00:00",
+    "found_count": 6,
+    "checked_at": "2026-11-27T08:43:50+00:00",
     "error": "",
     "attempts": [
       {
@@ -414,7 +414,7 @@
         "strategy": "budget",
         "url": "",
         "ok": true,
-        "candidates": 7,
+        "candidates": 6,
         "note": "单站达到时间上限，已停止继续深挖。"
       }
     ],
@@ -428,7 +428,7 @@
     "adapter": "News 专页 + 详情页",
     "status": "success",
     "found_count": 9,
-    "checked_at": "2026-11-26T08:35:03+00:00",
+    "checked_at": "2026-11-27T08:44:05+00:00",
     "error": "",
     "attempts": [
       {
@@ -447,8 +447,8 @@
     "role": "全球风电新闻",
     "adapter": "月度归档 → 日期归档 → 风电文章（403 时使用列表信息）",
     "status": "success",
-    "found_count": 1,
-    "checked_at": "2026-11-26T08:36:20+00:00",
+    "found_count": 3,
+    "checked_at": "2026-11-27T08:45:23+00:00",
     "error": "",
     "attempts": [
       {
@@ -459,9 +459,15 @@
       },
       {
         "strategy": "archive-day:requests",
+        "url": "https://renewablesnow.com/sitemaps/2026/november/27/",
+        "ok": true,
+        "candidates": 12
+      },
+      {
+        "strategy": "archive-day:requests",
         "url": "https://renewablesnow.com/sitemaps/2026/november/26/",
         "ok": true,
-        "candidates": 14
+        "candidates": 20
       },
       {
         "strategy": "archive-day:requests",
@@ -476,16 +482,10 @@
         "candidates": 20
       },
       {
-        "strategy": "archive-day:requests",
-        "url": "https://renewablesnow.com/sitemaps/2026/november/23/",
-        "ok": true,
-        "candidates": 20
-      },
-      {
         "strategy": "budget",
         "url": "",
         "ok": true,
-        "candidates": 1,
+        "candidates": 3,
         "note": "单站达到时间上限，已停止继续深挖。"
       }
     ],

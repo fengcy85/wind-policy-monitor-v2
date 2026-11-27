@@ -1,5 +1,222 @@
 [
   {
+    "id": "p_d95cac14cb8133a1b9",
+    "title": "贵州省能源局行政处罚公告（2026年第194号)",
+    "url": "https://nyj.guizhou.gov.cn/xwzx/gsgg/202611/t20261127_91146568.html",
+    "source_id": "cn_61f329f622c8",
+    "source_name": "贵州省能源局",
+    "region": "中国",
+    "country": "中国",
+    "province": "贵州",
+    "published_at": "2026-11-27",
+    "discovered_at": "2026-11-27T08:31:35+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "安全生产与劳动法规"
+    ],
+    "primary_dimension": "安全生产与劳动法规",
+    "source_excerpt": "贵州省能源局行政处罚公告 被处罚单位 贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫章县哲庄乡哲庄煤矿） 案件名称 贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫章县哲庄乡哲庄煤矿）存在重大隐患被责令停产整顿暂扣安全生产许可证案 处罚决定书文号 黔（能）煤安罚〔2026〕100号 处罚决定时间 2026年11月25日 处罚结果 暂扣贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫章县哲庄乡哲庄煤矿）的《安全生产许可证》｛编号：（黔）MK安许证字〔3615〕｝，自决定送达之日起至隐患整改合格并依法申请返还。 处罚事由 2026 年 11 月 9 日，赫章县能源局对贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫章县哲庄乡哲庄煤矿）下达《行政处罚决定书》 ( 黔 ",
+    "clauses": [
+      {
+        "clause": "第七十三条",
+        "excerpt": "贵州省能源局行政处罚公告 被处罚单位 贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫章县哲庄乡哲庄煤矿） 案件名称 贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫章县哲庄乡哲庄煤矿）存在重大隐患被责令停产整顿暂扣安全生产许可证案 处罚决定书文号 黔（能）煤安罚〔2026〕100号 处罚决定时间 2026年11月25日 处罚结果 暂扣贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫章县哲庄乡哲庄煤矿）的《安全生产许可证》｛编号：（黔）MK安许证字〔3615〕｝，自决定送达之日起至隐患整改合格并依法申请返还。 处罚事由 2026 年 11 月 9 日，赫章县能源局对贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫章县哲庄乡哲庄煤矿）下达《行政处罚决定书》 ( 黔 ( 赫 ) 煤监管罚〔 2026 〕 S-8 号 ) ，作出责令停产整顿 3 日"
+      }
+    ],
+    "impact_design": "根据“贵州省能源局行政处罚公告 被处罚单位 贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫章县哲庄乡哲庄煤矿） 案件名称 贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫…”的文本线索，产品设计核查路径：复核安全联锁、施工检修措施及设备技术文件。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查施工、运维责任划分、人员培训及保险合同。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核安全联锁、施工检修措施及设备技术文件；核查施工、运维责任划分、人员培训及保险合同 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：贵州省能源局行政处罚公告 被处罚单位 贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫章县哲庄乡哲庄煤矿） 案件名称 贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫章县哲庄乡哲庄煤矿）存在重大隐患被责令停产整顿暂扣安全生产许可证案 处罚决定书文号 黔（能）煤安罚〔2026〕100号 处罚决定时间 2026年11月25日 处罚结果 暂扣贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫章县哲庄",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、运维服务、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "第七十三条",
+        "excerpt": "贵州省能源局行政处罚公告 被处罚单位 贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫章县哲庄乡哲庄煤矿） 案件名称 贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫章县哲庄乡哲庄煤矿）存在重大隐患被责令停产整顿暂扣安全生产许可证案 处罚决定书文号 黔（能）煤安罚〔2026〕100号 处罚决定时间 2026年11月25日 处罚结果 暂扣贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫章县哲庄乡哲庄煤矿）的《安全生产许可证》｛编号：（黔）MK安许证字〔3615〕｝，自决定送达之日起至隐患整改合格并依法申请返还。 处罚事由 2026 年 11 月 9 日，赫章县能源局对贵州省赫章县哲庄煤矿（贵州盛联新能源投资有限公司赫章县哲庄乡哲庄煤矿）下达《行政处罚决定书》 ( 黔 ( 赫 ) 煤监管罚〔 2026 〕 S-8 号 ) ，作出责令停产整顿 3 日",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "4770c40fb89ada18f984a0b8f9ccc88446ab3dc3ac41ec3620f29431294223c2",
+    "originally_discovered_at": "2026-11-27T08:31:35+00:00"
+  },
+  {
+    "id": "p_704fcf2d5131ed2490",
+    "title": "广东省工业和信息化厅关于广东省人工智能产业研究支撑服务项目采购结果的公示",
+    "url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/content/post_4985866.html",
+    "source_id": "cn_e290654fb72d",
+    "source_name": "广东省工信厅",
+    "region": "中国",
+    "country": "中国",
+    "province": "广东",
+    "published_at": "2026-11-27",
+    "discovered_at": "2026-11-27T08:24:00+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "招投标与政府采购"
+    ],
+    "primary_dimension": "招投标与政府采购",
+    "source_excerpt": "根据《广东省人工智能产业研究支撑服务项目竞争性磋商公告》，经广东省机电设备招标有限公司代理，我厅以竞争性磋商方式进行本项目采购评审，拟确定以下采购结果。",
+    "clauses": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "根据《广东省人工智能产业研究支撑服务项目竞争性磋商公告》，经广东省机电设备招标有限公司代理，我厅以竞争性磋商方式进行本项目采购评审，拟确定以下采购结果。"
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "00 采购包2：粤港澳大湾区人工智能标准体系研究项目 供应商名称 成交金额（元） 广州赛西标准检测研究院有限公司 980,000."
+      }
+    ],
+    "impact_design": "根据“根据《广东省人工智能产业研究支撑服务项目竞争性磋商公告》，经广东省机电设备招标有限公司代理，我厅以竞争性磋商方式进行本项目采购评审，拟确定以下采购结果。…”的文本线索，产品设计核查路径：核对投标技术规范、质保测试证明及适用认证要求。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查供应商资格、评标条件、价格及交付承诺。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 核对投标技术规范、质保测试证明及适用认证要求；核查供应商资格、评标条件、价格及交付承诺 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：根据《广东省人工智能产业研究支撑服务项目竞争性磋商公告》，经广东省机电设备招标有限公司代理，我厅以竞争性磋商方式进行本项目采购评审，拟确定以下采购结果。",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "国际销售、市场战略、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+    },
+    "clause_scoring": [
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "根据《广东省人工智能产业研究支撑服务项目竞争性磋商公告》，经广东省机电设备招标有限公司代理，我厅以竞争性磋商方式进行本项目采购评审，拟确定以下采购结果。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      },
+      {
+        "clause": "条款编号待核对",
+        "excerpt": "00 采购包2：粤港澳大湾区人工智能标准体系研究项目 供应商名称 成交金额（元） 广州赛西标准检测研究院有限公司 980,000.",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "734c4a037ccfc2b8780faab443e18b87836fc74b2a5d06d377f85366ed18ce26",
+    "originally_discovered_at": "2026-11-27T08:24:00+00:00"
+  },
+  {
+    "id": "p_5e461ffc35f1691255",
+    "title": "北京市规划和自然资源委员会 北京市住房和城乡建设委员会关于进一步完善我市建设工程施工图全过程数字化管理工作的通知",
+    "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/W020261126608033676324.pdf",
+    "source_id": "cn_8101686d3883",
+    "source_name": "北京市人民政府",
+    "region": "中国",
+    "country": "中国",
+    "province": "北京市",
+    "published_at": "2026-11-26",
+    "discovered_at": "2026-11-27T08:17:22+00:00",
+    "doc_type": "待核验法规候选",
+    "dimensions": [
+      "安全生产与劳动法规"
+    ],
+    "primary_dimension": "安全生产与劳动法规",
+    "source_excerpt": "附件 1 开工前需上传施工图的工程 一、房屋建筑工程。 （一）新建扩建、现状改建项目。 （二）内部改造项目。 1.老旧小区综合整治工程及加装电梯工程。 2.改变建筑主体和承重结构的工程。 3.改变建筑使用功能和用途的工程。 4.《建设工程消防设计审查验收管理暂行规定》（住房和城 乡建设部令第 58 号）规定的其他建设工程。（如：装饰装修工 程、限额以下工程） （三）政府投资的重大工程和重要民生项目。 二、市政基础设施及轨道交通工程。 三、《建设工程消防设计审查验收管理暂行规定》（住房和 城乡建设部令第 58 号）第十四条所规定的特殊建设工程。 四、低风险工程。",
+    "clauses": [
+      {
+        "clause": "第十四条",
+        "excerpt": "附件 1 开工前需上传施工图的工程 一、房屋建筑工程。 （一）新建扩建、现状改建项目。 （二）内部改造项目。 1.老旧小区综合整治工程及加装电梯工程。 2.改变建筑主体和承重结构的工程。 3.改变建筑使用功能和用途的工程。 4.《建设工程消防设计审查验收管理暂行规定》（住房和城 乡建设部令第 58 号）规定的其他建设工程。（如：装饰装修工 程、限额以下工程） （三）政府投资的重大工程和重要民生项目。 二、市政基础设施及轨道交通工程。 三、《建设工程消防设计审查验收管理暂行规定》（住房和 城乡建设部令第 58 号）第十四条所规定的特殊建设工程。 四、低风险工程。"
+      }
+    ],
+    "impact_design": "根据“附件 1 开工前需上传施工图的工程 一、房屋建筑工程。 （一）新建扩建、现状改建项目。 （二）内部改造项目。 1.老旧小区综合整治工程及加装电梯工程。 2.改变建筑主体和…”的文本线索，产品设计核查路径：复核安全联锁、施工检修措施及设备技术文件。是否直接约束整机制造商，待确认。",
+    "impact_business": "根据同一原文线索，商业模式核查路径：核查施工、运维责任划分、人员培训及保险合同。市场准入或成本后果不能仅凭关键词认定。",
+    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核安全联锁、施工检修措施及设备技术文件；核查施工、运维责任划分、人员培训及保险合同 → 内部部门开展符合性差距核验。",
+    "impact_evidence": "官方正文节选：附件 1 开工前需上传施工图的工程 一、房屋建筑工程。 （一）新建扩建、现状改建项目。 （二）内部改造项目。 1.老旧小区综合整治工程及加装电梯工程。 2.改变建筑主体和承重结构的工程。 3.改变建筑使用功能和用途的工程。 4.《建设工程消防设计审查验收管理暂行规定》（住房和城 乡建设部令第 58 号）规定的其他建设工程。（如：装饰装修工 程、限额以下工程） （三）政府投资的重大工程和重要民生项目",
+    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
+    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
+    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
+    "responsible_teams": "产品研发、运维服务、法务与合规",
+    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
+    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "importance": {
+      "status": "证据不足，待条款级评分",
+      "D": null,
+      "B": null,
+      "C": null,
+      "A": null,
+      "U": null,
+      "score": null,
+      "priority": null,
+      "reason": "缺少经核实的五维分数或出处"
+    },
+    "clause_scoring": [
+      {
+        "clause": "第十四条",
+        "excerpt": "附件 1 开工前需上传施工图的工程 一、房屋建筑工程。 （一）新建扩建、现状改建项目。 （二）内部改造项目。 1.老旧小区综合整治工程及加装电梯工程。 2.改变建筑主体和承重结构的工程。 3.改变建筑使用功能和用途的工程。 4.《建设工程消防设计审查验收管理暂行规定》（住房和城 乡建设部令第 58 号）规定的其他建设工程。（如：装饰装修工 程、限额以下工程） （三）政府投资的重大工程和重要民生项目。 二、市政基础设施及轨道交通工程。 三、《建设工程消防设计审查验收管理暂行规定》（住房和 城乡建设部令第 58 号）第十四条所规定的特殊建设工程。 四、低风险工程。",
+        "importance": {
+          "status": "证据不足，待条款级评分",
+          "D": null,
+          "B": null,
+          "C": null,
+          "A": null,
+          "U": null,
+          "score": null,
+          "priority": null,
+          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
+        }
+      }
+    ],
+    "verification_status": "待人工复核原文和适用范围",
+    "article_evidence_available": true,
+    "content_hash": "6de74229520e5414f9ed0f2030e135af9d31427875540bbd31a4a7966d032ef2",
+    "originally_discovered_at": "2026-11-27T08:17:22+00:00"
+  },
+  {
     "id": "p_6120dffef985b667e2",
     "title": "三部门关于印发《新一代通信网建设实施方案》的通知",
     "url": "https://www.gov.cn/zhengce/zhengceku/202611/P020261126496395362649.pdf",
@@ -4597,30 +4814,16 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-11-10",
-    "discovered_at": "2026-11-26T08:26:27+00:00",
-    "doc_type": "行业政策线索（待官方原文核验）",
-    "dimensions": [
-      "可再生能源开发与电价",
-      "供应链、ESG及碳足迹"
-    ],
-    "primary_dimension": "可再生能源开发与电价",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8fa3f264404149f74fce964168378624\",\"traceid\":\"276077d117956815876003200e2e88\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
-    "clauses": [
-      {
-        "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8fa3f264404149f74fce964168378624\",\"traceid\":\"276077d117956815876003200e2e88\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-G"
-      }
-    ],
-    "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
-    "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
-    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8fa3f264404149f74fce964168378624\",\"traceid\":\"2760",
-    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
-    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
-    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
-    "responsible_teams": "市场战略、国际销售、项目开发",
-    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
-    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "date_evidence": "来源公开列表日期",
+    "discovered_at": "2026-11-27T08:35:51+00:00",
+    "doc_type": "行业政策发布线索（待核对官方原文）",
+    "source_excerpt": "政策发布线索：山西启动2027机制电价竞价：风电0.2-0.3元/度。公开目录标注发布日期：2026-11-10；详细条文未取得，禁止据此认定法律效力、适用义务或产品技术要求。",
+    "clauses": [],
+    "dimensions": [],
+    "impact_design": "只确认公开目录标题及发布日期；没有完整法规条文，不能判断产品设计义务。",
+    "impact_business": "只确认公开目录标题及发布日期；应核对政策原文与适用范围。",
+    "verification_status": "目录级线索：详情请求失败；不是完整法规正文",
+    "article_evidence_available": false,
     "importance": {
       "status": "证据不足，待条款级评分",
       "D": null,
@@ -4630,30 +4833,12 @@
       "U": null,
       "score": null,
       "priority": null,
-      "reason": "缺少经核实的五维分数或出处"
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
     },
-    "clause_scoring": [
-      {
-        "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"8fa3f264404149f74fce964168378624\",\"traceid\":\"276077d117956815876003200e2e88\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-G",
-        "importance": {
-          "status": "证据不足，待条款级评分",
-          "D": null,
-          "B": null,
-          "C": null,
-          "A": null,
-          "U": null,
-          "score": null,
-          "priority": null,
-          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
-        }
-      }
-    ],
-    "verification_status": "行业转载线索，需核对官方政策原文",
-    "article_evidence_available": false,
-    "content_hash": "d28781fa989cf0a40c4b5ce9003a0daec54c891b667743749ef878cfafc1ed35",
+    "next_step": "访问主管机关政策详情，核对法规全文、法律效力及企业适用范围。",
+    "content_hash": "7c63108a319d5729880ef4bae9b88b83997051d337f0950e1648638d572b9527",
     "originally_discovered_at": "2026-11-10T07:28:23+00:00",
-    "updated_at": "2026-11-26T08:27:12+00:00"
+    "updated_at": "2026-11-27T08:37:28+00:00"
   },
   {
     "id": "p_e7a27cf1b5c4377d01",
@@ -16985,29 +17170,16 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-10-09",
-    "discovered_at": "2026-11-26T08:26:30+00:00",
-    "doc_type": "行业政策线索（待官方原文核验）",
-    "dimensions": [
-      "并网技术规范"
-    ],
-    "primary_dimension": "并网技术规范",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"1ec39df34f08fb7a8f20bd184e62cbe4\",\"traceid\":\"276077d117956815904713268e2e88\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
-    "clauses": [
-      {
-        "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"1ec39df34f08fb7a8f20bd184e62cbe4\",\"traceid\":\"276077d117956815904713268e2e88\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-y"
-      }
-    ],
-    "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：复核故障穿越、无功、频率响应及控制软件是否需适配。是否直接约束整机制造商，待确认。",
-    "impact_business": "根据同一原文线索，商业模式核查路径：核对并网测试责任、接入确认、认证时间及合同里程碑。市场准入或成本后果不能仅凭关键词认定。",
-    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 复核故障穿越、无功、频率响应及控制软件是否需适配；核对并网测试责任、接入确认、认证时间及合同里程碑 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"1ec39df34f08fb7a8f20bd184e62cbe4\",\"traceid\":\"2760",
-    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
-    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
-    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
-    "responsible_teams": "电气与控制、认证与测试、国际销售",
-    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
-    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "date_evidence": "来源公开列表日期",
+    "discovered_at": "2026-11-27T08:35:55+00:00",
+    "doc_type": "行业政策发布线索（待核对官方原文）",
+    "source_excerpt": "政策发布线索：风电并网新规！国家能源局征求意见稿发布。公开目录标注发布日期：2026-10-09；详细条文未取得，禁止据此认定法律效力、适用义务或产品技术要求。",
+    "clauses": [],
+    "dimensions": [],
+    "impact_design": "只确认公开目录标题及发布日期；没有完整法规条文，不能判断产品设计义务。",
+    "impact_business": "只确认公开目录标题及发布日期；应核对政策原文与适用范围。",
+    "verification_status": "目录级线索：详情请求失败；不是完整法规正文",
+    "article_evidence_available": false,
     "importance": {
       "status": "证据不足，待条款级评分",
       "D": null,
@@ -17017,30 +17189,12 @@
       "U": null,
       "score": null,
       "priority": null,
-      "reason": "缺少经核实的五维分数或出处"
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
     },
-    "clause_scoring": [
-      {
-        "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"1ec39df34f08fb7a8f20bd184e62cbe4\",\"traceid\":\"276077d117956815904713268e2e88\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-y",
-        "importance": {
-          "status": "证据不足，待条款级评分",
-          "D": null,
-          "B": null,
-          "C": null,
-          "A": null,
-          "U": null,
-          "score": null,
-          "priority": null,
-          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
-        }
-      }
-    ],
-    "verification_status": "行业转载线索，需核对官方政策原文",
-    "article_evidence_available": false,
-    "content_hash": "2d35efe6999fa94a3de2d0188dfba8745dec7b1807691bafda06d5b34d0e9a4d",
+    "next_step": "访问主管机关政策详情，核对法规全文、法律效力及企业适用范围。",
+    "content_hash": "463921ab4046ce6c8af278c314aaf791acaa74c66d9c789c07df9bfecffba24e",
     "originally_discovered_at": "2026-10-15T07:58:14+00:00",
-    "updated_at": "2026-11-26T08:27:12+00:00"
+    "updated_at": "2026-11-27T08:37:28+00:00"
   },
   {
     "id": "p_f83c69d35a9d682cd7",
@@ -20785,29 +20939,16 @@
     "country": "中国",
     "province": "",
     "published_at": "2026-09-16",
-    "discovered_at": "2026-11-26T08:26:31+00:00",
-    "doc_type": "行业政策线索（待官方原文核验）",
-    "dimensions": [
-      "可再生能源开发与电价"
-    ],
-    "primary_dimension": "可再生能源开发与电价",
-    "source_excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"3f0694ae7cce0cbbb344a7d653533dce\",\"traceid\":\"276077d117956815913433299e2e88\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C",
-    "clauses": [
-      {
-        "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"3f0694ae7cce0cbbb344a7d653533dce\",\"traceid\":\"276077d117956815913433299e2e88\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-H"
-      }
-    ],
-    "impact_design": "根据“appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var req…”的文本线索，产品设计核查路径：确认是否存在机组效率、计量或调度相关技术条件。是否直接约束整机制造商，待确认。",
-    "impact_business": "根据同一原文线索，商业模式核查路径：核查绿证、电价、PPA、招标收益测算对客户采购的间接影响。市场准入或成本后果不能仅凭关键词认定。",
-    "impact_chain": "已获取的条款线索 → 适用主体／实际义务待官方全文核定 → 确认是否存在机组效率、计量或调度相关技术条件；核查绿证、电价、PPA、招标收益测算对客户采购的间接影响 → 内部部门开展符合性差距核验。",
-    "impact_evidence": "官方正文节选：appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"3f0694ae7cce0cbbb344a7d653533dce\",\"traceid\":\"2760",
-    "affected_entities": "制造商／项目业主／开发商／供应商的直接法律身份待核验",
-    "affected_scope": "具体风机类型、陆上/海上、现有/新项目和国家适用范围待核实",
-    "consequence": "未从可核实的条款中确认证书、禁售、罚款或并网阻断等具体法律后果",
-    "responsible_teams": "市场战略、国际销售、项目开发",
-    "uncertainty": "以上为基于关键词定位到原文后的核查路线，不是完成的法律适用性判断。",
-    "next_step": "核实法律效力、适用主体、条款编号、生效时间、企业目标市场和认证周期后制定应对措施。",
+    "date_evidence": "来源公开列表日期",
+    "discovered_at": "2026-11-27T08:35:56+00:00",
+    "doc_type": "行业政策发布线索（待核对官方原文）",
+    "source_excerpt": "政策发布线索：广东启动2026年机制电价竞价：集中光伏和陆上风电不参与。公开目录标注发布日期：2026-09-16；详细条文未取得，禁止据此认定法律效力、适用义务或产品技术要求。",
+    "clauses": [],
+    "dimensions": [],
+    "impact_design": "只确认公开目录标题及发布日期；没有完整法规条文，不能判断产品设计义务。",
+    "impact_business": "只确认公开目录标题及发布日期；应核对政策原文与适用范围。",
+    "verification_status": "目录级线索：详情请求失败；不是完整法规正文",
+    "article_evidence_available": false,
     "importance": {
       "status": "证据不足，待条款级评分",
       "D": null,
@@ -20817,30 +20958,12 @@
       "U": null,
       "score": null,
       "priority": null,
-      "reason": "缺少经核实的五维分数或出处"
+      "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
     },
-    "clause_scoring": [
-      {
-        "clause": "条款编号待核对",
-        "excerpt": "appkey: \"CF_APP_WAF\", // 应用标识var AC_Opt = {userUserId: requestInfo.userUserId var requestInfo = {\"data\":\"\",\"region\":\"cn\",\"sceneId\":\"19x5u7lo\",\"token\":\"3f0694ae7cce0cbbb344a7d653533dce\",\"traceid\":\"276077d117956815913433299e2e88\",\"type\":\"GET\",\"userId\":\"HpadJlQnz2zSKcSmjXBaqQvjYUvP4jMJIk/ZwGNDNiM=\",\"userUserId\":\"eZfhZLVeFbhiB15Q66VSz4JPR528C4zjlZHqngB2BeU=\"}; {\"_waf_3d7faf79\":\"1-H",
-        "importance": {
-          "status": "证据不足，待条款级评分",
-          "D": null,
-          "B": null,
-          "C": null,
-          "A": null,
-          "U": null,
-          "score": null,
-          "priority": null,
-          "reason": "缺少经核实的企业适用范围、法律后果及最迟行动日期"
-        }
-      }
-    ],
-    "verification_status": "行业转载线索，需核对官方政策原文",
-    "article_evidence_available": false,
-    "content_hash": "8264f9fa68f9a7f55e3bf86f6af9b94c99be0a43c7f0161fcd652af28e0b1590",
+    "next_step": "访问主管机关政策详情，核对法规全文、法律效力及企业适用范围。",
+    "content_hash": "ab3f8fbeb07e75fd3a4962330ae53a6b6131b3c930de7ef2858fb224bad020a5",
     "originally_discovered_at": "2026-10-15T07:58:15+00:00",
-    "updated_at": "2026-11-26T08:27:12+00:00"
+    "updated_at": "2026-11-27T08:37:28+00:00"
   },
   {
     "id": "p_5bce90bf594d95cb32",
