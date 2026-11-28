@@ -1,22 +1,32 @@
 {
-  "generated_at": "2026-11-27T08:45:36+00:00",
-  "before": 496,
-  "kept": 444,
-  "filtered_out": 52,
+  "generated_at": "2026-11-28T08:05:38+00:00",
+  "before": 515,
+  "kept": 448,
+  "filtered_out": 67,
   "tag_counts": {
-    "竞对资讯": 381,
-    "招标采购": 100,
+    "招标采购": 102,
+    "竞对资讯": 383,
+    "电网建设": 33,
     "市场机制": 18,
-    "电网建设": 32,
     "审批政策": 50,
     "宏观政策": 4
   },
   "rejected_examples": [
     {
-      "title": "China's total installed solar, wind capacity tops 2 TW at end-Oct",
+      "title": "WindEurope warns on extending CBAM to wind products",
       "source_name": "Renewables Now",
       "published_at": "2026-11-27",
-      "url": "https://renewablesnow.com/news/chinas-total-installed-solar-wind-capacity-tops-2-tw-at-end-oct-1305756/",
+      "url": "https://renewablesnow.com/news/windeurope-warns-on-extending-cbam-to-wind-products-1305821/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Wien Energie gets EUR-150m EIB loan for wind power rollout in Austria",
+      "source_name": "Renewables Now",
+      "published_at": "2026-11-27",
+      "url": "https://renewablesnow.com/news/wien-energie-gets-eur-150m-eib-loan-for-wind-power-rollout-in-austria-1305812/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -33,12 +43,23 @@
       ]
     },
     {
-      "title": "Onshore Wind",
+      "title": "China's total installed solar, wind capacity tops 2 TW at end-Oct",
       "source_name": "Renewables Now",
       "published_at": "2026-11-27",
-      "url": "https://renewablesnow.com/news/wind/",
+      "url": "https://renewablesnow.com/news/chinas-total-installed-solar-wind-capacity-tops-2-tw-at-end-oct-1305756/",
       "reasons": [
-        "标题无效/栏目标题"
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Pioneering new offshore wind foundation technology set for trial run",
+      "source_name": "Recharge",
+      "published_at": "2026-11-27",
+      "url": "https://www.rechargenews.com/technology/pioneering-new-offshore-wind-foundation-technology-set-for-trial-run/2-1-2080349",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
       ]
     },
     {
@@ -81,10 +102,38 @@
       ]
     },
     {
+      "title": "Suzlon to Set Up 1 GW Smart Blade Manufacturing Plant in Tamil Nadu - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-25",
+      "url": "https://www.energetica-india.net/news/suzlon-to-set-up-1-gw-smart-blade-manufacturing-plant-in-tamil-nadu",
+      "reasons": [
+        "正文明确涉及风电"
+      ]
+    },
+    {
+      "title": "Free subscription magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-25",
+      "url": "https://www.energetica-india.net/news/renewable-energy/subscriptions/printed-magazine",
+      "reasons": [
+        "正文明确涉及风电"
+      ]
+    },
+    {
+      "title": "IWTMA Partners with Germany’s BWE to Advance Wind Turbine Repowering in India - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-25",
+      "url": "https://www.energetica-india.net/news/iwtma-partners-with-germanys-bwe-to-advance-wind-turbine-repowering-in-india",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
       "title": "post image",
       "source_name": "Renewable Watch",
       "published_at": "2026-11-25",
-      "url": "https://renewablewatch.in/2026/10/09/aerem-addressing-financing-challenges-in-distributed-solar/",
+      "url": "https://renewablewatch.in/2026/07/23/truere-oriana-power-strengthening-its-bess-portfolio/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -93,7 +142,7 @@
       "title": "post image",
       "source_name": "Renewable Watch",
       "published_at": "2026-11-25",
-      "url": "https://renewablewatch.in/2026/07/23/truere-oriana-power-strengthening-its-bess-portfolio/",
+      "url": "https://renewablewatch.in/2026/10/09/aerem-addressing-financing-challenges-in-distributed-solar/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -109,20 +158,20 @@
       ]
     },
     {
-      "title": "PTSC M&C và SEMCO Maritime ký hợp đồng EPC trạm biến áp ngoài khơi thuộc dự án điện gió Fengmiao 2 tại Đài Loan",
+      "title": "Khởi công dự án Điện gió Tây Hồ - Chư Prông và Điện mặt trời nổi Bàu Cạn (tại Gia Lai)",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-11-18",
-      "url": "https://nangluongvietnam.vn/ptsc-mc-va-semco-maritime-ky-hop-dong-epc-tram-bien-ap-ngoai-khoi-thuoc-du-an-dien-gio-fengmiao-2-tai-dai-loan-36935.html",
+      "url": "https://nangluongvietnam.vn/khoi-cong-du-an-dien-gio-tay-ho-chu-prong-va-dien-mat-troi-noi-bau-can-tai-gia-lai-36938.html",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Khởi công dự án Điện gió Tây Hồ - Chư Prông và Điện mặt trời nổi Bàu Cạn (tại Gia Lai)",
+      "title": "PTSC M&C và SEMCO Maritime ký hợp đồng EPC trạm biến áp ngoài khơi thuộc dự án điện gió Fengmiao 2 tại Đài Loan",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-11-18",
-      "url": "https://nangluongvietnam.vn/khoi-cong-du-an-dien-gio-tay-ho-chu-prong-va-dien-mat-troi-noi-bau-can-tai-gia-lai-36938.html",
+      "url": "https://nangluongvietnam.vn/ptsc-mc-va-semco-maritime-ky-hop-dong-epc-tram-bien-ap-ngoai-khoi-thuoc-du-an-dien-gio-fengmiao-2-tai-dai-loan-36935.html",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -311,6 +360,16 @@
       ]
     },
     {
+      "title": "Datta Infra Group Signs 100 MW Wind PPA with SJVN - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-09",
+      "url": "https://www.energetica-india.net/news/datta-infra-group-signs-100-mw-wind-ppa-with-sjvn",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
       "title": "Khởi công dự án Nhà máy Điện gió Vân Canh 2 (tỉnh Gia Lai)",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-11-07",
@@ -318,6 +377,25 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "Datta Infra Signs 110 MW Wind PPA with SJVN - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-06",
+      "url": "https://www.energetica-india.net/news/datta-infra-signs-110-mw-wind-ppa-with-sjvn",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "MANOVRA 2027, APPROCCIO DEL GOVERNO ANCORA UNA VOLTA PUNITIVO PER LE AZIENDE DEL SETTORE ELETTRICO. FER X, RINNOVABILI A RISCHIO - ANEV",
+      "source_name": "ANEV",
+      "published_at": "2026-11-04",
+      "url": "https://www.anev.org/2026/11/04/manovra-2027-approccio-del-governo-ancora-una-volta-punitivo-per-le-aziende-del-settore-elettrico-fer-x-rinnovabili-a-rischio/",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -339,6 +417,26 @@
       ]
     },
     {
+      "title": "TERI Estimates India's Onshore Wind Potential at 2,933.9 GW at 200 m - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-03",
+      "url": "https://www.energetica-india.net/news/teri-estimates-indias-onshore-wind-potential-at-29339-gw-at-200-m",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "KPI Green Energy Signs 300 MW Wind Power PPA with SJVN - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-03",
+      "url": "https://www.energetica-india.net/news/kpi-green-energy-signs-300-mw-wind-power-ppa-with-sjvn",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
       "title": "Phê duyệt điều chỉnh cập nhật phương án đấu nối dự án Nhà máy Điện gió Đông Hải 3 (vị trí V3-3)",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-10-30",
@@ -346,6 +444,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-14",
+      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -362,15 +469,6 @@
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
       "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
       "reasons": [
         "风电相关性不足"
       ]
@@ -412,15 +510,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Rupal Gupta Founder, Managing Director and Chief Executive Officer, TrueRE Oriana Power",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-08",
-      "url": "https://renewablewatch.in/2026/10/08/rupal-gupta-founder-managing-director-and-chief-executive-officer-truere-oriana-power/",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -471,6 +560,43 @@
       ]
     },
     {
+      "title": "SEMINARIO VIA - 9 Dicembre 2026 - ANEV",
+      "source_name": "ANEV",
+      "published_at": "2026-09-29",
+      "url": "https://www.anev.org/2026/09/29/seminario-via-9-dicembre-2026/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Wind Offshore - CORSO DI FORMAZIONE 4/2026 - ANEV",
+      "source_name": "ANEV",
+      "published_at": "2026-09-29",
+      "url": "https://www.anev.org/2026/09/29/wind-offshore-corso-di-formazione-4-2026/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "28 Ottobre 2026 - SEMINARIO 4 - Power Purchase Agreement per le Rinnovabili per supportare gli obiettivi di crescita del PNIEC - ANEV",
+      "source_name": "ANEV",
+      "published_at": "2026-09-28",
+      "url": "https://www.anev.org/2026/09/28/seminario-4-2026-power-purchase-agreement-per-le-rinnovabili-per-supportare-gli-obiettivi-di-crescita-del-pniec/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "14 Ottobre 2026 - SEMINARIO 3/2026 - IMPIANTI EOLICI-Interventi sugli impianti in esercizio e nuove opportunità del DM FER X definitivo - ANEV",
+      "source_name": "ANEV",
+      "published_at": "2026-09-27",
+      "url": "https://www.anev.org/2026/09/27/seminario-3-2026-impianti-eolici-interventi-sugli-impianti-in-esercizio-e-nuove-opportunita-del-dm-fer-x-definitivo/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Wind energy is hiring. Here's how to get a job in it",
       "source_name": "WindEurope",
       "published_at": "2026-09-24",
@@ -504,6 +630,24 @@
       "source_name": "Renewable Watch",
       "published_at": "2026-09-04",
       "url": "https://renewablewatch.in/2026/09/04/clean-growth-telanganas-diversified-renewable-energy-approach-critical-to-the-2047-vision/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Grid Buildout: Oman plans for higher renewable integration",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-08-31",
+      "url": "https://renewablewatch.in/2026/08/31/grid-buildout-oman-plans-for-higher-renewable-integration/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "O&M e Asset Management - CORSO DI FORMAZIONE 3/2026 - ANEV",
+      "source_name": "ANEV",
+      "published_at": "2026-08-03",
+      "url": "https://www.anev.org/2026/08/03/om-e-asset-management-corso-di-formazione-3-2026/",
       "reasons": [
         "风电相关性不足"
       ]
